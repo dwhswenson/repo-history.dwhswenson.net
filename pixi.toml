@@ -1,0 +1,39 @@
+[workspace]
+authors = ["David W.H. Swenson <dwhs@hyperblazer.net>"]
+channels = ["conda-forge"]
+name = "repo-history.dwhswenson.net"
+platforms = ["osx-64"]
+version = "0.1.0"
+
+[tasks]
+demo = "python -m http.server 8000 --bind 127.0.0.1 --directory site"
+
+[dependencies]
+python = "3.12.*"
+
+[feature.collection.pypi-dependencies]
+repo-history = { path = "/Users/dwhs/Dropbox/omsf/mupt/repo-history-tracking", editable = true }
+
+[feature.visualization.dependencies]
+nodejs = "24.*"
+
+[feature.visualization.tasks]
+install-viz = "python scripts/viz_assets.py install"
+build-viz = { cmd = "python scripts/viz_assets.py build", depends-on = ["install-viz"] }
+update-viz = { cmd = "python scripts/viz_assets.py copy", depends-on = ["build-viz"] }
+
+[feature.infra.dependencies]
+opentofu = ">=1.11,<2"
+
+[feature.infra.tasks]
+infra-init = "tofu init"
+infra-fmt-check = "tofu fmt -check -recursive"
+infra-validate = "tofu validate"
+infra-plan = "tofu plan"
+
+[environments]
+default = { features = ["collection", "visualization", "infra"], solve-group = "default" }
+dev = { features = ["collection", "visualization", "infra"], solve-group = "default" }
+collection = { features = ["collection"], solve-group = "default" }
+visualization = { features = ["visualization"], solve-group = "default" }
+infra = { features = ["infra"], solve-group = "default" }
