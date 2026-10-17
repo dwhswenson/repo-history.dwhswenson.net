@@ -1,0 +1,5208 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7HdO63",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7HdO63"
+      },
+      "occurred_at": "2026-03-02T22:42:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7HdO63",
+        "number": 754,
+        "title": "Release/1.7.1 into main",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/754"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/754"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7tqxX8",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7tqxX8"
+      },
+      "occurred_at": "2026-03-02T22:47:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7HdO63",
+        "number": 754,
+        "title": "Release/1.7.1 into main",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/754"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/754#issuecomment-3987412476"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:dae1bc67f2b3d9b03acf5ed09dafba5e8ab33304",
+      "metadata": {
+        "authored_at": "2026-03-02T22:56:28Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "4ce2101d2a666f9c67aeec39a1e6908b113fe1cf"
+        ],
+        "sha": "dae1bc67f2b3d9b03acf5ed09dafba5e8ab33304"
+      },
+      "occurred_at": "2026-03-02T22:56:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKGRhZTFiYzY3ZjJiM2Q5YjAzYWNmNWVkMDlkYWZiYTVlOGFiMzMzMDQ",
+        "number": null,
+        "title": "Release/v1.7.1 (#672) (#754)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/dae1bc67f2b3d9b03acf5ed09dafba5e8ab33304"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/dae1bc67f2b3d9b03acf5ed09dafba5e8ab33304"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM7vO_h1zwAAAAVnVpyi",
+      "metadata": {
+        "merge_commit_sha": "dae1bc67f2b3d9b03acf5ed09dafba5e8ab33304",
+        "source_node_id": "ME_lADOHD_0tM7vO_h1zwAAAAVnVpyi"
+      },
+      "occurred_at": "2026-03-02T22:56:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7HdO63",
+        "number": 754,
+        "title": "Release/1.7.1 into main",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/754"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/754#event-23208565922"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7tsR2P",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7tsR2P"
+      },
+      "occurred_at": "2026-03-03T00:20:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7HdO63",
+        "number": 754,
+        "title": "Release/1.7.1 into main",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/754"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/754#issuecomment-3987807631"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7HeoMT",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7HeoMT"
+      },
+      "occurred_at": "2026-03-03T01:05:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7HeoMT",
+        "number": 755,
+        "title": "[DNM] release experimental v1.9.0-alpha with membrane support",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/755"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/755"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7ts6_T",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7ts6_T"
+      },
+      "occurred_at": "2026-03-03T01:14:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7HeoMT",
+        "number": 755,
+        "title": "[DNM] release experimental v1.9.0-alpha with membrane support",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/755"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/755#issuecomment-3987976147"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7ttL1c",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7ttL1c"
+      },
+      "occurred_at": "2026-03-03T01:34:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7HeoMT",
+        "number": 755,
+        "title": "[DNM] release experimental v1.9.0-alpha with membrane support",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/755"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/755#issuecomment-3988045148"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxODAwODA2",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM7uHC6L",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7uHC6L"
+      },
+      "occurred_at": "2026-03-04T02:23:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxODAwODA2",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7t1XIE",
+        "number": 750,
+        "title": "RDKIT Pickling Roundtrip Error (but only on MacOS?)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/750"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/750#issuecomment-3994824331"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOHD_0tM7vzgW-",
+      "metadata": {
+        "source_node_id": "I_kwDOHD_0tM7vzgW-"
+      },
+      "occurred_at": "2026-03-04T17:42:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7vzgW-",
+        "number": 756,
+        "title": "expose select test fixtures in the api",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/756"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/756"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM7ueGLY",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7ueGLY"
+      },
+      "occurred_at": "2026-03-04T23:06:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxODAwODA2",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7t1XIE",
+        "number": 750,
+        "title": "RDKIT Pickling Roundtrip Error (but only on MacOS?)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/750"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/750#issuecomment-4000867032"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxODAwODA2",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM7uzfQY",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7uzfQY"
+      },
+      "occurred_at": "2026-03-05T17:12:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxODAwODA2",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7t1XIE",
+        "number": 750,
+        "title": "RDKIT Pickling Roundtrip Error (but only on MacOS?)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/750"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/750#issuecomment-4006474776"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI5NDk3Mjk=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM7u1-Cn",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7u1-Cn"
+      },
+      "occurred_at": "2026-03-05T19:13:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxODAwODA2",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7t1XIE",
+        "number": 750,
+        "title": "RDKIT Pickling Roundtrip Error (but only on MacOS?)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/750"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/750#issuecomment-4007125159"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE0MjM1MzE=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM7u2bgB",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7u2bgB"
+      },
+      "occurred_at": "2026-03-05T19:31:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxODAwODA2",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7t1XIE",
+        "number": 750,
+        "title": "RDKIT Pickling Roundtrip Error (but only on MacOS?)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/750"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/750#issuecomment-4007245825"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjYyNDU3MTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7u3Vl7",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7u3Vl7"
+      },
+      "occurred_at": "2026-03-05T20:13:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjYyNDU3MTc=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6-hxsE",
+        "number": 712,
+        "title": "docs: Context and Storage",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/712"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/712#issuecomment-4007483771"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7ocwm_",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7ocwm_",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-05T21:41:28Z"
+      },
+      "occurred_at": "2026-03-05T21:41:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjYyNDU3MTc=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6-hxsE",
+        "number": 712,
+        "title": "docs: Context and Storage",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/712"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/712#pullrequestreview-3899853247"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7u5Ohf",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7u5Ohf"
+      },
+      "occurred_at": "2026-03-05T21:41:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjYyNDU3MTc=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6-hxsE",
+        "number": 712,
+        "title": "docs: Context and Storage",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/712"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/712#issuecomment-4007979103"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM7k3Tz7zwAAAAVtjjrV",
+      "metadata": {
+        "merge_commit_sha": "e0a9e49a8537d1630d201bdf28c87240355cf9c4",
+        "source_node_id": "ME_lADOHD_0tM7k3Tz7zwAAAAVtjjrV"
+      },
+      "occurred_at": "2026-03-05T21:47:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjYyNDU3MTc=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6-hxsE",
+        "number": 712,
+        "title": "docs: Context and Storage",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/712"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/712#event-23312874197"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM7vFsLb",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7vFsLb"
+      },
+      "occurred_at": "2026-03-06T11:41:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7vzgW-",
+        "number": 756,
+        "title": "expose select test fixtures in the api",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/756"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/756#issuecomment-4011246299"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcwODUxNjQ=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM7vPk86",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7vPk86"
+      },
+      "occurred_at": "2026-03-06T19:59:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7vzgW-",
+        "number": 756,
+        "title": "expose select test fixtures in the api",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/756"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/756#issuecomment-4013838138"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7v6-m0",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7v6-m0"
+      },
+      "occurred_at": "2026-03-09T16:52:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7HeoMT",
+        "number": 755,
+        "title": "[DNM] release experimental v1.9.0-alpha with membrane support",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/755"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/755#issuecomment-4025215412"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOHD_0tM7xOc4T",
+      "metadata": {
+        "source_node_id": "I_kwDOHD_0tM7xOc4T"
+      },
+      "occurred_at": "2026-03-09T18:05:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7xOc4T",
+        "number": 757,
+        "title": "support python 3.14",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/757"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/757"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOHD_0tM7xO58b",
+      "metadata": {
+        "source_node_id": "I_kwDOHD_0tM7xO58b"
+      },
+      "occurred_at": "2026-03-09T18:31:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7xO58b",
+        "number": 758,
+        "title": "alchemical archive breaks if a letter is in the version name",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/758"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/758"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM7v9l-O",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7v9l-O"
+      },
+      "occurred_at": "2026-03-09T18:33:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7xO58b",
+        "number": 758,
+        "title": "alchemical archive breaks if a letter is in the version name",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/758"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/758#issuecomment-4025900942"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM7v9m2J",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7v9m2J"
+      },
+      "occurred_at": "2026-03-09T18:33:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7xO58b",
+        "number": 758,
+        "title": "alchemical archive breaks if a letter is in the version name",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/758"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/758#issuecomment-4025904521"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM7wT3Nw",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7wT3Nw"
+      },
+      "occurred_at": "2026-03-10T14:18:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxODAwODA2",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7t1XIE",
+        "number": 750,
+        "title": "RDKIT Pickling Roundtrip Error (but only on MacOS?)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/750"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/750#issuecomment-4031738736"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6uDZH9",
+      "metadata": {
+        "created_at": "2026-03-11T18:16:45Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-11T18:16:45Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7qVq0q",
+        "source_node_id": "PRRC_kwDOHD_0tM6uDZH9",
+        "thread_node_id": "PRRT_kwDOHD_0tM5u5oYa",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-11T18:16:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2920124925"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7qVq0q",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7qVq0q",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-11T18:16:45Z"
+      },
+      "occurred_at": "2026-03-11T18:16:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3931548970"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6uD8mc",
+      "metadata": {
+        "created_at": "2026-03-11T18:42:19Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-11T18:42:19Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7qWQom",
+        "source_node_id": "PRRC_kwDOHD_0tM6uD8mc",
+        "thread_node_id": "PRRT_kwDOHD_0tM5zrkVv",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-11T18:42:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2920270236"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7qWQom",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7qWQom",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-11T18:42:19Z"
+      },
+      "occurred_at": "2026-03-11T18:42:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3931703846"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7J3BIp",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7J3BIp"
+      },
+      "occurred_at": "2026-03-11T23:00:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7J3BIp",
+        "number": 759,
+        "title": "use tmp_path instead of tmpdir",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/759"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/759"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7w99_G",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7w99_G"
+      },
+      "occurred_at": "2026-03-11T23:01:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7J3BIp",
+        "number": 759,
+        "title": "use tmp_path instead of tmpdir",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/759"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/759#issuecomment-4042776518"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7w9-_5",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7w9-_5"
+      },
+      "occurred_at": "2026-03-11T23:02:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7J3BIp",
+        "number": 759,
+        "title": "use tmp_path instead of tmpdir",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/759"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/759#issuecomment-4042780665"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7w-Br2",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7w-Br2"
+      },
+      "occurred_at": "2026-03-11T23:05:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7J3BIp",
+        "number": 759,
+        "title": "use tmp_path instead of tmpdir",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/759"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/759#issuecomment-4042791670"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOHD_0tM7yKnxj",
+      "metadata": {
+        "source_node_id": "I_kwDOHD_0tM7yKnxj"
+      },
+      "occurred_at": "2026-03-12T07:50:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7yKnxj",
+        "number": 760,
+        "title": "Cron CI is failing because of alpha release",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/760"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/760"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM7xOPBF",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7xOPBF"
+      },
+      "occurred_at": "2026-03-12T14:05:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7yKnxj",
+        "number": 760,
+        "title": "Cron CI is failing because of alpha release",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/760"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/760#issuecomment-4047040581"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7KGMdV",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7KGMdV"
+      },
+      "occurred_at": "2026-03-12T16:29:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7KGMdV",
+        "number": 761,
+        "title": "Add missing files to MANIFEST.in",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/761"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/761"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7quZtU",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7quZtU",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-12T16:29:53Z"
+      },
+      "occurred_at": "2026-03-12T16:29:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7J3BIp",
+        "number": 759,
+        "title": "use tmp_path instead of tmpdir",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/759"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/759#pullrequestreview-3938032468"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:5adabac41128d4d58ecd412203f1a1338aa22294",
+      "metadata": {
+        "authored_at": "2026-03-12T16:29:59Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "dae1bc67f2b3d9b03acf5ed09dafba5e8ab33304"
+        ],
+        "sha": "5adabac41128d4d58ecd412203f1a1338aa22294"
+      },
+      "occurred_at": "2026-03-12T16:29:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDVhZGFiYWM0MTEyOGQ0ZDU4ZWNkNDEyMjAzZjFhMTMzOGFhMjIyOTQ",
+        "number": null,
+        "title": "use tmp_path instead of tmpdir (#759)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/5adabac41128d4d58ecd412203f1a1338aa22294"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/5adabac41128d4d58ecd412203f1a1338aa22294"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM7yEE0VzwAAAAV5m4Xn",
+      "metadata": {
+        "merge_commit_sha": "5adabac41128d4d58ecd412203f1a1338aa22294",
+        "source_node_id": "ME_lADOHD_0tM7yEE0VzwAAAAV5m4Xn"
+      },
+      "occurred_at": "2026-03-12T16:30:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7J3BIp",
+        "number": 759,
+        "title": "use tmp_path instead of tmpdir",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/759"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/759#event-23515071975"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOHD_0tM7faOTPzwAAAAV5m4lN",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOHD_0tM7faOTPzwAAAAV5m4lN"
+      },
+      "occurred_at": "2026-03-12T16:30:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjYyNDU3MTc=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7faOTP",
+        "number": 698,
+        "title": "Modernize `pytest` temporary directory handling",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/698"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/698#event-23515072845"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7xSl6M",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7xSl6M"
+      },
+      "occurred_at": "2026-03-12T16:33:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7KGMdV",
+        "number": 761,
+        "title": "Add missing files to MANIFEST.in",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/761"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/761#issuecomment-4048182924"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7xYxoA",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7xYxoA"
+      },
+      "occurred_at": "2026-03-12T20:27:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7KGMdV",
+        "number": 761,
+        "title": "Add missing files to MANIFEST.in",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/761"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/761#issuecomment-4049803776"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ue6zw",
+      "metadata": {
+        "created_at": "2026-03-12T20:56:14Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-12T20:56:34Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7q0QZx",
+        "source_node_id": "PRRC_kwDOHD_0tM6ue6zw",
+        "thread_node_id": "PRRT_kwDOHD_0tM5z_lxM",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-12T20:56:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2927340784"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6uecY3",
+      "metadata": {
+        "created_at": "2026-03-12T20:32:25Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-12T20:56:34Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7q0QZx",
+        "source_node_id": "PRRC_kwDOHD_0tM6uecY3",
+        "thread_node_id": "PRRT_kwDOHD_0tM5z_Pey",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-12T20:56:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2927216183"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6uesgB",
+      "metadata": {
+        "created_at": "2026-03-12T20:45:52Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-12T20:56:34Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7q0QZx",
+        "source_node_id": "PRRC_kwDOHD_0tM6uesgB",
+        "thread_node_id": "PRRT_kwDOHD_0tM5z_blY",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-12T20:56:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2927282177"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7q0QZx",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7q0QZx",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-12T20:56:34Z"
+      },
+      "occurred_at": "2026-03-12T20:56:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3939567217"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7q3s-K",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7q3s-K",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-12T23:24:02Z"
+      },
+      "occurred_at": "2026-03-12T23:24:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7KGMdV",
+        "number": 761,
+        "title": "Add missing files to MANIFEST.in",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/761"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/761#pullrequestreview-3940470666"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:0233e651b7c23b807e0dbe2b350e482a1d9e2b7b",
+      "metadata": {
+        "authored_at": "2026-03-12T23:24:07Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "5adabac41128d4d58ecd412203f1a1338aa22294"
+        ],
+        "sha": "0233e651b7c23b807e0dbe2b350e482a1d9e2b7b"
+      },
+      "occurred_at": "2026-03-12T23:24:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDAyMzNlNjUxYjdjMjNiODA3ZTBkYmUyYjM1MGU0ODJhMWQ5ZTJiN2I",
+        "number": null,
+        "title": "Add missing files to MANIFEST.in (#761)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/0233e651b7c23b807e0dbe2b350e482a1d9e2b7b"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/0233e651b7c23b807e0dbe2b350e482a1d9e2b7b"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM7yV8mRzwAAAAV6Ui4m",
+      "metadata": {
+        "merge_commit_sha": "0233e651b7c23b807e0dbe2b350e482a1d9e2b7b",
+        "source_node_id": "ME_lADOHD_0tM7yV8mRzwAAAAV6Ui4m"
+      },
+      "occurred_at": "2026-03-12T23:24:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7KGMdV",
+        "number": 761,
+        "title": "Add missing files to MANIFEST.in",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/761"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/761#event-23527042598"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6uhrjY",
+      "metadata": {
+        "created_at": "2026-03-12T23:41:51Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-12T23:41:51Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7q4Bez",
+        "source_node_id": "PRRC_kwDOHD_0tM6uhrjY",
+        "thread_node_id": "PRRT_kwDOHD_0tM5z_lxM",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-12T23:41:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2928064728"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7q4Bez",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7q4Bez",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-12T23:41:51Z"
+      },
+      "occurred_at": "2026-03-12T23:41:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3940554675"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6uhwu4",
+      "metadata": {
+        "created_at": "2026-03-12T23:47:14Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-12T23:47:14Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7q4G14",
+        "source_node_id": "PRRC_kwDOHD_0tM6uhwu4",
+        "thread_node_id": "PRRT_kwDOHD_0tM5z_blY",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-12T23:47:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2928085944"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7q4G14",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7q4G14",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-12T23:47:14Z"
+      },
+      "occurred_at": "2026-03-12T23:47:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3940576632"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6uywsC",
+      "metadata": {
+        "created_at": "2026-03-13T16:55:15Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-13T16:55:15Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7rLIvT",
+        "source_node_id": "PRRC_kwDOHD_0tM6uywsC",
+        "thread_node_id": "PRRT_kwDOHD_0tM5z_blY",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-13T16:55:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2932542210"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7rLIvT",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7rLIvT",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-13T16:55:15Z"
+      },
+      "occurred_at": "2026-03-13T16:55:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3945565139"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6uyxO4",
+      "metadata": {
+        "created_at": "2026-03-13T16:55:35Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-13T16:55:35Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7rLJTY",
+        "source_node_id": "PRRC_kwDOHD_0tM6uyxO4",
+        "thread_node_id": "PRRT_kwDOHD_0tM5z_lxM",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-13T16:55:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2932544440"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7rLJTY",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7rLJTY",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-13T16:55:35Z"
+      },
+      "occurred_at": "2026-03-13T16:55:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3945567448"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7yeNPU",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7yeNPU"
+      },
+      "occurred_at": "2026-03-16T14:19:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#issuecomment-4068004820"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7yeOCY",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7yeOCY"
+      },
+      "occurred_at": "2026-03-16T14:19:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#issuecomment-4068008088"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6vpqSe",
+      "metadata": {
+        "created_at": "2026-03-17T13:52:15Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-17T13:55:03Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7sFzaZ",
+        "source_node_id": "PRRC_kwDOHD_0tM6vpqSe",
+        "thread_node_id": "PRRT_kwDOHD_0tM5034sj",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-17T13:55:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2946933918"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6vpsUx",
+      "metadata": {
+        "created_at": "2026-03-17T13:53:19Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-17T13:55:03Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7sFzaZ",
+        "source_node_id": "PRRC_kwDOHD_0tM6vpsUx",
+        "thread_node_id": "PRRT_kwDOHD_0tM5034sj",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-17T13:55:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2946942257"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6vpuZn",
+      "metadata": {
+        "created_at": "2026-03-17T13:54:18Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-17T13:55:03Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7sFzaZ",
+        "source_node_id": "PRRC_kwDOHD_0tM6vpuZn",
+        "thread_node_id": "PRRT_kwDOHD_0tM5zrkVv",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-17T13:55:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2946950759"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7sFzaZ",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7sFzaZ",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-17T13:55:03Z"
+      },
+      "occurred_at": "2026-03-17T13:55:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3960944281"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6v1lri",
+      "metadata": {
+        "created_at": "2026-03-17T23:31:13Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-17T23:31:13Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7sSZ-f",
+        "source_node_id": "PRRC_kwDOHD_0tM6v1lri",
+        "thread_node_id": "PRRT_kwDOHD_0tM5034sj",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-17T23:31:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2950060770"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7sSZ-f",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7sSZ-f",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-17T23:31:13Z"
+      },
+      "occurred_at": "2026-03-17T23:31:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3964247967"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7LYu8K",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7LYu8K"
+      },
+      "occurred_at": "2026-03-18T00:37:42Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7LYu8K",
+        "number": 762,
+        "title": "fix github version parsing to use github api",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/762"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/762"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7zHsz1",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7zHsz1"
+      },
+      "occurred_at": "2026-03-18T00:38:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7LYu8K",
+        "number": 762,
+        "title": "fix github version parsing to use github api",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/762"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/762#issuecomment-4078882037"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM7zHvw0",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7zHvw0"
+      },
+      "occurred_at": "2026-03-18T00:42:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7LYu8K",
+        "number": 762,
+        "title": "fix github version parsing to use github api",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/762"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/762#issuecomment-4078894132"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6v60X5",
+      "metadata": {
+        "created_at": "2026-03-18T07:24:48Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-18T07:24:49Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7sXrxk",
+        "source_node_id": "PRRC_kwDOHD_0tM6v60X5",
+        "thread_node_id": "PRRT_kwDOHD_0tM5034sj",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-18T07:24:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2951431673"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7sXrxk",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7sXrxk",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-18T07:24:49Z"
+      },
+      "occurred_at": "2026-03-18T07:24:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3965631588"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6v63oc",
+      "metadata": {
+        "created_at": "2026-03-18T07:28:12Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-18T07:28:12Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7sXv5m",
+        "source_node_id": "PRRC_kwDOHD_0tM6v63oc",
+        "thread_node_id": "PRRT_kwDOHD_0tM5034sj",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-18T07:28:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2951445020"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7sXv5m",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7sXv5m",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-18T07:28:12Z"
+      },
+      "occurred_at": "2026-03-18T07:28:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3965648486"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7shTUO",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7shTUO",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-18T14:12:27Z"
+      },
+      "occurred_at": "2026-03-18T14:12:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7LYu8K",
+        "number": 762,
+        "title": "fix github version parsing to use github api",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/762"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/762#pullrequestreview-3968152846"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:a88ba261cd416978ceb6769cd5ffc2730a29fa1c",
+      "metadata": {
+        "authored_at": "2026-03-18T14:12:33Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "0233e651b7c23b807e0dbe2b350e482a1d9e2b7b"
+        ],
+        "sha": "a88ba261cd416978ceb6769cd5ffc2730a29fa1c"
+      },
+      "occurred_at": "2026-03-18T14:12:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKGE4OGJhMjYxY2Q0MTY5NzhjZWI2NzY5Y2Q1ZmZjMjczMGEyOWZhMWM",
+        "number": null,
+        "title": "fix github version parsing (#762)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/a88ba261cd416978ceb6769cd5ffc2730a29fa1c"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/a88ba261cd416978ceb6769cd5ffc2730a29fa1c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM7z5mFkzwAAAAWDqD1B",
+      "metadata": {
+        "merge_commit_sha": "a88ba261cd416978ceb6769cd5ffc2730a29fa1c",
+        "source_node_id": "ME_lADOHD_0tM7z5mFkzwAAAAWDqD1B"
+      },
+      "occurred_at": "2026-03-18T14:12:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7LYu8K",
+        "number": 762,
+        "title": "fix github version parsing to use github api",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/762"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/762#event-23683677505"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOHD_0tM70HYYw",
+      "metadata": {
+        "source_node_id": "I_kwDOHD_0tM70HYYw"
+      },
+      "occurred_at": "2026-03-18T14:37:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM70HYYw",
+        "number": 763,
+        "title": "Network-wide validation",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/763"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/763"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6wF7gE",
+      "metadata": {
+        "created_at": "2026-03-18T15:34:07Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-03-18T15:34:07Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM7sjxqH",
+        "source_node_id": "PRRC_kwDOHD_0tM6wF7gE",
+        "thread_node_id": "PRRT_kwDOHD_0tM51NGFW",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-18T15:34:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#discussion_r2954344452"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7sjxqH",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7sjxqH",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-18T15:34:07Z"
+      },
+      "occurred_at": "2026-03-18T15:34:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#pullrequestreview-3968801415"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6wF90J",
+      "metadata": {
+        "created_at": "2026-03-18T15:35:32Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-03-18T15:35:32Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM7sj0Ld",
+        "source_node_id": "PRRC_kwDOHD_0tM6wF90J",
+        "thread_node_id": "PRRT_kwDOHD_0tM51NH1C",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-18T15:35:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#discussion_r2954353929"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7sj0Ld",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7sj0Ld",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-18T15:35:32Z"
+      },
+      "occurred_at": "2026-03-18T15:35:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#pullrequestreview-3968811741"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6wF_KL",
+      "metadata": {
+        "created_at": "2026-03-18T15:36:19Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-03-18T15:36:19Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM7sj1lK",
+        "source_node_id": "PRRC_kwDOHD_0tM6wF_KL",
+        "thread_node_id": "PRRT_kwDOHD_0tM51NI3G",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-18T15:36:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#discussion_r2954359435"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7sj1lK",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7sj1lK",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-18T15:36:19Z"
+      },
+      "occurred_at": "2026-03-18T15:36:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#pullrequestreview-3968817482"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6wF_SB",
+      "metadata": {
+        "created_at": "2026-03-18T15:36:24Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-03-18T15:36:24Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM7sj1s3",
+        "source_node_id": "PRRC_kwDOHD_0tM6wF_SB",
+        "thread_node_id": "PRRT_kwDOHD_0tM51NI9a",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-18T15:36:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#discussion_r2954359937"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7sj1s3",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7sj1s3",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-18T15:36:24Z"
+      },
+      "occurred_at": "2026-03-18T15:36:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#pullrequestreview-3968817975"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6wGs_p",
+      "metadata": {
+        "created_at": "2026-03-18T16:03:11Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-03-18T16:03:11Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM7skmtL",
+        "source_node_id": "PRRC_kwDOHD_0tM6wGs_p",
+        "thread_node_id": "PRRT_kwDOHD_0tM51NrNk",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-18T16:03:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#discussion_r2954547177"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7skmtL",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7skmtL",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-18T16:03:11Z"
+      },
+      "occurred_at": "2026-03-18T16:03:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#pullrequestreview-3969018699"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6wJtcB",
+      "metadata": {
+        "created_at": "2026-03-18T18:12:00Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-03-18T18:12:01Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM7sn7XJ",
+        "source_node_id": "PRRC_kwDOHD_0tM6wJtcB",
+        "thread_node_id": "PRRT_kwDOHD_0tM51NrNk",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-18T18:12:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#discussion_r2955335425"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7sn7XJ",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7sn7XJ",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-18T18:12:01Z"
+      },
+      "occurred_at": "2026-03-18T18:12:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6vNlU6",
+        "number": 663,
+        "title": "[WIP] Handle hex36 indices",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/663"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/663#pullrequestreview-3969889737"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOHD_0tM7yKnxjzwAAAAWEJ-go",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOHD_0tM7yKnxjzwAAAAWEJ-go"
+      },
+      "occurred_at": "2026-03-18T18:12:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7yKnxj",
+        "number": 760,
+        "title": "Cron CI is failing because of alpha release",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/760"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/760#event-23692044328"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM7zdmei",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM7zdmei"
+      },
+      "occurred_at": "2026-03-18T18:12:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7yKnxj",
+        "number": 760,
+        "title": "Cron CI is failing because of alpha release",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/760"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/760#issuecomment-4084623266"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6wn22l",
+      "metadata": {
+        "created_at": "2026-03-19T23:22:16Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-19T23:22:16Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7tI-yj",
+        "source_node_id": "PRRC_kwDOHD_0tM6wn22l",
+        "thread_node_id": "PRRT_kwDOHD_0tM5034sj",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-19T23:22:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2963238309"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7tI-yj",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7tI-yj",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-19T23:22:16Z"
+      },
+      "occurred_at": "2026-03-19T23:22:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3978554531"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6wo1EZ",
+      "metadata": {
+        "created_at": "2026-03-20T01:07:57Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-20T01:07:57Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7tJ9xl",
+        "source_node_id": "PRRC_kwDOHD_0tM6wo1EZ",
+        "thread_node_id": "PRRT_kwDOHD_0tM5034sj",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-20T01:07:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2963493145"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7tJ9xl",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7tJ9xl",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-20T01:07:57Z"
+      },
+      "occurred_at": "2026-03-20T01:07:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3978812517"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6wptfz",
+      "metadata": {
+        "created_at": "2026-03-20T03:06:02Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-20T03:07:04Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7tLCTV",
+        "source_node_id": "PRRC_kwDOHD_0tM6wptfz",
+        "thread_node_id": "PRRT_kwDOHD_0tM51nzd1",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-20T03:07:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2963724275"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7tLCTV",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7tLCTV",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-20T03:07:04Z"
+      },
+      "occurred_at": "2026-03-20T03:07:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3979093205"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6w0Sgm",
+      "metadata": {
+        "created_at": "2026-03-20T15:40:16Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-20T15:40:16Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7tXfj7",
+        "source_node_id": "PRRC_kwDOHD_0tM6w0Sgm",
+        "thread_node_id": "PRRT_kwDOHD_0tM51v5NF",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-20T15:40:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2966497318"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7tXfj7",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7tXfj7",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-20T15:40:16Z"
+      },
+      "occurred_at": "2026-03-20T15:40:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3982358779"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6w3jnH",
+      "metadata": {
+        "created_at": "2026-03-20T18:31:58Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-20T18:31:58Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7tbTSW",
+        "source_node_id": "PRRC_kwDOHD_0tM6w3jnH",
+        "thread_node_id": "PRRT_kwDOHD_0tM51nzd1",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-20T18:31:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#discussion_r2967353799"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7tbTSW",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7tbTSW",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-20T18:31:58Z"
+      },
+      "occurred_at": "2026-03-20T18:31:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3983357078"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7tbcg_",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7tbcg_",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-20T18:38:47Z"
+      },
+      "occurred_at": "2026-03-20T18:38:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#pullrequestreview-3983394879"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM70ZPsf",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM70ZPsf"
+      },
+      "occurred_at": "2026-03-20T18:40:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#issuecomment-4100258591"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NjY4NTMxMTM=",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "co_author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:85711c335286f61df65a86d5d67443269158c768",
+      "metadata": {
+        "authored_at": "2026-03-20T18:45:57Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "a88ba261cd416978ceb6769cd5ffc2730a29fa1c"
+        ],
+        "sha": "85711c335286f61df65a86d5d67443269158c768"
+      },
+      "occurred_at": "2026-03-20T18:45:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDg1NzExYzMzNTI4NmY2MWRmNjVhODZkNWQ2NzQ0MzI2OTE1OGM3Njg",
+        "number": null,
+        "title": "Modify execute_DAG with unitresult caching (#738)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/85711c335286f61df65a86d5d67443269158c768"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/85711c335286f61df65a86d5d67443269158c768"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM7rKr-TzwAAAAWIUShW",
+      "metadata": {
+        "merge_commit_sha": "85711c335286f61df65a86d5d67443269158c768",
+        "source_node_id": "ME_lADOHD_0tM7rKr-TzwAAAAWIUShW"
+      },
+      "occurred_at": "2026-03-20T18:45:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7D-uEf",
+        "number": 738,
+        "title": "Modify execute_DAG with unitresult caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/738"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/738#event-23761856598"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7MRAvh",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7MRAvh"
+      },
+      "occurred_at": "2026-03-20T22:04:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MRAvh",
+        "number": 764,
+        "title": "rename protocoldag_cache to protocoldag-results_cache",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/764"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/764"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM70cygq",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM70cygq"
+      },
+      "occurred_at": "2026-03-20T22:05:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MRAvh",
+        "number": 764,
+        "title": "rename protocoldag_cache to protocoldag-results_cache",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/764"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/764#issuecomment-4101187626"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM70c6Hn",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM70c6Hn"
+      },
+      "occurred_at": "2026-03-20T22:14:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MRAvh",
+        "number": 764,
+        "title": "rename protocoldag_cache to protocoldag-results_cache",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/764"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/764#issuecomment-4101218791"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7t1bAd",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7t1bAd",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-23T08:54:40Z"
+      },
+      "occurred_at": "2026-03-23T08:54:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MRAvh",
+        "number": 764,
+        "title": "rename protocoldag_cache to protocoldag-results_cache",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/764"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/764#pullrequestreview-3990204445"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:95f1248aafd5244c72533af17e5c3c199d453930",
+      "metadata": {
+        "authored_at": "2026-03-23T14:16:25Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "85711c335286f61df65a86d5d67443269158c768"
+        ],
+        "sha": "95f1248aafd5244c72533af17e5c3c199d453930"
+      },
+      "occurred_at": "2026-03-23T14:16:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDk1ZjEyNDhhYWZkNTI0NGM3MjUzM2FmMTdlNWMzYzE5OWQ0NTM5MzA",
+        "number": null,
+        "title": "rename protocoldag_cache to protocoldag-results_cache (#764)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/95f1248aafd5244c72533af17e5c3c199d453930"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/95f1248aafd5244c72533af17e5c3c199d453930"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM70_qVNzwAAAAWLhkff",
+      "metadata": {
+        "merge_commit_sha": "95f1248aafd5244c72533af17e5c3c199d453930",
+        "source_node_id": "ME_lADOHD_0tM70_qVNzwAAAAWLhkff"
+      },
+      "occurred_at": "2026-03-23T14:16:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MRAvh",
+        "number": 764,
+        "title": "rename protocoldag_cache to protocoldag-results_cache",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/764"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/764#event-23815669727"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MTY2MDI=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOHD_0tM7tJn-BzwAAAAWLmSOh",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOHD_0tM7tJn-BzwAAAAWLmSOh"
+      },
+      "occurred_at": "2026-03-23T14:49:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MTY2MDI=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7tJn-B",
+        "number": 743,
+        "title": "Modify execute_dag() with unit_result caching",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/743"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/743#event-23816905633"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7MtdGT",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7MtdGT"
+      },
+      "occurred_at": "2026-03-23T14:52:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MtdGT",
+        "number": 765,
+        "title": "Release/v1.9.0",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/765"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/765"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM71DQ6Q",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM71DQ6Q"
+      },
+      "occurred_at": "2026-03-23T14:57:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MtdGT",
+        "number": 765,
+        "title": "Release/v1.9.0",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/765"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/765#issuecomment-4111273616"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7MvtFw",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7MvtFw"
+      },
+      "occurred_at": "2026-03-23T17:00:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MvtFw",
+        "number": 766,
+        "title": "Add ComponentValidationError",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/766"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/766"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM71G3qh",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM71G3qh"
+      },
+      "occurred_at": "2026-03-23T17:05:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MvtFw",
+        "number": 766,
+        "title": "Add ComponentValidationError",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/766"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/766#issuecomment-4112218785"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM71G712",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM71G712"
+      },
+      "occurred_at": "2026-03-23T17:08:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MvtFw",
+        "number": 766,
+        "title": "Add ComponentValidationError",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/766"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/766#issuecomment-4112235894"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM71G8nE",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM71G8nE"
+      },
+      "occurred_at": "2026-03-23T17:08:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MvtFw",
+        "number": 766,
+        "title": "Add ComponentValidationError",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/766"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/766#issuecomment-4112239044"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7uaz-d",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7uaz-d",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-24T15:06:22Z"
+      },
+      "occurred_at": "2026-03-24T15:06:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MvtFw",
+        "number": 766,
+        "title": "Add ComponentValidationError",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/766"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/766#pullrequestreview-4000006045"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NjY4NTMxMTM=",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:0d89e95193065ee1174f802c3a294e94e686caf7",
+      "metadata": {
+        "authored_at": "2026-03-24T15:06:35Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "95f1248aafd5244c72533af17e5c3c199d453930"
+        ],
+        "sha": "0d89e95193065ee1174f802c3a294e94e686caf7"
+      },
+      "occurred_at": "2026-03-24T15:06:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDBkODllOTUxOTMwNjVlZTExNzRmODAyYzNhMjk0ZTk0ZTY4NmNhZjc",
+        "number": null,
+        "title": "Add ComponentValidationError (#766)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/0d89e95193065ee1174f802c3a294e94e686caf7"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/0d89e95193065ee1174f802c3a294e94e686caf7"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM71tZ9BzwAAAAWN8nh9",
+      "metadata": {
+        "merge_commit_sha": "0d89e95193065ee1174f802c3a294e94e686caf7",
+        "source_node_id": "ME_lADOHD_0tM71tZ9BzwAAAAWN8nh9"
+      },
+      "occurred_at": "2026-03-24T15:06:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MvtFw",
+        "number": 766,
+        "title": "Add ComponentValidationError",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/766"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/766#event-23856314493"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7NE2oL",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7NE2oL"
+      },
+      "occurred_at": "2026-03-24T17:10:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NE2oL",
+        "number": 767,
+        "title": "Add lipid17_merged.xml to default FF settings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/767"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/767"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM71kXXD",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM71kXXD"
+      },
+      "occurred_at": "2026-03-24T17:13:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NE2oL",
+        "number": 767,
+        "title": "Add lipid17_merged.xml to default FF settings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/767"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/767#issuecomment-4119950787"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7NFCbP",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7NFCbP"
+      },
+      "occurred_at": "2026-03-24T17:21:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NFCbP",
+        "number": 768,
+        "title": "Bump up CI action versions",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/768"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/768"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM71kkwp",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM71kkwp"
+      },
+      "occurred_at": "2026-03-24T17:21:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NFCbP",
+        "number": 768,
+        "title": "Bump up CI action versions",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/768"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/768#issuecomment-4120005673"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM71kqj6",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM71kqj6"
+      },
+      "occurred_at": "2026-03-24T17:25:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NFCbP",
+        "number": 768,
+        "title": "Bump up CI action versions",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/768"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/768#issuecomment-4120029434"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM71kx2O",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM71kx2O"
+      },
+      "occurred_at": "2026-03-24T17:29:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NE2oL",
+        "number": 767,
+        "title": "Add lipid17_merged.xml to default FF settings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/767"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/767#issuecomment-4120059278"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOHD_0tM72_9MR",
+      "metadata": {
+        "source_node_id": "I_kwDOHD_0tM72_9MR"
+      },
+      "occurred_at": "2026-03-24T17:32:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM72_9MR",
+        "number": 770,
+        "title": "Support reading gzip PDB files directly",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/770"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/770"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7ui_nK",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7ui_nK",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-24T20:41:17Z"
+      },
+      "occurred_at": "2026-03-24T20:41:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NFCbP",
+        "number": 768,
+        "title": "Bump up CI action versions",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/768"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/768#pullrequestreview-4002150858"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:edb0d37762f4944ec740a68ebf94eb2ee123424a",
+      "metadata": {
+        "authored_at": "2026-03-24T20:41:26Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "0d89e95193065ee1174f802c3a294e94e686caf7"
+        ],
+        "sha": "edb0d37762f4944ec740a68ebf94eb2ee123424a"
+      },
+      "occurred_at": "2026-03-24T20:41:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKGVkYjBkMzc3NjJmNDk0NGVjNzQwYTY4ZWJmOTRlYjJlZTEyMzQyNGE",
+        "number": null,
+        "title": "Bump up CI action versions (#768)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/edb0d37762f4944ec740a68ebf94eb2ee123424a"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/edb0d37762f4944ec740a68ebf94eb2ee123424a"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM72IncZzwAAAAWOkK2J",
+      "metadata": {
+        "merge_commit_sha": "edb0d37762f4944ec740a68ebf94eb2ee123424a",
+        "source_node_id": "ME_lADOHD_0tM72IncZzwAAAAWOkK2J"
+      },
+      "occurred_at": "2026-03-24T20:41:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NFCbP",
+        "number": 768,
+        "title": "Bump up CI action versions",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/768"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/768#event-23866682761"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM71pQUP",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM71pQUP"
+      },
+      "occurred_at": "2026-03-24T20:42:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NE2oL",
+        "number": 767,
+        "title": "Add lipid17_merged.xml to default FF settings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/767"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/767#issuecomment-4121232655"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7ujCWo",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7ujCWo",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-24T20:43:13Z"
+      },
+      "occurred_at": "2026-03-24T20:43:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NE2oL",
+        "number": 767,
+        "title": "Add lipid17_merged.xml to default FF settings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/767"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/767#pullrequestreview-4002162088"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NjY4NTMxMTM=",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "co_author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:62302e73ebd86edef500e46983567174c3cdbd89",
+      "metadata": {
+        "authored_at": "2026-03-24T20:47:11Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "edb0d37762f4944ec740a68ebf94eb2ee123424a"
+        ],
+        "sha": "62302e73ebd86edef500e46983567174c3cdbd89"
+      },
+      "occurred_at": "2026-03-24T20:47:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDYyMzAyZTczZWJkODZlZGVmNTAwZTQ2OTgzNTY3MTc0YzNjZGJkODk",
+        "number": null,
+        "title": "Add lipid17_merged.xml to default FF settings (#767)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/62302e73ebd86edef500e46983567174c3cdbd89"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/62302e73ebd86edef500e46983567174c3cdbd89"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM72IYx-zwAAAAWOk4id",
+      "metadata": {
+        "merge_commit_sha": "62302e73ebd86edef500e46983567174c3cdbd89",
+        "source_node_id": "ME_lADOHD_0tM72IYx-zwAAAAWOk4id"
+      },
+      "occurred_at": "2026-03-24T20:47:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NE2oL",
+        "number": 767,
+        "title": "Add lipid17_merged.xml to default FF settings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/767"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/767#event-23866869917"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7NIfZc",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7NIfZc"
+      },
+      "occurred_at": "2026-03-24T20:53:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NIfZc",
+        "number": 769,
+        "title": "Couple typo fixes found with codespell",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/769"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/769"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM71pfjE",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM71pfjE"
+      },
+      "occurred_at": "2026-03-24T20:53:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NIfZc",
+        "number": 769,
+        "title": "Couple typo fixes found with codespell",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/769"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/769#issuecomment-4121295044"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7ujVCT",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7ujVCT",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-24T20:55:18Z"
+      },
+      "occurred_at": "2026-03-24T20:55:18Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NIfZc",
+        "number": 769,
+        "title": "Couple typo fixes found with codespell",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/769"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/769#pullrequestreview-4002238611"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM71piz7",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM71piz7"
+      },
+      "occurred_at": "2026-03-24T20:56:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NIfZc",
+        "number": 769,
+        "title": "Couple typo fixes found with codespell",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/769"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/769#issuecomment-4121308411"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:f4a8f51395c395dc41a058d14a0eddfdeeb7791f",
+      "metadata": {
+        "authored_at": "2026-03-24T20:58:16Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "62302e73ebd86edef500e46983567174c3cdbd89"
+        ],
+        "sha": "f4a8f51395c395dc41a058d14a0eddfdeeb7791f"
+      },
+      "occurred_at": "2026-03-24T20:58:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKGY0YThmNTEzOTVjMzk1ZGM0MWEwNThkMTRhMGVkZGZkZWViNzc5MWY",
+        "number": null,
+        "title": "Couple typo fixes found with codespell (#769)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/f4a8f51395c395dc41a058d14a0eddfdeeb7791f"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/f4a8f51395c395dc41a058d14a0eddfdeeb7791f"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM72M9tfzwAAAAWOmAEH",
+      "metadata": {
+        "merge_commit_sha": "f4a8f51395c395dc41a058d14a0eddfdeeb7791f",
+        "source_node_id": "ME_lADOHD_0tM72M9tfzwAAAAWOmAEH"
+      },
+      "occurred_at": "2026-03-24T20:58:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NIfZc",
+        "number": 769,
+        "title": "Couple typo fixes found with codespell",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/769"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/769#event-23867162887"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM72dE32",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM72dE32"
+      },
+      "occurred_at": "2026-03-24T21:29:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM72_9MR",
+        "number": 770,
+        "title": "Support reading gzip PDB files directly",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/770"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/770#issuecomment-4134817270"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM72f0CI",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM72f0CI"
+      },
+      "occurred_at": "2026-03-26T14:43:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MtdGT",
+        "number": 765,
+        "title": "Release/v1.9.0",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/765"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/765#issuecomment-4135534728"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM72gA45",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM72gA45"
+      },
+      "occurred_at": "2026-03-26T14:48:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MtdGT",
+        "number": 765,
+        "title": "Release/v1.9.0",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/765"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/765#issuecomment-4135587385"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7vUYVr",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7vUYVr",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-26T15:09:10Z"
+      },
+      "occurred_at": "2026-03-26T15:09:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MtdGT",
+        "number": 765,
+        "title": "Release/v1.9.0",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/765"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/765#pullrequestreview-4015097195"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:ec9643d5583f9385720ec2f8b4b1d3872403d944",
+      "metadata": {
+        "authored_at": "2026-03-26T15:43:31Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "f4a8f51395c395dc41a058d14a0eddfdeeb7791f"
+        ],
+        "sha": "ec9643d5583f9385720ec2f8b4b1d3872403d944"
+      },
+      "occurred_at": "2026-03-26T15:43:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKGVjOTY0M2Q1NTgzZjkzODU3MjBlYzJmOGI0YjFkMzg3MjQwM2Q5NDQ",
+        "number": null,
+        "title": "Release/v1.9.0 (#765)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/ec9643d5583f9385720ec2f8b4b1d3872403d944"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/ec9643d5583f9385720ec2f8b4b1d3872403d944"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM71qQuGzwAAAAWS3-8H",
+      "metadata": {
+        "merge_commit_sha": "ec9643d5583f9385720ec2f8b4b1d3872403d944",
+        "source_node_id": "ME_lADOHD_0tM71qQuGzwAAAAWS3-8H"
+      },
+      "occurred_at": "2026-03-26T15:43:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7MtdGT",
+        "number": 765,
+        "title": "Release/v1.9.0",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/765"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/765#event-23938985735"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7NzYwi",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7NzYwi"
+      },
+      "occurred_at": "2026-03-26T17:32:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NzYwi",
+        "number": 771,
+        "title": "Run pyupgrade --py311-plus since python 3.11 is the min",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/771"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/771"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM72k28v",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM72k28v"
+      },
+      "occurred_at": "2026-03-26T17:32:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NzYwi",
+        "number": 771,
+        "title": "Run pyupgrade --py311-plus since python 3.11 is the min",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/771"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/771#issuecomment-4136857391"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM72k7Ra",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM72k7Ra"
+      },
+      "occurred_at": "2026-03-26T17:35:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NzYwi",
+        "number": 771,
+        "title": "Run pyupgrade --py311-plus since python 3.11 is the min",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/771"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/771#issuecomment-4136875098"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM72k7x9",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM72k7x9"
+      },
+      "occurred_at": "2026-03-26T17:35:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NzYwi",
+        "number": 771,
+        "title": "Run pyupgrade --py311-plus since python 3.11 is the min",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/771"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/771#issuecomment-4136877181"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ysGFN",
+      "metadata": {
+        "created_at": "2026-03-26T22:05:01Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-26T22:06:12Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM7vd6xi",
+        "source_node_id": "PRRC_kwDOHD_0tM6ysGFN",
+        "thread_node_id": "PRRT_kwDOHD_0tM53Jevp",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-26T22:06:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NzYwi",
+        "number": 771,
+        "title": "Run pyupgrade --py311-plus since python 3.11 is the min",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/771"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/771#discussion_r2997903693"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7vd6xi",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7vd6xi",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-26T22:06:12Z"
+      },
+      "occurred_at": "2026-03-26T22:06:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NzYwi",
+        "number": 771,
+        "title": "Run pyupgrade --py311-plus since python 3.11 is the min",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/771"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/771#pullrequestreview-4017597538"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM72ryQ6",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM72ryQ6"
+      },
+      "occurred_at": "2026-03-26T22:14:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7xOc4T",
+        "number": 757,
+        "title": "support python 3.14",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/757"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/757#issuecomment-4138673210"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7Or0yC",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7Or0yC"
+      },
+      "occurred_at": "2026-03-30T16:53:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7Or0yC",
+        "number": 772,
+        "title": "Update .readthedocs.yaml",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/772"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/772"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM73wDAw",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM73wDAw"
+      },
+      "occurred_at": "2026-03-30T16:54:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7Or0yC",
+        "number": 772,
+        "title": "Update .readthedocs.yaml",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/772"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/772#issuecomment-4156567600"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM73wKVF",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM73wKVF"
+      },
+      "occurred_at": "2026-03-30T16:58:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7Or0yC",
+        "number": 772,
+        "title": "Update .readthedocs.yaml",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/772"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/772#issuecomment-4156597573"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7wXFe3",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7wXFe3",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-30T18:39:16Z"
+      },
+      "occurred_at": "2026-03-30T18:39:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7Or0yC",
+        "number": 772,
+        "title": "Update .readthedocs.yaml",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/772"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/772#pullrequestreview-4032583607"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:cc3f48b9765cc01de1aadc5fad198221f80bdfde",
+      "metadata": {
+        "authored_at": "2026-03-30T18:54:07Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "ec9643d5583f9385720ec2f8b4b1d3872403d944"
+        ],
+        "sha": "cc3f48b9765cc01de1aadc5fad198221f80bdfde"
+      },
+      "occurred_at": "2026-03-30T18:54:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKGNjM2Y0OGI5NzY1Y2MwMWRlMWFhZGM1ZmFkMTk4MjIxZjgwYmRmZGU",
+        "number": null,
+        "title": "Update .readthedocs.yaml (#772)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/cc3f48b9765cc01de1aadc5fad198221f80bdfde"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/cc3f48b9765cc01de1aadc5fad198221f80bdfde"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM74sXf0zwAAAAWZWn7Q",
+      "metadata": {
+        "merge_commit_sha": "cc3f48b9765cc01de1aadc5fad198221f80bdfde",
+        "source_node_id": "ME_lADOHD_0tM74sXf0zwAAAAWZWn7Q"
+      },
+      "occurred_at": "2026-03-30T18:54:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7Or0yC",
+        "number": 772,
+        "title": "Update .readthedocs.yaml",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/772"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/772#event-24047681232"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7Ovs6e",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7Ovs6e"
+      },
+      "occurred_at": "2026-03-30T20:18:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7Ovs6e",
+        "number": 773,
+        "title": "add ruff formatting to docstrings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/773"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/773"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM731NHc",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM731NHc"
+      },
+      "occurred_at": "2026-03-30T20:18:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7Ovs6e",
+        "number": 773,
+        "title": "add ruff formatting to docstrings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/773"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/773#issuecomment-4157919708"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6zh3Xe",
+      "metadata": {
+        "created_at": "2026-03-30T20:18:56Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-03-30T20:18:56Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM7wZB1a",
+        "source_node_id": "PRRC_kwDOHD_0tM6zh3Xe",
+        "thread_node_id": "PRRT_kwDOHD_0tM53yPRa",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-30T20:18:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7Ovs6e",
+        "number": 773,
+        "title": "add ruff formatting to docstrings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/773"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/773#discussion_r3011999198"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7wZB1a",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7wZB1a",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-30T20:18:56Z"
+      },
+      "occurred_at": "2026-03-30T20:18:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7Ovs6e",
+        "number": 773,
+        "title": "add ruff formatting to docstrings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/773"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/773#pullrequestreview-4033092954"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM731QWr",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM731QWr"
+      },
+      "occurred_at": "2026-03-30T20:21:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7Ovs6e",
+        "number": 773,
+        "title": "add ruff formatting to docstrings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/773"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/773#issuecomment-4157932971"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7wZ1sj",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7wZ1sj",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-30T21:04:16Z"
+      },
+      "occurred_at": "2026-03-30T21:04:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7Ovs6e",
+        "number": 773,
+        "title": "add ruff formatting to docstrings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/773"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/773#pullrequestreview-4033305379"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:266da1cb4e0c1ae61213c349ad8128571a47c49f",
+      "metadata": {
+        "authored_at": "2026-03-30T21:04:22Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "cc3f48b9765cc01de1aadc5fad198221f80bdfde"
+        ],
+        "sha": "266da1cb4e0c1ae61213c349ad8128571a47c49f"
+      },
+      "occurred_at": "2026-03-30T21:04:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDI2NmRhMWNiNGUwYzFhZTYxMjEzYzM0OWFkODEyODU3MWE0N2M0OWY",
+        "number": null,
+        "title": "add ruff formatting to docstrings (#773)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/266da1cb4e0c1ae61213c349ad8128571a47c49f"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/266da1cb4e0c1ae61213c349ad8128571a47c49f"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM74x2KtzwAAAAWZl1WJ",
+      "metadata": {
+        "merge_commit_sha": "266da1cb4e0c1ae61213c349ad8128571a47c49f",
+        "source_node_id": "ME_lADOHD_0tM74x2KtzwAAAAWZl1WJ"
+      },
+      "occurred_at": "2026-03-30T21:04:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7Ovs6e",
+        "number": 773,
+        "title": "add ruff formatting to docstrings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/773"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/773#event-24051668361"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMwNjA5Njk2",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOHD_0tM75Lq4g",
+      "metadata": {
+        "source_node_id": "I_kwDOHD_0tM75Lq4g"
+      },
+      "occurred_at": "2026-03-31T16:24:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwNjA5Njk2",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM75Lq4g",
+        "number": 774,
+        "title": "Can't retrieve alchemiscale results that used ProtocolUnit",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/774"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/774"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM7PENyZ",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM7PENyZ"
+      },
+      "occurred_at": "2026-03-31T20:59:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7PENyZ",
+        "number": 775,
+        "title": "include pyupgrade in ruff checks",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/775"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/775"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM74SWsi",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM74SWsi"
+      },
+      "occurred_at": "2026-03-31T21:02:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7PENyZ",
+        "number": 775,
+        "title": "include pyupgrade in ruff checks",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/775"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/775#issuecomment-4165561122"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7w0H6i",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7w0H6i",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-31T21:11:00Z"
+      },
+      "occurred_at": "2026-03-31T21:11:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7PENyZ",
+        "number": 775,
+        "title": "include pyupgrade in ruff checks",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/775"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/775#pullrequestreview-4040195746"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM7w0JB5",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM7w0JB5",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-31T21:11:58Z"
+      },
+      "occurred_at": "2026-03-31T21:11:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7PENyZ",
+        "number": 775,
+        "title": "include pyupgrade in ruff checks",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/775"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/775#pullrequestreview-4040200313"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM74SqiO",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM74SqiO"
+      },
+      "occurred_at": "2026-03-31T21:16:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7PENyZ",
+        "number": 775,
+        "title": "include pyupgrade in ruff checks",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/775"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/775#issuecomment-4165642382"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOHD_0tM75Sy5L",
+      "metadata": {
+        "source_node_id": "I_kwDOHD_0tM75Sy5L"
+      },
+      "occurred_at": "2026-03-31T21:21:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM75Sy5L",
+        "number": 776,
+        "title": "try using pixi",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/776"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/776"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM75SUEczwAAAAWb3u0m",
+      "metadata": {
+        "merge_commit_sha": "4c9411925e670f0de9d46dc9b9b0d110c8beccb8",
+        "source_node_id": "ME_lADOHD_0tM75SUEczwAAAAWb3u0m"
+      },
+      "occurred_at": "2026-03-31T21:22:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7PENyZ",
+        "number": 775,
+        "title": "include pyupgrade in ruff checks",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/775"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/775#event-24089914662"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM74Sxsm",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM74Sxsm"
+      },
+      "occurred_at": "2026-03-31T21:22:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NzYwi",
+        "number": 771,
+        "title": "Run pyupgrade --py311-plus since python 3.11 is the min",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/771"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/771#issuecomment-4165671718"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOHD_0tM7fPmxAzwAAAAWb6Gl-",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOHD_0tM7fPmxAzwAAAAWb6Gl-"
+      },
+      "occurred_at": "2026-03-31T21:47:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjYyNDU3MTc=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7fPmxA",
+        "number": 695,
+        "title": "Add documentation to newly implemented `Context` class and `StorageManager`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/695"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/695#event-24090536318"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM74TOcs",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM74TOcs"
+      },
+      "occurred_at": "2026-03-31T21:47:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjYyNDU3MTc=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7fPmxA",
+        "number": 695,
+        "title": "Add documentation to newly implemented `Context` class and `StorageManager`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/695"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/695#issuecomment-4165789484"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOHD_0tM7cjoBCzwAAAAWb6R8q",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOHD_0tM7cjoBCzwAAAAWb6R8q"
+      },
+      "occurred_at": "2026-03-31T21:48:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjYyNDU3MTc=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7cjoBC",
+        "number": 689,
+        "title": "Add a context manager to execute_DAG and `gufe`'s `Context` class",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/689"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/689#event-24090582826"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM74TQUM",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM74TQUM"
+      },
+      "occurred_at": "2026-03-31T21:48:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjYyNDU3MTc=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM7cjoBC",
+        "number": 689,
+        "title": "Add a context manager to execute_DAG and `gufe`'s `Context` class",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/689"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/689#issuecomment-4165797132"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "co_author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:bcdd946d79826b9aa7b10ab5112e3df4d385e043",
+      "metadata": {
+        "authored_at": "2026-03-31T21:56:35Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "266da1cb4e0c1ae61213c349ad8128571a47c49f"
+        ],
+        "sha": "bcdd946d79826b9aa7b10ab5112e3df4d385e043"
+      },
+      "occurred_at": "2026-03-31T21:56:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKGJjZGQ5NDZkNzk4MjZiOWFhN2IxMGFiNTExMmUzZGY0ZDM4NWUwNDM",
+        "number": null,
+        "title": "Run pyupgrade --py311-plus since python 3.11 is the min (#771)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/bcdd946d79826b9aa7b10ab5112e3df4d385e043"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/bcdd946d79826b9aa7b10ab5112e3df4d385e043"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM73Hn7OzwAAAAWb6780",
+      "metadata": {
+        "merge_commit_sha": "bcdd946d79826b9aa7b10ab5112e3df4d385e043",
+        "source_node_id": "ME_lADOHD_0tM73Hn7OzwAAAAWb6780"
+      },
+      "occurred_at": "2026-03-31T21:56:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7NzYwi",
+        "number": 771,
+        "title": "Run pyupgrade --py311-plus since python 3.11 is the min",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/771"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/771#event-24090754868"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "bot",
+      "database_id": 22429695,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90MjI0Mjk2OTU=",
+      "key": "MDM6Qm90MjI0Mjk2OTU=",
+      "login": "codecov",
+      "url": "https://github.com/apps/codecov"
+    },
+    {
+      "classification": "bot",
+      "database_id": 41898282,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90NDE4OTgyODI=",
+      "key": "MDM6Qm90NDE4OTgyODI=",
+      "login": "github-actions",
+      "url": "https://github.com/apps/github-actions"
+    },
+    {
+      "classification": "bot",
+      "database_id": 66853113,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90NjY4NTMxMTM=",
+      "key": "MDM6Qm90NjY4NTMxMTM=",
+      "login": "pre-commit-ci",
+      "url": "https://github.com/apps/pre-commit-ci"
+    },
+    {
+      "classification": "human",
+      "database_id": 1423531,
+      "display_name": "Chris Iacovella",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE0MjM1MzE=",
+      "key": "MDQ6VXNlcjE0MjM1MzE=",
+      "login": "chrisiacovella",
+      "url": "https://github.com/chrisiacovella"
+    },
+    {
+      "classification": "human",
+      "database_id": 1616602,
+      "display_name": "James R. Baggs Eastwood",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE2MTY2MDI=",
+      "key": "MDQ6VXNlcjE2MTY2MDI=",
+      "login": "jameseastwood",
+      "url": "https://github.com/jameseastwood"
+    },
+    {
+      "classification": "human",
+      "database_id": 11765982,
+      "display_name": "Mike Henry",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjExNzY1OTgy",
+      "key": "MDQ6VXNlcjExNzY1OTgy",
+      "login": "mikemhenry",
+      "url": "https://github.com/mikemhenry"
+    },
+    {
+      "classification": "human",
+      "database_id": 12460125,
+      "display_name": "Irfan Alibay",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjEyNDYwMTI1",
+      "key": "MDQ6VXNlcjEyNDYwMTI1",
+      "login": "IAlibay",
+      "url": "https://github.com/IAlibay"
+    },
+    {
+      "classification": "human",
+      "database_id": 1326811,
+      "display_name": "David L. Dotson",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjEzMjY4MTE=",
+      "key": "MDQ6VXNlcjEzMjY4MTE=",
+      "login": "dotsdl",
+      "url": "https://github.com/dotsdl"
+    },
+    {
+      "classification": "human",
+      "database_id": 2949729,
+      "display_name": "Iván Pulido",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjI5NDk3Mjk=",
+      "key": "MDQ6VXNlcjI5NDk3Mjk=",
+      "login": "ijpulidos",
+      "url": "https://github.com/ijpulidos"
+    },
+    {
+      "classification": "human",
+      "database_id": 30259414,
+      "display_name": "Josh Horton",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjMwMjU5NDE0",
+      "key": "MDQ6VXNlcjMwMjU5NDE0",
+      "login": "jthorton",
+      "url": "https://github.com/jthorton"
+    },
+    {
+      "classification": "human",
+      "database_id": 30609696,
+      "display_name": "Jennifer A Clark",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjMwNjA5Njk2",
+      "key": "MDQ6VXNlcjMwNjA5Njk2",
+      "login": "jaclark5",
+      "url": "https://github.com/jaclark5"
+    },
+    {
+      "classification": "human",
+      "database_id": 31800806,
+      "display_name": "Alexander Matthew Payne",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjMxODAwODA2",
+      "key": "MDQ6VXNlcjMxODAwODA2",
+      "login": "apayne97",
+      "url": "https://github.com/apayne97"
+    },
+    {
+      "classification": "human",
+      "database_id": 31974495,
+      "display_name": "Alyssa Travitz",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjMxOTc0NDk1",
+      "key": "MDQ6VXNlcjMxOTc0NDk1",
+      "login": "atravitz",
+      "url": "https://github.com/atravitz"
+    },
+    {
+      "classification": "human",
+      "database_id": 43765638,
+      "display_name": "Hannah Baumann",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjQzNzY1NjM4",
+      "key": "MDQ6VXNlcjQzNzY1NjM4",
+      "login": "hannahbaumann",
+      "url": "https://github.com/hannahbaumann"
+    },
+    {
+      "classification": "human",
+      "database_id": 6245717,
+      "display_name": "Ethan Holz",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjYyNDU3MTc=",
+      "key": "MDQ6VXNlcjYyNDU3MTc=",
+      "login": "ethanholz",
+      "url": "https://github.com/ethanholz"
+    },
+    {
+      "classification": "human",
+      "database_id": 7085164,
+      "display_name": "Ian Kenney",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjcwODUxNjQ=",
+      "key": "MDQ6VXNlcjcwODUxNjQ=",
+      "login": "ianmkenney",
+      "url": "https://github.com/ianmkenney"
+    },
+    {
+      "classification": "unresolved_git",
+      "database_id": null,
+      "display_name": null,
+      "git_email": "noreply@github.com",
+      "git_name": "GitHub",
+      "github_node_id": null,
+      "key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+      "login": null,
+      "url": null
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-17T23:01:40.762739Z",
+    "collection_started_at": "2026-10-17T22:59:55.355454Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "a9aeae4f86f1b3a34ef0732277777bc3a45d9035",
+    "month": "2026-03",
+    "month_end": "2026-04-01T00:00:00Z",
+    "month_start": "2026-03-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "OpenFreeEnergy/gufe",
+    "repository_node_id": "R_kgDOHD_0tA",
+    "repository_url": "https://github.com/OpenFreeEnergy/gufe"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDM6Qm90MjI0Mjk2OTU=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 15,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDM6Qm90NDE4OTgyODI=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 18,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDM6Qm90NjY4NTMxMTM=": {
+        "commit": 3,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjE0MjM1MzE=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 1,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjE2MTY2MDI=": {
+        "commit": 0,
+        "issue_closed": 1,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjExNzY1OTgy": {
+        "commit": 5,
+        "issue_closed": 2,
+        "issue_comment": 2,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 2,
+        "pr_inline_review_comment": 11,
+        "pr_merged": 2,
+        "pr_opened": 4,
+        "pr_review": 14
+      },
+      "MDQ6VXNlcjEyNDYwMTI1": {
+        "commit": 7,
+        "issue_closed": 0,
+        "issue_comment": 1,
+        "issue_opened": 2,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 2,
+        "pr_inline_review_comment": 6,
+        "pr_merged": 0,
+        "pr_opened": 4,
+        "pr_review": 5
+      },
+      "MDQ6VXNlcjEzMjY4MTE=": {
+        "commit": 2,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjI5NDk3Mjk=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 1,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjMwMjU5NDE0": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjMwNjA5Njk2": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjMxODAwODA2": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 2,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjMxOTc0NDk1": {
+        "commit": 8,
+        "issue_closed": 2,
+        "issue_comment": 8,
+        "issue_opened": 4,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 3,
+        "pr_inline_review_comment": 10,
+        "pr_merged": 14,
+        "pr_opened": 7,
+        "pr_review": 19
+      },
+      "MDQ6VXNlcjQzNzY1NjM4": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 1,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 1
+      },
+      "MDQ6VXNlcjYyNDU3MTc=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjcwODUxNjQ=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 1,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      }
+    },
+    "distinct_actors": {
+      "bot": 3,
+      "human": 13,
+      "total": 16,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 1,
+        "human": 4,
+        "total": 5,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 7,
+        "total": 7,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 2,
+        "human": 5,
+        "total": 7,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 14,
+      "issue_closed": 5,
+      "issue_comment": 16,
+      "issue_opened": 8,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 42,
+      "pr_inline_review_comment": 28,
+      "pr_merged": 16,
+      "pr_opened": 15,
+      "pr_review": 39
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}

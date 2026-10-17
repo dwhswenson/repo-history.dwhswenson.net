@@ -1,0 +1,1748 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:cc9fbecb9fc6809851878640bdf2e698b77d892f",
+      "metadata": {
+        "authored_at": "2023-01-04T18:57:51Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "email": "dotsdl@gmail.com",
+          "name": "David Dotson"
+        },
+        "parent_shas": [
+          "e7de7f6b36be7c72860720716bd8519ecb39b2fe"
+        ],
+        "sha": "cc9fbecb9fc6809851878640bdf2e698b77d892f"
+      },
+      "occurred_at": "2023-01-04T18:57:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKGNjOWZiZWNiOWZjNjgwOTg1MTg3ODY0MGJkZjJlNjk4Yjc3ZDg5MmY",
+        "number": null,
+        "title": "Small adjustments to test protocol",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/cc9fbecb9fc6809851878640bdf2e698b77d892f"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/cc9fbecb9fc6809851878640bdf2e698b77d892f"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM4_SetJ",
+      "metadata": {
+        "created_at": "2023-01-04T19:18:46Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2023-01-04T19:18:47Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM5JsXZn",
+        "source_node_id": "PRRC_kwDOHD_0tM4_SetJ",
+        "thread_node_id": "PRRT_kwDOHD_0tM4ogn1k",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-01-04T19:18:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5GU5d_",
+        "number": 111,
+        "title": "Implementation of topological approach for relationships between `ProtocolDAGResult`s",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/111"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/111#discussion_r1061808969"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM5JsXZn",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM5JsXZn",
+        "state": "COMMENTED",
+        "submitted_at": "2023-01-04T19:18:47Z"
+      },
+      "occurred_at": "2023-01-04T19:18:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5GU5d_",
+        "number": 111,
+        "title": "Implementation of topological approach for relationships between `ProtocolDAGResult`s",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/111"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/111#pullrequestreview-1236366951"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM5SDruD",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5SDruD"
+      },
+      "occurred_at": "2023-01-10T03:58:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5E8xW6",
+        "number": 105,
+        "title": "Fix issues with custom JSON codecs",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/105"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/105#issuecomment-1376697219"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM5SDsOY",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5SDsOY"
+      },
+      "occurred_at": "2023-01-10T04:01:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5FojcL",
+        "number": 110,
+        "title": "Custom json updates and default settings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/110"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/110#issuecomment-1376699288"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOHD_0tM5bAGCD",
+      "metadata": {
+        "source_node_id": "I_kwDOHD_0tM5bAGCD"
+      },
+      "occurred_at": "2023-01-10T04:34:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5bAGCD",
+        "number": 112,
+        "title": "Add black check for PRs?",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/112"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/112"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:61c91102a1b05bcd81c6a977c2e2f1f0f5f4d0ed",
+      "metadata": {
+        "authored_at": "2023-01-10T04:36:06Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "email": "dotsdl@gmail.com",
+          "name": "David Dotson"
+        },
+        "parent_shas": [
+          "cc9fbecb9fc6809851878640bdf2e698b77d892f"
+        ],
+        "sha": "61c91102a1b05bcd81c6a977c2e2f1f0f5f4d0ed"
+      },
+      "occurred_at": "2023-01-10T04:36:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDYxYzkxMTAyYTFiMDViY2Q4MWM2YTk3N2MyZTJmMWYwZjVmNGQwZWQ",
+        "number": null,
+        "title": "Added pass-through kwargs to Transformation.create",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/61c91102a1b05bcd81c6a977c2e2f1f0f5f4d0ed"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/61c91102a1b05bcd81c6a977c2e2f1f0f5f4d0ed"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM5SDydX",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5SDydX"
+      },
+      "occurred_at": "2023-01-10T04:38:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5bAGCD",
+        "number": 112,
+        "title": "Add black check for PRs?",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/112"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/112#issuecomment-1376724823"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM5SDzc_",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5SDzc_"
+      },
+      "occurred_at": "2023-01-10T04:45:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5bAGCD",
+        "number": 112,
+        "title": "Add black check for PRs?",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/112"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/112#issuecomment-1376728895"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:e366dbcc6ea667d3edf0561c4d4a63ae973f9741",
+      "metadata": {
+        "authored_at": "2023-01-10T04:51:34Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "email": "dotsdl@gmail.com",
+          "name": "David Dotson"
+        },
+        "parent_shas": [
+          "61c91102a1b05bcd81c6a977c2e2f1f0f5f4d0ed"
+        ],
+        "sha": "e366dbcc6ea667d3edf0561c4d4a63ae973f9741"
+      },
+      "occurred_at": "2023-01-10T04:51:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKGUzNjZkYmNjNmVhNjY3ZDNlZGYwNTYxYzRkNGE2M2FlOTczZjk3NDE",
+        "number": null,
+        "title": "Additional tests for transformation extensions, fixes",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/e366dbcc6ea667d3edf0561c4d4a63ae973f9741"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/e366dbcc6ea667d3edf0561c4d4a63ae973f9741"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM4_f7o5",
+      "metadata": {
+        "created_at": "2023-01-10T05:00:36Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2023-01-10T05:00:36Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM5KAChp",
+        "source_node_id": "PRRC_kwDOHD_0tM4_f7o5",
+        "thread_node_id": "PRRT_kwDOHD_0tM4ogn1k",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-01-10T05:00:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5GU5d_",
+        "number": 111,
+        "title": "Implementation of topological approach for relationships between `ProtocolDAGResult`s",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/111"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/111#discussion_r1065335353"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM5KAChp",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM5KAChp",
+        "state": "COMMENTED",
+        "submitted_at": "2023-01-10T05:00:36Z"
+      },
+      "occurred_at": "2023-01-10T05:00:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5GU5d_",
+        "number": 111,
+        "title": "Implementation of topological approach for relationships between `ProtocolDAGResult`s",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/111"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/111#pullrequestreview-1241524329"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:b4b977823fd912ba9fb7df7617071b71c6dd228d",
+      "metadata": {
+        "authored_at": "2023-01-10T17:16:52Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "a299bfb80e4e5bd1d13d17e2f4cba05dd8471a3e"
+        ],
+        "sha": "b4b977823fd912ba9fb7df7617071b71c6dd228d"
+      },
+      "occurred_at": "2023-01-10T17:16:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKGI0Yjk3NzgyM2ZkOTEyYmE5ZmI3ZGY3NjE3MDcxYjcxYzZkZDIyOGQ",
+        "number": null,
+        "title": "Add build badge to README",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/b4b977823fd912ba9fb7df7617071b71c6dd228d"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/b4b977823fd912ba9fb7df7617071b71c6dd228d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM5HFvHB",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM5HFvHB"
+      },
+      "occurred_at": "2023-01-10T17:17:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5HFvHB",
+        "number": 113,
+        "title": "Add build badge to README",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/113"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/113"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM5SHIZr",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5SHIZr"
+      },
+      "occurred_at": "2023-01-10T17:22:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5FoH-z",
+        "number": 109,
+        "title": "Default Settings",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/109"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/109#issuecomment-1377601131"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM5SHIce",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5SHIce"
+      },
+      "occurred_at": "2023-01-10T17:23:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5HFvHB",
+        "number": 113,
+        "title": "Add build badge to README",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/113"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/113#issuecomment-1377601310"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM5SHIf-",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5SHIf-"
+      },
+      "occurred_at": "2023-01-10T17:23:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5E8xW6",
+        "number": 105,
+        "title": "Fix issues with custom JSON codecs",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/105"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/105#issuecomment-1377601534"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM5KEkbw",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM5KEkbw",
+        "state": "APPROVED",
+        "submitted_at": "2023-01-10T17:47:15Z"
+      },
+      "occurred_at": "2023-01-10T17:47:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5HFvHB",
+        "number": 113,
+        "title": "Add build badge to README",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/113"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/113#pullrequestreview-1242711792"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:988a05c63231d1442436bffa2f68ccdaa64e52a6",
+      "metadata": {
+        "authored_at": "2023-01-10T17:47:24Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "a299bfb80e4e5bd1d13d17e2f4cba05dd8471a3e",
+          "b4b977823fd912ba9fb7df7617071b71c6dd228d"
+        ],
+        "sha": "988a05c63231d1442436bffa2f68ccdaa64e52a6"
+      },
+      "occurred_at": "2023-01-10T17:47:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDk4OGEwNWM2MzIzMWQxNDQyNDM2YmZmYTJmNjhjY2RhYTY0ZTUyYTY",
+        "number": null,
+        "title": "Merge pull request #113 from OpenFreeEnergy/mikemhenry-patch-1",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/988a05c63231d1442436bffa2f68ccdaa64e52a6"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/988a05c63231d1442436bffa2f68ccdaa64e52a6"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM5bD46fzwAAAAHobkJj",
+      "metadata": {
+        "merge_commit_sha": "988a05c63231d1442436bffa2f68ccdaa64e52a6",
+        "source_node_id": "ME_lADOHD_0tM5bD46fzwAAAAHobkJj"
+      },
+      "occurred_at": "2023-01-10T17:47:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5HFvHB",
+        "number": 113,
+        "title": "Add build badge to README",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/113"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/113#event-8194507363"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:87cf2f3ee1fcbd64f05cc39aa511ede6d80cd526",
+      "metadata": {
+        "authored_at": "2023-01-13T19:31:10Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "email": "dotsdl@gmail.com",
+          "name": "David Dotson"
+        },
+        "parent_shas": [
+          "e366dbcc6ea667d3edf0561c4d4a63ae973f9741"
+        ],
+        "sha": "87cf2f3ee1fcbd64f05cc39aa511ede6d80cd526"
+      },
+      "occurred_at": "2023-01-13T19:31:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDg3Y2YyZjNlZTFmY2JkNjRmMDVjYzM5YWE1MTFlZGU2ZDgwY2Q1MjY",
+        "number": null,
+        "title": "Made transformation required for ProtocolDAG(Result)",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/87cf2f3ee1fcbd64f05cc39aa511ede6d80cd526"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/87cf2f3ee1fcbd64f05cc39aa511ede6d80cd526"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:02f6b076844c19f8c278a5c6a218c76786ed38be",
+      "metadata": {
+        "authored_at": "2023-01-16T05:15:50Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "email": "dotsdl@gmail.com",
+          "name": "David Dotson"
+        },
+        "parent_shas": [
+          "87cf2f3ee1fcbd64f05cc39aa511ede6d80cd526"
+        ],
+        "sha": "02f6b076844c19f8c278a5c6a218c76786ed38be"
+      },
+      "occurred_at": "2023-01-16T05:15:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDAyZjZiMDc2ODQ0YzE5ZjhjMjc4YTVjNmEyMThjNzY3ODZlZDM4YmU",
+        "number": null,
+        "title": "Fixed broken tests",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/02f6b076844c19f8c278a5c6a218c76786ed38be"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/02f6b076844c19f8c278a5c6a218c76786ed38be"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM5Sdsd6",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5Sdsd6"
+      },
+      "occurred_at": "2023-01-16T05:33:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5GU5d_",
+        "number": 111,
+        "title": "Implementation of topological approach for relationships between `ProtocolDAGResult`s",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/111"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/111#issuecomment-1383516026"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:2961844ae7819c351d963c7ef61daba87cf833c3",
+      "metadata": {
+        "authored_at": "2023-01-16T05:34:29Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "email": "dotsdl@gmail.com",
+          "name": "David Dotson"
+        },
+        "parent_shas": [
+          "02f6b076844c19f8c278a5c6a218c76786ed38be"
+        ],
+        "sha": "2961844ae7819c351d963c7ef61daba87cf833c3"
+      },
+      "occurred_at": "2023-01-16T05:34:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDI5NjE4NDRhZTc4MTljMzUxZDk2M2M3ZWY2MWRhYmE4N2NmODMzYzM",
+        "number": null,
+        "title": "Transformation.create should pass its key, not itself",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/2961844ae7819c351d963c7ef61daba87cf833c3"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/2961844ae7819c351d963c7ef61daba87cf833c3"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:2f589c437e4640dd487a695b194e7ff2f6c9069d",
+      "metadata": {
+        "authored_at": "2023-01-16T05:35:58Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "email": "dotsdl@gmail.com",
+          "name": "David Dotson"
+        },
+        "parent_shas": [
+          "2961844ae7819c351d963c7ef61daba87cf833c3",
+          "988a05c63231d1442436bffa2f68ccdaa64e52a6"
+        ],
+        "sha": "2f589c437e4640dd487a695b194e7ff2f6c9069d"
+      },
+      "occurred_at": "2023-01-16T05:35:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDJmNTg5YzQzN2U0NjQwZGQ0ODdhNjk1YjE5NGU3ZmYyZjZjOTA2OWQ",
+        "number": null,
+        "title": "Merge branch 'main' into topological-results",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/2f589c437e4640dd487a695b194e7ff2f6c9069d"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/2f589c437e4640dd487a695b194e7ff2f6c9069d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM5SdtHJ",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5SdtHJ"
+      },
+      "occurred_at": "2023-01-16T05:39:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5GU5d_",
+        "number": 111,
+        "title": "Implementation of topological approach for relationships between `ProtocolDAGResult`s",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/111"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/111#issuecomment-1383518665"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOHD_0tM5bmj9J",
+      "metadata": {
+        "source_node_id": "I_kwDOHD_0tM5bmj9J"
+      },
+      "occurred_at": "2023-01-17T18:20:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5bmj9J",
+        "number": 114,
+        "title": "Propose object model(s) for representing free energies + uncertainties that generalize well across protocols",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/114"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/114"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM5Sm8iq",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5Sm8iq"
+      },
+      "occurred_at": "2023-01-17T19:30:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5bmj9J",
+        "number": 114,
+        "title": "Propose object model(s) for representing free energies + uncertainties that generalize well across protocols",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/114"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/114#issuecomment-1385941162"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5Auq8j",
+      "metadata": {
+        "created_at": "2023-01-24T21:50:04Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2023-01-26T17:42:30Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM5Lmgy4",
+        "source_node_id": "PRRC_kwDOHD_0tM5Auq8j",
+        "thread_node_id": "PRRT_kwDOHD_0tM4pbHp5",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-01-26T17:42:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5GU5d_",
+        "number": 111,
+        "title": "Implementation of topological approach for relationships between `ProtocolDAGResult`s",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/111"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/111#discussion_r1085976355"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM5Lmgy4",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM5Lmgy4",
+        "state": "CHANGES_REQUESTED",
+        "submitted_at": "2023-01-26T17:42:30Z"
+      },
+      "occurred_at": "2023-01-26T17:42:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5GU5d_",
+        "number": 111,
+        "title": "Implementation of topological approach for relationships between `ProtocolDAGResult`s",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/111"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/111#pullrequestreview-1268387000"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOHD_0tM5c6pQQ",
+      "metadata": {
+        "source_node_id": "I_kwDOHD_0tM5c6pQQ"
+      },
+      "occurred_at": "2023-01-26T22:29:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5c6pQQ",
+        "number": 115,
+        "title": "Move `openfe` `LigandAtomMapping` into `gufe`?",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/115"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/115"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM5Tyxis",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5Tyxis"
+      },
+      "occurred_at": "2023-01-26T23:41:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5c6pQQ",
+        "number": 115,
+        "title": "Move `openfe` `LigandAtomMapping` into `gufe`?",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/115"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/115#issuecomment-1405819052"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM5TzY16",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5TzY16"
+      },
+      "occurred_at": "2023-01-27T03:45:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5c6pQQ",
+        "number": 115,
+        "title": "Move `openfe` `LigandAtomMapping` into `gufe`?",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/115"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/115#issuecomment-1405980026"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM5T2A6r",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5T2A6r"
+      },
+      "occurred_at": "2023-01-27T15:36:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5c6pQQ",
+        "number": 115,
+        "title": "Move `openfe` `LigandAtomMapping` into `gufe`?",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/115"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/115#issuecomment-1406668459"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOHD_0tM5L3zJu",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM5L3zJu",
+        "state": "APPROVED",
+        "submitted_at": "2023-01-27T15:37:53Z"
+      },
+      "occurred_at": "2023-01-27T15:37:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5D50yL",
+        "number": 100,
+        "title": "Speed up protein test loading",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/100"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/100#pullrequestreview-1272918638"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM5T2FqH",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5T2FqH"
+      },
+      "occurred_at": "2023-01-27T15:53:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5c6pQQ",
+        "number": 115,
+        "title": "Move `openfe` `LigandAtomMapping` into `gufe`?",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/115"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/115#issuecomment-1406687879"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM5T2GvE",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5T2GvE"
+      },
+      "occurred_at": "2023-01-27T15:57:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5c6pQQ",
+        "number": 115,
+        "title": "Move `openfe` `LigandAtomMapping` into `gufe`?",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/115"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/115#issuecomment-1406692292"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:23f6aa13f14c911ec40b8eafe7fb86fe429dfab8",
+      "metadata": {
+        "authored_at": "2022-11-29T16:26:04Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "email": "richardjgowers+github@gmail.com",
+          "name": "Richard Gowers"
+        },
+        "parent_shas": [
+          "988a05c63231d1442436bffa2f68ccdaa64e52a6"
+        ],
+        "sha": "23f6aa13f14c911ec40b8eafe7fb86fe429dfab8"
+      },
+      "occurred_at": "2023-01-27T16:38:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDIzZjZhYTEzZjE0YzkxMWVjNDBiOGVhZmU3ZmI4NmZlNDI5ZGZhYjg",
+        "number": null,
+        "title": "Speed up protein test loading",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/23f6aa13f14c911ec40b8eafe7fb86fe429dfab8"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/23f6aa13f14c911ec40b8eafe7fb86fe429dfab8"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM5XhVpuzwAAAAHzMlcC",
+      "metadata": {
+        "merge_commit_sha": "23f6aa13f14c911ec40b8eafe7fb86fe429dfab8",
+        "source_node_id": "ME_lADOHD_0tM5XhVpuzwAAAAHzMlcC"
+      },
+      "occurred_at": "2023-01-27T16:38:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5D50yL",
+        "number": 100,
+        "title": "Speed up protein test loading",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/100"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/100#event-8375129858"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOHD_0tM5I0foH",
+      "metadata": {
+        "source_node_id": "PR_kwDOHD_0tM5I0foH"
+      },
+      "occurred_at": "2023-01-30T14:19:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5I0foH",
+        "number": 116,
+        "title": "Move LigandAtomMappers from openfe to gufe",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/116"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/116"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM5T96O6",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5T96O6"
+      },
+      "occurred_at": "2023-01-30T14:39:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5I0foH",
+        "number": 116,
+        "title": "Move LigandAtomMappers from openfe to gufe",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/116"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/116#issuecomment-1408738234"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI5NDk3Mjk=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM5UBNTR",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5UBNTR"
+      },
+      "occurred_at": "2023-01-31T01:14:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5I0foH",
+        "number": 116,
+        "title": "Move LigandAtomMappers from openfe to gufe",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/116"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/116#issuecomment-1409602769"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:3159affa8fcb853758acdd99cb22178815211e68",
+      "metadata": {
+        "authored_at": "2023-01-30T14:25:24Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "email": "richardjgowers+github@gmail.com",
+          "name": "Richard Gowers"
+        },
+        "parent_shas": [
+          "7e9f85d2c638bc8e163bf23b0dc4c0957e8ce5d5"
+        ],
+        "sha": "3159affa8fcb853758acdd99cb22178815211e68"
+      },
+      "occurred_at": "2023-01-31T08:58:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDMxNTlhZmZhOGZjYjg1Mzc1OGFjZGQ5OWNiMjIxNzg4MTUyMTFlNjg",
+        "number": null,
+        "title": "mypy fixup",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/3159affa8fcb853758acdd99cb22178815211e68"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/3159affa8fcb853758acdd99cb22178815211e68"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:3918289b0d5a114ef85c734b9d9f1a570708fc9b",
+      "metadata": {
+        "authored_at": "2023-01-30T10:32:33Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "email": "richardjgowers+github@gmail.com",
+          "name": "Richard Gowers"
+        },
+        "parent_shas": [
+          "23f6aa13f14c911ec40b8eafe7fb86fe429dfab8"
+        ],
+        "sha": "3918289b0d5a114ef85c734b9d9f1a570708fc9b"
+      },
+      "occurred_at": "2023-01-31T08:58:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDM5MTgyODliMGQ1YTExNGVmODVjNzM0YjlkOWYxYTU3MDcwOGZjOWI",
+        "number": null,
+        "title": "move vis to gufe",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/3918289b0d5a114ef85c734b9d9f1a570708fc9b"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/3918289b0d5a114ef85c734b9d9f1a570708fc9b"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:7e9f85d2c638bc8e163bf23b0dc4c0957e8ce5d5",
+      "metadata": {
+        "authored_at": "2023-01-30T14:15:28Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "email": "richardjgowers+github@gmail.com",
+          "name": "Richard Gowers"
+        },
+        "parent_shas": [
+          "a6338c70e49341f90e2ef47ab4299b04512bd818"
+        ],
+        "sha": "7e9f85d2c638bc8e163bf23b0dc4c0957e8ce5d5"
+      },
+      "occurred_at": "2023-01-31T08:58:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDdlOWY4NWQyYzYzOGJjOGUxNjNiZjIzYjBkYzRjMDk1N2U4Y2U1ZDU",
+        "number": null,
+        "title": "added ligandatommapping to gufe",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/7e9f85d2c638bc8e163bf23b0dc4c0957e8ce5d5"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/7e9f85d2c638bc8e163bf23b0dc4c0957e8ce5d5"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:a6338c70e49341f90e2ef47ab4299b04512bd818",
+      "metadata": {
+        "authored_at": "2023-01-30T11:21:58Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "email": "richardjgowers+github@gmail.com",
+          "name": "Richard Gowers"
+        },
+        "parent_shas": [
+          "3918289b0d5a114ef85c734b9d9f1a570708fc9b"
+        ],
+        "sha": "a6338c70e49341f90e2ef47ab4299b04512bd818"
+      },
+      "occurred_at": "2023-01-31T08:58:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKGE2MzM4YzcwZTQ5MzQxZjkwZTJlZjQ3YWI0Mjk5YjA0NTEyYmQ4MTg",
+        "number": null,
+        "title": "move vis within gufe",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/a6338c70e49341f90e2ef47ab4299b04512bd818"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/a6338c70e49341f90e2ef47ab4299b04512bd818"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOHD_0tM5dIm1hzwAAAAH0f7xX",
+      "metadata": {
+        "merge_commit_sha": "3159affa8fcb853758acdd99cb22178815211e68",
+        "source_node_id": "ME_lADOHD_0tM5dIm1hzwAAAAH0f7xX"
+      },
+      "occurred_at": "2023-01-31T08:58:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5I0foH",
+        "number": 116,
+        "title": "Move LigandAtomMappers from openfe to gufe",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/116"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/116#event-8396979287"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOHD_0tM5c6pQQzwAAAAH0f71l",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOHD_0tM5c6pQQzwAAAAH0f71l"
+      },
+      "occurred_at": "2023-01-31T08:58:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5c6pQQ",
+        "number": 115,
+        "title": "Move `openfe` `LigandAtomMapping` into `gufe`?",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/115"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/115#event-8396979557"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOHD_0tM5UCsJv",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5UCsJv"
+      },
+      "occurred_at": "2023-01-31T09:01:21Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5I0foH",
+        "number": 116,
+        "title": "Move LigandAtomMappers from openfe to gufe",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/116"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/116#issuecomment-1409991279"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:3dab3f519c0e9544cde3cfaff465db5e73415fc1",
+      "metadata": {
+        "authored_at": "2023-01-31T16:12:51Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "email": "richardjgowers@gmail.com",
+          "name": "richard"
+        },
+        "parent_shas": [
+          "3159affa8fcb853758acdd99cb22178815211e68"
+        ],
+        "sha": "3dab3f519c0e9544cde3cfaff465db5e73415fc1"
+      },
+      "occurred_at": "2023-01-31T16:12:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKDNkYWIzZjUxOWMwZTk1NDRjZGUzY2ZhZmY0NjVkYjVlNzM0MTVmYzE",
+        "number": null,
+        "title": "backport changes to mapping vis from openfe",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/3dab3f519c0e9544cde3cfaff465db5e73415fc1"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/3dab3f519c0e9544cde3cfaff465db5e73415fc1"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOHD_0tM5dQ80S",
+      "metadata": {
+        "source_node_id": "I_kwDOHD_0tM5dQ80S"
+      },
+      "occurred_at": "2023-01-31T17:24:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5dQ80S",
+        "number": 117,
+        "title": "Add docstrings to `LigandAtomMapping` methods",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/117"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/117"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM5UFsyM",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5UFsyM"
+      },
+      "occurred_at": "2023-01-31T17:25:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5dQ80S",
+        "number": 117,
+        "title": "Add docstrings to `LigandAtomMapping` methods",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/117"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/117#issuecomment-1410780300"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM5UFs4O",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5UFs4O"
+      },
+      "occurred_at": "2023-01-31T17:25:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5dQ80S",
+        "number": 117,
+        "title": "Add docstrings to `LigandAtomMapping` methods",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/117"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/117#issuecomment-1410780686"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOHD_0tM5UFtMO",
+      "metadata": {
+        "source_node_id": "IC_kwDOHD_0tM5UFtMO"
+      },
+      "occurred_at": "2023-01-31T17:26:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "issue",
+        "node_id": "I_kwDOHD_0tM5dQ80S",
+        "number": 117,
+        "title": "Add docstrings to `LigandAtomMapping` methods",
+        "url": "https://github.com/OpenFreeEnergy/gufe/issues/117"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/issues/117#issuecomment-1410781966"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOHD_0tA:c36d3829c038ab8c8c6056388f4817bf7efdcd5c",
+      "metadata": {
+        "authored_at": "2023-01-31T22:40:24Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "email": "11765982+mikemhenry@users.noreply.github.com",
+          "name": "Mike Henry"
+        },
+        "parent_shas": [
+          "5954abd92effb2cde937002000f5cd18f459b02b"
+        ],
+        "sha": "c36d3829c038ab8c8c6056388f4817bf7efdcd5c"
+      },
+      "occurred_at": "2023-01-31T22:40:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "commit",
+        "node_id": "C_kwDOHD_0tNoAKGMzNmQzODI5YzAzOGFiOGM4YzYwNTYzODhmNDgxN2JmN2VmZGNkNWM",
+        "number": null,
+        "title": "fixed custom codecs for openff units and quants",
+        "url": "https://github.com/OpenFreeEnergy/gufe/commit/c36d3829c038ab8c8c6056388f4817bf7efdcd5c"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/gufe/commit/c36d3829c038ab8c8c6056388f4817bf7efdcd5c"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "bot",
+      "database_id": 22429695,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90MjI0Mjk2OTU=",
+      "key": "MDM6Qm90MjI0Mjk2OTU=",
+      "login": "codecov",
+      "url": "https://github.com/apps/codecov"
+    },
+    {
+      "classification": "human",
+      "database_id": 11765982,
+      "display_name": "Mike Henry",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjExNzY1OTgy",
+      "key": "MDQ6VXNlcjExNzY1OTgy",
+      "login": "mikemhenry",
+      "url": "https://github.com/mikemhenry"
+    },
+    {
+      "classification": "human",
+      "database_id": 12460125,
+      "display_name": "Irfan Alibay",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjEyNDYwMTI1",
+      "key": "MDQ6VXNlcjEyNDYwMTI1",
+      "login": "IAlibay",
+      "url": "https://github.com/IAlibay"
+    },
+    {
+      "classification": "human",
+      "database_id": 1326811,
+      "display_name": "David L. Dotson",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjEzMjY4MTE=",
+      "key": "MDQ6VXNlcjEzMjY4MTE=",
+      "login": "dotsdl",
+      "url": "https://github.com/dotsdl"
+    },
+    {
+      "classification": "human",
+      "database_id": 2949729,
+      "display_name": "Iván Pulido",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjI5NDk3Mjk=",
+      "key": "MDQ6VXNlcjI5NDk3Mjk=",
+      "login": "ijpulidos",
+      "url": "https://github.com/ijpulidos"
+    },
+    {
+      "classification": "human",
+      "database_id": 8178546,
+      "display_name": "David W.H. Swenson",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjgxNzg1NDY=",
+      "key": "MDQ6VXNlcjgxNzg1NDY=",
+      "login": "dwhswenson",
+      "url": "https://github.com/dwhswenson"
+    },
+    {
+      "classification": "human",
+      "database_id": 9249543,
+      "display_name": "Richard Gowers",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjkyNDk1NDM=",
+      "key": "MDQ6VXNlcjkyNDk1NDM=",
+      "login": "richardjgowers",
+      "url": "https://github.com/richardjgowers"
+    },
+    {
+      "classification": "unresolved_git",
+      "database_id": null,
+      "display_name": null,
+      "git_email": "noreply@github.com",
+      "git_name": "GitHub",
+      "github_node_id": null,
+      "key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+      "login": null,
+      "url": null
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-17T23:01:40.762739Z",
+    "collection_started_at": "2026-10-17T22:59:55.355454Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "a9aeae4f86f1b3a34ef0732277777bc3a45d9035",
+    "month": "2023-01",
+    "month_end": "2023-02-01T00:00:00Z",
+    "month_start": "2023-01-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "OpenFreeEnergy/gufe",
+    "repository_node_id": "R_kgDOHD_0tA",
+    "repository_url": "https://github.com/OpenFreeEnergy/gufe"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDM6Qm90MjI0Mjk2OTU=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 2,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjExNzY1OTgy": {
+        "commit": 2,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 1,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjEyNDYwMTI1": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 3,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjEzMjY4MTE=": {
+        "commit": 7,
+        "issue_closed": 0,
+        "issue_comment": 3,
+        "issue_opened": 4,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 6,
+        "pr_inline_review_comment": 1,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 1
+      },
+      "MDQ6VXNlcjI5NDk3Mjk=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjgxNzg1NDY=": {
+        "commit": 2,
+        "issue_closed": 0,
+        "issue_comment": 3,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 1,
+        "pr_merged": 1,
+        "pr_opened": 0,
+        "pr_review": 2
+      },
+      "MDQ6VXNlcjkyNDk1NDM=": {
+        "commit": 5,
+        "issue_closed": 1,
+        "issue_comment": 2,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 1,
+        "pr_merged": 2,
+        "pr_opened": 1,
+        "pr_review": 2
+      }
+    },
+    "distinct_actors": {
+      "bot": 1,
+      "human": 6,
+      "total": 7,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 1,
+        "human": 3,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 16,
+      "issue_closed": 1,
+      "issue_comment": 11,
+      "issue_opened": 4,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 10,
+      "pr_inline_review_comment": 3,
+      "pr_merged": 3,
+      "pr_opened": 2,
+      "pr_review": 5
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}
