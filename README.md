@@ -2,8 +2,8 @@
 
 Plain HTML and shared visualization assets for <https://repo-history.dwhswenson.net>.
 Cloudflare Pages hosts the site; AWS Route53 hosts DNS for `dwhswenson.net`.
-This repository currently contains a placeholder homepage and the deployment
-scaffold. Repository reports and collection automation will be added later.
+This repository contains a placeholder homepage, a command for adding repository
+reports, and the deployment scaffold. Scheduled collection will be added later.
 
 ## Local development
 
@@ -23,7 +23,7 @@ available:
 
 | Environment | Feature | Example |
 | --- | --- | --- |
-| `collection` | Editable Python collector and summarizer | `pixi run -e collection repo-history --help` |
+| `collection` | Editable Python collector and summarizer | `pixi run -e collection add-repo owner/repo` |
 | `visualization` | Local visualizer build and asset refresh | `pixi run -e visualization update-viz` |
 | `infra` | OpenTofu infrastructure management | `pixi run -e infra infra-validate` |
 | `dev` | All lifecycle features | `pixi run -e dev demo` |
@@ -62,23 +62,52 @@ change its source files. A failed installation or build prevents the copy.
 Commit refreshed assets here. GitHub Actions deploys the committed files and
 does not need Python, Node.js, or your local source checkout.
 
-### Future repository pages
+### Add a repository
 
-Add pages at `site/<owner>/<repo>/index.html`, served at `/<owner>/<repo>/`.
-Each page should load the same module and its own summary manifest:
+Set `GH_TOKEN` or `GITHUB_TOKEN` for the collector, then run:
+
+```sh
+pixi run add-repo owner/repo
+# Or use the focused collection environment:
+pixi run -e collection add-repo owner/repo
+```
+
+The task runs `repo-history backfill` for the full available history, runs
+`repo-history summarize`, and creates a simple visualization page. All outputs
+live together directly in `site/<owner>/<repo>/`:
+
+```text
+site/owner/repo/
+  YYYY-MM.json
+  ...
+  manifest.json
+  index.html
+```
+
+The page is served at `/<owner>/<repo>/`. Preview it with `pixi run demo` and
+commit the resulting directory to publish it through the existing workflows.
+Monthly reports are hosted along with the manifest and HTML.
+
+Rerunning the task backfills again, rebuilds the manifest, and replaces the
+generated page. Collection or summarization errors stop the task before it
+writes the page; monthly files already written by the collector are retained.
+
+Each page loads the same shared module and its own summary manifest:
 
 ```html
 <script type="module" src="/assets/repo-history-viz.mjs"></script>
-<repo-history-viz manifest="./manifest.json" hide-loader></repo-history-viz>
+<repo-history-viz
+  manifest="./manifest.json"
+  measures="github-activities commits contributors total-contributors balance"
+  hide-loader
+></repo-history-viz>
 ```
 
-Keep raw monthly reports outside `site/`; publish the summary manifest when
-adding a repository page. For example, after collecting reports separately:
+To rebuild just the manifest after updating monthly reports:
 
 ```sh
 pixi run repo-history summarize \
-  --input-directory /path/to/reports \
-  --output site/OWNER/REPO/manifest.json
+  --input-directory site/OWNER/REPO
 ```
 
 There is one hosted visualizer bundle shared by all repository pages.

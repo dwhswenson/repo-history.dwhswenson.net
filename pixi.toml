@@ -14,6 +14,9 @@ python = "3.12.*"
 [feature.collection.pypi-dependencies]
 repo-history = { path = "/Users/dwhs/Dropbox/omsf/mupt/repo-history-tracking", editable = true }
 
+[feature.collection.tasks]
+add-repo = "python scripts/add_repo.py"
+
 [feature.visualization.dependencies]
 nodejs = "24.*"
 
