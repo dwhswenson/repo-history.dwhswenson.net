@@ -1,0 +1,2072 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:744121e2a9dcf043f5c97530bf3b032e94b3b84f",
+      "metadata": {
+        "authored_at": "2023-01-10T03:26:50Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "email": "ialibay@mdanalysis.org",
+          "name": "IAlibay"
+        },
+        "parent_shas": [
+          "86be60c76482c73a538a392a9229d953f754e2ba"
+        ],
+        "sha": "744121e2a9dcf043f5c97530bf3b032e94b3b84f"
+      },
+      "occurred_at": "2023-01-10T03:26:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDc0NDEyMWUyYTlkY2YwNDNmNWM5NzUzMGJmM2IwMzJlOTRiM2I4NGY",
+        "number": null,
+        "title": "first pass at some draft code",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/744121e2a9dcf043f5c97530bf3b032e94b3b84f"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/744121e2a9dcf043f5c97530bf3b032e94b3b84f"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM5HCP20",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM5HCP20"
+      },
+      "occurred_at": "2023-01-10T03:27:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5HCP20",
+        "number": 237,
+        "title": "Absolute free energy protocol (no restraints)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/237"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/237"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:4889a843a93f1b3034a059fa420d9784bfc88cd5",
+      "metadata": {
+        "authored_at": "2023-01-10T03:34:14Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "email": "ialibay@mdanalysis.org",
+          "name": "IAlibay"
+        },
+        "parent_shas": [
+          "744121e2a9dcf043f5c97530bf3b032e94b3b84f"
+        ],
+        "sha": "4889a843a93f1b3034a059fa420d9784bfc88cd5"
+      },
+      "occurred_at": "2023-01-10T03:34:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDQ4ODlhODQzYTkzZjFiMzAzNGEwNTlmYTQyMGQ5Nzg0YmZjODhjZDU",
+        "number": null,
+        "title": "Avoid numpy 1.24 issues for now",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/4889a843a93f1b3034a059fa420d9784bfc88cd5"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/4889a843a93f1b3034a059fa420d9784bfc88cd5"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5SDrqP",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5SDrqP"
+      },
+      "occurred_at": "2023-01-10T03:57:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5HCP20",
+        "number": 237,
+        "title": "Absolute free energy protocol (no restraints)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/237"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/237#issuecomment-1376696975"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:b4cd06c50f3d1225fe09a43dac1cd794a4f33692",
+      "metadata": {
+        "authored_at": "2023-01-10T05:10:39Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "email": "ialibay@mdanalysis.org",
+          "name": "IAlibay"
+        },
+        "parent_shas": [
+          "4889a843a93f1b3034a059fa420d9784bfc88cd5"
+        ],
+        "sha": "b4cd06c50f3d1225fe09a43dac1cd794a4f33692"
+      },
+      "occurred_at": "2023-01-10T05:10:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKGI0Y2QwNmM1MGYzZDEyMjVmZTA5YTQzZGFjMWNkNzk0YTRmMzM2OTI",
+        "number": null,
+        "title": "various fixes",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/b4cd06c50f3d1225fe09a43dac1cd794a4f33692"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/b4cd06c50f3d1225fe09a43dac1cd794a4f33692"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:f59d011be5e750465ff5f61cc7ae90064ec092fe",
+      "metadata": {
+        "authored_at": "2023-01-10T05:17:48Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "email": "ialibay@mdanalysis.org",
+          "name": "IAlibay"
+        },
+        "parent_shas": [
+          "b4cd06c50f3d1225fe09a43dac1cd794a4f33692"
+        ],
+        "sha": "f59d011be5e750465ff5f61cc7ae90064ec092fe"
+      },
+      "occurred_at": "2023-01-10T05:17:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKGY1OWQwMTFiZTVlNzUwNDY1ZmY1ZjYxY2M3YWU5MDA2NGVjMDkyZmU",
+        "number": null,
+        "title": "more tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/f59d011be5e750465ff5f61cc7ae90064ec092fe"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/f59d011be5e750465ff5f61cc7ae90064ec092fe"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:56bd856136945ea56dae02298642f58a39776e27",
+      "metadata": {
+        "authored_at": "2023-01-10T12:45:10Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "86be60c76482c73a538a392a9229d953f754e2ba"
+        ],
+        "sha": "56bd856136945ea56dae02298642f58a39776e27"
+      },
+      "occurred_at": "2023-01-10T12:45:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDU2YmQ4NTYxMzY5NDVlYTU2ZGFlMDIyOTg2NDJmNThhMzk3NzZlMjc",
+        "number": null,
+        "title": "Update environment.yml",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/56bd856136945ea56dae02298642f58a39776e27"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/56bd856136945ea56dae02298642f58a39776e27"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM5HEVFh",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM5HEVFh"
+      },
+      "occurred_at": "2023-01-10T12:45:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5HEVFh",
+        "number": 238,
+        "title": "temporarily pin numpy because of numba issues",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/238"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/238"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5SFuHw",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5SFuHw"
+      },
+      "occurred_at": "2023-01-10T13:07:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5HEVFh",
+        "number": 238,
+        "title": "temporarily pin numpy because of numba issues",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/238"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/238#issuecomment-1377231344"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM5KEhDz",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5KEhDz",
+        "state": "APPROVED",
+        "submitted_at": "2023-01-10T17:36:44Z"
+      },
+      "occurred_at": "2023-01-10T17:36:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5HEVFh",
+        "number": 238,
+        "title": "temporarily pin numpy because of numba issues",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/238"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/238#pullrequestreview-1242697971"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:82a6a6db4c22cc5b30ddf26253db10130a24662f",
+      "metadata": {
+        "authored_at": "2023-01-10T17:37:01Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "86be60c76482c73a538a392a9229d953f754e2ba",
+          "56bd856136945ea56dae02298642f58a39776e27"
+        ],
+        "sha": "82a6a6db4c22cc5b30ddf26253db10130a24662f"
+      },
+      "occurred_at": "2023-01-10T17:37:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDgyYTZhNmRiNGMyMmNjNWIzMGRkZjI2MjUzZGIxMDEzMGEyNDY2MmY",
+        "number": null,
+        "title": "Merge pull request #238 from OpenFreeEnergy/pin-numpy",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/82a6a6db4c22cc5b30ddf26253db10130a24662f"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/82a6a6db4c22cc5b30ddf26253db10130a24662f"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM5bCTQBzwAAAAHobO8H",
+      "metadata": {
+        "merge_commit_sha": "82a6a6db4c22cc5b30ddf26253db10130a24662f",
+        "source_node_id": "ME_lADOGuqVzM5bCTQBzwAAAAHobO8H"
+      },
+      "occurred_at": "2023-01-10T17:37:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5HEVFh",
+        "number": 238,
+        "title": "temporarily pin numpy because of numba issues",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/238"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/238#event-8194420487"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM5bmcZh",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM5bmcZh"
+      },
+      "occurred_at": "2023-01-17T17:58:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5bmcZh",
+        "number": 239,
+        "title": "atom mapping bonds seem red too often",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/239"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/239"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM5cR1Hj",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM5cR1Hj"
+      },
+      "occurred_at": "2023-01-18T21:54:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5cR1Hj",
+        "number": 240,
+        "title": "Serialization of get_results is causing quickrun to fail when applying it to the OpenMMRBFE protocol",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/240"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/240"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM5TN3mx",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5TN3mx"
+      },
+      "occurred_at": "2023-01-18T21:58:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5cR1Hj",
+        "number": 240,
+        "title": "Serialization of get_results is causing quickrun to fail when applying it to the OpenMMRBFE protocol",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/240"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/240#issuecomment-1396144561"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM5IHbNz",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM5IHbNz"
+      },
+      "occurred_at": "2023-01-19T11:45:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IHbNz",
+        "number": 241,
+        "title": "update mapping visualization of bond changes",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/241"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/241"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5TQj2g",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5TQj2g"
+      },
+      "occurred_at": "2023-01-19T11:48:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IHbNz",
+        "number": 241,
+        "title": "update mapping visualization of bond changes",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/241"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/241#issuecomment-1396850080"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5TReEB",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5TReEB"
+      },
+      "occurred_at": "2023-01-19T14:45:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IHbNz",
+        "number": 241,
+        "title": "update mapping visualization of bond changes",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/241"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/241#issuecomment-1397088513"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5TRih7",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5TRih7"
+      },
+      "occurred_at": "2023-01-19T14:57:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IHbNz",
+        "number": 241,
+        "title": "update mapping visualization of bond changes",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/241"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/241#issuecomment-1397106811"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMyMDY2MjUz",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM5cdIWY",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM5cdIWY"
+      },
+      "occurred_at": "2023-01-20T16:31:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMyMDY2MjUz",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5cdIWY",
+        "number": 242,
+        "title": "ValueError: mapping .... deviates by more than 0.5",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/242"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/242"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM5cdJ-O",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM5cdJ-O"
+      },
+      "occurred_at": "2023-01-20T16:37:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5cdJ-O",
+        "number": 243,
+        "title": "Switch to using `LangevinMiddleIntegrator`",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/243"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/243"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMyMDY2MjUz",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM5cdl0N",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM5cdl0N"
+      },
+      "occurred_at": "2023-01-20T18:10:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMyMDY2MjUz",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5cdl0N",
+        "number": 244,
+        "title": "Graph generated by minimal_spanning_graph produces a different map every time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/244"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/244"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:524eddf4fb88994569711f800023d57030d4d5fc",
+      "metadata": {
+        "authored_at": "2023-01-22T00:53:30Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "email": "david.swenson@omsf.io",
+          "name": "David W.H. Swenson"
+        },
+        "parent_shas": [
+          "82a6a6db4c22cc5b30ddf26253db10130a24662f"
+        ],
+        "sha": "524eddf4fb88994569711f800023d57030d4d5fc"
+      },
+      "occurred_at": "2023-01-22T00:53:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDUyNGVkZGY0ZmI4ODk5NDU2OTcxMWY4MDAwMjNkNTcwMzBkNGQ1ZmM",
+        "number": null,
+        "title": "Maximal network planner",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/524eddf4fb88994569711f800023d57030d4d5fc"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/524eddf4fb88994569711f800023d57030d4d5fc"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM5IRRIs",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM5IRRIs"
+      },
+      "occurred_at": "2023-01-22T01:02:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IRRIs",
+        "number": 245,
+        "title": "Maximal network planner",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/245"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/245"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5TaMt4",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5TaMt4"
+      },
+      "occurred_at": "2023-01-22T01:23:20Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IRRIs",
+        "number": 245,
+        "title": "Maximal network planner",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/245"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/245#issuecomment-1399376760"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMyMDY2MjUz",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM5cgXPJ",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM5cgXPJ"
+      },
+      "occurred_at": "2023-01-22T03:00:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMyMDY2MjUz",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5cgXPJ",
+        "number": 246,
+        "title": "Including non standard residues",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/246"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/246"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM5Tfz_g",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5Tfz_g"
+      },
+      "occurred_at": "2023-01-23T19:14:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMyMDY2MjUz",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5cdl0N",
+        "number": 244,
+        "title": "Graph generated by minimal_spanning_graph produces a different map every time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/244"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/244#issuecomment-1400848352"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMyMDY2MjUz",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM5Tf6VL",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5Tf6VL"
+      },
+      "occurred_at": "2023-01-23T19:35:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMyMDY2MjUz",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5cdl0N",
+        "number": 244,
+        "title": "Graph generated by minimal_spanning_graph produces a different map every time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/244"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/244#issuecomment-1400874315"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM5TrQBJ",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5TrQBJ"
+      },
+      "occurred_at": "2023-01-25T16:02:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMyMDY2MjUz",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5cdl0N",
+        "number": 244,
+        "title": "Graph generated by minimal_spanning_graph produces a different map every time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/244"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/244#issuecomment-1403846729"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM5TtB1e",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5TtB1e"
+      },
+      "occurred_at": "2023-01-25T22:31:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMyMDY2MjUz",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5cdl0N",
+        "number": 244,
+        "title": "Graph generated by minimal_spanning_graph produces a different map every time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/244"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/244#issuecomment-1404312926"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM5IjPpJ",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM5IjPpJ"
+      },
+      "occurred_at": "2023-01-25T22:32:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IjPpJ",
+        "number": 247,
+        "title": "[WIP] Sort nodes/edges on creation of NetworkX graph",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/247"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/247"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5TtGCC",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5TtGCC"
+      },
+      "occurred_at": "2023-01-25T22:54:21Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IjPpJ",
+        "number": 247,
+        "title": "[WIP] Sort nodes/edges on creation of NetworkX graph",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/247"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/247#issuecomment-1404330114"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5TxX46",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5TxX46"
+      },
+      "occurred_at": "2023-01-26T18:51:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IjPpJ",
+        "number": 247,
+        "title": "[WIP] Sort nodes/edges on creation of NetworkX graph",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/247"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/247#issuecomment-1405451834"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM5IrN_e",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM5IrN_e"
+      },
+      "occurred_at": "2023-01-27T12:59:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IrN_e",
+        "number": 248,
+        "title": "adding 3D structure Mapping Vis to LigandMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/248"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/248"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5T1ZIH",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5T1ZIH"
+      },
+      "occurred_at": "2023-01-27T13:23:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IrN_e",
+        "number": 248,
+        "title": "adding 3D structure Mapping Vis to LigandMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/248"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/248#issuecomment-1406505479"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM5Ir1YC",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM5Ir1YC"
+      },
+      "occurred_at": "2023-01-27T15:03:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5Ir1YC",
+        "number": 249,
+        "title": "Kartograf integration",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/249"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/249"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5T13Pz",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5T13Pz"
+      },
+      "occurred_at": "2023-01-27T15:05:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM47NUMc",
+        "number": 155,
+        "title": "WIP: Project Wally - implementing Mappers",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/155"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/155#issuecomment-1406628851"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5A6h8O",
+      "metadata": {
+        "created_at": "2023-01-27T15:22:46Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2023-01-27T15:27:53Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5L3rue",
+        "source_node_id": "PRRC_kwDOGuqVzM5A6h8O",
+        "thread_node_id": "PRRT_kwDOGuqVzM4piiXD",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-01-27T15:27:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IrN_e",
+        "number": 248,
+        "title": "adding 3D structure Mapping Vis to LigandMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/248"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/248#discussion_r1089085198"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5A6iKH",
+      "metadata": {
+        "created_at": "2023-01-27T15:23:41Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2023-01-27T15:27:53Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5L3rue",
+        "source_node_id": "PRRC_kwDOGuqVzM5A6iKH",
+        "thread_node_id": "PRRT_kwDOGuqVzM4piifG",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-01-27T15:27:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IrN_e",
+        "number": 248,
+        "title": "adding 3D structure Mapping Vis to LigandMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/248"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/248#discussion_r1089086087"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM5L3rue",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5L3rue",
+        "state": "DISMISSED",
+        "submitted_at": "2023-01-27T15:27:53Z"
+      },
+      "occurred_at": "2023-01-27T15:27:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IrN_e",
+        "number": 248,
+        "title": "adding 3D structure Mapping Vis to LigandMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/248"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/248#pullrequestreview-1272888222"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5T1-Rx",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5T1-Rx"
+      },
+      "occurred_at": "2023-01-27T15:28:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IrN_e",
+        "number": 248,
+        "title": "adding 3D structure Mapping Vis to LigandMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/248"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/248#issuecomment-1406657649"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5A6r2w",
+      "metadata": {
+        "created_at": "2023-01-27T15:56:43Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2023-01-27T15:56:44Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5L37u1",
+        "source_node_id": "PRRC_kwDOGuqVzM5A6r2w",
+        "thread_node_id": "PRRT_kwDOGuqVzM4piifG",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-01-27T15:56:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IrN_e",
+        "number": 248,
+        "title": "adding 3D structure Mapping Vis to LigandMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/248"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/248#discussion_r1089125808"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM5L37u1",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5L37u1",
+        "state": "COMMENTED",
+        "submitted_at": "2023-01-27T15:56:44Z"
+      },
+      "occurred_at": "2023-01-27T15:56:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IrN_e",
+        "number": 248,
+        "title": "adding 3D structure Mapping Vis to LigandMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/248"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/248#pullrequestreview-1272953781"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5T3zJh",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5T3zJh"
+      },
+      "occurred_at": "2023-01-27T22:23:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IrN_e",
+        "number": 248,
+        "title": "adding 3D structure Mapping Vis to LigandMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/248"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/248#issuecomment-1407136353"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM5L-1VL",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5L-1VL",
+        "state": "DISMISSED",
+        "submitted_at": "2023-01-30T09:26:56Z"
+      },
+      "occurred_at": "2023-01-30T09:26:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IrN_e",
+        "number": 248,
+        "title": "adding 3D structure Mapping Vis to LigandMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/248"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/248#pullrequestreview-1274762571"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5T9fan",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5T9fan"
+      },
+      "occurred_at": "2023-01-30T13:25:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IrN_e",
+        "number": 248,
+        "title": "adding 3D structure Mapping Vis to LigandMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/248"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/248#issuecomment-1408628391"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM5MAcHp",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5MAcHp",
+        "state": "APPROVED",
+        "submitted_at": "2023-01-30T13:38:58Z"
+      },
+      "occurred_at": "2023-01-30T13:38:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IHbNz",
+        "number": 241,
+        "title": "update mapping visualization of bond changes",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/241"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/241#pullrequestreview-1275183593"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM5T9mmA",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5T9mmA"
+      },
+      "occurred_at": "2023-01-30T13:45:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5bmcZh",
+        "number": 239,
+        "title": "atom mapping bonds seem red too often",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/239"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/239#issuecomment-1408657792"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM5dJbWu",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM5dJbWu"
+      },
+      "occurred_at": "2023-01-30T16:18:20Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5dJbWu",
+        "number": 251,
+        "title": "Minor API breaks to make",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/251"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/251"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM5T_RKc",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5T_RKc"
+      },
+      "occurred_at": "2023-01-30T18:14:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5dJbWu",
+        "number": 251,
+        "title": "Minor API breaks to make",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/251"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/251#issuecomment-1409094300"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5BBxzY",
+      "metadata": {
+        "created_at": "2023-01-30T18:17:50Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2023-01-30T18:17:50Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5MCaPf",
+        "source_node_id": "PRRC_kwDOGuqVzM5BBxzY",
+        "thread_node_id": "PRRT_kwDOGuqVzM4pnRXP",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-01-30T18:17:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IRRIs",
+        "number": 245,
+        "title": "Maximal network planner",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/245"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/245#discussion_r1090985176"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM5MCaPf",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5MCaPf",
+        "state": "COMMENTED",
+        "submitted_at": "2023-01-30T18:17:50Z"
+      },
+      "occurred_at": "2023-01-30T18:17:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IRRIs",
+        "number": 245,
+        "title": "Maximal network planner",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/245"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/245#pullrequestreview-1275700191"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5BB0VI",
+      "metadata": {
+        "created_at": "2023-01-30T18:28:19Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2023-01-30T18:28:19Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5MCd5R",
+        "source_node_id": "PRRC_kwDOGuqVzM5BB0VI",
+        "thread_node_id": "PRRT_kwDOGuqVzM4pnRXP",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-01-30T18:28:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IRRIs",
+        "number": 245,
+        "title": "Maximal network planner",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/245"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/245#discussion_r1090995528"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM5MCd5R",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5MCd5R",
+        "state": "COMMENTED",
+        "submitted_at": "2023-01-30T18:28:19Z"
+      },
+      "occurred_at": "2023-01-30T18:28:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IRRIs",
+        "number": 245,
+        "title": "Maximal network planner",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/245"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/245#pullrequestreview-1275715153"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM5UAi2u",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5UAi2u"
+      },
+      "occurred_at": "2023-01-30T22:11:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMyMDY2MjUz",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5cgXPJ",
+        "number": 246,
+        "title": "Including non standard residues",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/246"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/246#issuecomment-1409428910"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5UCsk6",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5UCsk6"
+      },
+      "occurred_at": "2023-01-31T09:02:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IrN_e",
+        "number": 248,
+        "title": "adding 3D structure Mapping Vis to LigandMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/248"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/248#issuecomment-1409993018"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:748568cad1bca56cf944de4793f833a58cde4650",
+      "metadata": {
+        "authored_at": "2023-01-19T14:35:29Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "email": "richardjgowers+github@gmail.com",
+          "name": "Richard Gowers"
+        },
+        "parent_shas": [
+          "eb6170c7ef6c6efeb416522a81d2a6a80a63b4d1"
+        ],
+        "sha": "748568cad1bca56cf944de4793f833a58cde4650"
+      },
+      "occurred_at": "2023-01-31T09:05:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDc0ODU2OGNhZDFiY2E1NmNmOTQ0ZGU0NzkzZjgzM2E1OGNkZTQ2NTA",
+        "number": null,
+        "title": "fixup vis tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/748568cad1bca56cf944de4793f833a58cde4650"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/748568cad1bca56cf944de4793f833a58cde4650"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:eb6170c7ef6c6efeb416522a81d2a6a80a63b4d1",
+      "metadata": {
+        "authored_at": "2023-01-19T11:43:41Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "email": "richardjgowers+github@gmail.com",
+          "name": "Richard Gowers"
+        },
+        "parent_shas": [
+          "82a6a6db4c22cc5b30ddf26253db10130a24662f"
+        ],
+        "sha": "eb6170c7ef6c6efeb416522a81d2a6a80a63b4d1"
+      },
+      "occurred_at": "2023-01-31T09:05:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKGViNjE3MGM3ZWY2YzZlZmViNDE2NTIyYTgxZDJhNmE4MGE2M2I0ZDE",
+        "number": null,
+        "title": "update mapping visualization of bond changes",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/eb6170c7ef6c6efeb416522a81d2a6a80a63b4d1"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/eb6170c7ef6c6efeb416522a81d2a6a80a63b4d1"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM5cU9grzwAAAAH0gLxc",
+      "metadata": {
+        "merge_commit_sha": "748568cad1bca56cf944de4793f833a58cde4650",
+        "source_node_id": "ME_lADOGuqVzM5cU9grzwAAAAH0gLxc"
+      },
+      "occurred_at": "2023-01-31T09:05:38Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IHbNz",
+        "number": 241,
+        "title": "update mapping visualization of bond changes",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/241"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/241#event-8397044828"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM5bmcZhzwAAAAH0gL1G",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM5bmcZhzwAAAAH0gL1G"
+      },
+      "occurred_at": "2023-01-31T09:05:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5bmcZh",
+        "number": 239,
+        "title": "atom mapping bonds seem red too often",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/239"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/239#event-8397045062"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5BERIg",
+      "metadata": {
+        "created_at": "2023-01-31T09:07:57Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2023-01-31T09:07:57Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5MGcmx",
+        "source_node_id": "PRRC_kwDOGuqVzM5BERIg",
+        "thread_node_id": "PRRT_kwDOGuqVzM4pnRXP",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-01-31T09:07:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IRRIs",
+        "number": 245,
+        "title": "Maximal network planner",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/245"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/245#discussion_r1091637792"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM5MGcmx",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5MGcmx",
+        "state": "COMMENTED",
+        "submitted_at": "2023-01-31T09:07:57Z"
+      },
+      "occurred_at": "2023-01-31T09:07:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5IRRIs",
+        "number": 245,
+        "title": "Maximal network planner",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/245"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/245#pullrequestreview-1276758449"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM5I5uGi",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM5I5uGi"
+      },
+      "occurred_at": "2023-01-31T10:56:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5I5uGi",
+        "number": 252,
+        "title": "Remove LigandAtomMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/252"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/252"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5UF2jZ",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5UF2jZ"
+      },
+      "occurred_at": "2023-01-31T17:52:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5I5uGi",
+        "number": 252,
+        "title": "Remove LigandAtomMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/252"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/252#issuecomment-1410820313"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMyMDY2MjUz",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM5UGMkq",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5UGMkq"
+      },
+      "occurred_at": "2023-01-31T19:00:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMyMDY2MjUz",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM5cgXPJ",
+        "number": 246,
+        "title": "Including non standard residues",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/246"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/246#issuecomment-1410910506"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:21e0e2db94db3b1e245718d1ee6af820129c3290",
+      "metadata": {
+        "authored_at": "2023-01-31T10:39:07Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "email": "richardjgowers+github@gmail.com",
+          "name": "Richard Gowers"
+        },
+        "parent_shas": [
+          "748568cad1bca56cf944de4793f833a58cde4650"
+        ],
+        "sha": "21e0e2db94db3b1e245718d1ee6af820129c3290"
+      },
+      "occurred_at": "2023-01-31T21:26:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDIxZTBlMmRiOTRkYjNiMWUyNDU3MThkMWVlNmFmODIwMTI5YzMyOTA",
+        "number": null,
+        "title": "remove LigandAtomMapping and visualization submodule",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/21e0e2db94db3b1e245718d1ee6af820129c3290"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/21e0e2db94db3b1e245718d1ee6af820129c3290"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:493bf5de4a04da9c97854821be01490f79b697f8",
+      "metadata": {
+        "authored_at": "2023-01-31T10:40:07Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "email": "richardjgowers+github@gmail.com",
+          "name": "Richard Gowers"
+        },
+        "parent_shas": [
+          "21e0e2db94db3b1e245718d1ee6af820129c3290"
+        ],
+        "sha": "493bf5de4a04da9c97854821be01490f79b697f8"
+      },
+      "occurred_at": "2023-01-31T21:26:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDQ5M2JmNWRlNGEwNGRhOWM5Nzg1NDgyMWJlMDE0OTBmNzliNjk3Zjg",
+        "number": null,
+        "title": "move gufe pin to development head",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/493bf5de4a04da9c97854821be01490f79b697f8"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/493bf5de4a04da9c97854821be01490f79b697f8"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:9900e5fd56ca780b1cb9fb0c800fa0f3ae07d433",
+      "metadata": {
+        "authored_at": "2023-01-31T17:28:41Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "email": "richardjgowers+github@gmail.com",
+          "name": "Richard Gowers"
+        },
+        "parent_shas": [
+          "e5c1ebd7d94f2e0a4fce8f7642f76e1894c111f2"
+        ],
+        "sha": "9900e5fd56ca780b1cb9fb0c800fa0f3ae07d433"
+      },
+      "occurred_at": "2023-01-31T21:26:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDk5MDBlNWZkNTZjYTc4MGIxY2I5ZmIwYzgwMGZhMGYzYWUwN2Q0MzM",
+        "number": null,
+        "title": "CLI: fixup another test data file following LigandAtomMapping migration",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/9900e5fd56ca780b1cb9fb0c800fa0f3ae07d433"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/9900e5fd56ca780b1cb9fb0c800fa0f3ae07d433"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:e5c1ebd7d94f2e0a4fce8f7642f76e1894c111f2",
+      "metadata": {
+        "authored_at": "2023-01-31T16:16:23Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "email": "richardjgowers+github@gmail.com",
+          "name": "Richard Gowers"
+        },
+        "parent_shas": [
+          "493bf5de4a04da9c97854821be01490f79b697f8"
+        ],
+        "sha": "e5c1ebd7d94f2e0a4fce8f7642f76e1894c111f2"
+      },
+      "occurred_at": "2023-01-31T21:26:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKGU1YzFlYmQ3ZDk0ZjJlMGE0ZmNlOGY3NjQyZjc2ZTE4OTRjMTExZjI",
+        "number": null,
+        "title": "CLI: fixup test data file following LigandAtomMapping migration",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/e5c1ebd7d94f2e0a4fce8f7642f76e1894c111f2"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/e5c1ebd7d94f2e0a4fce8f7642f76e1894c111f2"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM5dOgX7zwAAAAH06eLx",
+      "metadata": {
+        "merge_commit_sha": "9900e5fd56ca780b1cb9fb0c800fa0f3ae07d433",
+        "source_node_id": "ME_lADOGuqVzM5dOgX7zwAAAAH06eLx"
+      },
+      "occurred_at": "2023-01-31T21:26:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5I5uGi",
+        "number": 252,
+        "title": "Remove LigandAtomMapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/252"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/252#event-8403935985"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "bot",
+      "database_id": 22429695,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90MjI0Mjk2OTU=",
+      "key": "MDM6Qm90MjI0Mjk2OTU=",
+      "login": "codecov",
+      "url": "https://github.com/apps/codecov"
+    },
+    {
+      "classification": "human",
+      "database_id": 12428005,
+      "display_name": "Benjamin Ries",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjEyNDI4MDA1",
+      "key": "MDQ6VXNlcjEyNDI4MDA1",
+      "login": "RiesBen",
+      "url": "https://github.com/RiesBen"
+    },
+    {
+      "classification": "human",
+      "database_id": 12460125,
+      "display_name": "Irfan Alibay",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjEyNDYwMTI1",
+      "key": "MDQ6VXNlcjEyNDYwMTI1",
+      "login": "IAlibay",
+      "url": "https://github.com/IAlibay"
+    },
+    {
+      "classification": "human",
+      "database_id": 32066253,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjMyMDY2MjUz",
+      "key": "MDQ6VXNlcjMyMDY2MjUz",
+      "login": "djhuggins",
+      "url": "https://github.com/djhuggins"
+    },
+    {
+      "classification": "human",
+      "database_id": 8178546,
+      "display_name": "David W.H. Swenson",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjgxNzg1NDY=",
+      "key": "MDQ6VXNlcjgxNzg1NDY=",
+      "login": "dwhswenson",
+      "url": "https://github.com/dwhswenson"
+    },
+    {
+      "classification": "human",
+      "database_id": 9249543,
+      "display_name": "Richard Gowers",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjkyNDk1NDM=",
+      "key": "MDQ6VXNlcjkyNDk1NDM=",
+      "login": "richardjgowers",
+      "url": "https://github.com/richardjgowers"
+    },
+    {
+      "classification": "unresolved_git",
+      "database_id": null,
+      "display_name": null,
+      "git_email": "noreply@github.com",
+      "git_name": "GitHub",
+      "github_node_id": null,
+      "key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+      "login": null,
+      "url": null
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-17T23:09:19.790865Z",
+    "collection_started_at": "2026-10-17T23:04:44.542489Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "6495313a58148e30ad92e7f6f601f7222f9547a9",
+    "month": "2023-01",
+    "month_end": "2023-02-01T00:00:00Z",
+    "month_start": "2023-01-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "OpenFreeEnergy/openfe",
+    "repository_node_id": "R_kgDOGuqVzA",
+    "repository_url": "https://github.com/OpenFreeEnergy/openfe"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDM6Qm90MjI0Mjk2OTU=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 7,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjEyNDI4MDA1": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 1,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 3,
+        "pr_inline_review_comment": 1,
+        "pr_merged": 0,
+        "pr_opened": 2,
+        "pr_review": 2
+      },
+      "MDQ6VXNlcjEyNDYwMTI1": {
+        "commit": 5,
+        "issue_closed": 0,
+        "issue_comment": 1,
+        "issue_opened": 2,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 2,
+        "pr_merged": 0,
+        "pr_opened": 2,
+        "pr_review": 1
+      },
+      "MDQ6VXNlcjMyMDY2MjUz": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 2,
+        "issue_opened": 3,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjgxNzg1NDY=": {
+        "commit": 2,
+        "issue_closed": 0,
+        "issue_comment": 5,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 1,
+        "pr_merged": 1,
+        "pr_opened": 2,
+        "pr_review": 2
+      },
+      "MDQ6VXNlcjkyNDk1NDM=": {
+        "commit": 6,
+        "issue_closed": 1,
+        "issue_comment": 0,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 4,
+        "pr_inline_review_comment": 2,
+        "pr_merged": 2,
+        "pr_opened": 2,
+        "pr_review": 3
+      }
+    },
+    "distinct_actors": {
+      "bot": 1,
+      "human": 5,
+      "total": 6,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 1,
+        "human": 3,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 13,
+      "issue_closed": 1,
+      "issue_comment": 9,
+      "issue_opened": 7,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 15,
+      "pr_inline_review_comment": 6,
+      "pr_merged": 3,
+      "pr_opened": 8,
+      "pr_review": 8
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}

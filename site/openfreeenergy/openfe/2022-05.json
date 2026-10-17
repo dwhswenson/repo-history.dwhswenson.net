@@ -1,0 +1,641 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM45Oi39",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM45Oi39",
+        "state": "APPROVED",
+        "submitted_at": "2022-05-03T09:17:17Z"
+      },
+      "occurred_at": "2022-05-03T09:17:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM42Ymv8",
+        "number": 139,
+        "title": "Minimal spanning network",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/139"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/139#pullrequestreview-960114173"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:d6caac11ca9ae08c040baec9856318655222890d",
+      "metadata": {
+        "authored_at": "2022-05-03T09:17:49Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "fb3965bbbf458b3e47ff36f9d257d28be6bf0142"
+        ],
+        "sha": "d6caac11ca9ae08c040baec9856318655222890d"
+      },
+      "occurred_at": "2022-05-03T09:17:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKGQ2Y2FhYzExY2E5YWUwOGMwNDBiYWVjOTg1NjMxODY1NTIyMjg5MGQ",
+        "number": null,
+        "title": "Minimal spanning network (#139)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/d6caac11ca9ae08c040baec9856318655222890d"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/d6caac11ca9ae08c040baec9856318655222890d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM5H-Mp7zwAAAAGFxqzN",
+      "metadata": {
+        "merge_commit_sha": "d6caac11ca9ae08c040baec9856318655222890d",
+        "source_node_id": "ME_lADOGuqVzM5H-Mp7zwAAAAGFxqzN"
+      },
+      "occurred_at": "2022-05-03T09:17:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM42Ymv8",
+        "number": 139,
+        "title": "Minimal spanning network",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/139"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/139#event-6539357389"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:35fec3285c6d967c464620269da6aa4b63e87abf",
+      "metadata": {
+        "authored_at": "2022-05-03T09:52:09Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "email": "richard@nextmovesoftware.com",
+          "name": "richard"
+        },
+        "parent_shas": [
+          "d6caac11ca9ae08c040baec9856318655222890d"
+        ],
+        "sha": "35fec3285c6d967c464620269da6aa4b63e87abf"
+      },
+      "occurred_at": "2022-05-03T09:52:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDM1ZmVjMzI4NWM2ZDk2N2M0NjQ2MjAyNjlkYTZhYTRiNjNlODdhYmY",
+        "number": null,
+        "title": "fix openff-units usage by bumping version",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/35fec3285c6d967c464620269da6aa4b63e87abf"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/35fec3285c6d967c464620269da6aa4b63e87abf"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM44JYsm",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM44JYsm"
+      },
+      "occurred_at": "2022-05-19T20:25:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM44JYsm",
+        "number": 141,
+        "title": "Fix the number of production steps being used",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/141"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/141"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5De5ui",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5De5ui"
+      },
+      "occurred_at": "2022-05-19T20:28:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM44JYsm",
+        "number": 141,
+        "title": "Fix the number of production steps being used",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/141"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/141#issuecomment-1132174242"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5De6PY",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5De6PY"
+      },
+      "occurred_at": "2022-05-19T20:30:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM44JYsm",
+        "number": 141,
+        "title": "Fix the number of production steps being used",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/141"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/141#issuecomment-1132176344"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM46XlfO",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM46XlfO",
+        "state": "APPROVED",
+        "submitted_at": "2022-05-19T21:03:01Z"
+      },
+      "occurred_at": "2022-05-19T21:03:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM44JYsm",
+        "number": 141,
+        "title": "Fix the number of production steps being used",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/141"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/141#pullrequestreview-979261390"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5DfCIg",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5DfCIg"
+      },
+      "occurred_at": "2022-05-19T21:06:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM44JYsm",
+        "number": 141,
+        "title": "Fix the number of production steps being used",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/141"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/141#issuecomment-1132208672"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:f2423ed2e4444a0824ff9b560e23b420c4997c6f",
+      "metadata": {
+        "authored_at": "2022-05-19T21:07:04Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "35fec3285c6d967c464620269da6aa4b63e87abf"
+        ],
+        "sha": "f2423ed2e4444a0824ff9b560e23b420c4997c6f"
+      },
+      "occurred_at": "2022-05-19T21:07:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKGYyNDIzZWQyZTQ0NDRhMDgyNGZmOWI1NjBlMjNiNDIwYzQ5OTdjNmY",
+        "number": null,
+        "title": "Fix the number of production steps being used (#141)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/f2423ed2e4444a0824ff9b560e23b420c4997c6f"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/f2423ed2e4444a0824ff9b560e23b420c4997c6f"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM5KC81_zwAAAAGMIKdb",
+      "metadata": {
+        "merge_commit_sha": "f2423ed2e4444a0824ff9b560e23b420c4997c6f",
+        "source_node_id": "ME_lADOGuqVzM5KC81_zwAAAAGMIKdb"
+      },
+      "occurred_at": "2022-05-19T21:07:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM44JYsm",
+        "number": 141,
+        "title": "Fix the number of production steps being used",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/141"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/141#event-6645917531"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM44dnV5",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM44dnV5"
+      },
+      "occurred_at": "2022-05-25T17:36:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM44dnV5",
+        "number": 142,
+        "title": "Using gufe protocols",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/142"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/142"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI0NzM2NTA3",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM5DzqpZ",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM5DzqpZ"
+      },
+      "occurred_at": "2022-05-25T17:36:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM44dnV5",
+        "number": 142,
+        "title": "Using gufe protocols",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/142"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/142#issuecomment-1137617497"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM40kWIV",
+      "metadata": {
+        "created_at": "2022-05-25T17:37:45Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2022-05-25T17:37:46Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM46uXh-",
+        "source_node_id": "PRRC_kwDOGuqVzM40kWIV",
+        "thread_node_id": "PRRT_kwDOGuqVzM4hoBZD",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-05-25T17:37:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM44dnV5",
+        "number": 142,
+        "title": "Using gufe protocols",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/142"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/142#discussion_r881943061"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM46uXh-",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM46uXh-",
+        "state": "COMMENTED",
+        "submitted_at": "2022-05-25T17:37:46Z"
+      },
+      "occurred_at": "2022-05-25T17:37:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM44dnV5",
+        "number": 142,
+        "title": "Using gufe protocols",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/142"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/142#pullrequestreview-985233534"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "bot",
+      "database_id": 22429695,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90MjI0Mjk2OTU=",
+      "key": "MDM6Qm90MjI0Mjk2OTU=",
+      "login": "codecov",
+      "url": "https://github.com/apps/codecov"
+    },
+    {
+      "classification": "human",
+      "database_id": 12460125,
+      "display_name": "Irfan Alibay",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjEyNDYwMTI1",
+      "key": "MDQ6VXNlcjEyNDYwMTI1",
+      "login": "IAlibay",
+      "url": "https://github.com/IAlibay"
+    },
+    {
+      "classification": "human",
+      "database_id": 24736507,
+      "display_name": "PEP 8 Speaks",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjI0NzM2NTA3",
+      "key": "MDQ6VXNlcjI0NzM2NTA3",
+      "login": "pep8speaks",
+      "url": "https://github.com/pep8speaks"
+    },
+    {
+      "classification": "human",
+      "database_id": 8178546,
+      "display_name": "David W.H. Swenson",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjgxNzg1NDY=",
+      "key": "MDQ6VXNlcjgxNzg1NDY=",
+      "login": "dwhswenson",
+      "url": "https://github.com/dwhswenson"
+    },
+    {
+      "classification": "human",
+      "database_id": 9249543,
+      "display_name": "Richard Gowers",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjkyNDk1NDM=",
+      "key": "MDQ6VXNlcjkyNDk1NDM=",
+      "login": "richardjgowers",
+      "url": "https://github.com/richardjgowers"
+    },
+    {
+      "classification": "unresolved_git",
+      "database_id": null,
+      "display_name": null,
+      "git_email": "noreply@github.com",
+      "git_name": "GitHub",
+      "github_node_id": null,
+      "key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+      "login": null,
+      "url": null
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-17T23:09:19.790865Z",
+    "collection_started_at": "2026-10-17T23:04:44.542489Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "6495313a58148e30ad92e7f6f601f7222f9547a9",
+    "month": "2022-05",
+    "month_end": "2022-06-01T00:00:00Z",
+    "month_start": "2022-05-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "OpenFreeEnergy/openfe",
+    "repository_node_id": "R_kgDOGuqVzA",
+    "repository_url": "https://github.com/OpenFreeEnergy/openfe"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDM6Qm90MjI0Mjk2OTU=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjEyNDYwMTI1": {
+        "commit": 1,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 2,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 1,
+        "pr_opened": 1,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjI0NzM2NTA3": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjgxNzg1NDY=": {
+        "commit": 1,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjkyNDk1NDM=": {
+        "commit": 1,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 1,
+        "pr_merged": 1,
+        "pr_opened": 1,
+        "pr_review": 3
+      }
+    },
+    "distinct_actors": {
+      "bot": 1,
+      "human": 4,
+      "total": 5,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 1,
+        "human": 2,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 3,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 4,
+      "pr_inline_review_comment": 1,
+      "pr_merged": 2,
+      "pr_opened": 2,
+      "pr_review": 3
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}

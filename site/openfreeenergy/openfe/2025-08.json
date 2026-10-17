@@ -1,0 +1,5075 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM63bVXg",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM63bVXg",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-01T02:10:47Z"
+      },
+      "occurred_at": "2025-08-01T02:10:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6hX0ji",
+        "number": 1462,
+        "title": "Always use atoms in both helices and beta sheets in the DSSP filter",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1462"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1462#pullrequestreview-3077395936"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:1b0c00ca002b34aced690d7a278ad1bf7bfcf054",
+      "metadata": {
+        "authored_at": "2025-08-01T02:10:58Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "a70c8cfc28b8cf04edeca62257dcf69c2877ee4b",
+          "023efebe398a1f6aba08b2af851f1297972874f3"
+        ],
+        "sha": "1b0c00ca002b34aced690d7a278ad1bf7bfcf054"
+      },
+      "occurred_at": "2025-08-01T02:10:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDFiMGMwMGNhMDAyYjM0YWNlZDY5MGQ3YTI3OGFkMWJmN2JmY2YwNTQ",
+        "number": null,
+        "title": "Merge pull request #1462 from OpenFreeEnergy/dssp_helices_sheets",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/1b0c00ca002b34aced690d7a278ad1bf7bfcf054"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/1b0c00ca002b34aced690d7a278ad1bf7bfcf054"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM7DV77DzwAAAARoT4v9",
+      "metadata": {
+        "merge_commit_sha": "1b0c00ca002b34aced690d7a278ad1bf7bfcf054",
+        "source_node_id": "ME_lADOGuqVzM7DV77DzwAAAARoT4v9"
+      },
+      "occurred_at": "2025-08-01T02:10:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6hX0ji",
+        "number": 1462,
+        "title": "Always use atoms in both helices and beta sheets in the DSSP filter",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1462"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1462#event-18929912829"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM7DVJkWzwAAAARoT4yS",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM7DVJkWzwAAAARoT4yS"
+      },
+      "occurred_at": "2025-08-01T02:10:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7DVJkW",
+        "number": 1459,
+        "title": "Update DSSP selection to include both alpha helices and beta sheets rather than prioritising alpha helices",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1459"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1459#event-18929912978"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM67Rfkg",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM67Rfkg"
+      },
+      "occurred_at": "2025-08-01T02:12:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6hX_7u",
+        "number": 1463,
+        "title": "Update restraint settings (force constant and min/max distance)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1463"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1463#issuecomment-3141925152"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:29e98fab3929c04d413349f7b5924cbdb6c4543a",
+      "metadata": {
+        "authored_at": "2025-08-01T04:29:35Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "1b0c00ca002b34aced690d7a278ad1bf7bfcf054"
+        ],
+        "sha": "29e98fab3929c04d413349f7b5924cbdb6c4543a"
+      },
+      "occurred_at": "2025-08-01T04:29:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDI5ZTk4ZmFiMzkyOWMwNGQ0MTMzNDlmN2I1OTI0Y2JkYjZjNDU0M2E",
+        "number": null,
+        "title": "Update restraint settings (force constant and min/max distance) (#1463)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/29e98fab3929c04d413349f7b5924cbdb6c4543a"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/29e98fab3929c04d413349f7b5924cbdb6c4543a"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM7DWIVfzwAAAARoZGRk",
+      "metadata": {
+        "merge_commit_sha": "29e98fab3929c04d413349f7b5924cbdb6c4543a",
+        "source_node_id": "ME_lADOGuqVzM7DWIVfzwAAAARoZGRk"
+      },
+      "occurred_at": "2025-08-01T04:29:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6hX_7u",
+        "number": 1463,
+        "title": "Update restraint settings (force constant and min/max distance)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1463"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1463#event-18931278948"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM7DVYNpzwAAAARoZGTm",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM7DVYNpzwAAAARoZGTm"
+      },
+      "occurred_at": "2025-08-01T04:29:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7DVYNp",
+        "number": 1460,
+        "title": "Restraints: Update default force constant in settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1460"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1460#event-18931279078"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM7DVZYjzwAAAARoZGUM",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM7DVZYjzwAAAARoZGUM"
+      },
+      "occurred_at": "2025-08-01T04:29:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7DVZYj",
+        "number": 1461,
+        "title": "Restraints: Reduce default host max distance in settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1461"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1461#event-18931279116"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM6-633UzwAAAARoi5kp",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM6-633UzwAAAARoi5kp"
+      },
+      "occurred_at": "2025-08-01T07:44:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM6-633U",
+        "number": 1418,
+        "title": "restraints: Move things so that dssp filter is ignored if there are too few atoms after we call FindHostAtoms",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1418"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1418#event-18933848361"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM6F9Ufg",
+      "metadata": {
+        "created_at": "2025-08-01T09:27:53Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-01T09:27:53Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM63fPhK",
+        "source_node_id": "PRRC_kwDOGuqVzM6F9Ufg",
+        "thread_node_id": "PRRT_kwDOGuqVzM5TkDC4",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-01T09:27:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6Fee8M",
+        "number": 1057,
+        "title": "SepTop Protocol",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1057"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1057#discussion_r2247444448"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM63fPhK",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM63fPhK",
+        "state": "COMMENTED",
+        "submitted_at": "2025-08-01T09:27:53Z"
+      },
+      "occurred_at": "2025-08-01T09:27:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6Fee8M",
+        "number": 1057,
+        "title": "SepTop Protocol",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1057"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1057#pullrequestreview-3078420554"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQ1MDYyMjY2",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7Dufpz",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7Dufpz"
+      },
+      "occurred_at": "2025-08-01T12:22:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQ1MDYyMjY2",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7Dufpz",
+        "number": 1465,
+        "title": "atom_indices are not monotonically increasing",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1465"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1465"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM67cuQD",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM67cuQD"
+      },
+      "occurred_at": "2025-08-01T14:58:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6Fee8M",
+        "number": 1057,
+        "title": "SepTop Protocol",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1057"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1057#issuecomment-3144868867"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7D3oSe",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7D3oSe"
+      },
+      "occurred_at": "2025-08-02T17:23:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7D3oSe",
+        "number": 1466,
+        "title": "long tests are slower on python 3.13",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1466"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1466"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI5NDk3Mjk=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM67jc92",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM67jc92"
+      },
+      "occurred_at": "2025-08-02T17:32:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQ1MDYyMjY2",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7Dufpz",
+        "number": 1465,
+        "title": "atom_indices are not monotonically increasing",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1465"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1465#issuecomment-3146633078"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc3NTYzMTk0",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7ERCa-",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7ERCa-"
+      },
+      "occurred_at": "2025-08-05T11:50:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI5NDk3Mjk=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM68HaPB",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM68HaPB"
+      },
+      "occurred_at": "2025-08-05T17:48:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3156059073"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM68HcMA",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM68HcMA"
+      },
+      "occurred_at": "2025-08-05T17:51:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3156067072"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM68HpJu",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM68HpJu"
+      },
+      "occurred_at": "2025-08-05T18:10:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3156120174"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc3NTYzMTk0",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM68K0tc",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM68K0tc"
+      },
+      "occurred_at": "2025-08-05T23:53:38Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3156953948"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM68YYg9",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM68YYg9"
+      },
+      "occurred_at": "2025-08-06T14:52:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3160508477"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM68YZpc",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM68YZpc"
+      },
+      "occurred_at": "2025-08-06T14:53:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3160513116"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6iamrr",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6iamrr"
+      },
+      "occurred_at": "2025-08-06T15:56:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6iamrr",
+        "number": 1468,
+        "title": "debug slow python 3.13 tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM68bbgR",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM68bbgR"
+      },
+      "occurred_at": "2025-08-06T19:17:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6iamrr",
+        "number": 1468,
+        "title": "debug slow python 3.13 tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468#issuecomment-3161307153"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc3NTYzMTk0",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM68d0We",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM68d0We"
+      },
+      "occurred_at": "2025-08-06T23:45:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3161933214"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM68emCw",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM68emCw"
+      },
+      "occurred_at": "2025-08-07T01:38:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3162136752"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc3NTYzMTk0",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM68euei",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM68euei"
+      },
+      "occurred_at": "2025-08-07T02:02:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3162171298"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6itW40",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6itW40"
+      },
+      "occurred_at": "2025-08-08T07:06:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6itW40",
+        "number": 1470,
+        "title": "Implement single residue boresch host finding",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1470"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1470"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM68wkXW",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM68wkXW"
+      },
+      "occurred_at": "2025-08-08T07:27:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6itW40",
+        "number": 1470,
+        "title": "Implement single residue boresch host finding",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1470"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1470#issuecomment-3166848470"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM68xp43",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM68xp43"
+      },
+      "occurred_at": "2025-08-08T09:11:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3167133239"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7FPXaq",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7FPXaq"
+      },
+      "occurred_at": "2025-08-11T09:10:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7FPXaq",
+        "number": 1471,
+        "title": "Derive single-residue host anchor boresch restraint via variance tiebreak",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1471"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1471"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM65GpRb",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM65GpRb",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-11T12:11:06Z"
+      },
+      "occurred_at": "2025-08-11T12:11:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6itW40",
+        "number": 1470,
+        "title": "Implement single residue boresch host finding",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1470"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1470#pullrequestreview-3105526875"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69RI46",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69RI46"
+      },
+      "occurred_at": "2025-08-11T15:34:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6itW40",
+        "number": 1470,
+        "title": "Implement single residue boresch host finding",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1470"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1470#issuecomment-3175386682"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69S09o",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69S09o"
+      },
+      "occurred_at": "2025-08-11T16:37:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6itW40",
+        "number": 1470,
+        "title": "Implement single residue boresch host finding",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1470"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1470#issuecomment-3175829352"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:2c838fc0c41d906f5af4bbc3b09c1a48686994f7",
+      "metadata": {
+        "authored_at": "2025-08-11T16:37:42Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "29e98fab3929c04d413349f7b5924cbdb6c4543a"
+        ],
+        "sha": "2c838fc0c41d906f5af4bbc3b09c1a48686994f7"
+      },
+      "occurred_at": "2025-08-11T16:37:42Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDJjODM4ZmMwYzQxZDkwNmY1YWY0YmJjM2IwOWMxYTQ4Njg2OTk0Zjc",
+        "number": null,
+        "title": "Implement single residue boresch host finding (#1470)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/2c838fc0c41d906f5af4bbc3b09c1a48686994f7"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/2c838fc0c41d906f5af4bbc3b09c1a48686994f7"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM7E3fvtzwAAAARyCmNH",
+      "metadata": {
+        "merge_commit_sha": "2c838fc0c41d906f5af4bbc3b09c1a48686994f7",
+        "source_node_id": "ME_lADOGuqVzM7E3fvtzwAAAARyCmNH"
+      },
+      "occurred_at": "2025-08-11T16:37:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6itW40",
+        "number": 1470,
+        "title": "Implement single residue boresch host finding",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1470"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1470#event-19093152583"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69TPzv",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69TPzv"
+      },
+      "occurred_at": "2025-08-11T17:00:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6iamrr",
+        "number": 1468,
+        "title": "debug slow python 3.13 tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468#issuecomment-3175939311"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69TteS",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69TteS"
+      },
+      "occurred_at": "2025-08-11T17:41:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6iamrr",
+        "number": 1468,
+        "title": "debug slow python 3.13 tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468#issuecomment-3176060818"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6jHtfb",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6jHtfb"
+      },
+      "occurred_at": "2025-08-11T19:41:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jHtfb",
+        "number": 1472,
+        "title": "Test openmmforcefields `0.15.0`  openmmtools `0.25.1` pymbar `4.1.0`",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69WLvl",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69WLvl"
+      },
+      "occurred_at": "2025-08-11T20:02:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jHtfb",
+        "number": 1472,
+        "title": "Test openmmforcefields `0.15.0`  openmmtools `0.25.1` pymbar `4.1.0`",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472#issuecomment-3176709093"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69WOSB",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69WOSB"
+      },
+      "occurred_at": "2025-08-11T20:05:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jHtfb",
+        "number": 1472,
+        "title": "Test openmmforcefields `0.15.0`  openmmtools `0.25.1` pymbar `4.1.0`",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472#issuecomment-3176719489"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7FjR-H",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7FjR-H"
+      },
+      "occurred_at": "2025-08-12T13:48:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7FjR-H",
+        "number": 1473,
+        "title": "Store the selection indices in protocol results",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1473"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1473"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69gzVu",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69gzVu"
+      },
+      "occurred_at": "2025-08-12T14:04:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jHtfb",
+        "number": 1472,
+        "title": "Test openmmforcefields `0.15.0`  openmmtools `0.25.1` pymbar `4.1.0`",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472#issuecomment-3179492718"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7Fjld_",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7Fjld_"
+      },
+      "occurred_at": "2025-08-12T14:05:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7Fjld_",
+        "number": 1474,
+        "title": "GPU CI should fail fast if we can't get a CUDA context ",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1474"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1474"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69g0bB",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69g0bB"
+      },
+      "occurred_at": "2025-08-12T14:05:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jHtfb",
+        "number": 1472,
+        "title": "Test openmmforcefields `0.15.0`  openmmtools `0.25.1` pymbar `4.1.0`",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472#issuecomment-3179497153"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69g3d-",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69g3d-"
+      },
+      "occurred_at": "2025-08-12T14:08:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jHtfb",
+        "number": 1472,
+        "title": "Test openmmforcefields `0.15.0`  openmmtools `0.25.1` pymbar `4.1.0`",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472#issuecomment-3179509630"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6jSJb6",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6jSJb6"
+      },
+      "occurred_at": "2025-08-12T14:28:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jSJb6",
+        "number": 1475,
+        "title": "add pyproject toml formatting",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM69hM9q",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69hM9q"
+      },
+      "occurred_at": "2025-08-12T14:28:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3179597674"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MTY2MDI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7FkFf0",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7FkFf0"
+      },
+      "occurred_at": "2025-08-12T14:32:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MTY2MDI=",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7FkFf0",
+        "number": 1476,
+        "title": "Planning",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1476"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1476"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM7FkFf0zwAAAARzUESn",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM7FkFf0zwAAAARzUESn"
+      },
+      "occurred_at": "2025-08-12T14:39:38Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MTY2MDI=",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7FkFf0",
+        "number": 1476,
+        "title": "Planning",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1476"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1476#event-19114509479"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69hgPn",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69hgPn"
+      },
+      "occurred_at": "2025-08-12T14:48:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jSJb6",
+        "number": 1475,
+        "title": "add pyproject toml formatting",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475#issuecomment-3179676647"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM6HTy6H",
+      "metadata": {
+        "created_at": "2025-08-12T14:42:37Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-12T14:50:28Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM65b2sz",
+        "source_node_id": "PRRC_kwDOGuqVzM6HTy6H",
+        "thread_node_id": "PRRT_kwDOGuqVzM5XR9UH",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-12T14:50:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jSJb6",
+        "number": 1475,
+        "title": "add pyproject toml formatting",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475#discussion_r2270113415"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM6HTyx7",
+      "metadata": {
+        "created_at": "2025-08-12T14:42:28Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-12T14:50:28Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM65b2sz",
+        "source_node_id": "PRRC_kwDOGuqVzM6HTyx7",
+        "thread_node_id": "PRRT_kwDOGuqVzM5XR9OY",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-12T14:50:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jSJb6",
+        "number": 1475,
+        "title": "add pyproject toml formatting",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475#discussion_r2270112891"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM65b2sz",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM65b2sz",
+        "state": "CHANGES_REQUESTED",
+        "submitted_at": "2025-08-12T14:50:28Z"
+      },
+      "occurred_at": "2025-08-12T14:50:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jSJb6",
+        "number": 1475,
+        "title": "add pyproject toml formatting",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475#pullrequestreview-3111086899"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69hqCu",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69hqCu"
+      },
+      "occurred_at": "2025-08-12T14:57:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jSJb6",
+        "number": 1475,
+        "title": "add pyproject toml formatting",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475#issuecomment-3179716782"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM65c7i_",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM65c7i_",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-12T15:19:31Z"
+      },
+      "occurred_at": "2025-08-12T15:19:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jSJb6",
+        "number": 1475,
+        "title": "add pyproject toml formatting",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475#pullrequestreview-3111368895"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:41f08e6dc5f54bb6ad35caca31c358581c9061fe",
+      "metadata": {
+        "authored_at": "2025-08-12T15:28:05Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "2c838fc0c41d906f5af4bbc3b09c1a48686994f7"
+        ],
+        "sha": "41f08e6dc5f54bb6ad35caca31c358581c9061fe"
+      },
+      "occurred_at": "2025-08-12T15:28:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDQxZjA4ZTZkYzVmNTRiYjZhZDM1Y2FjYTMxYzM1ODU4MWM5MDYxZmU",
+        "number": null,
+        "title": "add pyproject toml formatting (#1475)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/41f08e6dc5f54bb6ad35caca31c358581c9061fe"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/41f08e6dc5f54bb6ad35caca31c358581c9061fe"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM7FkAP7zwAAAARzYehv",
+      "metadata": {
+        "merge_commit_sha": "41f08e6dc5f54bb6ad35caca31c358581c9061fe",
+        "source_node_id": "ME_lADOGuqVzM7FkAP7zwAAAARzYehv"
+      },
+      "occurred_at": "2025-08-12T15:28:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jSJb6",
+        "number": 1475,
+        "title": "add pyproject toml formatting",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1475#event-19115665519"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69p2du",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69p2du"
+      },
+      "occurred_at": "2025-08-13T01:05:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6iamrr",
+        "number": 1468,
+        "title": "debug slow python 3.13 tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468#issuecomment-3181864814"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6jZr6V",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6jZr6V"
+      },
+      "occurred_at": "2025-08-13T04:14:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69q7C6",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69q7C6"
+      },
+      "occurred_at": "2025-08-13T04:36:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#issuecomment-3182145722"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM6HbOvz",
+      "metadata": {
+        "created_at": "2025-08-13T04:47:44Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-13T04:47:44Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM65mpeB",
+        "source_node_id": "PRRC_kwDOGuqVzM6HbOvz",
+        "thread_node_id": "PRRT_kwDOGuqVzM5XXEmI",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-13T04:47:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#discussion_r2272062451"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM65mpeB",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM65mpeB",
+        "state": "COMMENTED",
+        "submitted_at": "2025-08-13T04:47:44Z"
+      },
+      "occurred_at": "2025-08-13T04:47:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#pullrequestreview-3113916289"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM6HbQFn",
+      "metadata": {
+        "created_at": "2025-08-13T04:52:31Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-13T04:52:31Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM65mrAM",
+        "source_node_id": "PRRC_kwDOGuqVzM6HbQFn",
+        "thread_node_id": "PRRT_kwDOGuqVzM5XXFm1",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-13T04:52:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#discussion_r2272067943"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM65mrAM",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM65mrAM",
+        "state": "COMMENTED",
+        "submitted_at": "2025-08-13T04:52:31Z"
+      },
+      "occurred_at": "2025-08-13T04:52:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#pullrequestreview-3113922572"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM6HdaS0",
+      "metadata": {
+        "created_at": "2025-08-13T09:10:37Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-13T09:11:17Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM65psrP",
+        "source_node_id": "PRRC_kwDOGuqVzM6HdaS0",
+        "thread_node_id": "PRRT_kwDOGuqVzM5XYmnW",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-13T09:11:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#discussion_r2272634036"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM65psrP",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM65psrP",
+        "state": "COMMENTED",
+        "submitted_at": "2025-08-13T09:11:17Z"
+      },
+      "occurred_at": "2025-08-13T09:11:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#pullrequestreview-3114715855"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69ux3h",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69ux3h"
+      },
+      "occurred_at": "2025-08-13T10:17:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#issuecomment-3183156705"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69u6pB",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69u6pB"
+      },
+      "occurred_at": "2025-08-13T10:26:20Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#issuecomment-3183192641"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM69vGsV",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM69vGsV"
+      },
+      "occurred_at": "2025-08-13T10:40:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#issuecomment-3183242005"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM6HeebS",
+      "metadata": {
+        "created_at": "2025-08-13T10:40:49Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-13T10:40:49Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM65rZ4R",
+        "source_node_id": "PRRC_kwDOGuqVzM6HeebS",
+        "thread_node_id": "PRRT_kwDOGuqVzM5XYmnW",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-13T10:40:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#discussion_r2272913106"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM65rZ4R",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM65rZ4R",
+        "state": "COMMENTED",
+        "submitted_at": "2025-08-13T10:40:49Z"
+      },
+      "occurred_at": "2025-08-13T10:40:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#pullrequestreview-3115163153"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6947WU",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6947WU"
+      },
+      "occurred_at": "2025-08-13T21:04:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jHtfb",
+        "number": 1472,
+        "title": "Test openmmforcefields `0.15.0`  openmmtools `0.25.1` pymbar `4.1.0`",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472#issuecomment-3185816980"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM695ZB0",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM695ZB0"
+      },
+      "occurred_at": "2025-08-13T21:48:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6iamrr",
+        "number": 1468,
+        "title": "debug slow python 3.13 tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468#issuecomment-3185938548"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM651pe-",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM651pe-",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-13T22:00:54Z"
+      },
+      "occurred_at": "2025-08-13T22:00:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6iamrr",
+        "number": 1468,
+        "title": "debug slow python 3.13 tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468#pullrequestreview-3117848510"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM6HlX_Q",
+      "metadata": {
+        "created_at": "2025-08-13T21:46:49Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-13T22:03:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM651i4n",
+        "source_node_id": "PRRC_kwDOGuqVzM6HlX_Q",
+        "thread_node_id": "PRRT_kwDOGuqVzM5XeMUe",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-13T22:03:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6iamrr",
+        "number": 1468,
+        "title": "debug slow python 3.13 tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468#discussion_r2274721744"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM651i4n",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM651i4n",
+        "state": "COMMENTED",
+        "submitted_at": "2025-08-13T22:03:09Z"
+      },
+      "occurred_at": "2025-08-13T22:03:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6iamrr",
+        "number": 1468,
+        "title": "debug slow python 3.13 tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468#pullrequestreview-3117821479"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM695lT7",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM695lT7"
+      },
+      "occurred_at": "2025-08-13T22:08:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6iamrr",
+        "number": 1468,
+        "title": "debug slow python 3.13 tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468#issuecomment-3185988859"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM695llS",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM695llS"
+      },
+      "occurred_at": "2025-08-13T22:08:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jHtfb",
+        "number": 1472,
+        "title": "Test openmmforcefields `0.15.0`  openmmtools `0.25.1` pymbar `4.1.0`",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1472#issuecomment-3185989970"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:64fa847b11a86351549c5f2fe7ab6a21fc8801ac",
+      "metadata": {
+        "authored_at": "2025-08-13T22:43:02Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "41f08e6dc5f54bb6ad35caca31c358581c9061fe"
+        ],
+        "sha": "64fa847b11a86351549c5f2fe7ab6a21fc8801ac"
+      },
+      "occurred_at": "2025-08-13T22:43:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDY0ZmE4NDdiMTFhODYzNTE1NDljNWYyZmU3YWI2YTIxZmM4ODAxYWM",
+        "number": null,
+        "title": "debug slow python 3.13 tests (#1468)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/64fa847b11a86351549c5f2fe7ab6a21fc8801ac"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/64fa847b11a86351549c5f2fe7ab6a21fc8801ac"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM7Eh-zjzwAAAAR1Pprk",
+      "metadata": {
+        "merge_commit_sha": "64fa847b11a86351549c5f2fe7ab6a21fc8801ac",
+        "source_node_id": "ME_lADOGuqVzM7Eh-zjzwAAAAR1Pprk"
+      },
+      "occurred_at": "2025-08-13T22:43:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6iamrr",
+        "number": 1468,
+        "title": "debug slow python 3.13 tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1468#event-19146906340"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM697XcV",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM697XcV"
+      },
+      "occurred_at": "2025-08-14T01:59:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#issuecomment-3186456341"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM656wJu",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM656wJu",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-14T06:29:20Z"
+      },
+      "occurred_at": "2025-08-14T06:29:20Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#pullrequestreview-3119186542"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:95a956184b5c801865230b84c515096bd63e2d74",
+      "metadata": {
+        "authored_at": "2025-08-14T06:38:39Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "64fa847b11a86351549c5f2fe7ab6a21fc8801ac"
+        ],
+        "sha": "95a956184b5c801865230b84c515096bd63e2d74"
+      },
+      "occurred_at": "2025-08-14T06:38:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDk1YTk1NjE4NGI1YzgwMTg2NTIzMGI4NGM1MTUwOTZiZDYzZTJkNzQ",
+        "number": null,
+        "title": "Change bonded host strategy to use lowest variance restraint (#1477)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/95a956184b5c801865230b84c515096bd63e2d74"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/95a956184b5c801865230b84c515096bd63e2d74"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM7FsuWizwAAAAR1khwR",
+      "metadata": {
+        "merge_commit_sha": "95a956184b5c801865230b84c515096bd63e2d74",
+        "source_node_id": "ME_lADOGuqVzM7FsuWizwAAAAR1khwR"
+      },
+      "occurred_at": "2025-08-14T06:38:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6jZr6V",
+        "number": 1477,
+        "title": "Change bonded host strategy to use lowest variance restraint",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1477#event-19152378897"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM7FPXaqzwAAAAR1khzQ",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM7FPXaqzwAAAAR1khzQ"
+      },
+      "occurred_at": "2025-08-14T06:38:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7FPXaq",
+        "number": 1471,
+        "title": "Derive single-residue host anchor boresch restraint via variance tiebreak",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1471"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1471#event-19152379088"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MTY2MDI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM6-Dlz1",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-Dlz1"
+      },
+      "occurred_at": "2025-08-14T14:13:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM6q6Ym_",
+        "number": 1153,
+        "title": "improve CI runners for slow tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1153"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1153#issuecomment-3188612341"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM6HxXaf",
+      "metadata": {
+        "created_at": "2025-08-14T22:44:43Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-14T22:44:43Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM66GoXL",
+        "source_node_id": "PRRC_kwDOGuqVzM6HxXaf",
+        "thread_node_id": "PRRT_kwDOGuqVzM5Xm3Qu",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-14T22:44:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6fEuDK",
+        "number": 1431,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1431"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1431#discussion_r2277865119"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM66GoXL",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM66GoXL",
+        "state": "COMMENTED",
+        "submitted_at": "2025-08-14T22:44:43Z"
+      },
+      "occurred_at": "2025-08-14T22:44:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6fEuDK",
+        "number": 1431,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1431"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1431#pullrequestreview-3122300363"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM6Hxghg",
+      "metadata": {
+        "created_at": "2025-08-14T23:05:11Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-14T23:05:11Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM66G3YW",
+        "source_node_id": "PRRC_kwDOGuqVzM6Hxghg",
+        "thread_node_id": "PRRT_kwDOGuqVzM5Xm9N9",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-14T23:05:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6fEuDK",
+        "number": 1431,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1431"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1431#discussion_r2277902432"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM66G3YW",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM66G3YW",
+        "state": "COMMENTED",
+        "submitted_at": "2025-08-14T23:05:11Z"
+      },
+      "occurred_at": "2025-08-14T23:05:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6fEuDK",
+        "number": 1431,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1431"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1431#pullrequestreview-3122361878"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM7BoDFizwAAAAR3DrEg",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM7BoDFizwAAAAR3DrEg"
+      },
+      "occurred_at": "2025-08-15T14:59:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM0MDE1MjY1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7BoDFi",
+        "number": 1444,
+        "title": "Couldn't use espaloma MLFF force-field in near-latest OpenFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1444"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1444#event-19177320736"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM6-PZO2",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-PZO2"
+      },
+      "occurred_at": "2025-08-15T14:59:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM0MDE1MjY1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7BoDFi",
+        "number": 1444,
+        "title": "Couldn't use espaloma MLFF force-field in near-latest OpenFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1444"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1444#issuecomment-3191706550"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7GPxom",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7GPxom"
+      },
+      "occurred_at": "2025-08-15T18:41:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7GPxom",
+        "number": 1478,
+        "title": "add ruff formatting",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1478"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1478"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM6q6Ym_zwAAAAR3PKfr",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM6q6Ym_zwAAAAR3PKfr"
+      },
+      "occurred_at": "2025-08-15T18:47:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM6q6Ym_",
+        "number": 1153,
+        "title": "improve CI runners for slow tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1153"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1153#event-19180333035"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM6-SJH6",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-SJH6"
+      },
+      "occurred_at": "2025-08-15T18:47:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM6q6Ym_",
+        "number": 1153,
+        "title": "improve CI runners for slow tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1153"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1153#issuecomment-3192427002"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6j5SQ_",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6j5SQ_"
+      },
+      "occurred_at": "2025-08-15T20:56:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6j5SQ_",
+        "number": 1479,
+        "title": "Move ligand utils to gufe",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM6-TnTK",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-TnTK"
+      },
+      "occurred_at": "2025-08-15T21:31:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM69yQ9l",
+        "number": 1395,
+        "title": "migrate solvation settings base classes to gufe",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1395"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1395#issuecomment-3192812746"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM6-Toyo",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-Toyo"
+      },
+      "occurred_at": "2025-08-15T21:34:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM69yQ9l",
+        "number": 1395,
+        "title": "migrate solvation settings base classes to gufe",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1395"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1395#issuecomment-3192818856"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6-T88v",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-T88v"
+      },
+      "occurred_at": "2025-08-15T22:24:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6j5SQ_",
+        "number": 1479,
+        "title": "Move ligand utils to gufe",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479#issuecomment-3192901423"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM7D3oSezwAAAAR3ZSmZ",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM7D3oSezwAAAAR3ZSmZ"
+      },
+      "occurred_at": "2025-08-15T22:35:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7D3oSe",
+        "number": 1466,
+        "title": "long tests are slower on python 3.13",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1466"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1466#event-19182987673"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6-UP9W",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-UP9W"
+      },
+      "occurred_at": "2025-08-15T23:13:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6j5SQ_",
+        "number": 1479,
+        "title": "Move ligand utils to gufe",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479#issuecomment-3192979286"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM6H5kHs",
+      "metadata": {
+        "created_at": "2025-08-15T23:14:10Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-15T23:14:16Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM66SNNJ",
+        "source_node_id": "PRRC_kwDOGuqVzM6H5kHs",
+        "thread_node_id": "PRRT_kwDOGuqVzM5XsgS5",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-15T23:14:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6j5SQ_",
+        "number": 1479,
+        "title": "Move ligand utils to gufe",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479#discussion_r2280014316"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM66SNNJ",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM66SNNJ",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-15T23:14:16Z"
+      },
+      "occurred_at": "2025-08-15T23:14:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6j5SQ_",
+        "number": 1479,
+        "title": "Move ligand utils to gufe",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479#pullrequestreview-3125334857"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM0MDE1MjY1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM6-Y6NQ",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-Y6NQ"
+      },
+      "occurred_at": "2025-08-17T07:38:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM0MDE1MjY1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7BoDFi",
+        "number": 1444,
+        "title": "Couldn't use espaloma MLFF force-field in near-latest OpenFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1444"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1444#issuecomment-3194200912"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM6-EBzVzwAAAAR37c7a",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM6-EBzVzwAAAAR37c7a"
+      },
+      "occurred_at": "2025-08-17T16:49:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM6-EBzV",
+        "number": 1405,
+        "title": "OpenMM 8.3 benchmarking",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1405"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1405#event-19191942874"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "reopener"
+        }
+      ],
+      "id": "issue_reopened:REE_lADOGuqVzM7BoDFizwAAAAR43C-0",
+      "metadata": {
+        "source_node_id": "REE_lADOGuqVzM7BoDFizwAAAAR43C-0"
+      },
+      "occurred_at": "2025-08-18T16:25:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM0MDE1MjY1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7BoDFi",
+        "number": 1444,
+        "title": "Couldn't use espaloma MLFF force-field in near-latest OpenFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1444"
+      },
+      "type": "issue_reopened",
+      "url": null
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6kJ0aO",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6kJ0aO"
+      },
+      "occurred_at": "2025-08-18T17:38:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6kJ0aO",
+        "number": 1480,
+        "title": "[DNM] Test openfe with latest openff toolkit/interchange versions",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1480"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1480"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6-nW4F",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-nW4F"
+      },
+      "occurred_at": "2025-08-18T18:33:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6j5SQ_",
+        "number": 1479,
+        "title": "Move ligand utils to gufe",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479#issuecomment-3197988357"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc3NTYzMTk0",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM6-sZXi",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-sZXi"
+      },
+      "occurred_at": "2025-08-19T05:58:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3199309282"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc3NTYzMTk0",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM6-sog-",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-sog-"
+      },
+      "occurred_at": "2025-08-19T06:22:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3199371326"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6-3LD8",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-3LD8"
+      },
+      "occurred_at": "2025-08-19T20:31:42Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6kJ0aO",
+        "number": 1480,
+        "title": "[DNM] Test openfe with latest openff toolkit/interchange versions",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1480"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1480#issuecomment-3202134268"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6-5mYI",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-5mYI"
+      },
+      "occurred_at": "2025-08-19T23:11:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5mx-En",
+        "number": 722,
+        "title": "Un-vendor `toolkit_registry_manager`",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/722"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/722#issuecomment-3202770440"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6kYkE6",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6kYkE6"
+      },
+      "occurred_at": "2025-08-19T23:14:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6kYkE6",
+        "number": 1481,
+        "title": "[DNM] Test against Interchange branch",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1481"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1481"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6-5s5A",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-5s5A"
+      },
+      "occurred_at": "2025-08-19T23:14:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6kYkE6",
+        "number": 1481,
+        "title": "[DNM] Test against Interchange branch",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1481"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1481#issuecomment-3202797120"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6-7HTN",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-7HTN"
+      },
+      "occurred_at": "2025-08-19T23:55:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6kYkE6",
+        "number": 1481,
+        "title": "[DNM] Test against Interchange branch",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1481"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1481#issuecomment-3203167437"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6-7RIx",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-7RIx"
+      },
+      "occurred_at": "2025-08-19T23:59:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6kYkE6",
+        "number": 1481,
+        "title": "[DNM] Test against Interchange branch",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1481"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1481#issuecomment-3203207729"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6-8gmW",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6-8gmW"
+      },
+      "occurred_at": "2025-08-20T00:40:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6kYkE6",
+        "number": 1481,
+        "title": "[DNM] Test against Interchange branch",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1481"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1481#issuecomment-3203533206"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6_JWJ4",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_JWJ4"
+      },
+      "occurred_at": "2025-08-20T15:31:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6kYkE6",
+        "number": 1481,
+        "title": "[DNM] Test against Interchange branch",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1481"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1481#issuecomment-3206898296"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6_Jyh0",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_Jyh0"
+      },
+      "occurred_at": "2025-08-20T16:06:42Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6kJ0aO",
+        "number": 1480,
+        "title": "[DNM] Test openfe with latest openff toolkit/interchange versions",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1480"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1480#issuecomment-3207014516"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6_JyrA",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_JyrA"
+      },
+      "occurred_at": "2025-08-20T16:06:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6kJ0aO",
+        "number": 1480,
+        "title": "[DNM] Test openfe with latest openff toolkit/interchange versions",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1480"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1480#issuecomment-3207015104"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7HNMeJ",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7HNMeJ"
+      },
+      "occurred_at": "2025-08-21T15:06:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7HNMeJ",
+        "number": 1482,
+        "title": "add links to MPS blog in openfe docs",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1482"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1482"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6ktmXG",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6ktmXG"
+      },
+      "occurred_at": "2025-08-21T15:32:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6ktmXG",
+        "number": 1483,
+        "title": "update quickrun execution docs and add MPS link",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1483"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1483"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6_Zc-O",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_Zc-O"
+      },
+      "occurred_at": "2025-08-21T15:32:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6ktmXG",
+        "number": 1483,
+        "title": "update quickrun execution docs and add MPS link",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1483"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1483#issuecomment-3211120526"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM67O8gn",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM67O8gn",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-21T15:37:45Z"
+      },
+      "occurred_at": "2025-08-21T15:37:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6ktmXG",
+        "number": 1483,
+        "title": "update quickrun execution docs and add MPS link",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1483"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1483#pullrequestreview-3141257255"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:9f0800ffbb2cef33854142c0ff38deee0da46c2d",
+      "metadata": {
+        "authored_at": "2025-08-21T15:52:37Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "95a956184b5c801865230b84c515096bd63e2d74"
+        ],
+        "sha": "9f0800ffbb2cef33854142c0ff38deee0da46c2d"
+      },
+      "occurred_at": "2025-08-21T15:52:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDlmMDgwMGZmYmIyY2VmMzM4NTQxNDJjMGZmMzhkZWVlMGRhNDZjMmQ",
+        "number": null,
+        "title": "update quickrun execution docs and add MPS link (#1483)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/9f0800ffbb2cef33854142c0ff38deee0da46c2d"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/9f0800ffbb2cef33854142c0ff38deee0da46c2d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM7HNjEgzwAAAAR8j9pL",
+      "metadata": {
+        "merge_commit_sha": "9f0800ffbb2cef33854142c0ff38deee0da46c2d",
+        "source_node_id": "ME_lADOGuqVzM7HNjEgzwAAAAR8j9pL"
+      },
+      "occurred_at": "2025-08-21T15:52:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6ktmXG",
+        "number": 1483,
+        "title": "update quickrun execution docs and add MPS link",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1483"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1483#event-19269671499"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM7HNMeJzwAAAAR8j9uN",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM7HNMeJzwAAAAR8j9uN"
+      },
+      "occurred_at": "2025-08-21T15:52:38Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7HNMeJ",
+        "number": 1482,
+        "title": "add links to MPS blog in openfe docs",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1482"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1482#event-19269671821"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6_Zu61",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_Zu61"
+      },
+      "occurred_at": "2025-08-21T15:54:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6ktmXG",
+        "number": 1483,
+        "title": "update quickrun execution docs and add MPS link",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1483"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1483#issuecomment-3211194037"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7HONo0",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7HONo0"
+      },
+      "occurred_at": "2025-08-21T16:19:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7HONo0",
+        "number": 1484,
+        "title": "read the docs timing out",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1484"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1484"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6kv-CE",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6kv-CE"
+      },
+      "occurred_at": "2025-08-21T19:19:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6kv-CE",
+        "number": 1485,
+        "title": "Debug failing rtd",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1485"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1485"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6_cD38",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_cD38"
+      },
+      "occurred_at": "2025-08-21T19:20:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6kv-CE",
+        "number": 1485,
+        "title": "Debug failing rtd",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1485"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1485#issuecomment-3211804156"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6k2Z7z",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6k2Z7z"
+      },
+      "occurred_at": "2025-08-22T09:28:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k2Z7z",
+        "number": 1486,
+        "title": "Changes in Boresch restraint default settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1486"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1486"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6_kJ3K",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_kJ3K"
+      },
+      "occurred_at": "2025-08-22T10:43:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k2Z7z",
+        "number": 1486,
+        "title": "Changes in Boresch restraint default settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1486"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1486#issuecomment-3213925834"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM67Z8l-",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM67Z8l-",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-22T11:27:09Z"
+      },
+      "occurred_at": "2025-08-22T11:27:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k2Z7z",
+        "number": 1486,
+        "title": "Changes in Boresch restraint default settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1486"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1486#pullrequestreview-3144141182"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:92b0c036193f1e0e885480257311bd0ef647504d",
+      "metadata": {
+        "authored_at": "2025-08-22T11:28:26Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "9f0800ffbb2cef33854142c0ff38deee0da46c2d"
+        ],
+        "sha": "92b0c036193f1e0e885480257311bd0ef647504d"
+      },
+      "occurred_at": "2025-08-22T11:28:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDkyYjBjMDM2MTkzZjFlMGU4ODU0ODAyNTczMTFiZDBlZjY0NzUwNGQ",
+        "number": null,
+        "title": "Changes in Boresch restraint default settings (#1486)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/92b0c036193f1e0e885480257311bd0ef647504d"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/92b0c036193f1e0e885480257311bd0ef647504d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM7HXbnHzwAAAAR9gz5K",
+      "metadata": {
+        "merge_commit_sha": "92b0c036193f1e0e885480257311bd0ef647504d",
+        "source_node_id": "ME_lADOGuqVzM7HXbnHzwAAAAR9gz5K"
+      },
+      "occurred_at": "2025-08-22T11:28:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k2Z7z",
+        "number": 1486,
+        "title": "Changes in Boresch restraint default settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1486"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1486#event-19285622346"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6k7F-1",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6k7F-1"
+      },
+      "occurred_at": "2025-08-22T17:44:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k7F-1",
+        "number": 1487,
+        "title": "Bump number of retires when fetching data with pooch",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6_ox3O",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_ox3O"
+      },
+      "occurred_at": "2025-08-22T17:44:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k7F-1",
+        "number": 1487,
+        "title": "Bump number of retires when fetching data with pooch",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487#issuecomment-3215138254"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6_o8PS",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_o8PS"
+      },
+      "occurred_at": "2025-08-22T18:00:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k7F-1",
+        "number": 1487,
+        "title": "Bump number of retires when fetching data with pooch",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487#issuecomment-3215180754"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6_p8LT",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_p8LT"
+      },
+      "occurred_at": "2025-08-22T19:48:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k7F-1",
+        "number": 1487,
+        "title": "Bump number of retires when fetching data with pooch",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487#issuecomment-3215442643"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM67f6VA",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM67f6VA",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-22T19:48:37Z"
+      },
+      "occurred_at": "2025-08-22T19:48:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k7F-1",
+        "number": 1487,
+        "title": "Bump number of retires when fetching data with pooch",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487#pullrequestreview-3145704768"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM6_p9Jl",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_p9Jl"
+      },
+      "occurred_at": "2025-08-22T19:49:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7HONo0",
+        "number": 1484,
+        "title": "read the docs timing out",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1484"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1484#issuecomment-3215446629"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6k9akc",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6k9akc"
+      },
+      "occurred_at": "2025-08-22T21:40:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k9akc",
+        "number": 1488,
+        "title": "add jq cookbook",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1488"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1488"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6_rR9t",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_rR9t"
+      },
+      "occurred_at": "2025-08-22T22:01:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k9akc",
+        "number": 1488,
+        "title": "add jq cookbook",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1488"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1488#issuecomment-3215794029"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6_r1QR",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_r1QR"
+      },
+      "occurred_at": "2025-08-22T23:27:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k9akc",
+        "number": 1488,
+        "title": "add jq cookbook",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1488"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1488#issuecomment-3215938577"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM672szu",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM672szu",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-25T14:14:45Z"
+      },
+      "occurred_at": "2025-08-25T14:14:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k9akc",
+        "number": 1488,
+        "title": "add jq cookbook",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1488"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1488#pullrequestreview-3151678702"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6_9KKS",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6_9KKS"
+      },
+      "occurred_at": "2025-08-25T14:15:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k9akc",
+        "number": 1488,
+        "title": "add jq cookbook",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1488"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1488#issuecomment-3220480658"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6lPhRO",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6lPhRO"
+      },
+      "occurred_at": "2025-08-25T16:01:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6lPhRO",
+        "number": 1489,
+        "title": "debug docs build",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1489"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1489"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOGuqVzM6lQVjj",
+      "metadata": {
+        "source_node_id": "PR_kwDOGuqVzM6lQVjj"
+      },
+      "occurred_at": "2025-08-25T17:24:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6lQVjj",
+        "number": 1490,
+        "title": "don't run CI for rtd changes",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1490"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1490"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:aa27131533580fac8522d8d7aff703191b59efc8",
+      "metadata": {
+        "authored_at": "2025-08-25T17:25:52Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "92b0c036193f1e0e885480257311bd0ef647504d"
+        ],
+        "sha": "aa27131533580fac8522d8d7aff703191b59efc8"
+      },
+      "occurred_at": "2025-08-25T17:25:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKGFhMjcxMzE1MzM1ODBmYWM4NTIyZDhkN2FmZjcwMzE5MWI1OWVmYzg",
+        "number": null,
+        "title": "add jq cookbook (#1488)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/aa27131533580fac8522d8d7aff703191b59efc8"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/aa27131533580fac8522d8d7aff703191b59efc8"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM7HfOhPzwAAAAR_-9Ds",
+      "metadata": {
+        "merge_commit_sha": "aa27131533580fac8522d8d7aff703191b59efc8",
+        "source_node_id": "ME_lADOGuqVzM7HfOhPzwAAAAR_-9Ds"
+      },
+      "occurred_at": "2025-08-25T17:25:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k9akc",
+        "number": 1488,
+        "title": "add jq cookbook",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1488"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1488#event-19327078636"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6__oKi",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6__oKi"
+      },
+      "occurred_at": "2025-08-25T17:29:20Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6lQVjj",
+        "number": 1490,
+        "title": "don't run CI for rtd changes",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1490"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1490#issuecomment-3221127842"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM675h7E",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM675h7E",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-25T17:33:18Z"
+      },
+      "occurred_at": "2025-08-25T17:33:18Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6lQVjj",
+        "number": 1490,
+        "title": "don't run CI for rtd changes",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1490"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1490#pullrequestreview-3152420548"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:d0af3f53255347c247dc55f53f80070e2cffc5f3",
+      "metadata": {
+        "authored_at": "2025-08-25T17:39:34Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "aa27131533580fac8522d8d7aff703191b59efc8"
+        ],
+        "sha": "d0af3f53255347c247dc55f53f80070e2cffc5f3"
+      },
+      "occurred_at": "2025-08-25T17:39:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKGQwYWYzZjUzMjU1MzQ3YzI0N2RjNTVmNTNmODAwNzBlMmNmZmM1ZjM",
+        "number": null,
+        "title": "don't run CI for rtd changes (#1490)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/d0af3f53255347c247dc55f53f80070e2cffc5f3"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/d0af3f53255347c247dc55f53f80070e2cffc5f3"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM7H1QVfzwAAAAR__wUf",
+      "metadata": {
+        "merge_commit_sha": "d0af3f53255347c247dc55f53f80070e2cffc5f3",
+        "source_node_id": "ME_lADOGuqVzM7H1QVfzwAAAAR__wUf"
+      },
+      "occurred_at": "2025-08-25T17:39:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6lQVjj",
+        "number": 1490,
+        "title": "don't run CI for rtd changes",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1490"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1490#event-19327288607"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM6__2Ke",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM6__2Ke"
+      },
+      "occurred_at": "2025-08-25T17:48:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6lQVjj",
+        "number": 1490,
+        "title": "don't run CI for rtd changes",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1490"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1490#issuecomment-3221185182"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "U_kgDOCI41lQ",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7H2aYu",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7H2aYu"
+      },
+      "occurred_at": "2025-08-25T19:16:15Z",
+      "subject": {
+        "author_key": "U_kgDOCI41lQ",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7H2aYu",
+        "number": 1491,
+        "title": "No trajectory files generated with RBFE protocol (default settings)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM7ABS31",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7ABS31"
+      },
+      "occurred_at": "2025-08-25T20:00:02Z",
+      "subject": {
+        "author_key": "U_kgDOCI41lQ",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7H2aYu",
+        "number": 1491,
+        "title": "No trajectory files generated with RBFE protocol (default settings)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491#issuecomment-3221564917"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "U_kgDOCI41lQ",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM7ABcqg",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7ABcqg"
+      },
+      "occurred_at": "2025-08-25T20:14:04Z",
+      "subject": {
+        "author_key": "U_kgDOCI41lQ",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7H2aYu",
+        "number": 1491,
+        "title": "No trajectory files generated with RBFE protocol (default settings)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491#issuecomment-3221605024"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM7ACSgo",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7ACSgo"
+      },
+      "occurred_at": "2025-08-25T21:38:33Z",
+      "subject": {
+        "author_key": "U_kgDOCI41lQ",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7H2aYu",
+        "number": 1491,
+        "title": "No trajectory files generated with RBFE protocol (default settings)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491#issuecomment-3221825576"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI5NDk3Mjk=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM7ACeS8",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7ACeS8"
+      },
+      "occurred_at": "2025-08-25T22:01:47Z",
+      "subject": {
+        "author_key": "U_kgDOCI41lQ",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7H2aYu",
+        "number": 1491,
+        "title": "No trajectory files generated with RBFE protocol (default settings)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491#issuecomment-3221873852"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI5NDk3Mjk=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM7ACfKJ",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7ACfKJ"
+      },
+      "occurred_at": "2025-08-25T22:03:31Z",
+      "subject": {
+        "author_key": "U_kgDOCI41lQ",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7H2aYu",
+        "number": 1491,
+        "title": "No trajectory files generated with RBFE protocol (default settings)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491#issuecomment-3221877385"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM7ACnu0",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7ACnu0"
+      },
+      "occurred_at": "2025-08-25T22:17:21Z",
+      "subject": {
+        "author_key": "U_kgDOCI41lQ",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7H2aYu",
+        "number": 1491,
+        "title": "No trajectory files generated with RBFE protocol (default settings)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491#issuecomment-3221912500"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM7ADV7U",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7ADV7U"
+      },
+      "occurred_at": "2025-08-26T00:07:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6lPhRO",
+        "number": 1489,
+        "title": "debug docs build",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1489"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1489#issuecomment-3222101716"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM7AEQm8",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7AEQm8"
+      },
+      "occurred_at": "2025-08-26T02:24:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6lPhRO",
+        "number": 1489,
+        "title": "debug docs build",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1489"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1489#issuecomment-3222342076"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7H9saS",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7H9saS"
+      },
+      "occurred_at": "2025-08-26T09:15:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7H9saS",
+        "number": 1492,
+        "title": "SepTop slow & validation tests are writing out files",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1492"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1492"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM7AMCHs",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7AMCHs"
+      },
+      "occurred_at": "2025-08-26T14:20:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQ1MDYyMjY2",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7Dufpz",
+        "number": 1465,
+        "title": "atom_indices are not monotonically increasing",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1465"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1465#issuecomment-3224379884"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOGuqVzM68G-t7",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM68G-t7",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-26T14:34:02Z"
+      },
+      "occurred_at": "2025-08-26T14:34:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6lPhRO",
+        "number": 1489,
+        "title": "debug docs build",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1489"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1489#pullrequestreview-3155946363"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:36849b8a092c00e5971c2a4ce47e8791d2548d2e",
+      "metadata": {
+        "authored_at": "2025-08-26T14:34:40Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "d0af3f53255347c247dc55f53f80070e2cffc5f3"
+        ],
+        "sha": "36849b8a092c00e5971c2a4ce47e8791d2548d2e"
+      },
+      "occurred_at": "2025-08-26T14:34:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDM2ODQ5YjhhMDkyYzAwZTU5NzFjMmE0Y2U0N2U4NzkxZDI1NDhkMmU",
+        "number": null,
+        "title": "debug docs build (#1489)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/36849b8a092c00e5971c2a4ce47e8791d2548d2e"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/36849b8a092c00e5971c2a4ce47e8791d2548d2e"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM7H0VTlzwAAAASBJqvm",
+      "metadata": {
+        "merge_commit_sha": "36849b8a092c00e5971c2a4ce47e8791d2548d2e",
+        "source_node_id": "ME_lADOGuqVzM7H0VTlzwAAAASBJqvm"
+      },
+      "occurred_at": "2025-08-26T14:34:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6lPhRO",
+        "number": 1489,
+        "title": "debug docs build",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1489"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1489#event-19346664422"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MTY2MDI=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM7HONo0zwAAAASBJspw",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM7HONo0zwAAAASBJspw"
+      },
+      "occurred_at": "2025-08-26T14:34:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7HONo0",
+        "number": 1484,
+        "title": "read the docs timing out",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1484"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1484#event-19346672240"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM7AMRBq",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7AMRBq"
+      },
+      "occurred_at": "2025-08-26T14:35:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6lPhRO",
+        "number": 1489,
+        "title": "debug docs build",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1489"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1489#issuecomment-3224440938"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "co_author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:a0154ef488e8611b5608f0cf59a76bfd53cf9634",
+      "metadata": {
+        "authored_at": "2025-08-26T14:38:49Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "36849b8a092c00e5971c2a4ce47e8791d2548d2e"
+        ],
+        "sha": "a0154ef488e8611b5608f0cf59a76bfd53cf9634"
+      },
+      "occurred_at": "2025-08-26T14:38:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKGEwMTU0ZWY0ODhlODYxMWI1NjA4ZjBjZjU5YTc2YmZkNTNjZjk2MzQ",
+        "number": null,
+        "title": "Bump number of retires when fetching data with pooch (#1487)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/a0154ef488e8611b5608f0cf59a76bfd53cf9634"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/a0154ef488e8611b5608f0cf59a76bfd53cf9634"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM7HctBJzwAAAASBKXAl",
+      "metadata": {
+        "merge_commit_sha": "a0154ef488e8611b5608f0cf59a76bfd53cf9634",
+        "source_node_id": "ME_lADOGuqVzM7HctBJzwAAAASBKXAl"
+      },
+      "occurred_at": "2025-08-26T14:38:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k7F-1",
+        "number": 1487,
+        "title": "Bump number of retires when fetching data with pooch",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487#event-19346845733"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM7AMUUv",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7AMUUv"
+      },
+      "occurred_at": "2025-08-26T14:38:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6k7F-1",
+        "number": 1487,
+        "title": "Bump number of retires when fetching data with pooch",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1487#issuecomment-3224454447"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM7AMU3B",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7AMU3B"
+      },
+      "occurred_at": "2025-08-26T14:39:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQ1MDYyMjY2",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7Dufpz",
+        "number": 1465,
+        "title": "atom_indices are not monotonically increasing",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1465"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1465#issuecomment-3224456641"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE4OTgyODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOGuqVzM7AMbfw",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7AMbfw"
+      },
+      "occurred_at": "2025-08-26T14:46:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6j5SQ_",
+        "number": 1479,
+        "title": "Move ligand utils to gufe",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479#issuecomment-3224483824"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM7AMfzK",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7AMfzK"
+      },
+      "occurred_at": "2025-08-26T14:50:04Z",
+      "subject": {
+        "author_key": "U_kgDOCI41lQ",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7H2aYu",
+        "number": 1491,
+        "title": "No trajectory files generated with RBFE protocol (default settings)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1491#issuecomment-3224501450"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7IC8Vb",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7IC8Vb"
+      },
+      "occurred_at": "2025-08-26T15:48:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7IC8Vb",
+        "number": 1493,
+        "title": "Change default atom mapper to Kartograf!",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1493"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1493"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM63oPMhzwAAAASBakVo",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM63oPMhzwAAAASBakVo"
+      },
+      "occurred_at": "2025-08-26T16:19:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM63oPMh",
+        "number": 1282,
+        "title": "add jq tips to docs",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1282"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1282#event-19351094632"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM7AN8Rw",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7AN8Rw"
+      },
+      "occurred_at": "2025-08-26T16:19:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM63oPMh",
+        "number": 1282,
+        "title": "add jq tips to docs",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1282"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1282#issuecomment-3224880240"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOGuqVzA:822df4399321d80a0cb848a14ced0b509f75028f",
+      "metadata": {
+        "authored_at": "2025-08-26T16:51:00Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "a0154ef488e8611b5608f0cf59a76bfd53cf9634"
+        ],
+        "sha": "822df4399321d80a0cb848a14ced0b509f75028f"
+      },
+      "occurred_at": "2025-08-26T16:51:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "commit",
+        "node_id": "C_kwDOGuqVzNoAKDgyMmRmNDM5OTMyMWQ4MGEwY2I4NDhhMTRjZWQwYjUwOWY3NTAyOGY",
+        "number": null,
+        "title": "Move ligand utils to gufe (#1479)",
+        "url": "https://github.com/OpenFreeEnergy/openfe/commit/822df4399321d80a0cb848a14ced0b509f75028f"
+      },
+      "type": "commit",
+      "url": "https://github.com/OpenFreeEnergy/openfe/commit/822df4399321d80a0cb848a14ced0b509f75028f"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOGuqVzM7GRAn2zwAAAASBcuOG",
+      "metadata": {
+        "merge_commit_sha": "822df4399321d80a0cb848a14ced0b509f75028f",
+        "source_node_id": "ME_lADOGuqVzM7GRAn2zwAAAASBcuOG"
+      },
+      "occurred_at": "2025-08-26T16:51:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM6j5SQ_",
+        "number": 1479,
+        "title": "Move ligand utils to gufe",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/1479#event-19351659398"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOGuqVzM7H9saSzwAAAASCXRwq",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOGuqVzM7H9saSzwAAAASCXRwq"
+      },
+      "occurred_at": "2025-08-27T11:55:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7H9saS",
+        "number": 1492,
+        "title": "SepTop slow & validation tests are writing out files",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1492"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1492#event-19367009322"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOGuqVzM7Ieo8f",
+      "metadata": {
+        "source_node_id": "I_kwDOGuqVzM7Ieo8f"
+      },
+      "occurred_at": "2025-08-28T14:07:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7Ieo8f",
+        "number": 1495,
+        "title": "use cinnabar for dg calculation in gather",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1495"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1495"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOGuqVzM7AxIfv",
+      "metadata": {
+        "source_node_id": "IC_kwDOGuqVzM7AxIfv"
+      },
+      "occurred_at": "2025-08-28T16:07:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTYzMTk0",
+        "kind": "issue",
+        "node_id": "I_kwDOGuqVzM7ERCa-",
+        "number": 1467,
+        "title": "Differences of calculation time",
+        "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/issues/1467#issuecomment-3234105327"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "bot",
+      "database_id": 22429695,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90MjI0Mjk2OTU=",
+      "key": "MDM6Qm90MjI0Mjk2OTU=",
+      "login": "codecov",
+      "url": "https://github.com/apps/codecov"
+    },
+    {
+      "classification": "bot",
+      "database_id": 41898282,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90NDE4OTgyODI=",
+      "key": "MDM6Qm90NDE4OTgyODI=",
+      "login": "github-actions",
+      "url": "https://github.com/apps/github-actions"
+    },
+    {
+      "classification": "human",
+      "database_id": 1616602,
+      "display_name": "James R. Baggs Eastwood",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE2MTY2MDI=",
+      "key": "MDQ6VXNlcjE2MTY2MDI=",
+      "login": "jameseastwood",
+      "url": "https://github.com/jameseastwood"
+    },
+    {
+      "classification": "human",
+      "database_id": 11765982,
+      "display_name": "Mike Henry",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjExNzY1OTgy",
+      "key": "MDQ6VXNlcjExNzY1OTgy",
+      "login": "mikemhenry",
+      "url": "https://github.com/mikemhenry"
+    },
+    {
+      "classification": "human",
+      "database_id": 12460125,
+      "display_name": "Irfan Alibay",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjEyNDYwMTI1",
+      "key": "MDQ6VXNlcjEyNDYwMTI1",
+      "login": "IAlibay",
+      "url": "https://github.com/IAlibay"
+    },
+    {
+      "classification": "human",
+      "database_id": 2949729,
+      "display_name": "Iván Pulido",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjI5NDk3Mjk=",
+      "key": "MDQ6VXNlcjI5NDk3Mjk=",
+      "login": "ijpulidos",
+      "url": "https://github.com/ijpulidos"
+    },
+    {
+      "classification": "human",
+      "database_id": 34015265,
+      "display_name": "Takeru Kameda",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjM0MDE1MjY1",
+      "key": "MDQ6VXNlcjM0MDE1MjY1",
+      "login": "Kamecs",
+      "url": "https://github.com/Kamecs"
+    },
+    {
+      "classification": "human",
+      "database_id": 30259414,
+      "display_name": "Josh Horton",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjMwMjU5NDE0",
+      "key": "MDQ6VXNlcjMwMjU5NDE0",
+      "login": "jthorton",
+      "url": "https://github.com/jthorton"
+    },
+    {
+      "classification": "human",
+      "database_id": 31974495,
+      "display_name": "Alyssa Travitz",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjMxOTc0NDk1",
+      "key": "MDQ6VXNlcjMxOTc0NDk1",
+      "login": "atravitz",
+      "url": "https://github.com/atravitz"
+    },
+    {
+      "classification": "human",
+      "database_id": 45062266,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjQ1MDYyMjY2",
+      "key": "MDQ6VXNlcjQ1MDYyMjY2",
+      "login": "jslim-furame",
+      "url": "https://github.com/jslim-furame"
+    },
+    {
+      "classification": "human",
+      "database_id": 43765638,
+      "display_name": "Hannah Baumann",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjQzNzY1NjM4",
+      "key": "MDQ6VXNlcjQzNzY1NjM4",
+      "login": "hannahbaumann",
+      "url": "https://github.com/hannahbaumann"
+    },
+    {
+      "classification": "human",
+      "database_id": 77563194,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjc3NTYzMTk0",
+      "key": "MDQ6VXNlcjc3NTYzMTk0",
+      "login": "TakumiHirao",
+      "url": "https://github.com/TakumiHirao"
+    },
+    {
+      "classification": "human",
+      "database_id": 7935382,
+      "display_name": "Matt Thompson",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjc5MzUzODI=",
+      "key": "MDQ6VXNlcjc5MzUzODI=",
+      "login": "mattwthompson",
+      "url": "https://github.com/mattwthompson"
+    },
+    {
+      "classification": "human",
+      "database_id": 143537557,
+      "display_name": "Lindsey Whitmore",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "U_kgDOCI41lQ",
+      "key": "U_kgDOCI41lQ",
+      "login": "lwhitm1",
+      "url": "https://github.com/lwhitm1"
+    },
+    {
+      "classification": "unresolved_git",
+      "database_id": null,
+      "display_name": null,
+      "git_email": "noreply@github.com",
+      "git_name": "GitHub",
+      "github_node_id": null,
+      "key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+      "login": null,
+      "url": null
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-17T23:09:19.790865Z",
+    "collection_started_at": "2026-10-17T23:04:44.542489Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "6495313a58148e30ad92e7f6f601f7222f9547a9",
+    "month": "2025-08",
+    "month_end": "2025-09-01T00:00:00Z",
+    "month_start": "2025-08-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "OpenFreeEnergy/openfe",
+    "repository_node_id": "R_kgDOGuqVzA",
+    "repository_url": "https://github.com/OpenFreeEnergy/openfe"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDM6Qm90MjI0Mjk2OTU=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 11,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDM6Qm90NDE4OTgyODI=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 16,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjE2MTY2MDI=": {
+        "commit": 0,
+        "issue_closed": 1,
+        "issue_comment": 1,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjExNzY1OTgy": {
+        "commit": 1,
+        "issue_closed": 1,
+        "issue_comment": 3,
+        "issue_opened": 1,
+        "issue_reopened": 1,
+        "pr_conversation_comment": 9,
+        "pr_inline_review_comment": 1,
+        "pr_merged": 1,
+        "pr_opened": 2,
+        "pr_review": 4
+      },
+      "MDQ6VXNlcjEyNDYwMTI1": {
+        "commit": 6,
+        "issue_closed": 7,
+        "issue_comment": 12,
+        "issue_opened": 3,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 8,
+        "pr_inline_review_comment": 5,
+        "pr_merged": 6,
+        "pr_opened": 3,
+        "pr_review": 9
+      },
+      "MDQ6VXNlcjI5NDk3Mjk=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 4,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjM0MDE1MjY1": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 1,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjMwMjU5NDE0": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjMxOTc0NDk1": {
+        "commit": 8,
+        "issue_closed": 4,
+        "issue_comment": 5,
+        "issue_opened": 5,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 5,
+        "pr_inline_review_comment": 3,
+        "pr_merged": 6,
+        "pr_opened": 8,
+        "pr_review": 4
+      },
+      "MDQ6VXNlcjQ1MDYyMjY2": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjQzNzY1NjM4": {
+        "commit": 2,
+        "issue_closed": 1,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 2,
+        "pr_inline_review_comment": 2,
+        "pr_merged": 0,
+        "pr_opened": 1,
+        "pr_review": 4
+      },
+      "MDQ6VXNlcjc3NTYzMTk0": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 5,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjc5MzUzODI=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 3,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 1,
+        "pr_review": 0
+      },
+      "U_kgDOCI41lQ": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 1,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      }
+    },
+    "distinct_actors": {
+      "bot": 2,
+      "human": 12,
+      "total": 14,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 5,
+        "total": 5,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 8,
+        "total": 8,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 8,
+        "total": 8,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 2,
+        "human": 5,
+        "total": 7,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 0,
+        "human": 5,
+        "total": 5,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 13,
+      "issue_closed": 14,
+      "issue_comment": 32,
+      "issue_opened": 14,
+      "issue_reopened": 1,
+      "pr_conversation_comment": 54,
+      "pr_inline_review_comment": 11,
+      "pr_merged": 13,
+      "pr_opened": 15,
+      "pr_review": 21
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}
