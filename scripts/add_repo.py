@@ -38,7 +38,7 @@ def page(repository: str) -> str:
       <p><a href="https://github.com/{name}">View repository on GitHub</a></p>
       <repo-history-viz
         manifest="./manifest.json"
-        measures="github-activities commits contributors total-contributors balance"
+        measures="commits github-activities total-contributors"
         hide-loader
       ></repo-history-viz>
       <noscript>Enable JavaScript to view the repository history charts.</noscript>
