@@ -7,6 +7,8 @@ import sys
 from html import escape
 from pathlib import Path
 
+from social_cards import social_metadata, write_social_card
+
 SITE = Path(__file__).resolve().parents[1] / "site"
 
 
@@ -25,6 +27,7 @@ def page(repository: str) -> str:
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{name} · Repository history</title>
+{social_metadata(repository)}
     <style>
       body {{ margin: 0; background: #f4f6fa; }}
     </style>
@@ -64,6 +67,7 @@ def main(argv=None) -> int:
             ],
             check=True,
         )
+        write_social_card(args.repository, directory)
         index = directory / "index.html"
         index.write_text(page(args.repository), encoding="utf-8")
     except subprocess.CalledProcessError as error:

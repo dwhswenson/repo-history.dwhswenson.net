@@ -73,8 +73,8 @@ pixi run -e collection add-repo owner/repo
 ```
 
 The task runs `repo-history backfill` for the full available history, runs
-`repo-history summarize`, and creates a simple visualization page. All outputs
-live together directly in `site/<owner>/<repo>/`:
+`repo-history summarize`, and creates a simple visualization page and social
+preview image. All outputs live together directly in `site/<owner>/<repo>/`:
 
 ```text
 site/owner/repo/
@@ -82,6 +82,7 @@ site/owner/repo/
   ...
   manifest.json
   index.html
+  social-card.png
 ```
 
 The page is served at `/<owner>/<repo>/`. Preview it with `pixi run demo` and
@@ -111,6 +112,33 @@ pixi run repo-history summarize \
 ```
 
 There is one hosted visualizer bundle shared by all repository pages.
+
+### Social previews
+
+Repository pages include static [Open Graph](https://ogp.me/) and Twitter/X
+large-image card metadata, including the repository title, description,
+canonical URL, and an absolute image URL on `repo-history.dwhswenson.net`.
+Each `social-card.png` is a 1200 × 630 PNG generated from its manifest, showing
+the repository name, total commits, collected month count, GitHub activities,
+total contributors, and monthly commit history. GitHub activities exclude
+commits; activity and contributor totals use the visualizer's default human
+and unresolved-identity filters, excluding known bots. Contributors are
+deduplicated across all months and contribution types. Unattributed non-commit
+events count toward activities but do not add a contributor identity. The
+current month is marked as partial when applicable.
+
+`add-repo` generates the image and metadata automatically. After updating
+manifests, refresh all existing repository previews without collecting again:
+
+```sh
+pixi run refresh-social-cards
+```
+
+This refreshes metadata in the page head and leaves each page body intact.
+Pillow, included in the collection feature, renders the images locally;
+social crawlers do not need to run the visualization's JavaScript. Commit
+the PNGs alongside the HTML to publish the previews. Social services may
+cache older cards until they recrawl the published pages.
 
 ## Infrastructure and deployment
 

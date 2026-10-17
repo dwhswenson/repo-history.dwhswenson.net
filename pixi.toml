@@ -11,11 +11,15 @@ demo = "python -m http.server 8000 --bind 127.0.0.1 --directory site"
 [dependencies]
 python = "3.12.*"
 
+[feature.collection.dependencies]
+pillow = ">=11,<13"
+
 [feature.collection.pypi-dependencies]
 repo-history = { path = "/Users/dwhs/Dropbox/omsf/mupt/repo-history-tracking", editable = true }
 
 [feature.collection.tasks]
 add-repo = "python scripts/add_repo.py"
+refresh-social-cards = "python scripts/social_cards.py"
 
 [feature.visualization.dependencies]
 nodejs = "24.*"
