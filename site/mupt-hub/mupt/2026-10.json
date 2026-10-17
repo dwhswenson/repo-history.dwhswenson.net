@@ -1,0 +1,5622 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABQvOomw",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABQvOomw",
+        "state": "APPROVED",
+        "submitted_at": "2026-10-05T17:22:00Z"
+      },
+      "occurred_at": "2026-10-05T17:22:00Z",
+      "subject": {
+        "author_key": "MDM6Qm90NjY4NTMxMTM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABFkUcdQ",
+        "number": 118,
+        "title": "[pre-commit.ci] pre-commit autoupdate",
+        "url": "https://github.com/MuPT-hub/mupt/pull/118"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/118#pullrequestreview-5418231963"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:1587d330dc1e9fd4a8fe5e216f1e6a058f80443e",
+      "metadata": {
+        "authored_at": "2026-10-05T17:22:08Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "e3ac397f85e6009af9498e1a13a0d0144469a905",
+          "66b3591f3c0aeaf0b14d99a23203cca587356b51"
+        ],
+        "sha": "1587d330dc1e9fd4a8fe5e216f1e6a058f80443e"
+      },
+      "occurred_at": "2026-10-05T17:22:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDE1ODdkMzMwZGMxZTlmZDRhOGZlNWUyMTZmMWU2YTA1OGY4MDQ0M2U",
+        "number": null,
+        "title": "Merge pull request #118 from MuPT-hub/pre-commit-ci-update-config",
+        "url": "https://github.com/MuPT-hub/mupt/commit/1587d330dc1e9fd4a8fe5e216f1e6a058f80443e"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/1587d330dc1e9fd4a8fe5e216f1e6a058f80443e"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADONHLdRM8AAAABTwBQCs8AAAAHkvzQ9Q",
+      "metadata": {
+        "merge_commit_sha": "1587d330dc1e9fd4a8fe5e216f1e6a058f80443e",
+        "source_node_id": "ME_lADONHLdRM8AAAABTwBQCs8AAAAHkvzQ9Q"
+      },
+      "occurred_at": "2026-10-05T17:22:09Z",
+      "subject": {
+        "author_key": "MDM6Qm90NjY4NTMxMTM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABFkUcdQ",
+        "number": 118,
+        "title": "[pre-commit.ci] pre-commit autoupdate",
+        "url": "https://github.com/MuPT-hub/mupt/pull/118"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/MuPT-hub/mupt/pull/118#event-32530813173"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NjY4NTMxMTM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:7c3b1ced29c19b5f48b7f77bf7d4c6d483e7a437",
+      "metadata": {
+        "authored_at": "2026-10-05T20:48:45Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "1587d330dc1e9fd4a8fe5e216f1e6a058f80443e"
+        ],
+        "sha": "7c3b1ced29c19b5f48b7f77bf7d4c6d483e7a437"
+      },
+      "occurred_at": "2026-10-05T20:48:45Z",
+      "subject": {
+        "author_key": "MDM6Qm90NjY4NTMxMTM=",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDdjM2IxY2VkMjljMTliNWY0OGI3Zjc3YmY3ZDRjNmQ0ODNlN2E0Mzc",
+        "number": null,
+        "title": "[pre-commit.ci] pre-commit autoupdate",
+        "url": "https://github.com/MuPT-hub/mupt/commit/7c3b1ced29c19b5f48b7f77bf7d4c6d483e7a437"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/7c3b1ced29c19b5f48b7f77bf7d4c6d483e7a437"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NjY4NTMxMTM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDONHLdRM8AAAABGyhk5w",
+      "metadata": {
+        "source_node_id": "PR_kwDONHLdRM8AAAABGyhk5w"
+      },
+      "occurred_at": "2026-10-05T20:48:47Z",
+      "subject": {
+        "author_key": "MDM6Qm90NjY4NTMxMTM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABGyhk5w",
+        "number": 119,
+        "title": "[pre-commit.ci] pre-commit autoupdate",
+        "url": "https://github.com/MuPT-hub/mupt/pull/119"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/MuPT-hub/mupt/pull/119"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABZcuWyw",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABZcuWyw"
+      },
+      "occurred_at": "2026-10-05T20:59:00Z",
+      "subject": {
+        "author_key": "MDM6Qm90NjY4NTMxMTM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABGyhk5w",
+        "number": 119,
+        "title": "[pre-commit.ci] pre-commit autoupdate",
+        "url": "https://github.com/MuPT-hub/mupt/pull/119"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/119#issuecomment-6002808523"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:4d1b8df1e0fa231919a5b22f6c8769c0ef7202b6",
+      "metadata": {
+        "authored_at": "2026-10-06T16:17:45Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "48e7b4194f36a749a9f3f72ccbdbe32d7739b548"
+        ],
+        "sha": "4d1b8df1e0fa231919a5b22f6c8769c0ef7202b6"
+      },
+      "occurred_at": "2026-10-06T16:17:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDRkMWI4ZGYxZTBmYTIzMTkxOWE1YjIyZjZjODc2OWMwZWY3MjAyYjY",
+        "number": null,
+        "title": "docs: add Joseph R. Laforet Jr. to docs copyright; roles page edits (…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/4d1b8df1e0fa231919a5b22f6c8769c0ef7202b6"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/4d1b8df1e0fa231919a5b22f6c8769c0ef7202b6"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:440ab983e9d3c911521e54ec602b5ee4561393cd",
+      "metadata": {
+        "authored_at": "2026-10-06T16:19:18Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "4d1b8df1e0fa231919a5b22f6c8769c0ef7202b6"
+        ],
+        "sha": "440ab983e9d3c911521e54ec602b5ee4561393cd"
+      },
+      "occurred_at": "2026-10-06T16:19:18Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDQ0MGFiOTgzZTlkM2M5MTE1MjFlNTRlYzYwMmI1ZWU0NTYxMzkzY2Q",
+        "number": null,
+        "title": "chore: add Joseph R. Laforet Jr. as author and copyright holder",
+        "url": "https://github.com/MuPT-hub/mupt/commit/440ab983e9d3c911521e54ec602b5ee4561393cd"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/440ab983e9d3c911521e54ec602b5ee4561393cd"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:66d5ba9568f7999d4a5dec6bccdfe9649dc45c02",
+      "metadata": {
+        "authored_at": "2026-10-06T16:52:40Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "cfb5ee825ded51038cfdd9df4c611589e1ffb7c1"
+        ],
+        "sha": "66d5ba9568f7999d4a5dec6bccdfe9649dc45c02"
+      },
+      "occurred_at": "2026-10-06T16:52:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDY2ZDViYTk1NjhmNzk5OWQ0YTVkZWM2YmNjZGZlOTY0OWRjNDVjMDI",
+        "number": null,
+        "title": "docs: keep navbar title from overlapping top-level nav links",
+        "url": "https://github.com/MuPT-hub/mupt/commit/66d5ba9568f7999d4a5dec6bccdfe9649dc45c02"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/66d5ba9568f7999d4a5dec6bccdfe9649dc45c02"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:cfb5ee825ded51038cfdd9df4c611589e1ffb7c1",
+      "metadata": {
+        "authored_at": "2026-10-06T16:52:40Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "440ab983e9d3c911521e54ec602b5ee4561393cd"
+        ],
+        "sha": "cfb5ee825ded51038cfdd9df4c611589e1ffb7c1"
+      },
+      "occurred_at": "2026-10-06T16:52:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGNmYjVlZTgyNWRlZDUxMDM4Y2ZkZDlkZjRjNjExNTg5ZTFmZmI3YzE",
+        "number": null,
+        "title": "docs: finalize roles/SAAMR explanation page (#103)",
+        "url": "https://github.com/MuPT-hub/mupt/commit/cfb5ee825ded51038cfdd9df4c611589e1ffb7c1"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/cfb5ee825ded51038cfdd9df4c611589e1ffb7c1"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDONHLdRM8AAAABG9YgTA",
+      "metadata": {
+        "source_node_id": "PR_kwDONHLdRM8AAAABG9YgTA"
+      },
+      "occurred_at": "2026-10-06T16:55:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABZuWDfA",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABZuWDfA"
+      },
+      "occurred_at": "2026-10-06T17:00:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#issuecomment-6021284732"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOC_Y70g",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABZuWUTw",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABZuWUTw"
+      },
+      "occurred_at": "2026-10-06T17:01:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#issuecomment-6021289039"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM76PnD7",
+      "metadata": {
+        "created_at": "2026-10-06T17:24:01Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-06T18:41:55Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABQ8iKCQ",
+        "source_node_id": "PRRC_kwDONHLdRM76PnD7",
+        "thread_node_id": "PRRT_kwDONHLdRM6plN1o",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-06T18:41:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4198396155"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM76QhTu",
+      "metadata": {
+        "created_at": "2026-10-06T17:47:44Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-06T18:41:55Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABQ8iKCQ",
+        "source_node_id": "PRRC_kwDONHLdRM76QhTu",
+        "thread_node_id": "PRRT_kwDONHLdRM6ply6d",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-06T18:41:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4198634734"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM76Qi5i",
+      "metadata": {
+        "created_at": "2026-10-06T17:48:17Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-06T18:41:55Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABQ8iKCQ",
+        "source_node_id": "PRRC_kwDONHLdRM76Qi5i",
+        "thread_node_id": "PRRT_kwDONHLdRM6plz6w",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-06T18:41:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4198641250"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM76Qigo",
+      "metadata": {
+        "created_at": "2026-10-06T17:48:09Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-06T18:41:55Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABQ8iKCQ",
+        "source_node_id": "PRRC_kwDONHLdRM76Qigo",
+        "thread_node_id": "PRRT_kwDONHLdRM6plzq2",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-06T18:41:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4198639656"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABQ8iKCQ",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABQ8iKCQ",
+        "state": "DISMISSED",
+        "submitted_at": "2026-10-06T18:41:55Z"
+      },
+      "occurred_at": "2026-10-06T18:41:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5432183305"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABaGFjgQ",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABaGFjgQ"
+      },
+      "occurred_at": "2026-10-07T20:24:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#issuecomment-6046180225"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM77COm4",
+      "metadata": {
+        "created_at": "2026-10-07T20:31:41Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-07T20:31:40Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABRLmo_g",
+        "source_node_id": "PRRC_kwDONHLdRM77COm4",
+        "thread_node_id": "PRRT_kwDONHLdRM6qFZEa",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-07T20:31:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4211665336"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABRLmo_g",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABRLmo_g",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-07T20:31:40Z"
+      },
+      "occurred_at": "2026-10-07T20:31:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5447985406"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM77CPYi",
+      "metadata": {
+        "created_at": "2026-10-07T20:32:01Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-07T20:32:01Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABRLm4Ag",
+        "source_node_id": "PRRC_kwDONHLdRM77CPYi",
+        "thread_node_id": "PRRT_kwDONHLdRM6ply6d",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-07T20:32:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4211668514"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABRLm4Ag",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABRLm4Ag",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-07T20:32:01Z"
+      },
+      "occurred_at": "2026-10-07T20:32:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5447989250"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM77CWOQ",
+      "metadata": {
+        "created_at": "2026-10-07T20:35:08Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-07T20:35:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABRLo7aA",
+        "source_node_id": "PRRC_kwDONHLdRM77CWOQ",
+        "thread_node_id": "PRRT_kwDONHLdRM6qFduR",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-07T20:35:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4211696528"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABRLo7aA",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABRLo7aA",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-07T20:35:08Z"
+      },
+      "occurred_at": "2026-10-07T20:35:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5448022888"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM77CbKj",
+      "metadata": {
+        "created_at": "2026-10-07T20:37:11Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-07T20:37:10Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABRLqYqA",
+        "source_node_id": "PRRC_kwDONHLdRM77CbKj",
+        "thread_node_id": "PRRT_kwDONHLdRM6qFg1y",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-07T20:37:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4211716771"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABRLqYqA",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABRLqYqA",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-07T20:37:10Z"
+      },
+      "occurred_at": "2026-10-07T20:37:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5448046760"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM77Ciss",
+      "metadata": {
+        "created_at": "2026-10-07T20:40:32Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-07T20:40:32Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABRLsmfA",
+        "source_node_id": "PRRC_kwDONHLdRM77Ciss",
+        "thread_node_id": "PRRT_kwDONHLdRM6qFlcf",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-07T20:40:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4211747628"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABRLsmfA",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABRLsmfA",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-07T20:40:32Z"
+      },
+      "occurred_at": "2026-10-07T20:40:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5448083068"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABRLtUBQ",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABRLtUBQ",
+        "state": "APPROVED",
+        "submitted_at": "2026-10-07T20:41:41Z"
+      },
+      "occurred_at": "2026-10-07T20:41:41Z",
+      "subject": {
+        "author_key": "MDM6Qm90NjY4NTMxMTM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABGyhk5w",
+        "number": 119,
+        "title": "[pre-commit.ci] pre-commit autoupdate",
+        "url": "https://github.com/MuPT-hub/mupt/pull/119"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/119#pullrequestreview-5448094725"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:25735da1fb42cbaa8a550fae157ed13008b87336",
+      "metadata": {
+        "authored_at": "2026-10-07T20:41:53Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "1587d330dc1e9fd4a8fe5e216f1e6a058f80443e",
+          "7c3b1ced29c19b5f48b7f77bf7d4c6d483e7a437"
+        ],
+        "sha": "25735da1fb42cbaa8a550fae157ed13008b87336"
+      },
+      "occurred_at": "2026-10-07T20:41:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDI1NzM1ZGExZmI0MmNiYWE4YTU1MGZhZTE1N2VkMTMwMDhiODczMzY",
+        "number": null,
+        "title": "Merge pull request #119 from MuPT-hub/pre-commit-ci-update-config",
+        "url": "https://github.com/MuPT-hub/mupt/commit/25735da1fb42cbaa8a550fae157ed13008b87336"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/25735da1fb42cbaa8a550fae157ed13008b87336"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADONHLdRM8AAAABVNypGM8AAAAHno7eyA",
+      "metadata": {
+        "merge_commit_sha": "25735da1fb42cbaa8a550fae157ed13008b87336",
+        "source_node_id": "ME_lADONHLdRM8AAAABVNypGM8AAAAHno7eyA"
+      },
+      "occurred_at": "2026-10-07T20:41:54Z",
+      "subject": {
+        "author_key": "MDM6Qm90NjY4NTMxMTM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABGyhk5w",
+        "number": 119,
+        "title": "[pre-commit.ci] pre-commit autoupdate",
+        "url": "https://github.com/MuPT-hub/mupt/pull/119"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/MuPT-hub/mupt/pull/119#event-32724934344"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDONHLdRM8AAAABVuVXLQ",
+      "metadata": {
+        "source_node_id": "I_kwDONHLdRM8AAAABVuVXLQ"
+      },
+      "occurred_at": "2026-10-07T22:32:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "issue",
+        "node_id": "I_kwDONHLdRM8AAAABVuVXLQ",
+        "number": 121,
+        "title": "Consider using reserved keyword strings for Roles instead of an Enum",
+        "url": "https://github.com/MuPT-hub/mupt/issues/121"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/MuPT-hub/mupt/issues/121"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM77GPBA",
+      "metadata": {
+        "created_at": "2026-10-07T22:33:34Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-07T22:33:35Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABRMy8Tw",
+        "source_node_id": "PRRC_kwDONHLdRM77GPBA",
+        "thread_node_id": "PRRT_kwDONHLdRM6plN1o",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-07T22:33:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4212715584"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABRMy8Tw",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABRMy8Tw",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-07T22:33:35Z"
+      },
+      "occurred_at": "2026-10-07T22:33:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5449235535"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM77HZ5B",
+      "metadata": {
+        "created_at": "2026-10-07T23:21:29Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-07T23:21:29Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABRNIhSw",
+        "source_node_id": "PRRC_kwDONHLdRM77HZ5B",
+        "thread_node_id": "PRRT_kwDONHLdRM6qFZEa",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-07T23:21:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4213022273"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABRNIhSw",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABRNIhSw",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-07T23:21:29Z"
+      },
+      "occurred_at": "2026-10-07T23:21:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5449589067"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM77HfKw",
+      "metadata": {
+        "created_at": "2026-10-07T23:25:17Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-07T23:25:17Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABRNKEVA",
+        "source_node_id": "PRRC_kwDONHLdRM77HfKw",
+        "thread_node_id": "PRRT_kwDONHLdRM6qFlcf",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-07T23:25:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4213043888"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABRNKEVA",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABRNKEVA",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-07T23:25:17Z"
+      },
+      "occurred_at": "2026-10-07T23:25:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5449614420"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABaJLs-A",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABaJLs-A"
+      },
+      "occurred_at": "2026-10-08T00:11:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#issuecomment-6049426680"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABaY_D5g",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABaY_D5g"
+      },
+      "occurred_at": "2026-10-08T18:02:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUwNDIzMTQw",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM77s8y6",
+        "number": 94,
+        "title": "Add `to_mbuild` and `to_gmso` methods to `mupt/interfaces/mosdef`",
+        "url": "https://github.com/MuPT-hub/mupt/pull/94"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/94#issuecomment-6065996774"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDONHLdRM8AAAABHdyNMg",
+      "metadata": {
+        "source_node_id": "PR_kwDONHLdRM8AAAABHdyNMg"
+      },
+      "occurred_at": "2026-10-09T04:25:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyNMg",
+        "number": 122,
+        "title": "Separating mupr.connection into cohesive submodules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/122"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/MuPT-hub/mupt/pull/122"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDONHLdRM8AAAABHdyOLg",
+      "metadata": {
+        "source_node_id": "PR_kwDONHLdRM8AAAABHdyOLg"
+      },
+      "occurred_at": "2026-10-09T04:25:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyOLg",
+        "number": 123,
+        "title": "Abstracting Connector antialignment routine implementations",
+        "url": "https://github.com/MuPT-hub/mupt/pull/123"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/MuPT-hub/mupt/pull/123"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDONHLdRM8AAAABHdyO9A",
+      "metadata": {
+        "source_node_id": "PR_kwDONHLdRM8AAAABHdyO9A"
+      },
+      "occurred_at": "2026-10-09T04:25:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:8c734278d7eec47efbce3e7f5be1afb2de85e928",
+      "metadata": {
+        "authored_at": "2026-10-09T04:33:41Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "25735da1fb42cbaa8a550fae157ed13008b87336"
+        ],
+        "sha": "8c734278d7eec47efbce3e7f5be1afb2de85e928"
+      },
+      "occurred_at": "2026-10-09T04:33:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDhjNzM0Mjc4ZDdlZWM0N2VmYmNlM2U3ZjViZTFhZmIyZGU4NWU5Mjg",
+        "number": null,
+        "title": "Added default review status indicators to Status block",
+        "url": "https://github.com/MuPT-hub/mupt/commit/8c734278d7eec47efbce3e7f5be1afb2de85e928"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/8c734278d7eec47efbce3e7f5be1afb2de85e928"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABRchxBg",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABRchxBg",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-09T04:34:03Z"
+      },
+      "occurred_at": "2026-10-09T04:34:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyNMg",
+        "number": 122,
+        "title": "Separating mupr.connection into cohesive submodules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/122"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/122#pullrequestreview-5465731334"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABahPNDA",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABahPNDA"
+      },
+      "occurred_at": "2026-10-09T05:04:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7ixxOa",
+        "number": 82,
+        "title": "Connector improvements",
+        "url": "https://github.com/MuPT-hub/mupt/pull/82"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/82#issuecomment-6074649868"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABahRSpw",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABahRSpw"
+      },
+      "occurred_at": "2026-10-09T05:07:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyNMg",
+        "number": 122,
+        "title": "Separating mupr.connection into cohesive submodules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/122"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/122#issuecomment-6074684071"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABay6ung",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABay6ung"
+      },
+      "occurred_at": "2026-10-10T03:13:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyNMg",
+        "number": 122,
+        "title": "Separating mupr.connection into cohesive submodules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/122"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/122#issuecomment-6093188766"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABazWAqg",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABazWAqg"
+      },
+      "occurred_at": "2026-10-10T04:11:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#issuecomment-6093635754"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABazWXeQ",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABazWXeQ"
+      },
+      "occurred_at": "2026-10-10T04:12:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyOLg",
+        "number": 123,
+        "title": "Abstracting Connector antialignment routine implementations",
+        "url": "https://github.com/MuPT-hub/mupt/pull/123"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/123#issuecomment-6093641593"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOC_Y70g",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABazjpcw",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABazjpcw"
+      },
+      "occurred_at": "2026-10-10T04:40:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyNMg",
+        "number": 122,
+        "title": "Separating mupr.connection into cohesive submodules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/122"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/122#issuecomment-6093859187"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOC_Y70g",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABazjqAg",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABazjqAg"
+      },
+      "occurred_at": "2026-10-10T04:40:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyOLg",
+        "number": 123,
+        "title": "Abstracting Connector antialignment routine implementations",
+        "url": "https://github.com/MuPT-hub/mupt/pull/123"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/123#issuecomment-6093859330"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOC_Y70g",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABazkTew",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABazkTew"
+      },
+      "occurred_at": "2026-10-10T04:42:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#issuecomment-6093869947"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NjY4NTMxMTM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:fe9abe6d13072758c971cf0af494e4959448d07d",
+      "metadata": {
+        "authored_at": "2026-10-12T20:00:00Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "8c734278d7eec47efbce3e7f5be1afb2de85e928"
+        ],
+        "sha": "fe9abe6d13072758c971cf0af494e4959448d07d"
+      },
+      "occurred_at": "2026-10-12T20:00:00Z",
+      "subject": {
+        "author_key": "MDM6Qm90NjY4NTMxMTM=",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGZlOWFiZTZkMTMwNzI3NThjOTcxY2YwYWY0OTRlNDk1OTQ0OGQwN2Q",
+        "number": null,
+        "title": "[pre-commit.ci] pre-commit autoupdate",
+        "url": "https://github.com/MuPT-hub/mupt/commit/fe9abe6d13072758c971cf0af494e4959448d07d"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/fe9abe6d13072758c971cf0af494e4959448d07d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NjY4NTMxMTM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDONHLdRM8AAAABICaNsA",
+      "metadata": {
+        "source_node_id": "PR_kwDONHLdRM8AAAABICaNsA"
+      },
+      "occurred_at": "2026-10-12T20:00:02Z",
+      "subject": {
+        "author_key": "MDM6Qm90NjY4NTMxMTM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABICaNsA",
+        "number": 126,
+        "title": "[pre-commit.ci] pre-commit autoupdate",
+        "url": "https://github.com/MuPT-hub/mupt/pull/126"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/MuPT-hub/mupt/pull/126"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOC_Y70g",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABbXnA0w",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABbXnA0w"
+      },
+      "occurred_at": "2026-10-12T20:01:22Z",
+      "subject": {
+        "author_key": "MDM6Qm90NjY4NTMxMTM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABICaNsA",
+        "number": 126,
+        "title": "[pre-commit.ci] pre-commit autoupdate",
+        "url": "https://github.com/MuPT-hub/mupt/pull/126"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/126#issuecomment-6131663059"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABbXp4iA",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABbXp4iA"
+      },
+      "occurred_at": "2026-10-12T20:04:30Z",
+      "subject": {
+        "author_key": "MDM6Qm90NjY4NTMxMTM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABICaNsA",
+        "number": 126,
+        "title": "[pre-commit.ci] pre-commit autoupdate",
+        "url": "https://github.com/MuPT-hub/mupt/pull/126"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/126#issuecomment-6131710088"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:66d7a67491b3b01c2869a2a1ec46e78d7dd6a742",
+      "metadata": {
+        "authored_at": "2026-10-12T21:44:15Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "66d5ba9568f7999d4a5dec6bccdfe9649dc45c02"
+        ],
+        "sha": "66d7a67491b3b01c2869a2a1ec46e78d7dd6a742"
+      },
+      "occurred_at": "2026-10-12T21:44:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDY2ZDdhNjc0OTFiM2IwMWMyODY5YTJhMWVjNDZlNzhkN2RkNmE3NDI",
+        "number": null,
+        "title": "chore: credit The MuPT Developers instead of individual authors",
+        "url": "https://github.com/MuPT-hub/mupt/commit/66d7a67491b3b01c2869a2a1ec46e78d7dd6a742"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/66d7a67491b3b01c2869a2a1ec46e78d7dd6a742"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:1101fa1c6d5227dc255d58c875f593255d019569",
+      "metadata": {
+        "authored_at": "2026-10-12T21:45:17Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "66d7a67491b3b01c2869a2a1ec46e78d7dd6a742"
+        ],
+        "sha": "1101fa1c6d5227dc255d58c875f593255d019569"
+      },
+      "occurred_at": "2026-10-12T21:45:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDExMDFmYTFjNmQ1MjI3ZGMyNTVkNThjODc1ZjU5MzI1NWQwMTk1Njk",
+        "number": null,
+        "title": "docs: add a rule-breaking SAAMR example and apply review wording",
+        "url": "https://github.com/MuPT-hub/mupt/commit/1101fa1c6d5227dc255d58c875f593255d019569"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/1101fa1c6d5227dc255d58c875f593255d019569"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABbZJUJw",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABbZJUJw"
+      },
+      "occurred_at": "2026-10-12T21:51:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#issuecomment-6133273639"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABbZJVaw",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABbZJVaw"
+      },
+      "occurred_at": "2026-10-12T21:51:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#issuecomment-6133273963"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM79ejFM",
+      "metadata": {
+        "created_at": "2026-10-12T21:51:37Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-12T21:51:38Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABR5tj1g",
+        "source_node_id": "PRRC_kwDONHLdRM79ejFM",
+        "thread_node_id": "PRRT_kwDONHLdRM6ply6d",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-12T21:51:38Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4252643660"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABR5tj1g",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABR5tj1g",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-12T21:51:38Z"
+      },
+      "occurred_at": "2026-10-12T21:51:38Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5496333270"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM79ejJE",
+      "metadata": {
+        "created_at": "2026-10-12T21:51:39Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-12T21:51:39Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABR5tkpw",
+        "source_node_id": "PRRC_kwDONHLdRM79ejJE",
+        "thread_node_id": "PRRT_kwDONHLdRM6plzq2",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-12T21:51:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4252643908"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABR5tkpw",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABR5tkpw",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-12T21:51:39Z"
+      },
+      "occurred_at": "2026-10-12T21:51:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5496333479"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM79ejLz",
+      "metadata": {
+        "created_at": "2026-10-12T21:51:41Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-12T21:51:41Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABR5tlfg",
+        "source_node_id": "PRRC_kwDONHLdRM79ejLz",
+        "thread_node_id": "PRRT_kwDONHLdRM6plz6w",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-12T21:51:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4252644083"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABR5tlfg",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABR5tlfg",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-12T21:51:41Z"
+      },
+      "occurred_at": "2026-10-12T21:51:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5496333694"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM79ejN1",
+      "metadata": {
+        "created_at": "2026-10-12T21:51:43Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-12T21:51:43Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABR5tmKw",
+        "source_node_id": "PRRC_kwDONHLdRM79ejN1",
+        "thread_node_id": "PRRT_kwDONHLdRM6qFduR",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-12T21:51:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4252644213"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABR5tmKw",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABR5tmKw",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-12T21:51:43Z"
+      },
+      "occurred_at": "2026-10-12T21:51:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5496333867"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM79ejRm",
+      "metadata": {
+        "created_at": "2026-10-12T21:51:45Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-12T21:51:45Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABR5tnEg",
+        "source_node_id": "PRRC_kwDONHLdRM79ejRm",
+        "thread_node_id": "PRRT_kwDONHLdRM6qFg1y",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-12T21:51:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#discussion_r4252644454"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABR5tnEg",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABR5tnEg",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-12T21:51:45Z"
+      },
+      "occurred_at": "2026-10-12T21:51:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5496334098"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDONHLdRM8AAAABWvUXjw",
+      "metadata": {
+        "source_node_id": "I_kwDONHLdRM8AAAABWvUXjw"
+      },
+      "occurred_at": "2026-10-12T21:55:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "issue",
+        "node_id": "I_kwDONHLdRM8AAAABWvUXjw",
+        "number": 127,
+        "title": "has_SAAMR_roles only checks role presence, not SAAMR arrangement",
+        "url": "https://github.com/MuPT-hub/mupt/issues/127"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/MuPT-hub/mupt/issues/127"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDONHLdRM8AAAABIE_0gg",
+      "metadata": {
+        "source_node_id": "PR_kwDONHLdRM8AAAABIE_0gg"
+      },
+      "occurred_at": "2026-10-13T01:31:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIE_0gg",
+        "number": 128,
+        "title": "[Draft] Port the FlowerMD stereochemistry guard to MuPT",
+        "url": "https://github.com/MuPT-hub/mupt/pull/128"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/MuPT-hub/mupt/pull/128"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOC_Y70g",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABbb37GA",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABbb37GA"
+      },
+      "occurred_at": "2026-10-13T01:32:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIE_0gg",
+        "number": 128,
+        "title": "[Draft] Port the FlowerMD stereochemistry guard to MuPT",
+        "url": "https://github.com/MuPT-hub/mupt/pull/128"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/128#issuecomment-6136134424"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7-IANI",
+      "metadata": {
+        "created_at": "2026-10-13T20:12:35Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-13T20:12:36Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSGJcpw",
+        "source_node_id": "PRRC_kwDONHLdRM7-IANI",
+        "thread_node_id": "PRRT_kwDONHLdRM6sCs9J",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-13T20:12:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyNMg",
+        "number": 122,
+        "title": "Separating mupr.connection into cohesive submodules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/122"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/122#discussion_r4263510856"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7-IAO5",
+      "metadata": {
+        "created_at": "2026-10-13T20:12:35Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-13T20:12:36Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSGJcpw",
+        "source_node_id": "PRRC_kwDONHLdRM7-IAO5",
+        "thread_node_id": "PRRT_kwDONHLdRM6sCs-H",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-13T20:12:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyNMg",
+        "number": 122,
+        "title": "Separating mupr.connection into cohesive submodules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/122"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/122#discussion_r4263510969"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSGJcpw",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSGJcpw",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-13T20:12:36Z"
+      },
+      "occurred_at": "2026-10-13T20:12:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyNMg",
+        "number": 122,
+        "title": "Separating mupr.connection into cohesive submodules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/122"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/122#pullrequestreview-5509373095"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSGdxog",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSGdxog",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-13T20:42:30Z"
+      },
+      "occurred_at": "2026-10-13T20:42:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyNMg",
+        "number": 122,
+        "title": "Separating mupr.connection into cohesive submodules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/122"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/122#pullrequestreview-5509706146"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDONHLdRM8AAAABXNaWVw",
+      "metadata": {
+        "source_node_id": "I_kwDONHLdRM8AAAABXNaWVw"
+      },
+      "occurred_at": "2026-10-14T17:34:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "issue",
+        "node_id": "I_kwDONHLdRM8AAAABXNaWVw",
+        "number": 129,
+        "title": "MuPT Interface to Freud (in addition to the MDAnalysis interface)",
+        "url": "https://github.com/MuPT-hub/mupt/issues/129"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/MuPT-hub/mupt/issues/129"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7-xCdl",
+      "metadata": {
+        "created_at": "2026-10-14T17:46:51Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-14T17:46:52Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSSXMAQ",
+        "source_node_id": "PRRC_kwDONHLdRM7-xCdl",
+        "thread_node_id": "PRRT_kwDONHLdRM6sCs9J",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-14T17:46:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyNMg",
+        "number": 122,
+        "title": "Separating mupr.connection into cohesive submodules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/122"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/122#discussion_r4274268005"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSSXMAQ",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSSXMAQ",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-14T17:46:52Z"
+      },
+      "occurred_at": "2026-10-14T17:46:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyNMg",
+        "number": 122,
+        "title": "Separating mupr.connection into cohesive submodules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/122"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/122#pullrequestreview-5522181121"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABcA4WGw",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcA4WGw"
+      },
+      "occurred_at": "2026-10-14T18:02:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyNMg",
+        "number": 122,
+        "title": "Separating mupr.connection into cohesive submodules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/122"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/122#issuecomment-6174938651"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSSjiHw",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSSjiHw",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-14T18:03:49Z"
+      },
+      "occurred_at": "2026-10-14T18:03:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyOLg",
+        "number": 123,
+        "title": "Abstracting Connector antialignment routine implementations",
+        "url": "https://github.com/MuPT-hub/mupt/pull/123"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/123#pullrequestreview-5522383391"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSSljyg",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSSljyg",
+        "state": "APPROVED",
+        "submitted_at": "2026-10-14T18:06:42Z"
+      },
+      "occurred_at": "2026-10-14T18:06:42Z",
+      "subject": {
+        "author_key": "MDM6Qm90NjY4NTMxMTM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABICaNsA",
+        "number": 126,
+        "title": "[pre-commit.ci] pre-commit autoupdate",
+        "url": "https://github.com/MuPT-hub/mupt/pull/126"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/126#pullrequestreview-5522416586"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:227df80d6dfeb34e79916b0c538873f64db136e5",
+      "metadata": {
+        "authored_at": "2026-10-14T18:06:50Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "8c734278d7eec47efbce3e7f5be1afb2de85e928",
+          "fe9abe6d13072758c971cf0af494e4959448d07d"
+        ],
+        "sha": "227df80d6dfeb34e79916b0c538873f64db136e5"
+      },
+      "occurred_at": "2026-10-14T18:06:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDIyN2RmODBkNmRmZWIzNGU3OTkxNmIwYzUzODg3M2Y2NGRiMTM2ZTU",
+        "number": null,
+        "title": "Merge pull request #126 from MuPT-hub/pre-commit-ci-update-config",
+        "url": "https://github.com/MuPT-hub/mupt/commit/227df80d6dfeb34e79916b0c538873f64db136e5"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/227df80d6dfeb34e79916b0c538873f64db136e5"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADONHLdRM8AAAABWuEo3M8AAAAHvh5mQg",
+      "metadata": {
+        "merge_commit_sha": "227df80d6dfeb34e79916b0c538873f64db136e5",
+        "source_node_id": "ME_lADONHLdRM8AAAABWuEo3M8AAAAHvh5mQg"
+      },
+      "occurred_at": "2026-10-14T18:06:50Z",
+      "subject": {
+        "author_key": "MDM6Qm90NjY4NTMxMTM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABICaNsA",
+        "number": 126,
+        "title": "[pre-commit.ci] pre-commit autoupdate",
+        "url": "https://github.com/MuPT-hub/mupt/pull/126"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/MuPT-hub/mupt/pull/126#event-33254434370"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:f5eb89331ef07d2a266981422e421f4a218e489a",
+      "metadata": {
+        "authored_at": "2026-10-14T18:24:34Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "227df80d6dfeb34e79916b0c538873f64db136e5"
+        ],
+        "sha": "f5eb89331ef07d2a266981422e421f4a218e489a"
+      },
+      "occurred_at": "2026-10-14T18:24:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGY1ZWI4OTMzMWVmMDdkMmEyNjY5ODE0MjJlNDIxZjRhMjE4ZTQ4OWE",
+        "number": null,
+        "title": "Created new chemistry.rdkit subpackage",
+        "url": "https://github.com/MuPT-hub/mupt/commit/f5eb89331ef07d2a266981422e421f4a218e489a"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/f5eb89331ef07d2a266981422e421f4a218e489a"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:2fadf9cd6eefe023fe6412133631be9a279b556b",
+      "metadata": {
+        "authored_at": "2026-10-14T18:33:36Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "f5eb89331ef07d2a266981422e421f4a218e489a"
+        ],
+        "sha": "2fadf9cd6eefe023fe6412133631be9a279b556b"
+      },
+      "occurred_at": "2026-10-14T18:33:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDJmYWRmOWNkNmVlZmUwMjNmZTY0MTIxMzM2MzFiZTlhMjc5YjU1NmI",
+        "number": null,
+        "title": "Moved RDKit utils already in mupt.chemistry to mupt.chemistry.rdkit",
+        "url": "https://github.com/MuPT-hub/mupt/commit/2fadf9cd6eefe023fe6412133631be9a279b556b"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/2fadf9cd6eefe023fe6412133631be9a279b556b"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:d76f8a586f5372bc251d78e94e64ce758e5adc7d",
+      "metadata": {
+        "authored_at": "2026-10-14T18:42:31Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "2fadf9cd6eefe023fe6412133631be9a279b556b"
+        ],
+        "sha": "d76f8a586f5372bc251d78e94e64ce758e5adc7d"
+      },
+      "occurred_at": "2026-10-14T18:42:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGQ3NmY4YTU4NmY1MzcyYmMyNTFkNzhlOTRlNjRjZTc1OGU1YWRjN2Q",
+        "number": null,
+        "title": "Moved RDKit utils in interfaces.rdkit to mupt.chemistry.rdkit",
+        "url": "https://github.com/MuPT-hub/mupt/commit/d76f8a586f5372bc251d78e94e64ce758e5adc7d"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/d76f8a586f5372bc251d78e94e64ce758e5adc7d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:25549346419f0fa3d6db5f84ed0fd9b5cb4ee9cd",
+      "metadata": {
+        "authored_at": "2026-10-14T18:43:05Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "d76f8a586f5372bc251d78e94e64ce758e5adc7d"
+        ],
+        "sha": "25549346419f0fa3d6db5f84ed0fd9b5cb4ee9cd"
+      },
+      "occurred_at": "2026-10-14T18:43:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDI1NTQ5MzQ2NDE5ZjBmYTNkNmRiNWY4NGVkMGZkOWI1Y2I0ZWU5Y2Q",
+        "number": null,
+        "title": "Moved associated unit tests from interfaces/rdkit to chemistry/rdkit …",
+        "url": "https://github.com/MuPT-hub/mupt/commit/25549346419f0fa3d6db5f84ed0fd9b5cb4ee9cd"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/25549346419f0fa3d6db5f84ed0fd9b5cb4ee9cd"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:7f8e1ba73aa6270a99cdc5d8d01f7f46dddf7b3c",
+      "metadata": {
+        "authored_at": "2026-10-14T18:45:59Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "25549346419f0fa3d6db5f84ed0fd9b5cb4ee9cd"
+        ],
+        "sha": "7f8e1ba73aa6270a99cdc5d8d01f7f46dddf7b3c"
+      },
+      "occurred_at": "2026-10-14T18:45:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDdmOGUxYmE3M2FhNjI3MGE5OWNkYzVkOGQwMWY3ZjQ2ZGRkZjdiM2M",
+        "number": null,
+        "title": "Updated which RDKit utils are exported in __init__ files",
+        "url": "https://github.com/MuPT-hub/mupt/commit/7f8e1ba73aa6270a99cdc5d8d01f7f46dddf7b3c"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/7f8e1ba73aa6270a99cdc5d8d01f7f46dddf7b3c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:e60ff4ba540a59d0e8fede0fd4b80c6c33b19aeb",
+      "metadata": {
+        "authored_at": "2026-10-14T18:51:44Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "7f8e1ba73aa6270a99cdc5d8d01f7f46dddf7b3c"
+        ],
+        "sha": "e60ff4ba540a59d0e8fede0fd4b80c6c33b19aeb"
+      },
+      "occurred_at": "2026-10-14T18:51:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGU2MGZmNGJhNTQwYTU5ZDBlOGZlZGUwZmQ0YjgwYzZjMzNiMTlhZWI",
+        "number": null,
+        "title": "Updated downstream rdkit imports to get tests working again",
+        "url": "https://github.com/MuPT-hub/mupt/commit/e60ff4ba540a59d0e8fede0fd4b80c6c33b19aeb"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/e60ff4ba540a59d0e8fede0fd4b80c6c33b19aeb"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:be05d54abb405b55a7a25abc6e9ff769957df8cc",
+      "metadata": {
+        "authored_at": "2026-10-14T18:55:51Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "e60ff4ba540a59d0e8fede0fd4b80c6c33b19aeb"
+        ],
+        "sha": "be05d54abb405b55a7a25abc6e9ff769957df8cc"
+      },
+      "occurred_at": "2026-10-14T18:55:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGJlMDVkNTRhYmI0MDViNTVhN2EyNWFiYzZlOWZmNzY5OTU3ZGY4Y2M",
+        "number": null,
+        "title": "Removed TODO comments regarding circular RDKit imports (thru mupt.int…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/be05d54abb405b55a7a25abc6e9ff769957df8cc"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/be05d54abb405b55a7a25abc6e9ff769957df8cc"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:eb9442d8502a9d1e991d4519bbc725a874446330",
+      "metadata": {
+        "authored_at": "2026-10-14T19:22:11Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "be05d54abb405b55a7a25abc6e9ff769957df8cc"
+        ],
+        "sha": "eb9442d8502a9d1e991d4519bbc725a874446330"
+      },
+      "occurred_at": "2026-10-14T19:22:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGViOTQ0MmQ4NTAyYTlkMWU5OTFkNDUxOWJiYzcyNWE4NzQ0NDYzMzA",
+        "number": null,
+        "title": "Updated examples branch choice to be in lockstep w/ local changes",
+        "url": "https://github.com/MuPT-hub/mupt/commit/eb9442d8502a9d1e991d4519bbc725a874446330"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/eb9442d8502a9d1e991d4519bbc725a874446330"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDONHLdRM8AAAABId_JqQ",
+      "metadata": {
+        "source_node_id": "PR_kwDONHLdRM8AAAABId_JqQ"
+      },
+      "occurred_at": "2026-10-14T19:23:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABId_JqQ",
+        "number": 130,
+        "title": "Reordering RDKit utils to avoid circular imports",
+        "url": "https://github.com/MuPT-hub/mupt/pull/130"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/MuPT-hub/mupt/pull/130"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOC_Y70g",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABcCYJLA",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcCYJLA"
+      },
+      "occurred_at": "2026-10-14T19:25:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABId_JqQ",
+        "number": 130,
+        "title": "Reordering RDKit utils to avoid circular imports",
+        "url": "https://github.com/MuPT-hub/mupt/pull/130"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/130#issuecomment-6176508204"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABcCcZ3A",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcCcZ3A"
+      },
+      "occurred_at": "2026-10-14T19:28:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABId_JqQ",
+        "number": 130,
+        "title": "Reordering RDKit utils to avoid circular imports",
+        "url": "https://github.com/MuPT-hub/mupt/pull/130"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/130#issuecomment-6176578012"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSTs9SA",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSTs9SA",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-14T19:35:14Z"
+      },
+      "occurred_at": "2026-10-14T19:35:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABId_JqQ",
+        "number": 130,
+        "title": "Reordering RDKit utils to avoid circular imports",
+        "url": "https://github.com/MuPT-hub/mupt/pull/130"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/130#pullrequestreview-5523586376"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABcClrgw",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcClrgw"
+      },
+      "occurred_at": "2026-10-14T19:37:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABId_JqQ",
+        "number": 130,
+        "title": "Reordering RDKit utils to avoid circular imports",
+        "url": "https://github.com/MuPT-hub/mupt/pull/130"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/130#issuecomment-6176729987"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDONHLdRM8AAAABcDHc2Q",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcDHc2Q"
+      },
+      "occurred_at": "2026-10-14T20:06:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "issue",
+        "node_id": "I_kwDONHLdRM8AAAABVuVXLQ",
+        "number": 121,
+        "title": "Consider using reserved keyword strings for Roles instead of an Enum",
+        "url": "https://github.com/MuPT-hub/mupt/issues/121"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/MuPT-hub/mupt/issues/121#issuecomment-6177283289"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDONHLdRM8AAAABcDLY2A",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcDLY2A"
+      },
+      "occurred_at": "2026-10-14T20:09:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "issue",
+        "node_id": "I_kwDONHLdRM72ucJV",
+        "number": 49,
+        "title": "Add a thin OpenMM simulation runner for MuPT/OpenFF workflows",
+        "url": "https://github.com/MuPT-hub/mupt/issues/49"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/MuPT-hub/mupt/issues/49#issuecomment-6177347800"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADONHLdRM72ucJVzwAAAAe-uhXs",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADONHLdRM72ucJVzwAAAAe-uhXs"
+      },
+      "occurred_at": "2026-10-14T20:09:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "issue",
+        "node_id": "I_kwDONHLdRM72ucJV",
+        "number": 49,
+        "title": "Add a thin OpenMM simulation runner for MuPT/OpenFF workflows",
+        "url": "https://github.com/MuPT-hub/mupt/issues/49"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/MuPT-hub/mupt/issues/49#event-33264637420"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDONHLdRM8AAAABcDNURQ",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcDNURQ"
+      },
+      "occurred_at": "2026-10-14T20:11:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "issue",
+        "node_id": "I_kwDONHLdRM8AAAABH2EyTA",
+        "number": 90,
+        "title": "Add support for virtual sites in representation",
+        "url": "https://github.com/MuPT-hub/mupt/issues/90"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/MuPT-hub/mupt/issues/90#issuecomment-6177379397"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADONHLdRM8AAAABH2EyTM8AAAAHvrwcXA",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADONHLdRM8AAAABH2EyTM8AAAAHvrwcXA"
+      },
+      "occurred_at": "2026-10-14T20:11:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "issue",
+        "node_id": "I_kwDONHLdRM8AAAABH2EyTA",
+        "number": 90,
+        "title": "Add support for virtual sites in representation",
+        "url": "https://github.com/MuPT-hub/mupt/issues/90"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/MuPT-hub/mupt/issues/90#event-33264770140"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7-3kRr",
+      "metadata": {
+        "created_at": "2026-10-14T20:35:40Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-14T20:35:41Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSUZbZQ",
+        "source_node_id": "PRRC_kwDONHLdRM7-3kRr",
+        "thread_node_id": "PRRT_kwDONHLdRM6sglWH",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-14T20:35:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyOLg",
+        "number": 123,
+        "title": "Abstracting Connector antialignment routine implementations",
+        "url": "https://github.com/MuPT-hub/mupt/pull/123"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/123#discussion_r4275979371"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7-3kTR",
+      "metadata": {
+        "created_at": "2026-10-14T20:35:40Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-14T20:35:41Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSUZbZQ",
+        "source_node_id": "PRRC_kwDONHLdRM7-3kTR",
+        "thread_node_id": "PRRT_kwDONHLdRM6sglXL",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-14T20:35:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyOLg",
+        "number": 123,
+        "title": "Abstracting Connector antialignment routine implementations",
+        "url": "https://github.com/MuPT-hub/mupt/pull/123"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/123#discussion_r4275979473"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSUZbZQ",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSUZbZQ",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-14T20:35:41Z"
+      },
+      "occurred_at": "2026-10-14T20:35:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyOLg",
+        "number": 123,
+        "title": "Abstracting Connector antialignment routine implementations",
+        "url": "https://github.com/MuPT-hub/mupt/pull/123"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/123#pullrequestreview-5524314981"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSVRlCg",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSVRlCg",
+        "state": "APPROVED",
+        "submitted_at": "2026-10-14T21:56:40Z"
+      },
+      "occurred_at": "2026-10-14T21:56:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABId_JqQ",
+        "number": 130,
+        "title": "Reordering RDKit utils to avoid circular imports",
+        "url": "https://github.com/MuPT-hub/mupt/pull/130"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/130#pullrequestreview-5525234954"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:bfacb0e7830f0ade490aeff8b19ca2be9242005d",
+      "metadata": {
+        "authored_at": "2026-10-14T21:56:50Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "227df80d6dfeb34e79916b0c538873f64db136e5",
+          "eb9442d8502a9d1e991d4519bbc725a874446330"
+        ],
+        "sha": "bfacb0e7830f0ade490aeff8b19ca2be9242005d"
+      },
+      "occurred_at": "2026-10-14T21:56:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGJmYWNiMGU3ODMwZjBhZGU0OTBhZWZmOGIxOWNhMmJlOTI0MjAwNWQ",
+        "number": null,
+        "title": "Merge pull request #130 from MuPT-hub/rdkit-move",
+        "url": "https://github.com/MuPT-hub/mupt/commit/bfacb0e7830f0ade490aeff8b19ca2be9242005d"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/bfacb0e7830f0ade490aeff8b19ca2be9242005d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADONHLdRM8AAAABXO-4DM8AAAAHv0CXSw",
+      "metadata": {
+        "merge_commit_sha": "bfacb0e7830f0ade490aeff8b19ca2be9242005d",
+        "source_node_id": "ME_lADONHLdRM8AAAABXO-4DM8AAAAHv0CXSw"
+      },
+      "occurred_at": "2026-10-14T21:56:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABId_JqQ",
+        "number": 130,
+        "title": "Reordering RDKit utils to avoid circular imports",
+        "url": "https://github.com/MuPT-hub/mupt/pull/130"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/MuPT-hub/mupt/pull/130#event-33273452363"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:a40b0256024fa08483b66d461c1756a5ba130d8a",
+      "metadata": {
+        "authored_at": "2026-10-14T23:53:02Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "bfacb0e7830f0ade490aeff8b19ca2be9242005d"
+        ],
+        "sha": "a40b0256024fa08483b66d461c1756a5ba130d8a"
+      },
+      "occurred_at": "2026-10-14T23:53:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGE0MGIwMjU2MDI0ZmEwODQ4M2I2NmQ0NjFjMTc1NmE1YmExMzBkOGE",
+        "number": null,
+        "title": "Remove `rdkit-move` branch specification from example notebook tests",
+        "url": "https://github.com/MuPT-hub/mupt/commit/a40b0256024fa08483b66d461c1756a5ba130d8a"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/a40b0256024fa08483b66d461c1756a5ba130d8a"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:ca4c3c48328fc9eee3b286359eb257f7d1961840",
+      "metadata": {
+        "authored_at": "2026-10-15T00:59:58Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "a40b0256024fa08483b66d461c1756a5ba130d8a"
+        ],
+        "sha": "ca4c3c48328fc9eee3b286359eb257f7d1961840"
+      },
+      "occurred_at": "2026-10-15T00:59:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGNhNGMzYzQ4MzI4ZmM5ZWVlM2IyODYzNTllYjI1N2Y3ZDE5NjE4NDA",
+        "number": null,
+        "title": "Created new 'mupt.graphs' subpackage",
+        "url": "https://github.com/MuPT-hub/mupt/commit/ca4c3c48328fc9eee3b286359eb257f7d1961840"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/ca4c3c48328fc9eee3b286359eb257f7d1961840"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:ceff896f7a06f3bb99b7a06c03405523221b412c",
+      "metadata": {
+        "authored_at": "2026-10-15T01:25:23Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "ca4c3c48328fc9eee3b286359eb257f7d1961840"
+        ],
+        "sha": "ceff896f7a06f3bb99b7a06c03405523221b412c"
+      },
+      "occurred_at": "2026-10-15T01:25:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGNlZmY4OTZmN2EwNmYzYmI5OWI3YTA2YzAzNDA1NTIzMjIxYjQxMmM",
+        "number": null,
+        "title": "Added graphs.invariants submodule, which reimplements the methods of …",
+        "url": "https://github.com/MuPT-hub/mupt/commit/ceff896f7a06f3bb99b7a06c03405523221b412c"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/ceff896f7a06f3bb99b7a06c03405523221b412c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:7e3c480fe46409c543ae7cf741f78203faa8ec50",
+      "metadata": {
+        "authored_at": "2026-10-15T01:56:58Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "ceff896f7a06f3bb99b7a06c03405523221b412c"
+        ],
+        "sha": "7e3c480fe46409c543ae7cf741f78203faa8ec50"
+      },
+      "occurred_at": "2026-10-15T01:56:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDdlM2M0ODBmZTQ2NDA5YzU0M2FlN2NmNzQxZjc4MjAzZmFhOGVjNTA",
+        "number": null,
+        "title": "Fixed logic bug in is_unbranched() (1 -> 2)",
+        "url": "https://github.com/MuPT-hub/mupt/commit/7e3c480fe46409c543ae7cf741f78203faa8ec50"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/7e3c480fe46409c543ae7cf741f78203faa8ec50"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:62adbe852d6951fdaefd1d4864f6db7ddf7687ea",
+      "metadata": {
+        "authored_at": "2026-10-15T01:57:53Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "7e3c480fe46409c543ae7cf741f78203faa8ec50"
+        ],
+        "sha": "62adbe852d6951fdaefd1d4864f6db7ddf7687ea"
+      },
+      "occurred_at": "2026-10-15T01:57:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDYyYWRiZTg1MmQ2OTUxZmRhZWZkMWQ0ODY0ZjZkYjdkZGY3Njg3ZWE",
+        "number": null,
+        "title": "Renamed canonical_Form -> canonical_form_graph to disambiguate",
+        "url": "https://github.com/MuPT-hub/mupt/commit/62adbe852d6951fdaefd1d4864f6db7ddf7687ea"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/62adbe852d6951fdaefd1d4864f6db7ddf7687ea"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:8269fae1b57cdecec49f2f185950b28d64f47af6",
+      "metadata": {
+        "authored_at": "2026-10-15T01:59:04Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "62adbe852d6951fdaefd1d4864f6db7ddf7687ea"
+        ],
+        "sha": "8269fae1b57cdecec49f2f185950b28d64f47af6"
+      },
+      "occurred_at": "2026-10-15T01:59:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDgyNjlmYWUxYjU3Y2RlY2VjNDlmMmYxODU5NTBiMjhkNjRmNDdhZjY",
+        "number": null,
+        "title": "Reinstated chains() (implemented as 'components()'), as it proves use…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/8269fae1b57cdecec49f2f185950b28d64f47af6"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/8269fae1b57cdecec49f2f185950b28d64f47af6"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:3992cf8b5279db87dfcd018f52287c1dcf2b7b6b",
+      "metadata": {
+        "authored_at": "2026-10-15T02:04:21Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "8269fae1b57cdecec49f2f185950b28d64f47af6"
+        ],
+        "sha": "3992cf8b5279db87dfcd018f52287c1dcf2b7b6b"
+      },
+      "occurred_at": "2026-10-15T02:04:21Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDM5OTJjZjhiNTI3OWRiODdkZmNkMDE4ZjUyMjg3YzFkY2YyYjdiNmI",
+        "number": null,
+        "title": "Replaced calls to TopologicalStructure properties with graphs.invaria…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/3992cf8b5279db87dfcd018f52287c1dcf2b7b6b"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/3992cf8b5279db87dfcd018f52287c1dcf2b7b6b"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:bab1f55a17e95bcc022a8697fd7fda5a4587706f",
+      "metadata": {
+        "authored_at": "2026-10-15T02:19:55Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "3992cf8b5279db87dfcd018f52287c1dcf2b7b6b"
+        ],
+        "sha": "bab1f55a17e95bcc022a8697fd7fda5a4587706f"
+      },
+      "occurred_at": "2026-10-15T02:19:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGJhYjFmNTVhMTdlOTViY2MwMjJhODY5N2ZkN2ZkYTVhNDU4NzcwNmY",
+        "number": null,
+        "title": "Added graph visualization module, with ports of remaining methods of …",
+        "url": "https://github.com/MuPT-hub/mupt/commit/bab1f55a17e95bcc022a8697fd7fda5a4587706f"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/bab1f55a17e95bcc022a8697fd7fda5a4587706f"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:3f6c36cc397573759840a74575d303eb6c3c8645",
+      "metadata": {
+        "authored_at": "2026-10-15T02:23:48Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "bab1f55a17e95bcc022a8697fd7fda5a4587706f"
+        ],
+        "sha": "3f6c36cc397573759840a74575d303eb6c3c8645"
+      },
+      "occurred_at": "2026-10-15T02:23:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDNmNmMzNmNjMzk3NTczNzU5ODQwYTc0NTc1ZDMwM2ViNmMzYzg2NDU",
+        "number": null,
+        "title": "Updated Primitive's graph drawing calls to graphs.visualization",
+        "url": "https://github.com/MuPT-hub/mupt/commit/3f6c36cc397573759840a74575d303eb6c3c8645"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/3f6c36cc397573759840a74575d303eb6c3c8645"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:a247f8205327b3ff9e4b49ebed22ccac320ec496",
+      "metadata": {
+        "authored_at": "2026-10-15T02:24:55Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "3f6c36cc397573759840a74575d303eb6c3c8645"
+        ],
+        "sha": "a247f8205327b3ff9e4b49ebed22ccac320ec496"
+      },
+      "occurred_at": "2026-10-15T02:24:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGEyNDdmODIwNTMyN2IzZmY5ZTRiNDllYmVkMjJjY2FjMzIwZWM0OTY",
+        "number": null,
+        "title": "Hollowed out TopologicalStructure",
+        "url": "https://github.com/MuPT-hub/mupt/commit/a247f8205327b3ff9e4b49ebed22ccac320ec496"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/a247f8205327b3ff9e4b49ebed22ccac320ec496"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:7ad6d81a6b12231278bf6c871a19c5d4d1455ad0",
+      "metadata": {
+        "authored_at": "2026-10-15T02:40:09Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "a247f8205327b3ff9e4b49ebed22ccac320ec496"
+        ],
+        "sha": "7ad6d81a6b12231278bf6c871a19c5d4d1455ad0"
+      },
+      "occurred_at": "2026-10-15T02:40:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDdhZDZkODFhNmIxMjIzMTI3OGJmNmM4NzFhMTljNWQ0ZDE0NTVhZDA",
+        "number": null,
+        "title": "Made networkx imports more specific",
+        "url": "https://github.com/MuPT-hub/mupt/commit/7ad6d81a6b12231278bf6c871a19c5d4d1455ad0"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/7ad6d81a6b12231278bf6c871a19c5d4d1455ad0"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:369c2abd202e9f9819fb710f18bfd1ce0b0874af",
+      "metadata": {
+        "authored_at": "2026-10-15T02:43:07Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "7ad6d81a6b12231278bf6c871a19c5d4d1455ad0"
+        ],
+        "sha": "369c2abd202e9f9819fb710f18bfd1ce0b0874af"
+      },
+      "occurred_at": "2026-10-15T02:43:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDM2OWMyYWJkMjAyZTlmOTgxOWZiNzEwZjE4YmZkMWNlMGIwODc0YWY",
+        "number": null,
+        "title": "Replaced all references to TopologicalStructure in codebase with nx.G…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/369c2abd202e9f9819fb710f18bfd1ce0b0874af"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/369c2abd202e9f9819fb710f18bfd1ce0b0874af"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:bb734e4d9ef3c40a8f6bba03b7513960b8cd5aa4",
+      "metadata": {
+        "authored_at": "2026-10-15T02:46:12Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "369c2abd202e9f9819fb710f18bfd1ce0b0874af"
+        ],
+        "sha": "bb734e4d9ef3c40a8f6bba03b7513960b8cd5aa4"
+      },
+      "occurred_at": "2026-10-15T02:46:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGJiNzM0ZTRkOWVmM2M0MGE4ZjZiYmEwM2I3NTEzOTYwYjhjZDVhYTQ",
+        "number": null,
+        "title": "Finished deprecating mupr.topology, moved remaining utils to graphs.g…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/bb734e4d9ef3c40a8f6bba03b7513960b8cd5aa4"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/bb734e4d9ef3c40a8f6bba03b7513960b8cd5aa4"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:fee6495cd3001fb7b83a3f674fef72288c516ce5",
+      "metadata": {
+        "authored_at": "2026-10-15T02:51:52Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "bb734e4d9ef3c40a8f6bba03b7513960b8cd5aa4"
+        ],
+        "sha": "fee6495cd3001fb7b83a3f674fef72288c516ce5"
+      },
+      "occurred_at": "2026-10-15T02:51:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGZlZTY0OTVjZDMwMDFmYjdiODNhM2Y2NzRmZWY3MjI4OGM1MTZjZTU",
+        "number": null,
+        "title": "Centralized graph-related typehints in graphs.graptypes submodule",
+        "url": "https://github.com/MuPT-hub/mupt/commit/fee6495cd3001fb7b83a3f674fef72288c516ce5"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/fee6495cd3001fb7b83a3f674fef72288c516ce5"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:5b41d009d1147766afcd21be27c93d575589253a",
+      "metadata": {
+        "authored_at": "2026-10-15T03:04:18Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "fee6495cd3001fb7b83a3f674fef72288c516ce5"
+        ],
+        "sha": "5b41d009d1147766afcd21be27c93d575589253a"
+      },
+      "occurred_at": "2026-10-15T03:04:18Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDViNDFkMDA5ZDExNDc3NjZhZmNkMjFiZTI3YzkzZDU3NTU4OTI1M2E",
+        "number": null,
+        "title": "Added placeholder directory for graph tests",
+        "url": "https://github.com/MuPT-hub/mupt/commit/5b41d009d1147766afcd21be27c93d575589253a"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/5b41d009d1147766afcd21be27c93d575589253a"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:d55eb6c7a7ad6d5c041170b67564ad1c94fdb205",
+      "metadata": {
+        "authored_at": "2026-10-15T03:57:37Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "5b41d009d1147766afcd21be27c93d575589253a"
+        ],
+        "sha": "d55eb6c7a7ad6d5c041170b67564ad1c94fdb205"
+      },
+      "occurred_at": "2026-10-15T03:57:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGQ1NWViNmM3YTdhZDZkNWMwNDExNzBiNjc1NjRhZDFjOTRmZGIyMDU",
+        "number": null,
+        "title": "Updated examples branch for notebook CI",
+        "url": "https://github.com/MuPT-hub/mupt/commit/d55eb6c7a7ad6d5c041170b67564ad1c94fdb205"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/d55eb6c7a7ad6d5c041170b67564ad1c94fdb205"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDONHLdRM8AAAABIida5A",
+      "metadata": {
+        "source_node_id": "PR_kwDONHLdRM8AAAABIida5A"
+      },
+      "occurred_at": "2026-10-15T03:59:21Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIida5A",
+        "number": 131,
+        "title": "Deprecate TopologicalStructure and mupr.topology",
+        "url": "https://github.com/MuPT-hub/mupt/pull/131"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/MuPT-hub/mupt/pull/131"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOC_Y70g",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABcJm_cA",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcJm_cA"
+      },
+      "occurred_at": "2026-10-15T04:00:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIida5A",
+        "number": 131,
+        "title": "Deprecate TopologicalStructure and mupr.topology",
+        "url": "https://github.com/MuPT-hub/mupt/pull/131"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/131#issuecomment-6184091504"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABcJpKLg",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcJpKLg"
+      },
+      "occurred_at": "2026-10-15T04:03:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIida5A",
+        "number": 131,
+        "title": "Deprecate TopologicalStructure and mupr.topology",
+        "url": "https://github.com/MuPT-hub/mupt/pull/131"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/131#issuecomment-6184127022"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSX1RdA",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSX1RdA",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-15T04:08:28Z"
+      },
+      "occurred_at": "2026-10-15T04:08:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIida5A",
+        "number": 131,
+        "title": "Deprecate TopologicalStructure and mupr.topology",
+        "url": "https://github.com/MuPT-hub/mupt/pull/131"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/131#pullrequestreview-5527916916"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_DB5T",
+      "metadata": {
+        "created_at": "2026-10-15T04:23:53Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-15T04:23:53Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSX6zuw",
+        "source_node_id": "PRRC_kwDONHLdRM7_DB5T",
+        "thread_node_id": "PRRT_kwDONHLdRM6sglWH",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-15T04:23:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyOLg",
+        "number": 123,
+        "title": "Abstracting Connector antialignment routine implementations",
+        "url": "https://github.com/MuPT-hub/mupt/pull/123"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/123#discussion_r4278984275"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSX6zuw",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSX6zuw",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-15T04:23:53Z"
+      },
+      "occurred_at": "2026-10-15T04:23:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyOLg",
+        "number": 123,
+        "title": "Abstracting Connector antialignment routine implementations",
+        "url": "https://github.com/MuPT-hub/mupt/pull/123"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/123#pullrequestreview-5528007611"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABShGPzA",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABShGPzA",
+        "state": "DISMISSED",
+        "submitted_at": "2026-10-15T17:55:57Z"
+      },
+      "occurred_at": "2026-10-15T17:55:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIida5A",
+        "number": 131,
+        "title": "Deprecate TopologicalStructure and mupr.topology",
+        "url": "https://github.com/MuPT-hub/mupt/pull/131"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/131#pullrequestreview-5537632204"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:e694e99f9ca28e88c8649e3b4d53a2be1cfecfba",
+      "metadata": {
+        "authored_at": "2026-10-15T18:22:07Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "timbernat"
+        },
+        "parent_shas": [
+          "d55eb6c7a7ad6d5c041170b67564ad1c94fdb205"
+        ],
+        "sha": "e694e99f9ca28e88c8649e3b4d53a2be1cfecfba"
+      },
+      "occurred_at": "2026-10-15T18:22:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGU2OTRlOTlmOWNhMjhlODhjODY0OWUzYjRkNTNhMmJlMWNmZWNmYmE",
+        "number": null,
+        "title": "Removed examples branch checkout in CI",
+        "url": "https://github.com/MuPT-hub/mupt/commit/e694e99f9ca28e88c8649e3b4d53a2be1cfecfba"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/e694e99f9ca28e88c8649e3b4d53a2be1cfecfba"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDONHLdRM8AAAABIr9oTw",
+      "metadata": {
+        "source_node_id": "PR_kwDONHLdRM8AAAABIr9oTw"
+      },
+      "occurred_at": "2026-10-15T18:23:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:6a2518db019fb19007158090da2a4c79da62bdb8",
+      "metadata": {
+        "authored_at": "2026-10-15T18:24:04Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "a40b0256024fa08483b66d461c1756a5ba130d8a",
+          "e694e99f9ca28e88c8649e3b4d53a2be1cfecfba"
+        ],
+        "sha": "6a2518db019fb19007158090da2a4c79da62bdb8"
+      },
+      "occurred_at": "2026-10-15T18:24:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDZhMjUxOGRiMDE5ZmIxOTAwNzE1ODA5MGRhMmE0Yzc5ZGE2MmJkYjg",
+        "number": null,
+        "title": "Merge pull request #131 from MuPT-hub/topology-depr",
+        "url": "https://github.com/MuPT-hub/mupt/commit/6a2518db019fb19007158090da2a4c79da62bdb8"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/6a2518db019fb19007158090da2a4c79da62bdb8"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADONHLdRM8AAAABXUW_Y88AAAAHxK2gEg",
+      "metadata": {
+        "merge_commit_sha": "6a2518db019fb19007158090da2a4c79da62bdb8",
+        "source_node_id": "ME_lADONHLdRM8AAAABXUW_Y88AAAAHxK2gEg"
+      },
+      "occurred_at": "2026-10-15T18:24:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIida5A",
+        "number": 131,
+        "title": "Deprecate TopologicalStructure and mupr.topology",
+        "url": "https://github.com/MuPT-hub/mupt/pull/131"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/MuPT-hub/mupt/pull/131#event-33364484114"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOC_Y70g",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABcYFyvQ",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcYFyvQ"
+      },
+      "occurred_at": "2026-10-15T18:24:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#issuecomment-6199276221"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABcYMGEA",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcYMGEA"
+      },
+      "occurred_at": "2026-10-15T18:30:18Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#issuecomment-6199379472"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABShgOmw",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABShgOmw",
+        "state": "APPROVED",
+        "submitted_at": "2026-10-15T18:31:03Z"
+      },
+      "occurred_at": "2026-10-15T18:31:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#pullrequestreview-5538057883"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_jilB",
+      "metadata": {
+        "created_at": "2026-10-15T19:40:59Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-15T19:41:02Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSiVFBQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_jilB",
+        "thread_node_id": "PRRT_kwDONHLdRM6s8DJS",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-15T19:41:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#discussion_r4287506753"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_jimQ",
+      "metadata": {
+        "created_at": "2026-10-15T19:40:59Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-15T19:41:02Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSiVFBQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_jimQ",
+        "thread_node_id": "PRRT_kwDONHLdRM6s8DKG",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-15T19:41:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#discussion_r4287506832"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_jinF",
+      "metadata": {
+        "created_at": "2026-10-15T19:41:00Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-15T19:41:02Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSiVFBQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_jinF",
+        "thread_node_id": "PRRT_kwDONHLdRM6s8DKp",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-15T19:41:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#discussion_r4287506885"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_jinl",
+      "metadata": {
+        "created_at": "2026-10-15T19:41:00Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-15T19:41:02Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSiVFBQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_jinl",
+        "thread_node_id": "PRRT_kwDONHLdRM6s8DK_",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-15T19:41:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#discussion_r4287506917"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_jioJ",
+      "metadata": {
+        "created_at": "2026-10-15T19:41:00Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-15T19:41:02Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSiVFBQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_jioJ",
+        "thread_node_id": "PRRT_kwDONHLdRM6s8DLS",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-15T19:41:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#discussion_r4287506953"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_jip5",
+      "metadata": {
+        "created_at": "2026-10-15T19:41:01Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-15T19:41:02Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSiVFBQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_jip5",
+        "thread_node_id": "PRRT_kwDONHLdRM6s8DMl",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-15T19:41:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#discussion_r4287507065"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_jipK",
+      "metadata": {
+        "created_at": "2026-10-15T19:41:01Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-15T19:41:02Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSiVFBQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_jipK",
+        "thread_node_id": "PRRT_kwDONHLdRM6s8DMB",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-15T19:41:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#discussion_r4287507018"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_jiqq",
+      "metadata": {
+        "created_at": "2026-10-15T19:41:01Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-15T19:41:02Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSiVFBQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_jiqq",
+        "thread_node_id": "PRRT_kwDONHLdRM6s8DNE",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-15T19:41:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#discussion_r4287507114"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_jira",
+      "metadata": {
+        "created_at": "2026-10-15T19:41:01Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-15T19:41:02Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSiVFBQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_jira",
+        "thread_node_id": "PRRT_kwDONHLdRM6s8DNi",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-15T19:41:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#discussion_r4287507162"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSiVFBQ",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSiVFBQ",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-15T19:41:02Z"
+      },
+      "occurred_at": "2026-10-15T19:41:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#pullrequestreview-5538923781"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_qxgi",
+      "metadata": {
+        "created_at": "2026-10-15T23:46:05Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-15T23:46:05Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSkjyRg",
+        "source_node_id": "PRRC_kwDONHLdRM7_qxgi",
+        "thread_node_id": "PRRT_kwDONHLdRM6s8DKG",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-15T23:46:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#discussion_r4289402914"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSkjyRg",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSkjyRg",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-15T23:46:05Z"
+      },
+      "occurred_at": "2026-10-15T23:46:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyO9A",
+        "number": 124,
+        "title": "Implement hierarchy and neighbor awareness for Connectors",
+        "url": "https://github.com/MuPT-hub/mupt/pull/124"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/124#pullrequestreview-5541261894"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_tlPy",
+      "metadata": {
+        "created_at": "2026-10-16T02:03:53Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-16T02:03:56Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSlZScQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_tlPy",
+        "thread_node_id": "PRRT_kwDONHLdRM6tCO_A",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-16T02:03:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#discussion_r4290139122"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_tlQb",
+      "metadata": {
+        "created_at": "2026-10-16T02:03:54Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-16T02:03:56Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSlZScQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_tlQb",
+        "thread_node_id": "PRRT_kwDONHLdRM6tCO_V",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-16T02:03:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#discussion_r4290139163"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_tlQx",
+      "metadata": {
+        "created_at": "2026-10-16T02:03:54Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-16T02:03:56Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSlZScQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_tlQx",
+        "thread_node_id": "PRRT_kwDONHLdRM6tCO_h",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-16T02:03:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#discussion_r4290139185"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_tlRc",
+      "metadata": {
+        "created_at": "2026-10-16T02:03:55Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-16T02:03:56Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSlZScQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_tlRc",
+        "thread_node_id": "PRRT_kwDONHLdRM6tCO_8",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-16T02:03:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#discussion_r4290139228"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_tlRw",
+      "metadata": {
+        "created_at": "2026-10-16T02:03:55Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-16T02:03:56Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSlZScQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_tlRw",
+        "thread_node_id": "PRRT_kwDONHLdRM6tCPAM",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-16T02:03:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#discussion_r4290139248"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_tlSN",
+      "metadata": {
+        "created_at": "2026-10-16T02:03:56Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-16T02:03:56Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSlZScQ",
+        "source_node_id": "PRRC_kwDONHLdRM7_tlSN",
+        "thread_node_id": "PRRT_kwDONHLdRM6tCPAc",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-16T02:03:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#discussion_r4290139277"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSlZScQ",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSlZScQ",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-16T02:03:56Z"
+      },
+      "occurred_at": "2026-10-16T02:03:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#pullrequestreview-5542138481"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_t-pc",
+      "metadata": {
+        "created_at": "2026-10-16T02:24:12Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-16T02:24:13Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSlh2AA",
+        "source_node_id": "PRRC_kwDONHLdRM7_t-pc",
+        "thread_node_id": "PRRT_kwDONHLdRM6tCeoa",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-16T02:24:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#discussion_r4290243164"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSlh2AA",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSlh2AA",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-16T02:24:13Z"
+      },
+      "occurred_at": "2026-10-16T02:24:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#pullrequestreview-5542278656"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_uDrf",
+      "metadata": {
+        "created_at": "2026-10-16T02:28:04Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-16T02:28:04Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSljejw",
+        "source_node_id": "PRRC_kwDONHLdRM7_uDrf",
+        "thread_node_id": "PRRT_kwDONHLdRM6tCeoa",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-16T02:28:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#discussion_r4290263775"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSljejw",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSljejw",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-16T02:28:04Z"
+      },
+      "occurred_at": "2026-10-16T02:28:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#pullrequestreview-5542305423"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7_uD61",
+      "metadata": {
+        "created_at": "2026-10-16T02:28:16Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-16T02:28:16Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSljj9w",
+        "source_node_id": "PRRC_kwDONHLdRM7_uD61",
+        "thread_node_id": "PRRT_kwDONHLdRM6tCPAM",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-16T02:28:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#discussion_r4290264757"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSljj9w",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSljj9w",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-16T02:28:16Z"
+      },
+      "occurred_at": "2026-10-16T02:28:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#pullrequestreview-5542306807"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABcfPlJA",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcfPlJA"
+      },
+      "occurred_at": "2026-10-16T02:36:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyNMg",
+        "number": 122,
+        "title": "Separating mupr.connection into cohesive submodules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/122"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/122#issuecomment-6206776612"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSlnXoQ",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSlnXoQ",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-16T02:37:41Z"
+      },
+      "occurred_at": "2026-10-16T02:37:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#pullrequestreview-5542369185"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDONHLdRM8AAAABIwjzDQ",
+      "metadata": {
+        "source_node_id": "PR_kwDONHLdRM8AAAABIwjzDQ"
+      },
+      "occurred_at": "2026-10-16T02:51:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIwjzDQ",
+        "number": 134,
+        "title": "Move topology and hierarchy render from Primitive to dedicated modules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/134"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/MuPT-hub/mupt/pull/134"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABcfdSJw",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcfdSJw"
+      },
+      "occurred_at": "2026-10-16T02:56:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIwjzDQ",
+        "number": 134,
+        "title": "Move topology and hierarchy render from Primitive to dedicated modules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/134"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/134#issuecomment-6207001127"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOC_Y70g",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABcf0YKg",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABcf0YKg"
+      },
+      "occurred_at": "2026-10-16T03:25:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIwjzDQ",
+        "number": 134,
+        "title": "Move topology and hierarchy render from Primitive to dedicated modules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/134"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/134#issuecomment-6207379498"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSu5aQw",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSu5aQw",
+        "state": "CHANGES_REQUESTED",
+        "submitted_at": "2026-10-16T18:30:27Z"
+      },
+      "occurred_at": "2026-10-16T18:30:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABHdyOLg",
+        "number": 123,
+        "title": "Abstracting Connector antialignment routine implementations",
+        "url": "https://github.com/MuPT-hub/mupt/pull/123"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/123#pullrequestreview-5552101955"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:1aeddd2cb59abf33533c22c369f9e4028e8866f3",
+      "metadata": {
+        "authored_at": "2026-10-16T23:05:13Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "6a2518db019fb19007158090da2a4c79da62bdb8",
+          "1101fa1c6d5227dc255d58c875f593255d019569"
+        ],
+        "sha": "1aeddd2cb59abf33533c22c369f9e4028e8866f3"
+      },
+      "occurred_at": "2026-10-16T23:05:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDFhZWRkZDJjYjU5YWJmMzM1MzNjMjJjMzY5ZjllNDAyOGU4ODY2ZjM",
+        "number": null,
+        "title": "Merge pull request #120 from joelaforet/docs/issue-103-roles-saamr",
+        "url": "https://github.com/MuPT-hub/mupt/commit/1aeddd2cb59abf33533c22c369f9e4028e8866f3"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/1aeddd2cb59abf33533c22c369f9e4028e8866f3"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADONHLdRM8AAAABVasDys8AAAAHzC7q_g",
+      "metadata": {
+        "merge_commit_sha": "1aeddd2cb59abf33533c22c369f9e4028e8866f3",
+        "source_node_id": "ME_lADONHLdRM8AAAABVasDys8AAAAHzC7q_g"
+      },
+      "occurred_at": "2026-10-16T23:05:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABG9YgTA",
+        "number": 120,
+        "title": "docs: roles/SAAMR explanation page",
+        "url": "https://github.com/MuPT-hub/mupt/pull/120"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/MuPT-hub/mupt/pull/120#event-33490397950"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADONHLdRM8AAAABQj7eZs8AAAAHzC7zFg",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADONHLdRM8AAAABQj7eZs8AAAAHzC7zFg"
+      },
+      "occurred_at": "2026-10-16T23:05:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "issue",
+        "node_id": "I_kwDONHLdRM8AAAABQj7eZg",
+        "number": 103,
+        "title": "Explanation Doc: Roles",
+        "url": "https://github.com/MuPT-hub/mupt/issues/103"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/MuPT-hub/mupt/issues/103#event-33490400022"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM8AAAABAFmnpQ",
+      "metadata": {
+        "created_at": "2026-10-17T02:05:00Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-17T02:05:01Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSyH6uA",
+        "source_node_id": "PRRC_kwDONHLdRM8AAAABAFmnpQ",
+        "thread_node_id": "PRRT_kwDONHLdRM6tbwWh",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-17T02:05:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#discussion_r4300842917"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM8AAAABAFmnwg",
+      "metadata": {
+        "created_at": "2026-10-17T02:05:00Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-17T02:05:01Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSyH6uA",
+        "source_node_id": "PRRC_kwDONHLdRM8AAAABAFmnwg",
+        "thread_node_id": "PRRT_kwDONHLdRM6tbwWs",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-17T02:05:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#discussion_r4300842946"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSyH6uA",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSyH6uA",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-17T02:05:01Z"
+      },
+      "occurred_at": "2026-10-17T02:05:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#pullrequestreview-5555485368"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDONHLdRM8AAAABI-j07w",
+      "metadata": {
+        "source_node_id": "PR_kwDONHLdRM8AAAABI-j07w"
+      },
+      "occurred_at": "2026-10-17T05:00:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABI-j07w",
+        "number": 135,
+        "title": "Tree traversal and compilation utils for Primitives",
+        "url": "https://github.com/MuPT-hub/mupt/pull/135"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/MuPT-hub/mupt/pull/135"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOC_Y70g",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABc1VKrA",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABc1VKrA"
+      },
+      "occurred_at": "2026-10-17T05:03:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABI-j07w",
+        "number": 135,
+        "title": "Tree traversal and compilation utils for Primitives",
+        "url": "https://github.com/MuPT-hub/mupt/pull/135"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/135#issuecomment-6229936812"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABc1XY3A",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABc1XY3A"
+      },
+      "occurred_at": "2026-10-17T05:07:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABI-j07w",
+        "number": 135,
+        "title": "Tree traversal and compilation utils for Primitives",
+        "url": "https://github.com/MuPT-hub/mupt/pull/135"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/135#issuecomment-6229973212"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM8AAAABAGOW8Q",
+      "metadata": {
+        "created_at": "2026-10-17T05:08:22Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-17T05:08:22Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSy7YRA",
+        "source_node_id": "PRRC_kwDONHLdRM8AAAABAGOW8Q",
+        "thread_node_id": "PRRT_kwDONHLdRM6tbwWh",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-17T05:08:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#discussion_r4301494001"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSy7YRA",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSy7YRA",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-17T05:08:22Z"
+      },
+      "occurred_at": "2026-10-17T05:08:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#pullrequestreview-5556328516"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM8AAAABAGOcUA",
+      "metadata": {
+        "created_at": "2026-10-17T05:08:56Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-17T05:08:59Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSy7d6A",
+        "source_node_id": "PRRC_kwDONHLdRM8AAAABAGOcUA",
+        "thread_node_id": "PRRT_kwDONHLdRM6tdVL1",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-17T05:08:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIwjzDQ",
+        "number": 134,
+        "title": "Move topology and hierarchy render from Primitive to dedicated modules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/134"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/134#discussion_r4301495376"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM8AAAABAGOcfw",
+      "metadata": {
+        "created_at": "2026-10-17T05:08:57Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-17T05:08:59Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSy7d6A",
+        "source_node_id": "PRRC_kwDONHLdRM8AAAABAGOcfw",
+        "thread_node_id": "PRRT_kwDONHLdRM6tdVMS",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-17T05:08:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIwjzDQ",
+        "number": 134,
+        "title": "Move topology and hierarchy render from Primitive to dedicated modules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/134"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/134#discussion_r4301495423"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM8AAAABAGOcjA",
+      "metadata": {
+        "created_at": "2026-10-17T05:08:57Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-17T05:08:59Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSy7d6A",
+        "source_node_id": "PRRC_kwDONHLdRM8AAAABAGOcjA",
+        "thread_node_id": "PRRT_kwDONHLdRM6tdVMc",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-17T05:08:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIwjzDQ",
+        "number": 134,
+        "title": "Move topology and hierarchy render from Primitive to dedicated modules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/134"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/134#discussion_r4301495436"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM8AAAABAGOclw",
+      "metadata": {
+        "created_at": "2026-10-17T05:08:57Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-17T05:08:59Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSy7d6A",
+        "source_node_id": "PRRC_kwDONHLdRM8AAAABAGOclw",
+        "thread_node_id": "PRRT_kwDONHLdRM6tdVMj",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-17T05:08:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIwjzDQ",
+        "number": 134,
+        "title": "Move topology and hierarchy render from Primitive to dedicated modules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/134"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/134#discussion_r4301495447"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM8AAAABAGOcpQ",
+      "metadata": {
+        "created_at": "2026-10-17T05:08:58Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-17T05:08:59Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSy7d6A",
+        "source_node_id": "PRRC_kwDONHLdRM8AAAABAGOcpQ",
+        "thread_node_id": "PRRT_kwDONHLdRM6tdVMv",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-17T05:08:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIwjzDQ",
+        "number": 134,
+        "title": "Move topology and hierarchy render from Primitive to dedicated modules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/134"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/134#discussion_r4301495461"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM8AAAABAGOcvw",
+      "metadata": {
+        "created_at": "2026-10-17T05:08:58Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-10-17T05:08:59Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSy7d6A",
+        "source_node_id": "PRRC_kwDONHLdRM8AAAABAGOcvw",
+        "thread_node_id": "PRRT_kwDONHLdRM6tdVM_",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-17T05:08:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIwjzDQ",
+        "number": 134,
+        "title": "Move topology and hierarchy render from Primitive to dedicated modules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/134"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/134#discussion_r4301495487"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSy7d6A",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSy7d6A",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-17T05:08:59Z"
+      },
+      "occurred_at": "2026-10-17T05:08:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIwjzDQ",
+        "number": 134,
+        "title": "Move topology and hierarchy render from Primitive to dedicated modules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/134"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/134#pullrequestreview-5556329960"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABc1aXmg",
+      "metadata": {
+        "source_node_id": "IC_kwDONHLdRM8AAAABc1aXmg"
+      },
+      "occurred_at": "2026-10-17T05:12:42Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIr9oTw",
+        "number": 132,
+        "title": "Adding new graph generators, invariants, and tests",
+        "url": "https://github.com/MuPT-hub/mupt/pull/132"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/132#issuecomment-6230022042"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM8AAAABAGQOvw",
+      "metadata": {
+        "created_at": "2026-10-17T05:17:55Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-10-17T05:17:55Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABSy-9DA",
+        "source_node_id": "PRRC_kwDONHLdRM8AAAABAGQOvw",
+        "thread_node_id": "PRRT_kwDONHLdRM6tdVL1",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-10-17T05:17:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIwjzDQ",
+        "number": 134,
+        "title": "Move topology and hierarchy render from Primitive to dedicated modules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/134"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/134#discussion_r4301524671"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABSy-9DA",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABSy-9DA",
+        "state": "COMMENTED",
+        "submitted_at": "2026-10-17T05:17:55Z"
+      },
+      "occurred_at": "2026-10-17T05:17:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM8AAAABIwjzDQ",
+        "number": 134,
+        "title": "Move topology and hierarchy render from Primitive to dedicated modules",
+        "url": "https://github.com/MuPT-hub/mupt/pull/134"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/134#pullrequestreview-5556387084"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "bot",
+      "database_id": 200686546,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "BOT_kgDOC_Y70g",
+      "key": "BOT_kgDOC_Y70g",
+      "login": "read-the-docs-community",
+      "url": "https://github.com/apps/read-the-docs-community"
+    },
+    {
+      "classification": "bot",
+      "database_id": 175728472,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "BOT_kgDOCnlnWA",
+      "key": "BOT_kgDOCnlnWA",
+      "login": "copilot-pull-request-reviewer",
+      "url": "https://github.com/apps/copilot-pull-request-reviewer"
+    },
+    {
+      "classification": "bot",
+      "database_id": 22429695,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90MjI0Mjk2OTU=",
+      "key": "MDM6Qm90MjI0Mjk2OTU=",
+      "login": "codecov",
+      "url": "https://github.com/apps/codecov"
+    },
+    {
+      "classification": "bot",
+      "database_id": 66853113,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90NjY4NTMxMTM=",
+      "key": "MDM6Qm90NjY4NTMxMTM=",
+      "login": "pre-commit-ci",
+      "url": "https://github.com/apps/pre-commit-ci"
+    },
+    {
+      "classification": "human",
+      "database_id": 50423140,
+      "display_name": "Chris Jones",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjUwNDIzMTQw",
+      "key": "MDQ6VXNlcjUwNDIzMTQw",
+      "login": "chrisjonesBSU",
+      "url": "https://github.com/chrisjonesBSU"
+    },
+    {
+      "classification": "human",
+      "database_id": 52677403,
+      "display_name": "Timotej Bernat",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjUyNjc3NDAz",
+      "key": "MDQ6VXNlcjUyNjc3NDAz",
+      "login": "timbernat",
+      "url": "https://github.com/timbernat"
+    },
+    {
+      "classification": "human",
+      "database_id": 76799675,
+      "display_name": "Joe Laforet Jr.",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjc2Nzk5Njc1",
+      "key": "MDQ6VXNlcjc2Nzk5Njc1",
+      "login": "joelaforet",
+      "url": "https://github.com/joelaforet"
+    },
+    {
+      "classification": "human",
+      "database_id": 8178546,
+      "display_name": "David W.H. Swenson",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjgxNzg1NDY=",
+      "key": "MDQ6VXNlcjgxNzg1NDY=",
+      "login": "dwhswenson",
+      "url": "https://github.com/dwhswenson"
+    },
+    {
+      "classification": "unresolved_git",
+      "database_id": null,
+      "display_name": null,
+      "git_email": "noreply@github.com",
+      "git_name": "GitHub",
+      "github_node_id": null,
+      "key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+      "login": null,
+      "url": null
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-17T22:55:42.044573Z",
+    "collection_started_at": "2026-10-17T22:55:12.982945Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "1aeddd2cb59abf33533c22c369f9e4028e8866f3",
+    "month": "2026-10",
+    "month_end": "2026-11-01T00:00:00Z",
+    "month_start": "2026-10-01T00:00:00Z",
+    "ongoing": true,
+    "parent_discovery": "full",
+    "repository_full_name": "MuPT-hub/mupt",
+    "repository_node_id": "R_kgDONHLdRA",
+    "repository_url": "https://github.com/MuPT-hub/mupt"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "BOT_kgDOC_Y70g": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 11,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "BOT_kgDOCnlnWA": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 28,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 12
+      },
+      "MDM6Qm90MjI0Mjk2OTU=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 11,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDM6Qm90NjY4NTMxMTM=": {
+        "commit": 2,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 2,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjUyNjc3NDAz": {
+        "commit": 31,
+        "issue_closed": 3,
+        "issue_comment": 3,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 8,
+        "pr_inline_review_comment": 12,
+        "pr_merged": 5,
+        "pr_opened": 8,
+        "pr_review": 15
+      },
+      "MDQ6VXNlcjc2Nzk5Njc1": {
+        "commit": 6,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 3,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 2,
+        "pr_inline_review_comment": 8,
+        "pr_merged": 0,
+        "pr_opened": 2,
+        "pr_review": 8
+      },
+      "MDQ6VXNlcjgxNzg1NDY=": {
+        "commit": 1,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 4,
+        "pr_merged": 1,
+        "pr_opened": 0,
+        "pr_review": 6
+      }
+    },
+    "distinct_actors": {
+      "bot": 4,
+      "human": 3,
+      "total": 7,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 1,
+        "human": 3,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 2,
+        "human": 3,
+        "total": 5,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 1,
+        "human": 3,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 1,
+        "human": 2,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 1,
+        "human": 3,
+        "total": 4,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 40,
+      "issue_closed": 3,
+      "issue_comment": 3,
+      "issue_opened": 3,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 33,
+      "pr_inline_review_comment": 52,
+      "pr_merged": 6,
+      "pr_opened": 12,
+      "pr_review": 41
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:297e8a7e6494bf3b93ac7339bf2fbdfdf69b2f3d",
+      "metadata": {
+        "authored_at": "2024-10-28T20:33:48Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [],
+        "sha": "297e8a7e6494bf3b93ac7339bf2fbdfdf69b2f3d"
+      },
+      "occurred_at": "2024-10-28T20:33:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDI5N2U4YTdlNjQ5NGJmM2I5M2FjNzMzOWJmMmZiZGZkZjY5YjJmM2Q",
+        "number": null,
+        "title": "Initial commit after CMS Cookiecutter creation, version 1.10",
+        "url": "https://github.com/MuPT-hub/mupt/commit/297e8a7e6494bf3b93ac7339bf2fbdfdf69b2f3d"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/297e8a7e6494bf3b93ac7339bf2fbdfdf69b2f3d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:98ce35392d00f7bbd5ebd1e7ad5ff8bc322f253e",
+      "metadata": {
+        "authored_at": "2024-10-31T20:15:14Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "297e8a7e6494bf3b93ac7339bf2fbdfdf69b2f3d"
+        ],
+        "sha": "98ce35392d00f7bbd5ebd1e7ad5ff8bc322f253e"
+      },
+      "occurred_at": "2024-10-31T20:15:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDk4Y2UzNTM5MmQwMGY3YmJkNWViZDFlN2FkNWZmOGJjMzIyZjI1M2U",
+        "number": null,
+        "title": "Initialized major subpackages",
+        "url": "https://github.com/MuPT-hub/mupt/commit/98ce35392d00f7bbd5ebd1e7ad5ff8bc322f253e"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/98ce35392d00f7bbd5ebd1e7ad5ff8bc322f253e"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:48be063fc10172c3fd6b3a0bc39d03e6b6f0d2a7",
+      "metadata": {
+        "authored_at": "2024-10-31T20:17:24Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "98ce35392d00f7bbd5ebd1e7ad5ff8bc322f253e"
+        ],
+        "sha": "48be063fc10172c3fd6b3a0bc39d03e6b6f0d2a7"
+      },
+      "occurred_at": "2024-10-31T20:17:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDQ4YmUwNjNmYzEwMTcyYzNmZDZiM2EwYmMzOWQwM2U2YjZmMGQyYTc",
+        "number": null,
+        "title": "Included more recent Python versions in CI matrix",
+        "url": "https://github.com/MuPT-hub/mupt/commit/48be063fc10172c3fd6b3a0bc39d03e6b6f0d2a7"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/48be063fc10172c3fd6b3a0bc39d03e6b6f0d2a7"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:c2b05da64feaf93f58426d97b0508c8a72f511fc",
+      "metadata": {
+        "authored_at": "2024-10-31T20:18:23Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "48be063fc10172c3fd6b3a0bc39d03e6b6f0d2a7"
+        ],
+        "sha": "c2b05da64feaf93f58426d97b0508c8a72f511fc"
+      },
+      "occurred_at": "2024-10-31T20:18:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGMyYjA1ZGE2NGZlYWY5M2Y1ODQyNmQ5N2IwNTA4YzhhNzJmNTExZmM",
+        "number": null,
+        "title": "Added placeholder utils module",
+        "url": "https://github.com/MuPT-hub/mupt/commit/c2b05da64feaf93f58426d97b0508c8a72f511fc"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/c2b05da64feaf93f58426d97b0508c8a72f511fc"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "human",
+      "database_id": 52677403,
+      "display_name": "Timotej Bernat",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjUyNjc3NDAz",
+      "key": "MDQ6VXNlcjUyNjc3NDAz",
+      "login": "timbernat",
+      "url": "https://github.com/timbernat"
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-17T22:55:42.044573Z",
+    "collection_started_at": "2026-10-17T22:55:12.982945Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "1aeddd2cb59abf33533c22c369f9e4028e8866f3",
+    "month": "2024-10",
+    "month_end": "2024-11-01T00:00:00Z",
+    "month_start": "2024-10-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "MuPT-hub/mupt",
+    "repository_node_id": "R_kgDONHLdRA",
+    "repository_url": "https://github.com/MuPT-hub/mupt"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDQ6VXNlcjUyNjc3NDAz": {
+        "commit": 4,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      }
+    },
+    "distinct_actors": {
+      "bot": 0,
+      "human": 1,
+      "total": 1,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 4,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}

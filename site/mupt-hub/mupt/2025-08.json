@@ -1,0 +1,2006 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:114e7d2eebcb736637f781d2074a7e659c9b2b14",
+      "metadata": {
+        "authored_at": "2025-08-05T00:31:39Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "353215871fa3a6470e51d4ad0beacc2e9eda7c33"
+        ],
+        "sha": "114e7d2eebcb736637f781d2074a7e659c9b2b14"
+      },
+      "occurred_at": "2025-08-05T00:31:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDExNGU3ZDJlZWJjYjczNjYzN2Y3ODFkMjA3NGE3ZTY1OWM5YjJiMTQ",
+        "number": null,
+        "title": "Extricated graph canonicalization to separate module",
+        "url": "https://github.com/MuPT-hub/mupt/commit/114e7d2eebcb736637f781d2074a7e659c9b2b14"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/114e7d2eebcb736637f781d2074a7e659c9b2b14"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:b9a72d787726aa3e559746b448c344ae91e11e44",
+      "metadata": {
+        "authored_at": "2025-08-05T02:08:05Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "114e7d2eebcb736637f781d2074a7e659c9b2b14"
+        ],
+        "sha": "b9a72d787726aa3e559746b448c344ae91e11e44"
+      },
+      "occurred_at": "2025-08-05T02:08:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGI5YTcyZDc4NzcyNmFhM2U1NTk3NDZiNDQ4YzM0NGFlOTFlMTFlNDQ",
+        "number": null,
+        "title": "Broke case-based Primitive properties into behavior-specific subclasses",
+        "url": "https://github.com/MuPT-hub/mupt/commit/b9a72d787726aa3e559746b448c344ae91e11e44"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/b9a72d787726aa3e559746b448c344ae91e11e44"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:d29d5d5805681a16e066daf4e962bf17a888a2e6",
+      "metadata": {
+        "authored_at": "2025-08-05T03:26:21Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "b9a72d787726aa3e559746b448c344ae91e11e44"
+        ],
+        "sha": "d29d5d5805681a16e066daf4e962bf17a888a2e6"
+      },
+      "occurred_at": "2025-08-05T03:26:21Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGQyOWQ1ZDU4MDU2ODFhMTZlMDY2ZGFmNGU5NjJiZjE3YTg4OGEyZTY",
+        "number": null,
+        "title": "Adjusted Port query to exclude atomic number 0 atoms as bridgeheads, …",
+        "url": "https://github.com/MuPT-hub/mupt/commit/d29d5d5805681a16e066daf4e962bf17a888a2e6"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/d29d5d5805681a16e066daf4e962bf17a888a2e6"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:7bfcc856e6125113f744624b3788cd90297b2536",
+      "metadata": {
+        "authored_at": "2025-08-05T03:26:47Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "d29d5d5805681a16e066daf4e962bf17a888a2e6"
+        ],
+        "sha": "7bfcc856e6125113f744624b3788cd90297b2536"
+      },
+      "occurred_at": "2025-08-05T03:26:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDdiZmNjODU2ZTYxMjUxMTNmNzQ0NjI0YjM3ODhjZDkwMjk3YjI1MzY",
+        "number": null,
+        "title": "Imposed non-negativity requirement on CardinalPrimitive",
+        "url": "https://github.com/MuPT-hub/mupt/commit/7bfcc856e6125113f744624b3788cd90297b2536"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/7bfcc856e6125113f744624b3788cd90297b2536"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:1c593f34039dd3bb42cc12ca5a213df667dbab9c",
+      "metadata": {
+        "authored_at": "2025-08-05T04:03:13Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "7bfcc856e6125113f744624b3788cd90297b2536"
+        ],
+        "sha": "1c593f34039dd3bb42cc12ca5a213df667dbab9c"
+      },
+      "occurred_at": "2025-08-05T04:03:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDFjNTkzZjM0MDM5ZGQzYmI0MmNjMTJjYTVhMjEzZGY2NjdkYmFiOWM",
+        "number": null,
+        "title": "Updated RDKit interfaces based on new Primitive subtypes",
+        "url": "https://github.com/MuPT-hub/mupt/commit/1c593f34039dd3bb42cc12ca5a213df667dbab9c"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/1c593f34039dd3bb42cc12ca5a213df667dbab9c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:84d62e2a7b327774e92cee0a944761d3374d6594",
+      "metadata": {
+        "authored_at": "2025-08-06T02:41:10Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "1c593f34039dd3bb42cc12ca5a213df667dbab9c"
+        ],
+        "sha": "84d62e2a7b327774e92cee0a944761d3374d6594"
+      },
+      "occurred_at": "2025-08-06T02:41:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDg0ZDYyZTJhN2IzMjc3NzRlOTJjZWUwYTk0NDc2MWQzMzc0ZDY1OTQ",
+        "number": null,
+        "title": "Extracted PolymerTopologyGraph node embedding to dedicated external m…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/84d62e2a7b327774e92cee0a944761d3374d6594"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/84d62e2a7b327774e92cee0a944761d3374d6594"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:a028ff17a6d3acc29f35bc3c3c9636d09652edd7",
+      "metadata": {
+        "authored_at": "2025-08-07T01:38:09Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "84d62e2a7b327774e92cee0a944761d3374d6594"
+        ],
+        "sha": "a028ff17a6d3acc29f35bc3c3c9636d09652edd7"
+      },
+      "occurred_at": "2025-08-07T01:38:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGEwMjhmZjE3YTZkM2FjYzI5ZjM1YmMzYzNjOTYzNmQwOTY1MmVkZDc",
+        "number": null,
+        "title": "Implemented pairwise compatibility check for Port",
+        "url": "https://github.com/MuPT-hub/mupt/commit/a028ff17a6d3acc29f35bc3c3c9636d09652edd7"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/a028ff17a6d3acc29f35bc3c3c9636d09652edd7"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:b2de3830bd3479e0d26426c8bc9896b5947bed67",
+      "metadata": {
+        "authored_at": "2025-08-07T01:41:02Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "a028ff17a6d3acc29f35bc3c3c9636d09652edd7"
+        ],
+        "sha": "b2de3830bd3479e0d26426c8bc9896b5947bed67"
+      },
+      "occurred_at": "2025-08-07T01:41:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGIyZGUzODMwYmQzNDc5ZTBkMjY0MjZjOGJjOTg5NmI1OTQ3YmVkNjc",
+        "number": null,
+        "title": "Deprecated stereo_info in core Primitive definition",
+        "url": "https://github.com/MuPT-hub/mupt/commit/b2de3830bd3479e0d26426c8bc9896b5947bed67"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/b2de3830bd3479e0d26426c8bc9896b5947bed67"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:960fa116bbe439760ff80691f218af5c257c95cd",
+      "metadata": {
+        "authored_at": "2025-08-07T01:41:41Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "b2de3830bd3479e0d26426c8bc9896b5947bed67"
+        ],
+        "sha": "960fa116bbe439760ff80691f218af5c257c95cd"
+      },
+      "occurred_at": "2025-08-07T01:41:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDk2MGZhMTE2YmJlNDM5NzYwZmY4MDY5MWYyMThhZjVjMjU3Yzk1Y2Q",
+        "number": null,
+        "title": "Added more specific equivalence relations to Primitive (for now, with…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/960fa116bbe439760ff80691f218af5c257c95cd"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/960fa116bbe439760ff80691f218af5c257c95cd"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:343b617aff8213c521cb980d1b1e8804821c6d3c",
+      "metadata": {
+        "authored_at": "2025-08-07T01:42:19Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "960fa116bbe439760ff80691f218af5c257c95cd"
+        ],
+        "sha": "343b617aff8213c521cb980d1b1e8804821c6d3c"
+      },
+      "occurred_at": "2025-08-07T01:42:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDM0M2I2MTdhZmY4MjEzYzUyMWNiOTgwZDFiMWU4ODA0ODIxYzZkM2M",
+        "number": null,
+        "title": "Implemented primitive_from_smiles(), moved StereoInfo cache on Atomic…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/343b617aff8213c521cb980d1b1e8804821c6d3c"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/343b617aff8213c521cb980d1b1e8804821c6d3c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:7ef18fe855c4351c07912324d429a5126aa4953e",
+      "metadata": {
+        "authored_at": "2025-08-07T02:06:10Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "343b617aff8213c521cb980d1b1e8804821c6d3c"
+        ],
+        "sha": "7ef18fe855c4351c07912324d429a5126aa4953e"
+      },
+      "occurred_at": "2025-08-07T02:06:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDdlZjE4ZmU4NTVjNDM1MWMwNzkxMjMyNGQ0MjlhNTEyNmFhNDk1M2U",
+        "number": null,
+        "title": "Fixed mislabelled linker-bridgehead bug in primitive_from_rdkit() by …",
+        "url": "https://github.com/MuPT-hub/mupt/commit/7ef18fe855c4351c07912324d429a5126aa4953e"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/7ef18fe855c4351c07912324d429a5126aa4953e"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:8ea3fb9626df11c545af3be1c564e18f9a767553",
+      "metadata": {
+        "authored_at": "2025-08-07T02:16:44Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "7ef18fe855c4351c07912324d429a5126aa4953e"
+        ],
+        "sha": "8ea3fb9626df11c545af3be1c564e18f9a767553"
+      },
+      "occurred_at": "2025-08-07T02:16:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDhlYTNmYjk2MjZkZjExYzU0NWFmM2JlMWM1NjRlMThmOWE3Njc1NTM",
+        "number": null,
+        "title": "Deprecated Poirt.linker_flavor in favor of the already-existing Port.…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/8ea3fb9626df11c545af3be1c564e18f9a767553"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/8ea3fb9626df11c545af3be1c564e18f9a767553"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:d742b5f65110ddf5801d901ed8655ae0eba02126",
+      "metadata": {
+        "authored_at": "2025-08-07T02:24:51Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "8ea3fb9626df11c545af3be1c564e18f9a767553"
+        ],
+        "sha": "d742b5f65110ddf5801d901ed8655ae0eba02126"
+      },
+      "occurred_at": "2025-08-07T02:24:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGQ3NDJiNWY2NTExMGRkZjU4MDFkOTAxZWQ4NjU1YWUwZWJhMDIxMjY",
+        "number": null,
+        "title": "Cleaned up formatting",
+        "url": "https://github.com/MuPT-hub/mupt/commit/d742b5f65110ddf5801d901ed8655ae0eba02126"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/d742b5f65110ddf5801d901ed8655ae0eba02126"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:11711b93a7cd9066f03d44817f54c4cd12477046",
+      "metadata": {
+        "authored_at": "2025-08-07T02:38:16Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "d742b5f65110ddf5801d901ed8655ae0eba02126"
+        ],
+        "sha": "11711b93a7cd9066f03d44817f54c4cd12477046"
+      },
+      "occurred_at": "2025-08-07T02:38:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDExNzExYjkzYTdjZDkwNjZmMDNkNDQ4MTdmNTRjNGNkMTI0NzcwNDY",
+        "number": null,
+        "title": "Deprecated term \"bridgehead\" in favor of \"anchor\" for Ports throughou…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/11711b93a7cd9066f03d44817f54c4cd12477046"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/11711b93a7cd9066f03d44817f54c4cd12477046"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:eb14e1db0778aef05d41ede9696947430cc30e6a",
+      "metadata": {
+        "authored_at": "2025-08-07T03:41:03Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "11711b93a7cd9066f03d44817f54c4cd12477046"
+        ],
+        "sha": "eb14e1db0778aef05d41ede9696947430cc30e6a"
+      },
+      "occurred_at": "2025-08-07T03:41:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGViMTRlMWRiMDc3OGFlZjA1ZDQxZWRlOTY5Njk0NzQzMGNjMzBlNmE",
+        "number": null,
+        "title": "Fixed bug with Port tangent_position setting + Point3D vs np.ndarray …",
+        "url": "https://github.com/MuPT-hub/mupt/commit/eb14e1db0778aef05d41ede9696947430cc30e6a"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/eb14e1db0778aef05d41ede9696947430cc30e6a"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:fbb8753e50d84bc7dd7d3c337b8063f9fe48b03a",
+      "metadata": {
+        "authored_at": "2025-08-07T19:58:22Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "eb14e1db0778aef05d41ede9696947430cc30e6a"
+        ],
+        "sha": "fbb8753e50d84bc7dd7d3c337b8063f9fe48b03a"
+      },
+      "occurred_at": "2025-08-07T19:58:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGZiYjg3NTNlNTBkODRiYzdkZDdkM2MzMzdiODA2M2Y5ZmU0OGIwM2E",
+        "number": null,
+        "title": "Added preliminary multiset canonicalization methods",
+        "url": "https://github.com/MuPT-hub/mupt/commit/fbb8753e50d84bc7dd7d3c337b8063f9fe48b03a"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/fbb8753e50d84bc7dd7d3c337b8063f9fe48b03a"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:627f9e53468960f660ba2fbc8260da9698a251a5",
+      "metadata": {
+        "authored_at": "2025-08-07T20:04:26Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "fbb8753e50d84bc7dd7d3c337b8063f9fe48b03a"
+        ],
+        "sha": "627f9e53468960f660ba2fbc8260da9698a251a5"
+      },
+      "occurred_at": "2025-08-07T20:04:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDYyN2Y5ZTUzNDY4OTYwZjY2MGJhMmZiYzgyNjBkYTk2OThhMjUxYTU",
+        "number": null,
+        "title": "Gave Port a canonicalization method, made Primitive.ports canonicaliz…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/627f9e53468960f660ba2fbc8260da9698a251a5"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/627f9e53468960f660ba2fbc8260da9698a251a5"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:966f059ebf8ae1bdea904e5b45ff5b61a547c902",
+      "metadata": {
+        "authored_at": "2025-08-07T20:19:58Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "627f9e53468960f660ba2fbc8260da9698a251a5"
+        ],
+        "sha": "966f059ebf8ae1bdea904e5b45ff5b61a547c902"
+      },
+      "occurred_at": "2025-08-07T20:19:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDk2NmYwNTllYmY4YWUxYmRlYTkwNGU1YjQ1ZmY1YjYxYTU0N2M5MDI",
+        "number": null,
+        "title": "Made displayed attrs in __repr__ easier to edit",
+        "url": "https://github.com/MuPT-hub/mupt/commit/966f059ebf8ae1bdea904e5b45ff5b61a547c902"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/966f059ebf8ae1bdea904e5b45ff5b61a547c902"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:24c62d4289a1c884858bafdd3e5e6264847a925b",
+      "metadata": {
+        "authored_at": "2025-08-07T21:31:57Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "966f059ebf8ae1bdea904e5b45ff5b61a547c902"
+        ],
+        "sha": "24c62d4289a1c884858bafdd3e5e6264847a925b"
+      },
+      "occurred_at": "2025-08-07T21:31:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDI0YzYyZDQyODlhMWM4ODQ4NThiYWZkZDNlNWU2MjY0ODQ3YTkyNWI",
+        "number": null,
+        "title": "Added new representation module for abstracting the internal structur…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/24c62d4289a1c884858bafdd3e5e6264847a925b"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/24c62d4289a1c884858bafdd3e5e6264847a925b"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:db43a147877d13cae7892dc954aaebef642e107b",
+      "metadata": {
+        "authored_at": "2025-08-07T21:32:13Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "24c62d4289a1c884858bafdd3e5e6264847a925b"
+        ],
+        "sha": "db43a147877d13cae7892dc954aaebef642e107b"
+      },
+      "occurred_at": "2025-08-07T21:32:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGRiNDNhMTQ3ODc3ZDEzY2FlNzg5MmRjOTU0YWFlYmVmNjQyZTEwN2I",
+        "number": null,
+        "title": "Implemented Structure subclass for individual Atoms",
+        "url": "https://github.com/MuPT-hub/mupt/commit/db43a147877d13cae7892dc954aaebef642e107b"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/db43a147877d13cae7892dc954aaebef642e107b"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:147ceb4a2894c50d48ee8176b21d7c2a8f4eab42",
+      "metadata": {
+        "authored_at": "2025-08-07T21:32:55Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "db43a147877d13cae7892dc954aaebef642e107b"
+        ],
+        "sha": "147ceb4a2894c50d48ee8176b21d7c2a8f4eab42"
+      },
+      "occurred_at": "2025-08-07T21:32:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDE0N2NlYjRhMjg5NGM1MGQ0OGVlODE3NmIyMWQ3YzJhOGY0ZWFiNDI",
+        "number": null,
+        "title": "Made PolymerTopologyGraph a subclass of Structure as well",
+        "url": "https://github.com/MuPT-hub/mupt/commit/147ceb4a2894c50d48ee8176b21d7c2a8f4eab42"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/147ceb4a2894c50d48ee8176b21d7c2a8f4eab42"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:dc5836763dfe1737f135e3a6812d2d543b735159",
+      "metadata": {
+        "authored_at": "2025-08-07T21:33:36Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "147ceb4a2894c50d48ee8176b21d7c2a8f4eab42"
+        ],
+        "sha": "dc5836763dfe1737f135e3a6812d2d543b735159"
+      },
+      "occurred_at": "2025-08-07T21:33:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGRjNTgzNjc2M2RmZTE3MzdmMTM1ZTNhNjgxMmQyZDU0M2I3MzUxNTk",
+        "number": null,
+        "title": "Totally overhauled Primitive,  interface in now generic, with many in…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/dc5836763dfe1737f135e3a6812d2d543b735159"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/dc5836763dfe1737f135e3a6812d2d543b735159"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:16a6366e60dbb376aca0691391dea41f3eb28c6d",
+      "metadata": {
+        "authored_at": "2025-08-07T21:33:49Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "dc5836763dfe1737f135e3a6812d2d543b735159"
+        ],
+        "sha": "16a6366e60dbb376aca0691391dea41f3eb28c6d"
+      },
+      "occurred_at": "2025-08-07T21:33:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDE2YTYzNjZlNjBkYmIzNzZhY2EwNjkxMzkxZGVhNDFmM2ViMjhjNmQ",
+        "number": null,
+        "title": "Rewrote RDKit importers to operate on new Primitive model",
+        "url": "https://github.com/MuPT-hub/mupt/commit/16a6366e60dbb376aca0691391dea41f3eb28c6d"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/16a6366e60dbb376aca0691391dea41f3eb28c6d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:552059bee5811aa2efe7ac0bbf5161066db5b6bb",
+      "metadata": {
+        "authored_at": "2025-08-07T21:38:19Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "16a6366e60dbb376aca0691391dea41f3eb28c6d"
+        ],
+        "sha": "552059bee5811aa2efe7ac0bbf5161066db5b6bb"
+      },
+      "occurred_at": "2025-08-07T21:38:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDU1MjA1OWJlZTU4MTFhYTJlZmU3YWMwYmJmNTE2MTA2NmRiNWI2YmI",
+        "number": null,
+        "title": "Included Primitive into typehint now that Primitive import isn't circ…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/552059bee5811aa2efe7ac0bbf5161066db5b6bb"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/552059bee5811aa2efe7ac0bbf5161066db5b6bb"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:0563f99e9a89c2b53de57102297c04f86d267491",
+      "metadata": {
+        "authored_at": "2025-08-07T21:50:50Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "552059bee5811aa2efe7ac0bbf5161066db5b6bb"
+        ],
+        "sha": "0563f99e9a89c2b53de57102297c04f86d267491"
+      },
+      "occurred_at": "2025-08-07T21:50:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDA1NjNmOTllOWE4OWMyYjUzZGU1NzEwMjI5N2MwNGY4NmQyNjc0OTE",
+        "number": null,
+        "title": "Renamed \"PolymerTopologyGraph\" to \"TopologicalStructure\" throughout",
+        "url": "https://github.com/MuPT-hub/mupt/commit/0563f99e9a89c2b53de57102297c04f86d267491"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/0563f99e9a89c2b53de57102297c04f86d267491"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:b7868ff3cdb44cd6716206b6e45a76942658e252",
+      "metadata": {
+        "authored_at": "2025-08-07T22:40:42Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "0563f99e9a89c2b53de57102297c04f86d267491"
+        ],
+        "sha": "b7868ff3cdb44cd6716206b6e45a76942658e252"
+      },
+      "occurred_at": "2025-08-07T22:40:42Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGI3ODY4ZmYzY2RiNDRjZDY3MTYyMDZiNmU0NWE3Njk0MjY1OGUyNTI",
+        "number": null,
+        "title": "Extracted shared conformer manipulations to external shape_from_rdkit…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/b7868ff3cdb44cd6716206b6e45a76942658e252"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/b7868ff3cdb44cd6716206b6e45a76942658e252"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:0d51e1a91b66336765c731ac1f99006aef5261bd",
+      "metadata": {
+        "authored_at": "2025-08-08T21:26:12Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "b7868ff3cdb44cd6716206b6e45a76942658e252"
+        ],
+        "sha": "0d51e1a91b66336765c731ac1f99006aef5261bd"
+      },
+      "occurred_at": "2025-08-08T21:26:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDBkNTFlMWE5MWI2NjMzNjc2NWM3MzFhYzFmOTkwMDZhZWY1MjYxYmQ",
+        "number": null,
+        "title": "Renamed \"Port\"/\"port\" to \"Connector\"/\"connector\" thoughout",
+        "url": "https://github.com/MuPT-hub/mupt/commit/0d51e1a91b66336765c731ac1f99006aef5261bd"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/0d51e1a91b66336765c731ac1f99006aef5261bd"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:35bf2742c32314d406a69c02aa756529766fb519",
+      "metadata": {
+        "authored_at": "2025-08-08T21:26:27Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "0d51e1a91b66336765c731ac1f99006aef5261bd"
+        ],
+        "sha": "35bf2742c32314d406a69c02aa756529766fb519"
+      },
+      "occurred_at": "2025-08-08T21:26:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDM1YmYyNzQyYzMyMzE0ZDQwNmE2OWMwMmFhNzU2NTI5NzY2ZmI1MTk",
+        "number": null,
+        "title": "Updated Ports naming in dependent modules",
+        "url": "https://github.com/MuPT-hub/mupt/commit/35bf2742c32314d406a69c02aa756529766fb519"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/35bf2742c32314d406a69c02aa756529766fb519"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:c44f10dd0edacf1325db4d013a1c57008d209d97",
+      "metadata": {
+        "authored_at": "2025-08-09T01:33:20Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "35bf2742c32314d406a69c02aa756529766fb519"
+        ],
+        "sha": "c44f10dd0edacf1325db4d013a1c57008d209d97"
+      },
+      "occurred_at": "2025-08-09T01:33:20Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGM0NGYxMGRkMGVkYWNmMTMyNWRiNGQwMTNhMWM1NzAwOGQyMDlkOTc",
+        "number": null,
+        "title": "Adjusted whitespace",
+        "url": "https://github.com/MuPT-hub/mupt/commit/c44f10dd0edacf1325db4d013a1c57008d209d97"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/c44f10dd0edacf1325db4d013a1c57008d209d97"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:b53062cbcf9afd4f0ea40ba950fb67088c527267",
+      "metadata": {
+        "authored_at": "2025-08-09T01:38:17Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "c44f10dd0edacf1325db4d013a1c57008d209d97"
+        ],
+        "sha": "b53062cbcf9afd4f0ea40ba950fb67088c527267"
+      },
+      "occurred_at": "2025-08-09T01:38:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGI1MzA2MmNiY2Y5YWZkNGYwZWE0MGJhOTUwZmI2NzA4OGM1MjcyNjc",
+        "number": null,
+        "title": "Included element attribute into Primitive",
+        "url": "https://github.com/MuPT-hub/mupt/commit/b53062cbcf9afd4f0ea40ba950fb67088c527267"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/b53062cbcf9afd4f0ea40ba950fb67088c527267"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:e037386c7025dde43baea74bd60378ea63befde4",
+      "metadata": {
+        "authored_at": "2025-08-09T02:55:04Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "b53062cbcf9afd4f0ea40ba950fb67088c527267"
+        ],
+        "sha": "e037386c7025dde43baea74bd60378ea63befde4"
+      },
+      "occurred_at": "2025-08-09T02:55:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGUwMzczODZjNzAyNWRkZTQzYmFlYTc0YmQ2MDM3OGVhNjNiZWZkZTQ",
+        "number": null,
+        "title": "Moved towards deprecation of triangular Structure inheritance model i…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/e037386c7025dde43baea74bd60378ea63befde4"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/e037386c7025dde43baea74bd60378ea63befde4"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:17af45f2ccaf7a8db961404590a4f05380ec27b3",
+      "metadata": {
+        "authored_at": "2025-08-09T04:08:01Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "e037386c7025dde43baea74bd60378ea63befde4"
+        ],
+        "sha": "17af45f2ccaf7a8db961404590a4f05380ec27b3"
+      },
+      "occurred_at": "2025-08-09T04:08:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDE3YWY0NWYyY2NhZjdhOGRiOTYxNDA0NTkwYTRmMDUzODBlYzI3YjM",
+        "number": null,
+        "title": "Removed embedding TODO in preparation for including it directly withi…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/17af45f2ccaf7a8db961404590a4f05380ec27b3"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/17af45f2ccaf7a8db961404590a4f05380ec27b3"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:e2bfd8785564d638439457f1030bee0b1b825a16",
+      "metadata": {
+        "authored_at": "2025-08-09T04:08:41Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "17af45f2ccaf7a8db961404590a4f05380ec27b3"
+        ],
+        "sha": "e2bfd8785564d638439457f1030bee0b1b825a16"
+      },
+      "occurred_at": "2025-08-09T04:08:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGUyYmZkODc4NTU2NGQ2Mzg0Mzk0NTdmMTAzMGJlZTBiMWI4MjVhMTY",
+        "number": null,
+        "title": "Overheauled Primitive to behave as a tree node",
+        "url": "https://github.com/MuPT-hub/mupt/commit/e2bfd8785564d638439457f1030bee0b1b825a16"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/e2bfd8785564d638439457f1030bee0b1b825a16"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:0ad35ecb4d93a34791f13fe8697d1bbf1a42aadb",
+      "metadata": {
+        "authored_at": "2025-08-09T04:08:55Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "e2bfd8785564d638439457f1030bee0b1b825a16"
+        ],
+        "sha": "0ad35ecb4d93a34791f13fe8697d1bbf1a42aadb"
+      },
+      "occurred_at": "2025-08-09T04:08:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDBhZDM1ZWNiNGQ5M2EzNDc5MWYxM2ZlODY5N2QxYmJmMWE0MmFhZGI",
+        "number": null,
+        "title": "Updated RDKit exporter to reflect Prmitive updates",
+        "url": "https://github.com/MuPT-hub/mupt/commit/0ad35ecb4d93a34791f13fe8697d1bbf1a42aadb"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/0ad35ecb4d93a34791f13fe8697d1bbf1a42aadb"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:53e5462e599728a21146c586692536f8c12ffeef",
+      "metadata": {
+        "authored_at": "2025-08-09T04:10:44Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "0ad35ecb4d93a34791f13fe8697d1bbf1a42aadb"
+        ],
+        "sha": "53e5462e599728a21146c586692536f8c12ffeef"
+      },
+      "occurred_at": "2025-08-09T04:10:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDUzZTU0NjJlNTk5NzI4YTIxMTQ2YzU4NjY5MjUzNmY4YzEyZmZlZWY",
+        "number": null,
+        "title": "Deprecated now-redundant .structure and .atomic modules",
+        "url": "https://github.com/MuPT-hub/mupt/commit/53e5462e599728a21146c586692536f8c12ffeef"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/53e5462e599728a21146c586692536f8c12ffeef"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:ab19c467d3eb73c837b7670392285db633f0183f",
+      "metadata": {
+        "authored_at": "2025-08-11T18:45:07Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "53e5462e599728a21146c586692536f8c12ffeef"
+        ],
+        "sha": "ab19c467d3eb73c837b7670392285db633f0183f"
+      },
+      "occurred_at": "2025-08-11T18:45:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGFiMTljNDY3ZDNlYjczYzgzN2I3NjcwMzkyMjg1ZGI2MzNmMDE4M2Y",
+        "number": null,
+        "title": "Expanded Connctor to include set of \"linkable\" labels for bondability…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/ab19c467d3eb73c837b7670392285db633f0183f"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/ab19c467d3eb73c837b7670392285db633f0183f"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:87bcbd5d046d894d7e5c970f65cc7dfe7238b601",
+      "metadata": {
+        "authored_at": "2025-08-11T19:24:16Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "ab19c467d3eb73c837b7670392285db633f0183f"
+        ],
+        "sha": "87bcbd5d046d894d7e5c970f65cc7dfe7238b601"
+      },
+      "occurred_at": "2025-08-11T19:24:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDg3YmNiZDVkMDQ2ZDg5NGQ3ZTVjOTcwZjY1Y2M3ZGZlNzIzOGI2MDE",
+        "number": null,
+        "title": "Extended bondable_with() method to work with iterables of other Conne…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/87bcbd5d046d894d7e5c970f65cc7dfe7238b601"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/87bcbd5d046d894d7e5c970f65cc7dfe7238b601"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:f9e81ca01e57faab5c6789a4022593835603fc1e",
+      "metadata": {
+        "authored_at": "2025-08-11T19:24:28Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "87bcbd5d046d894d7e5c970f65cc7dfe7238b601"
+        ],
+        "sha": "f9e81ca01e57faab5c6789a4022593835603fc1e"
+      },
+      "occurred_at": "2025-08-11T19:24:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGY5ZTgxY2EwMWU1N2ZhYWI1YzY3ODlhNDAyMjU5MzgzNTYwM2ZjMWU",
+        "number": null,
+        "title": "Included .element in canonical form string",
+        "url": "https://github.com/MuPT-hub/mupt/commit/f9e81ca01e57faab5c6789a4022593835603fc1e"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/f9e81ca01e57faab5c6789a4022593835603fc1e"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:f6a960dc51a5366f80cc8f22e0c991934a7f6e67",
+      "metadata": {
+        "authored_at": "2025-08-11T19:31:23Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "f9e81ca01e57faab5c6789a4022593835603fc1e"
+        ],
+        "sha": "f6a960dc51a5366f80cc8f22e0c991934a7f6e67"
+      },
+      "occurred_at": "2025-08-11T19:31:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGY2YTk2MGRjNTFhNTM2NmY4MGNjOGYyMmUwYzk5MTkzNGE3ZjZlNjc",
+        "number": null,
+        "title": "Corrected \"discrete\" vs \"indiscrete\" topology terminology (no edge gr…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/f6a960dc51a5366f80cc8f22e0c991934a7f6e67"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/f6a960dc51a5366f80cc8f22e0c991934a7f6e67"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:55dcd6b475d4a865fca70b9b46dceea15f723ac4",
+      "metadata": {
+        "authored_at": "2025-08-11T20:16:20Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "f6a960dc51a5366f80cc8f22e0c991934a7f6e67"
+        ],
+        "sha": "55dcd6b475d4a865fca70b9b46dceea15f723ac4"
+      },
+      "occurred_at": "2025-08-11T20:16:20Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDU1ZGNkNmI0NzVkNGE4NjVmY2E3MGI5YjQ2ZGNlZWExNWY3MjNhYzQ",
+        "number": null,
+        "title": "Added TODO for shape deepcopy implementation",
+        "url": "https://github.com/MuPT-hub/mupt/commit/55dcd6b475d4a865fca70b9b46dceea15f723ac4"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/55dcd6b475d4a865fca70b9b46dceea15f723ac4"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:2c646787383ce2ba201d473405e3caa08f5c7477",
+      "metadata": {
+        "authored_at": "2025-08-11T20:17:06Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "55dcd6b475d4a865fca70b9b46dceea15f723ac4"
+        ],
+        "sha": "2c646787383ce2ba201d473405e3caa08f5c7477"
+      },
+      "occurred_at": "2025-08-11T20:17:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDJjNjQ2Nzg3MzgzY2UyYmEyMDFkNDczNDA1ZTNjYWEwOGY1Yzc0Nzc",
+        "number": null,
+        "title": "Made .linker optional",
+        "url": "https://github.com/MuPT-hub/mupt/commit/2c646787383ce2ba201d473405e3caa08f5c7477"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/2c646787383ce2ba201d473405e3caa08f5c7477"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:32ebe39da5021a3af33e9d6eba24caad67f0008a",
+      "metadata": {
+        "authored_at": "2025-08-11T21:04:15Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "2c646787383ce2ba201d473405e3caa08f5c7477"
+        ],
+        "sha": "32ebe39da5021a3af33e9d6eba24caad67f0008a"
+      },
+      "occurred_at": "2025-08-11T21:04:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDMyZWJlMzlkYTUwMjFhM2FmMzNlOWQ2ZWJhMjRjYWFkNjdmMDAwOGE",
+        "number": null,
+        "title": "Renamed singular Connector comparison to \"bondable_with\" and  unpacke…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/32ebe39da5021a3af33e9d6eba24caad67f0008a"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/32ebe39da5021a3af33e9d6eba24caad67f0008a"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:12c6fcfb8f8715fc5a387fdaadc3d61f0c9906a8",
+      "metadata": {
+        "authored_at": "2025-08-11T21:05:01Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "32ebe39da5021a3af33e9d6eba24caad67f0008a"
+        ],
+        "sha": "12c6fcfb8f8715fc5a387fdaadc3d61f0c9906a8"
+      },
+      "occurred_at": "2025-08-11T21:05:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDEyYzZmY2ZiOGY4NzE1ZmM1YTM4N2ZkYWFkYzNkNjFmMGM5OTA2YTg",
+        "number": null,
+        "title": "Made .copy() less generic to avoid mangling with NodeMixin attrs (__d…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/12c6fcfb8f8715fc5a387fdaadc3d61f0c9906a8"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/12c6fcfb8f8715fc5a387fdaadc3d61f0c9906a8"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:cd13c3d4ec156b1ce514601fe9138576f6d8a6d3",
+      "metadata": {
+        "authored_at": "2025-08-12T03:50:05Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "12c6fcfb8f8715fc5a387fdaadc3d61f0c9906a8"
+        ],
+        "sha": "cd13c3d4ec156b1ce514601fe9138576f6d8a6d3"
+      },
+      "occurred_at": "2025-08-12T03:50:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGNkMTNjM2Q0ZWMxNTZiMWNlNTE0NjAxZmU5MTM4NTc2ZjZkOGE2ZDM",
+        "number": null,
+        "title": "Added label-access method to child Primitives",
+        "url": "https://github.com/MuPT-hub/mupt/commit/cd13c3d4ec156b1ce514601fe9138576f6d8a6d3"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/cd13c3d4ec156b1ce514601fe9138576f6d8a6d3"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:d1b7adbf474995845bb24185ee125f5271d30bfe",
+      "metadata": {
+        "authored_at": "2025-08-12T04:07:09Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "cd13c3d4ec156b1ce514601fe9138576f6d8a6d3"
+        ],
+        "sha": "d1b7adbf474995845bb24185ee125f5271d30bfe"
+      },
+      "occurred_at": "2025-08-12T04:07:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGQxYjdhZGJmNDc0OTk1ODQ1YmIyNDE4NWVlMTI1ZjUyNzFkMzBiZmU",
+        "number": null,
+        "title": "Added new submodule for abstracting comparison between core objects",
+        "url": "https://github.com/MuPT-hub/mupt/commit/d1b7adbf474995845bb24185ee125f5271d30bfe"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/d1b7adbf474995845bb24185ee125f5271d30bfe"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:1c77a5b34c5e4cfadca960f144074a49a842643e",
+      "metadata": {
+        "authored_at": "2025-08-12T04:08:21Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "d1b7adbf474995845bb24185ee125f5271d30bfe"
+        ],
+        "sha": "1c77a5b34c5e4cfadca960f144074a49a842643e"
+      },
+      "occurred_at": "2025-08-12T04:08:21Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDFjNzdhNWIzNGM1ZTRjZmFkY2E5NjBmMTQ0MDc0YTQ5YTg0MjY0M2U",
+        "number": null,
+        "title": "Renamed congruence/coincidence methods to be consistent with the Comp…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/1c77a5b34c5e4cfadca960f144074a49a842643e"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/1c77a5b34c5e4cfadca960f144074a49a842643e"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:e61c2c9ea54fcec660385d9eec91dfbee6fb1188",
+      "metadata": {
+        "authored_at": "2025-08-19T17:24:30Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "1c77a5b34c5e4cfadca960f144074a49a842643e"
+        ],
+        "sha": "e61c2c9ea54fcec660385d9eec91dfbee6fb1188"
+      },
+      "occurred_at": "2025-08-19T17:24:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGU2MWMyYzllYTU0ZmNlYzY2MDM4NWQ5ZWVjOTFkZmJlZTZmYjExODg",
+        "number": null,
+        "title": "Fixed typing bug for default conformer ID",
+        "url": "https://github.com/MuPT-hub/mupt/commit/e61c2c9ea54fcec660385d9eec91dfbee6fb1188"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/e61c2c9ea54fcec660385d9eec91dfbee6fb1188"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:7790a24fa876ea2df5ccc8a3fd7281efd88d526e",
+      "metadata": {
+        "authored_at": "2025-08-28T23:46:30Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "e61c2c9ea54fcec660385d9eec91dfbee6fb1188"
+        ],
+        "sha": "7790a24fa876ea2df5ccc8a3fd7281efd88d526e"
+      },
+      "occurred_at": "2025-08-28T23:46:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDc3OTBhMjRmYTg3NmVhMmRmNWNjYzhhM2ZkNzI4MWVmZDg4ZDUyNmU",
+        "number": null,
+        "title": "Converted Ellipsoid to no longer be a dataclass (unintentional hangov…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/7790a24fa876ea2df5ccc8a3fd7281efd88d526e"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/7790a24fa876ea2df5ccc8a3fd7281efd88d526e"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:01e22ed8bf1bc6561e6428013b30d6859dcfb35d",
+      "metadata": {
+        "authored_at": "2025-08-29T00:16:37Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "7790a24fa876ea2df5ccc8a3fd7281efd88d526e"
+        ],
+        "sha": "01e22ed8bf1bc6561e6428013b30d6859dcfb35d"
+      },
+      "occurred_at": "2025-08-29T00:16:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDAxZTIyZWQ4YmYxYmM2NTYxZTY0MjgwMTNiMzBkNjg1OWRjZmIzNWQ",
+        "number": null,
+        "title": "Added generic Protocol for copyable objects",
+        "url": "https://github.com/MuPT-hub/mupt/commit/01e22ed8bf1bc6561e6428013b30d6859dcfb35d"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/01e22ed8bf1bc6561e6428013b30d6859dcfb35d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:834e51e7c3beced335ab57c2194a999d17a687eb",
+      "metadata": {
+        "authored_at": "2025-08-29T00:17:11Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "01e22ed8bf1bc6561e6428013b30d6859dcfb35d"
+        ],
+        "sha": "834e51e7c3beced335ab57c2194a999d17a687eb"
+      },
+      "occurred_at": "2025-08-29T00:17:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDgzNGU1MWU3YzNiZWNlZDMzNWFiNTdjMjE5NGE5OTlkMTdhNjg3ZWI",
+        "number": null,
+        "title": "Made copyable Protocol runtime-checkable",
+        "url": "https://github.com/MuPT-hub/mupt/commit/834e51e7c3beced335ab57c2194a999d17a687eb"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/834e51e7c3beced335ab57c2194a999d17a687eb"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:06a2672cfb54493a4c09c4d2de6bc1cf4cc5dbe6",
+      "metadata": {
+        "authored_at": "2025-08-29T20:29:18Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "834e51e7c3beced335ab57c2194a999d17a687eb"
+        ],
+        "sha": "06a2672cfb54493a4c09c4d2de6bc1cf4cc5dbe6"
+      },
+      "occurred_at": "2025-08-29T20:29:18Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDA2YTI2NzJjZmI1NDQ5M2E0YzA5YzRkMmRlNmJjMWNmNGNjNWRiZTY",
+        "number": null,
+        "title": "Fixed get_index_after_positionals() logic to correctly handle call si…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/06a2672cfb54493a4c09c4d2de6bc1cf4cc5dbe6"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/06a2672cfb54493a4c09c4d2de6bc1cf4cc5dbe6"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:142f1086622a7f0c4dd51323903fd2477fd1c1f5",
+      "metadata": {
+        "authored_at": "2025-08-29T22:08:46Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "06a2672cfb54493a4c09c4d2de6bc1cf4cc5dbe6"
+        ],
+        "sha": "142f1086622a7f0c4dd51323903fd2477fd1c1f5"
+      },
+      "occurred_at": "2025-08-29T22:08:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDE0MmYxMDg2NjIyYTdmMGM0ZGQ1MTMyMzkwM2ZkMjQ3N2ZkMWMxZjU",
+        "number": null,
+        "title": "Deprecated RDKit-specific sanitization wrappers",
+        "url": "https://github.com/MuPT-hub/mupt/commit/142f1086622a7f0c4dd51323903fd2477fd1c1f5"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/142f1086622a7f0c4dd51323903fd2477fd1c1f5"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:8eb6929619fffa35fe4310572e8047c2c76a8e5c",
+      "metadata": {
+        "authored_at": "2025-08-30T00:46:38Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "142f1086622a7f0c4dd51323903fd2477fd1c1f5"
+        ],
+        "sha": "8eb6929619fffa35fe4310572e8047c2c76a8e5c"
+      },
+      "occurred_at": "2025-08-30T00:46:38Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDhlYjY5Mjk2MTlmZmZhMzVmZTQzMTA1NzJlODA0N2MyYzc2YThlNWM",
+        "number": null,
+        "title": "Added improved RigidlyTransformable Protocol which handles boilerplat…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/8eb6929619fffa35fe4310572e8047c2c76a8e5c"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/8eb6929619fffa35fe4310572e8047c2c76a8e5c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:753adc04d041b39060fa0bb3ebf3060c058520cf",
+      "metadata": {
+        "authored_at": "2025-08-30T00:46:52Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "8eb6929619fffa35fe4310572e8047c2c76a8e5c"
+        ],
+        "sha": "753adc04d041b39060fa0bb3ebf3060c058520cf"
+      },
+      "occurred_at": "2025-08-30T00:46:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDc1M2FkYzA0ZDA0MWIzOTA2MGZhMGJiM2ViZjMwNjBjMDU4NTIwY2Y",
+        "number": null,
+        "title": "Wrote unit tests for new RigidlyTransformable",
+        "url": "https://github.com/MuPT-hub/mupt/commit/753adc04d041b39060fa0bb3ebf3060c058520cf"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/753adc04d041b39060fa0bb3ebf3060c058520cf"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:fe7d52a594f09cd4f2d3ab20faac89c0ff7fc62b",
+      "metadata": {
+        "authored_at": "2025-08-30T00:47:52Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "753adc04d041b39060fa0bb3ebf3060c058520cf"
+        ],
+        "sha": "fe7d52a594f09cd4f2d3ab20faac89c0ff7fc62b"
+      },
+      "occurred_at": "2025-08-30T00:47:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGZlN2Q1MmE1OTRmMDljZDRmMmQzYWIyMGZhYWM4OWMwZmY3ZmM2MmI",
+        "number": null,
+        "title": "Renamed \"isometry\" to just \"rigid transformation\" where references fo…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/fe7d52a594f09cd4f2d3ab20faac89c0ff7fc62b"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/fe7d52a594f09cd4f2d3ab20faac89c0ff7fc62b"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:1d872e43b23b3fc7d03d70061d2624a80b5daa1f",
+      "metadata": {
+        "authored_at": "2025-08-30T03:02:03Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "fe7d52a594f09cd4f2d3ab20faac89c0ff7fc62b"
+        ],
+        "sha": "1d872e43b23b3fc7d03d70061d2624a80b5daa1f"
+      },
+      "occurred_at": "2025-08-30T03:02:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDFkODcyZTQzYjIzYjNmYzdkMDNkNzAwNjFkMjYyNGE4MGI1ZGFhMWY",
+        "number": null,
+        "title": "Deprecated RigidTransformable in favor of newer, more complete Rigidl…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/1d872e43b23b3fc7d03d70061d2624a80b5daa1f"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/1d872e43b23b3fc7d03d70061d2624a80b5daa1f"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:10b1fe276f5e0acbe966809ed6fd5a32926c0b0c",
+      "metadata": {
+        "authored_at": "2025-08-30T03:02:27Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "1d872e43b23b3fc7d03d70061d2624a80b5daa1f"
+        ],
+        "sha": "10b1fe276f5e0acbe966809ed6fd5a32926c0b0c"
+      },
+      "occurred_at": "2025-08-30T03:02:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDEwYjFmZTI3NmY1ZTBhY2JlOTY2ODA5ZWQ2ZmQ1YTMyOTI2YzBiMGM",
+        "number": null,
+        "title": "Reimplemented BoundedShape + subclasses to adhere to RigidlyTransform…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/10b1fe276f5e0acbe966809ed6fd5a32926c0b0c"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/10b1fe276f5e0acbe966809ed6fd5a32926c0b0c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:6df288115f1e2d873ee82f325b94ec6736f80c94",
+      "metadata": {
+        "authored_at": "2025-08-30T03:17:18Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "10b1fe276f5e0acbe966809ed6fd5a32926c0b0c"
+        ],
+        "sha": "6df288115f1e2d873ee82f325b94ec6736f80c94"
+      },
+      "occurred_at": "2025-08-30T03:17:18Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDZkZjI4ODExNWYxZTJkODczZWU4MmYzMjViOTRlYzY3MzZmODBjOTQ",
+        "number": null,
+        "title": "Tweaked comparability methods (congruent -> equilvalent)",
+        "url": "https://github.com/MuPT-hub/mupt/commit/6df288115f1e2d873ee82f325b94ec6736f80c94"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/6df288115f1e2d873ee82f325b94ec6736f80c94"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "human",
+      "database_id": 52677403,
+      "display_name": "Timotej Bernat",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjUyNjc3NDAz",
+      "key": "MDQ6VXNlcjUyNjc3NDAz",
+      "login": "timbernat",
+      "url": "https://github.com/timbernat"
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-17T22:55:42.044573Z",
+    "collection_started_at": "2026-10-17T22:55:12.982945Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "1aeddd2cb59abf33533c22c369f9e4028e8866f3",
+    "month": "2025-08",
+    "month_end": "2025-09-01T00:00:00Z",
+    "month_start": "2025-08-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "MuPT-hub/mupt",
+    "repository_node_id": "R_kgDONHLdRA",
+    "repository_url": "https://github.com/MuPT-hub/mupt"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDQ6VXNlcjUyNjc3NDAz": {
+        "commit": 58,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      }
+    },
+    "distinct_actors": {
+      "bot": 0,
+      "human": 1,
+      "total": 1,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 58,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}

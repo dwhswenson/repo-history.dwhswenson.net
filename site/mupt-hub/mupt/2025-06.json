@@ -1,0 +1,695 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:0d362db75601d179a7a87dbc8fa949033c15491d",
+      "metadata": {
+        "authored_at": "2025-06-24T18:11:07Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "39a470af459b3505b425bdf35a9516570e2e2c62"
+        ],
+        "sha": "0d362db75601d179a7a87dbc8fa949033c15491d"
+      },
+      "occurred_at": "2025-06-24T18:11:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDBkMzYyZGI3NTYwMWQxNzlhN2E4N2RiYzhmYTk0OTAzM2MxNTQ5MWQ",
+        "number": null,
+        "title": "Implemented rotation matrix calculation from axis and angle",
+        "url": "https://github.com/MuPT-hub/mupt/commit/0d362db75601d179a7a87dbc8fa949033c15491d"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/0d362db75601d179a7a87dbc8fa949033c15491d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:a7034927ee92936629018266ef525f61cea83890",
+      "metadata": {
+        "authored_at": "2025-06-24T18:11:45Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "0d362db75601d179a7a87dbc8fa949033c15491d"
+        ],
+        "sha": "a7034927ee92936629018266ef525f61cea83890"
+      },
+      "occurred_at": "2025-06-24T18:11:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGE3MDM0OTI3ZWU5MjkzNjYyOTAxODI2NmVmNTI1ZjYxY2VhODM4OTA",
+        "number": null,
+        "title": "Condensed intermediate variable definitions",
+        "url": "https://github.com/MuPT-hub/mupt/commit/a7034927ee92936629018266ef525f61cea83890"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/a7034927ee92936629018266ef525f61cea83890"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:ffa17fa812b69f8a24f4bbed46c4942a92ba1678",
+      "metadata": {
+        "authored_at": "2025-06-24T18:12:12Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "a7034927ee92936629018266ef525f61cea83890"
+        ],
+        "sha": "ffa17fa812b69f8a24f4bbed46c4942a92ba1678"
+      },
+      "occurred_at": "2025-06-24T18:12:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGZmYTE3ZmE4MTJiNjlmOGEyNGY0YmJlZDQ2YzQ5NDJhOTJiYTE2Nzg",
+        "number": null,
+        "title": "Clarified argument naming for \"num_points\" in Plane.sample()",
+        "url": "https://github.com/MuPT-hub/mupt/commit/ffa17fa812b69f8a24f4bbed46c4942a92ba1678"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/ffa17fa812b69f8a24f4bbed46c4942a92ba1678"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:f7a8e328ef46272903524475f93d8021e8d7d317",
+      "metadata": {
+        "authored_at": "2025-06-24T23:44:28Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "ffa17fa812b69f8a24f4bbed46c4942a92ba1678"
+        ],
+        "sha": "f7a8e328ef46272903524475f93d8021e8d7d317"
+      },
+      "occurred_at": "2025-06-24T23:44:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGY3YThlMzI4ZWY0NjI3MjkwMzUyNDQ3NWY5M2Q4MDIxZThkN2QzMTc",
+        "number": null,
+        "title": "Broke alignment trasnform into base Householder reflector applied to …",
+        "url": "https://github.com/MuPT-hub/mupt/commit/f7a8e328ef46272903524475f93d8021e8d7d317"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/f7a8e328ef46272903524475f93d8021e8d7d317"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:07b18ce77b1172663070612f74394f9273b2f97c",
+      "metadata": {
+        "authored_at": "2025-06-25T02:34:41Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "f7a8e328ef46272903524475f93d8021e8d7d317"
+        ],
+        "sha": "07b18ce77b1172663070612f74394f9273b2f97c"
+      },
+      "occurred_at": "2025-06-25T02:34:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDA3YjE4Y2U3N2IxMTcyNjYzMDcwNjEyZjc0Mzk0ZjkyNzNiMmY5N2M",
+        "number": null,
+        "title": "Added missing default NoneType for center",
+        "url": "https://github.com/MuPT-hub/mupt/commit/07b18ce77b1172663070612f74394f9273b2f97c"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/07b18ce77b1172663070612f74394f9273b2f97c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:3899c2b8cf293e932af3cf1acee25a974c339aec",
+      "metadata": {
+        "authored_at": "2025-06-25T02:35:39Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "07b18ce77b1172663070612f74394f9273b2f97c"
+        ],
+        "sha": "3899c2b8cf293e932af3cf1acee25a974c339aec"
+      },
+      "occurred_at": "2025-06-25T02:35:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDM4OTljMmI4Y2YyOTNlOTMyYWYzY2YxYWNlZTI1YTk3NGMzMzlhZWM",
+        "number": null,
+        "title": "Added length compatibility check between initial and final vector in …",
+        "url": "https://github.com/MuPT-hub/mupt/commit/3899c2b8cf293e932af3cf1acee25a974c339aec"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/3899c2b8cf293e932af3cf1acee25a974c339aec"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:557d7e129c57b6d8c00e411e6b922946ca071b9d",
+      "metadata": {
+        "authored_at": "2025-06-25T02:36:02Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "3899c2b8cf293e932af3cf1acee25a974c339aec"
+        ],
+        "sha": "557d7e129c57b6d8c00e411e6b922946ca071b9d"
+      },
+      "occurred_at": "2025-06-25T02:36:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDU1N2Q3ZTEyOWM1N2I2ZDhjMDBlNDExZTZiOTIyOTQ2Y2EwNzFiOWQ",
+        "number": null,
+        "title": "Implemented Port alignment transform calculation",
+        "url": "https://github.com/MuPT-hub/mupt/commit/557d7e129c57b6d8c00e411e6b922946ca071b9d"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/557d7e129c57b6d8c00e411e6b922946ca071b9d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:febc4cb6fa949db719170f5b7da8b4813d3d71e6",
+      "metadata": {
+        "authored_at": "2025-06-27T01:48:30Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "557d7e129c57b6d8c00e411e6b922946ca071b9d"
+        ],
+        "sha": "febc4cb6fa949db719170f5b7da8b4813d3d71e6"
+      },
+      "occurred_at": "2025-06-27T01:48:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGZlYmM0Y2I2ZmE5NDlkYjcxOTE3MGY1YjdkYThiNDgxM2QzZDcxZTY",
+        "number": null,
+        "title": "Standardized naming and structure of transformation generators",
+        "url": "https://github.com/MuPT-hub/mupt/commit/febc4cb6fa949db719170f5b7da8b4813d3d71e6"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/febc4cb6fa949db719170f5b7da8b4813d3d71e6"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:3935abc8b38d7d90bac107650377974a5f9c9ba1",
+      "metadata": {
+        "authored_at": "2025-06-27T01:48:46Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "febc4cb6fa949db719170f5b7da8b4813d3d71e6"
+        ],
+        "sha": "3935abc8b38d7d90bac107650377974a5f9c9ba1"
+      },
+      "occurred_at": "2025-06-27T01:48:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDM5MzVhYmM4YjM4ZDdkOTBiYWMxMDc2NTAzNzc5NzRhNWY5YzliYTE",
+        "number": null,
+        "title": "Updated geometry imports",
+        "url": "https://github.com/MuPT-hub/mupt/commit/3935abc8b38d7d90bac107650377974a5f9c9ba1"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/3935abc8b38d7d90bac107650377974a5f9c9ba1"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:47cd16ddeab2c709e2788067d6b72dfadcd944e5",
+      "metadata": {
+        "authored_at": "2025-06-27T02:54:54Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "3935abc8b38d7d90bac107650377974a5f9c9ba1"
+        ],
+        "sha": "47cd16ddeab2c709e2788067d6b72dfadcd944e5"
+      },
+      "occurred_at": "2025-06-27T02:54:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDQ3Y2QxNmRkZWFiMmM3MDllMjc4ODA2N2Q2YjcyZGZhZGNkOTQ0ZTU",
+        "number": null,
+        "title": "Added TODO for custom copying method in optional_in_place decorator",
+        "url": "https://github.com/MuPT-hub/mupt/commit/47cd16ddeab2c709e2788067d6b72dfadcd944e5"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/47cd16ddeab2c709e2788067d6b72dfadcd944e5"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:85c6d82611875fd621e350174ae6db5c51d3ecf6",
+      "metadata": {
+        "authored_at": "2025-06-27T02:56:05Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "47cd16ddeab2c709e2788067d6b72dfadcd944e5"
+        ],
+        "sha": "85c6d82611875fd621e350174ae6db5c51d3ecf6"
+      },
+      "occurred_at": "2025-06-27T02:56:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDg1YzZkODI2MTE4NzVmZDYyMWUzNTAxNzRhZTZkYjVjNTFkM2VjZjY",
+        "number": null,
+        "title": "Corrected behavior of dihedral normal vector under affine transformat…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/85c6d82611875fd621e350174ae6db5c51d3ecf6"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/85c6d82611875fd621e350174ae6db5c51d3ecf6"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:7694446fcc191e9fab09a0b4ea9b13af1a24aa0c",
+      "metadata": {
+        "authored_at": "2025-06-27T03:02:13Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "39a470af459b3505b425bdf35a9516570e2e2c62"
+        ],
+        "sha": "7694446fcc191e9fab09a0b4ea9b13af1a24aa0c"
+      },
+      "occurred_at": "2025-06-27T03:02:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDc2OTQ0NDZmY2MxOTFlOWZhYjA5YTBiNGVhOWIxM2FmMWEyNGFhMGM",
+        "number": null,
+        "title": "Updated CI directives (omitted Python 3.13, Windows OS) and conda env…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/7694446fcc191e9fab09a0b4ea9b13af1a24aa0c"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/7694446fcc191e9fab09a0b4ea9b13af1a24aa0c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:81add96b271fcf6dc778bf8abf667beb1c53b4a7",
+      "metadata": {
+        "authored_at": "2025-06-27T03:04:25Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "7694446fcc191e9fab09a0b4ea9b13af1a24aa0c"
+        ],
+        "sha": "81add96b271fcf6dc778bf8abf667beb1c53b4a7"
+      },
+      "occurred_at": "2025-06-27T03:04:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDgxYWRkOTZiMjcxZmNmNmRjNzc4YmY4YWJmNjY3YmViMWM1M2I0YTc",
+        "number": null,
+        "title": "Updated conda env reference in CI.yaml, added patch line for ENOENT m…",
+        "url": "https://github.com/MuPT-hub/mupt/commit/81add96b271fcf6dc778bf8abf667beb1c53b4a7"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/81add96b271fcf6dc778bf8abf667beb1c53b4a7"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:89820901b5ae3307305d5e828e12f7203b443411",
+      "metadata": {
+        "authored_at": "2025-06-27T03:07:46Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "81add96b271fcf6dc778bf8abf667beb1c53b4a7"
+        ],
+        "sha": "89820901b5ae3307305d5e828e12f7203b443411"
+      },
+      "occurred_at": "2025-06-27T03:07:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDg5ODIwOTAxYjVhZTMzMDczMDVkNWU4MjhlMTJmNzIwM2I0NDM0MTE",
+        "number": null,
+        "title": "Fixed typos in env file name, inserted codecov imports",
+        "url": "https://github.com/MuPT-hub/mupt/commit/89820901b5ae3307305d5e828e12f7203b443411"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/89820901b5ae3307305d5e828e12f7203b443411"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:009ec77775e4308ddbf3e53f5bda52d8cef15dc4",
+      "metadata": {
+        "authored_at": "2025-06-27T03:13:46Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "89820901b5ae3307305d5e828e12f7203b443411"
+        ],
+        "sha": "009ec77775e4308ddbf3e53f5bda52d8cef15dc4"
+      },
+      "occurred_at": "2025-06-27T03:13:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDAwOWVjNzc3NzVlNDMwOGRkYmYzZTUzZjViZGE1MmQ4Y2VmMTVkYzQ",
+        "number": null,
+        "title": "Fiddled with mamba setup flags to try to get shell setup working",
+        "url": "https://github.com/MuPT-hub/mupt/commit/009ec77775e4308ddbf3e53f5bda52d8cef15dc4"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/009ec77775e4308ddbf3e53f5bda52d8cef15dc4"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:f4fd969263beca5875367215cc7db54149d33a1b",
+      "metadata": {
+        "authored_at": "2025-06-27T03:16:13Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "009ec77775e4308ddbf3e53f5bda52d8cef15dc4"
+        ],
+        "sha": "f4fd969263beca5875367215cc7db54149d33a1b"
+      },
+      "occurred_at": "2025-06-27T03:16:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKGY0ZmQ5NjkyNjNiZWNhNTg3NTM2NzIxNWNjN2RiNTQxNDlkMzNhMWI",
+        "number": null,
+        "title": "Fixed prior (idiotic) env file typo from .yaml -> .yml",
+        "url": "https://github.com/MuPT-hub/mupt/commit/f4fd969263beca5875367215cc7db54149d33a1b"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/f4fd969263beca5875367215cc7db54149d33a1b"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDONHLdRA:73424d18324157e10b9bb7107d8e1a3632c79ac4",
+      "metadata": {
+        "authored_at": "2025-06-27T03:20:39Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "email": "tibe3324@colorado.edu",
+          "name": "Timotej Bernat"
+        },
+        "parent_shas": [
+          "85c6d82611875fd621e350174ae6db5c51d3ecf6",
+          "f4fd969263beca5875367215cc7db54149d33a1b"
+        ],
+        "sha": "73424d18324157e10b9bb7107d8e1a3632c79ac4"
+      },
+      "occurred_at": "2025-06-27T03:20:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "commit",
+        "node_id": "C_kwDONHLdRNoAKDczNDI0ZDE4MzI0MTU3ZTEwYjliYjcxMDdkOGUxYTM2MzJjNzlhYzQ",
+        "number": null,
+        "title": "Merge branch 'main' into connections",
+        "url": "https://github.com/MuPT-hub/mupt/commit/73424d18324157e10b9bb7107d8e1a3632c79ac4"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt/commit/73424d18324157e10b9bb7107d8e1a3632c79ac4"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "human",
+      "database_id": 52677403,
+      "display_name": "Timotej Bernat",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjUyNjc3NDAz",
+      "key": "MDQ6VXNlcjUyNjc3NDAz",
+      "login": "timbernat",
+      "url": "https://github.com/timbernat"
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-17T22:55:42.044573Z",
+    "collection_started_at": "2026-10-17T22:55:12.982945Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "1aeddd2cb59abf33533c22c369f9e4028e8866f3",
+    "month": "2025-06",
+    "month_end": "2025-07-01T00:00:00Z",
+    "month_start": "2025-06-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "MuPT-hub/mupt",
+    "repository_node_id": "R_kgDONHLdRA",
+    "repository_url": "https://github.com/MuPT-hub/mupt"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDQ6VXNlcjUyNjc3NDAz": {
+        "commit": 17,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      }
+    },
+    "distinct_actors": {
+      "bot": 0,
+      "human": 1,
+      "total": 1,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 17,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}
