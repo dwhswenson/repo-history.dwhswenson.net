@@ -14,9 +14,9 @@ does not create its GitHub remote, provision resources, or publish content.
 
 Use credentials supplied outside source control:
 
-- `CLOUDFLARE_API_TOKEN`: an administrative Cloudflare account token that can
-  manage Pages projects and account API tokens, including permission-group
-  lookup. Cloudflare DNS permissions are not required: DNS is in Route53.
+- `CLOUDFLARE_API_TOKEN`: the administrative Cloudflare token described below,
+  used by the OpenTofu Cloudflare provider on the infrastructure-management
+  machine.
 - `TF_VAR_cloudflare_account_id`: the Cloudflare account ID.
 - `GITHUB_TOKEN`: a GitHub token with access to the destination repository
   and permission to manage Actions secrets and variables.
@@ -24,6 +24,41 @@ Use credentials supplied outside source control:
   `AWS_PROFILE`, with permission to discover the public hosted zone and
   manage its `repo-history.dwhswenson.net` record. Record updates also require
   Route53 change-status lookup permission.
+
+### Administrative Cloudflare token
+
+Create a custom account-owned token under **Manage account > Account API
+tokens** for the account identified by `TF_VAR_cloudflare_account_id`. The
+person creating it needs API Token Provisioning capabilities or Super
+Administrator status; see Cloudflare's
+[account API token setup](https://developers.cloudflare.com/fundamentals/api/get-started/account-owned-tokens/).
+
+Grant exactly these two account-level permissions, restricted to that account:
+
+| API permission | Dashboard permission/access | Why OpenTofu needs it |
+| --- | --- | --- |
+| [`Pages Write`](https://developers.cloudflare.com/api/resources/pages/subresources/projects/subresources/domains/methods/create/) | Cloudflare Pages / Edit | Create, read, update, and delete the Pages project and its custom-domain association. |
+| [`Account API Tokens Write`](https://developers.cloudflare.com/api/resources/accounts/subresources/tokens/methods/create/) | Account API Tokens / Edit | Create and manage the separate Pages deployment token. |
+
+The dashboard may label write access as **Edit**. `Account API Tokens Write`
+also authorizes the module's
+[permission-group lookup](https://developers.cloudflare.com/api/resources/accounts/subresources/tokens/subresources/permission_groups/methods/list/)
+and [token reads](https://developers.cloudflare.com/api/resources/accounts/subresources/tokens/methods/get/),
+so a separate `Account API Tokens Read` grant is unnecessary. No zone or user
+permissions are required. DNS permissions belong to the AWS credentials
+because DNS is managed in Route53.
+
+Export this administrative token as `CLOUDFLARE_API_TOKEN` **only on the machine
+managing the Terraform/OpenTofu state and infrastructure**, for operations
+such as `plan`, `apply`, `refresh`, and `destroy`. It authenticates provider
+API calls; the local state backend itself needs no Cloudflare credentials.
+Provide it for each infrastructure-management session; it does not need to
+remain set between sessions. Local site preview, history collection, and
+GitHub Actions publishing do not need this administrative token. Do not copy
+it into GitHub: OpenTofu creates and installs a separate deployment token as
+described below.
+
+### Configure the infrastructure session
 
 For example, select an already configured AWS profile and export your account
 ID; obtain and export tokens through your usual credential tooling:
@@ -91,15 +126,26 @@ Domain and TLS activation may take time after DNS propagates.
 
 The module installs these GitHub Actions settings:
 
-| Kind | Name |
-| --- | --- |
-| Secret | `CLOUDFLARE_ACCOUNT_ID` |
-| Secret | `CLOUDFLARE_API_TOKEN` |
-| Variable | `CLOUDFLARE_PROJECT_NAME` |
-| Variable | `MAIN_REPO` |
+| Kind | Name | Value |
+| --- | --- | --- |
+| Secret | `CLOUDFLARE_ACCOUNT_ID` | The configured Cloudflare account ID. |
+| Secret | `CLOUDFLARE_API_TOKEN` | The generated Pages deployment token. |
+| Variable | `CLOUDFLARE_PROJECT_NAME` | `repo-history` |
+| Variable | `MAIN_REPO` | `dwhswenson/repo-history.dwhswenson.net` |
 
-The generated Pages token is separate from your administrative token. The
-workflows receive the generated deployment token, not AWS credentials.
+Using the administrative token from your local environment,
+`module.cloudflare_pages` creates the account-owned token
+`repo-history-pages-deploy` with only `Pages Write` permission for the
+configured Cloudflare account. `module.github_vars` stores that generated
+token's value in the GitHub Actions secret `CLOUDFLARE_API_TOKEN`. The local
+environment variable and the GitHub secret have the same name but contain
+different token values.
+
+GitHub Actions uses the generated token to upload the site to Pages, deploy
+PR previews, and clean up preview deployments. It has no account-token
+management permission. Publishing therefore requires neither the local
+administrative token nor access to the local Terraform state or AWS
+credentials.
 
 State is stored locally in `terraform.tfstate`, which contains the deployment
 token. State, backups, saved plans, and variable files are ignored by Git.
