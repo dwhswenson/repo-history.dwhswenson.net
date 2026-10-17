@@ -26,23 +26,16 @@ def page(repository: str) -> str:
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{name} · Repository history</title>
     <style>
-      :root {{ color-scheme: light dark; font-family: system-ui, sans-serif; }}
-      body {{ max-width: 72rem; margin: 2rem auto; padding: 0 1.5rem; line-height: 1.6; }}
+      body {{ margin: 0; background: #f4f6fa; }}
     </style>
     <script type="module" src="/assets/repo-history-viz.mjs"></script>
   </head>
   <body>
-    <main>
-      <nav><a href="/">Repository history</a></nav>
-      <h1>{name}</h1>
-      <p><a href="https://github.com/{name}">View repository on GitHub</a></p>
-      <repo-history-viz
-        manifest="./manifest.json"
-        measures="commits github-activities total-contributors"
-        hide-loader
-      ></repo-history-viz>
-      <noscript>Enable JavaScript to view the repository history charts.</noscript>
-    </main>
+    <repo-history-viz
+      manifest="./manifest.json"
+      measures="commits github-activities total-contributors"
+      hide-loader
+    ></repo-history-viz>
   </body>
 </html>
 """
