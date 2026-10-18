@@ -7,6 +7,7 @@ import sys
 from html import escape
 from pathlib import Path
 
+from refresh_index import refresh_index
 from social_cards import social_metadata, write_social_card
 
 SITE = Path(__file__).resolve().parents[1] / "site"
@@ -70,9 +71,10 @@ def main(argv=None) -> int:
         write_social_card(args.repository, directory)
         index = directory / "index.html"
         index.write_text(page(args.repository), encoding="utf-8")
+        refresh_index(SITE)
     except subprocess.CalledProcessError as error:
         return error.returncode
-    except OSError as error:
+    except (OSError, ValueError, KeyError) as error:
         print(f"add-repo: {error}", file=sys.stderr)
         return 1
     print(f"Created {index}")

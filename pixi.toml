@@ -19,6 +19,7 @@ repo-history = { path = "/Users/dwhs/Dropbox/omsf/mupt/repo-history-tracking", e
 
 [feature.collection.tasks]
 add-repo = "python scripts/add_repo.py"
+refresh-index = "python scripts/refresh_index.py"
 refresh-social-cards = "python scripts/social_cards.py"
 
 [feature.visualization.dependencies]

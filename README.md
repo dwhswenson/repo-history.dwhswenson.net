@@ -2,7 +2,7 @@
 
 Plain HTML and shared visualization assets for <https://repo-history.dwhswenson.net>.
 Cloudflare Pages hosts the site; AWS Route53 hosts DNS for `dwhswenson.net`.
-This repository contains a placeholder homepage, a command for adding repository
+This repository contains a project homepage, a command for adding repository
 reports, and the deployment scaffold. Scheduled collection will be added later.
 
 ## Local development
@@ -85,8 +85,10 @@ site/owner/repo/
   social-card.png
 ```
 
-The page is served at `/<owner>/<repo>/`. Preview it with `pixi run demo` and
-commit the resulting directory to publish it through the existing workflows.
+The page is served at `/<owner>/<repo>/`. The task also refreshes the homepage's
+repository links. Preview it with `pixi run demo` and commit the resulting
+directory together with the updated `site/index.html` to publish them through
+the existing workflows.
 Monthly reports are hosted along with the manifest and HTML.
 
 Rerunning the task backfills again, rebuilds the manifest, and replaces the
@@ -112,6 +114,23 @@ pixi run repo-history summarize \
 ```
 
 There is one hosted visualizer bundle shared by all repository pages.
+
+### Refresh homepage links
+
+```sh
+pixi run refresh-index
+```
+
+This scans `site/<owner>/<repo>/manifest.json` files that have a neighboring
+`index.html`, sorts their repository names alphabetically, and regenerates
+the links between the `BEGIN REPOSITORY LINKS` and `END REPOSITORY LINKS`
+comments in `site/index.html`. Display names come from each manifest; links
+use the actual directory paths. Text outside the marked section is preserved.
+
+`add-repo` runs this automatically after creating the repository page. Run
+it manually after deleting a repository directory or changing a manifest's
+display name. The generated links are ordinary HTML and require no browser
+JavaScript or separate repository registry.
 
 ### Social previews
 
