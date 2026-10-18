@@ -1,0 +1,89 @@
+{
+  "checkpoint": {
+    "baseline_run": {
+      "collection_since": null,
+      "collection_until": null,
+      "collector_version": "0.1.0",
+      "command": "backfill",
+      "commit_history": "full",
+      "finished_at": "2026-10-18T15:20:43.593968Z",
+      "mode": "rebuild",
+      "parent_discovery": "full",
+      "requested_end_month": "2026-10",
+      "requested_start_month": null,
+      "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
+      "started_at": "2026-10-18T15:20:38.322324Z"
+    },
+    "commits": {
+      "checked_through": "2026-10-18T15:20:38.322324Z",
+      "default_branch": "main",
+      "default_branch_head": "6900b9afbbca8d00914ec9e55402f8be2199cfe6"
+    },
+    "issues": {
+      "checked_through": "2026-10-18T15:20:38.322324Z",
+      "last_full_scan_at": "2026-10-18T15:20:38.322324Z"
+    },
+    "pull_requests": {
+      "checked_through": "2026-10-18T15:20:38.322324Z",
+      "last_full_scan_at": "2026-10-18T15:20:38.322324Z"
+    },
+    "report_end_month": "2026-10",
+    "report_start_month": "2025-05"
+  },
+  "last_applied_run": {
+    "collection_since": null,
+    "collection_until": null,
+    "collector_version": "0.1.0",
+    "command": "backfill",
+    "commit_history": "full",
+    "finished_at": "2026-10-18T15:20:43.593968Z",
+    "mode": "rebuild",
+    "parent_discovery": "full",
+    "requested_end_month": "2026-10",
+    "requested_start_month": null,
+    "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
+    "started_at": "2026-10-18T15:20:38.322324Z"
+  },
+  "reports": {
+    "2025-05": "c3ae6b0deb174c9a113a6a10ae3e253ab429f4ca4f35f31469cbde045015938b",
+    "2025-06": "725b6200a0dc2b67338f7854b10ab2949cafe68da0b4cc41f534ea45dd7e1d59",
+    "2025-07": "077eef1cdd295579d212e92873e6f891afe0a52f710f6c7486e25193ed03c280",
+    "2025-08": "b2bd3a22c4a40e318933fe161a3c456c585e1f9cdc5180fe84131b27738fdeee",
+    "2025-09": "58c240480c475f5e243eeebed954a58a902c24b596056429496d1042163c0e14",
+    "2025-10": "bdc03fc757441eb3de43f56fa7c885461d5253ea66befc71b8c41e9c3d4a7b35",
+    "2025-11": "c1734a05cc67b143a4a068e265da442830000ce65add682ad32f3a8d09a4db24",
+    "2025-12": "4c48586e655a02b2bfa566d197f7bc79c1edfecdf9ceaad8be8342d9615247df",
+    "2026-01": "9d925649607bf4a0aff02836001abc8f5fa976124326284fa0779f93d9e8ef75",
+    "2026-02": "77751d8c4cb28313499e11e12a279dc32bda49bcc029ef9c8e2d51b942f25759",
+    "2026-03": "9ecb4493ab9278dc4e81314eb42ad28ed254657f0d2fad3a2bf5e4eb0bd5918a",
+    "2026-04": "4c1a1b3e14a2c7ebac8dd7e982c0e039f7c6d433f82e5c5cb127ef7831f30130",
+    "2026-05": "9ba320eb81cee2e89c81159003c0b7924e16ffc7229214a1ee0014092b14a503",
+    "2026-06": "8febef96c6c5c45c4788cbfb02d1f1da0cc76b6ce5aa2a5d462b1cbde37f9ad4",
+    "2026-07": "d69dc8f5dabdbb9b39c65847990276171604bb452b1208e2c26e7ab684f9ef33",
+    "2026-08": "3b9fa3ede68d937608821de00a23ecec38177367c4c34a55353e8a33b90e3704",
+    "2026-09": "99293bd93d14c75a09b539b1cf4792449f3d7ba2a42cf9d39f7c9a0a7c2a0e23",
+    "2026-10": "c3b533e995200c1d6f0c558d331345c54db912d0a2c618b10d8254babc480221"
+  },
+  "repository": {
+    "created_at": "2025-05-29T21:15:41Z",
+    "full_name": "MuPT-hub/mupt-examples",
+    "history_start_established_by": {
+      "collection_since": null,
+      "collection_until": null,
+      "collector_version": "0.1.0",
+      "command": "backfill",
+      "commit_history": "full",
+      "finished_at": "2026-10-18T15:20:43.593968Z",
+      "mode": "rebuild",
+      "parent_discovery": "full",
+      "requested_end_month": "2026-10",
+      "requested_start_month": null,
+      "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
+      "started_at": "2026-10-18T15:20:38.322324Z"
+    },
+    "history_start_month": "2025-05",
+    "node_id": "R_kgDOOy4bSw",
+    "url": "https://github.com/MuPT-hub/mupt-examples"
+  },
+  "schema_version": "1"
+}

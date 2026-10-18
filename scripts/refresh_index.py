@@ -25,7 +25,11 @@ def refresh_index(site: Path = SITE) -> Path:
         if not (manifest.parent / "index.html").is_file():
             continue
         data = json.loads(manifest.read_text(encoding="utf-8"))
-        name = data["repository"]["full_name"]
+        name = (
+            data["display_name"]
+            if "display_name" in data
+            else data["repository"]["full_name"]
+        )
         path = manifest.parent.relative_to(site).as_posix()
         repositories.append((name, f"./{quote(path, safe='/')}/"))
     repositories.sort(key=lambda item: (item[0].casefold(), item[1]))

@@ -185,27 +185,88 @@
     }
   ],
   "metadata": {
-    "collection_finished_at": "2026-10-18T02:16:48.930783Z",
-    "collection_started_at": "2026-10-18T02:16:43.906413Z",
-    "commit_history": "full",
-    "coverage_limitations": [
-      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
-      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
-      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
-      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
-      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
-      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
-    ],
+    "coverage": {
+      "as_of": "2026-10-18T15:20:38.322324Z",
+      "limitations": [
+        "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+        "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+        "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+        "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+        "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+        "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+      ]
+    },
     "default_branch": "main",
     "default_branch_head": "6900b9afbbca8d00914ec9e55402f8be2199cfe6",
     "month": "2026-09",
     "month_end": "2026-10-01T00:00:00Z",
     "month_start": "2026-09-01T00:00:00Z",
     "ongoing": false,
-    "parent_discovery": "full",
-    "repository_full_name": "MuPT-hub/mupt-examples",
-    "repository_node_id": "R_kgDOOy4bSw",
-    "repository_url": "https://github.com/MuPT-hub/mupt-examples"
+    "provenance": {
+      "created_by": {
+        "collection_since": null,
+        "collection_until": null,
+        "collector_version": "0.1.0",
+        "command": "backfill",
+        "commit_history": "full",
+        "finished_at": "2026-10-18T15:20:43.593968Z",
+        "mode": "rebuild",
+        "parent_discovery": "full",
+        "requested_end_month": "2026-10",
+        "requested_start_month": null,
+        "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
+        "started_at": "2026-10-18T15:20:38.322324Z"
+      },
+      "last_rebuilt_by": {
+        "collection_since": null,
+        "collection_until": null,
+        "collector_version": "0.1.0",
+        "command": "backfill",
+        "commit_history": "full",
+        "finished_at": "2026-10-18T15:20:43.593968Z",
+        "mode": "rebuild",
+        "parent_discovery": "full",
+        "requested_end_month": "2026-10",
+        "requested_start_month": null,
+        "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
+        "started_at": "2026-10-18T15:20:38.322324Z"
+      },
+      "last_updated_by": {
+        "collection_since": null,
+        "collection_until": null,
+        "collector_version": "0.1.0",
+        "command": "backfill",
+        "commit_history": "full",
+        "finished_at": "2026-10-18T15:20:43.593968Z",
+        "mode": "rebuild",
+        "parent_discovery": "full",
+        "requested_end_month": "2026-10",
+        "requested_start_month": null,
+        "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
+        "started_at": "2026-10-18T15:20:38.322324Z"
+      }
+    },
+    "repository": {
+      "created_at": "2025-05-29T21:15:41Z",
+      "full_name": "MuPT-hub/mupt-examples",
+      "history_start_established_by": {
+        "collection_since": null,
+        "collection_until": null,
+        "collector_version": "0.1.0",
+        "command": "backfill",
+        "commit_history": "full",
+        "finished_at": "2026-10-18T15:20:43.593968Z",
+        "mode": "rebuild",
+        "parent_discovery": "full",
+        "requested_end_month": "2026-10",
+        "requested_start_month": null,
+        "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
+        "started_at": "2026-10-18T15:20:38.322324Z"
+      },
+      "history_start_month": "2025-05",
+      "node_id": "R_kgDOOy4bSw",
+      "url": "https://github.com/MuPT-hub/mupt-examples"
+    }
   },
   "schema_version": "1",
   "summaries": {

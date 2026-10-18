@@ -1555,27 +1555,88 @@
     }
   ],
   "metadata": {
-    "collection_finished_at": "2026-10-17T23:01:40.762739Z",
-    "collection_started_at": "2026-10-17T22:59:55.355454Z",
-    "commit_history": "full",
-    "coverage_limitations": [
-      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
-      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
-      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
-      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
-      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
-      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
-    ],
+    "coverage": {
+      "as_of": "2026-10-18T06:13:38.132558Z",
+      "limitations": [
+        "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+        "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+        "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+        "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+        "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+        "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+      ]
+    },
     "default_branch": "main",
     "default_branch_head": "a9aeae4f86f1b3a34ef0732277777bc3a45d9035",
     "month": "2024-04",
     "month_end": "2024-05-01T00:00:00Z",
     "month_start": "2024-04-01T00:00:00Z",
     "ongoing": false,
-    "parent_discovery": "full",
-    "repository_full_name": "OpenFreeEnergy/gufe",
-    "repository_node_id": "R_kgDOHD_0tA",
-    "repository_url": "https://github.com/OpenFreeEnergy/gufe"
+    "provenance": {
+      "created_by": {
+        "collection_since": null,
+        "collection_until": null,
+        "collector_version": "0.1.0",
+        "command": "backfill",
+        "commit_history": "full",
+        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "mode": "rebuild",
+        "parent_discovery": "full",
+        "requested_end_month": "2026-10",
+        "requested_start_month": null,
+        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
+        "started_at": "2026-10-18T06:13:38.132558Z"
+      },
+      "last_rebuilt_by": {
+        "collection_since": null,
+        "collection_until": null,
+        "collector_version": "0.1.0",
+        "command": "backfill",
+        "commit_history": "full",
+        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "mode": "rebuild",
+        "parent_discovery": "full",
+        "requested_end_month": "2026-10",
+        "requested_start_month": null,
+        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
+        "started_at": "2026-10-18T06:13:38.132558Z"
+      },
+      "last_updated_by": {
+        "collection_since": null,
+        "collection_until": null,
+        "collector_version": "0.1.0",
+        "command": "backfill",
+        "commit_history": "full",
+        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "mode": "rebuild",
+        "parent_discovery": "full",
+        "requested_end_month": "2026-10",
+        "requested_start_month": null,
+        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
+        "started_at": "2026-10-18T06:13:38.132558Z"
+      }
+    },
+    "repository": {
+      "created_at": "2022-03-25T09:52:08Z",
+      "full_name": "OpenFreeEnergy/gufe",
+      "history_start_established_by": {
+        "collection_since": null,
+        "collection_until": null,
+        "collector_version": "0.1.0",
+        "command": "backfill",
+        "commit_history": "full",
+        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "mode": "rebuild",
+        "parent_discovery": "full",
+        "requested_end_month": "2026-10",
+        "requested_start_month": null,
+        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
+        "started_at": "2026-10-18T06:13:38.132558Z"
+      },
+      "history_start_month": "2022-03",
+      "node_id": "R_kgDOHD_0tA",
+      "url": "https://github.com/OpenFreeEnergy/gufe"
+    }
   },
   "schema_version": "1",
   "summaries": {
