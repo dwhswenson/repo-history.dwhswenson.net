@@ -1,0 +1,772 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOOy4bS87694d4",
+      "metadata": {
+        "source_node_id": "IC_kwDOOy4bS87694d4"
+      },
+      "occurred_at": "2026-04-09T00:07:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "issue",
+        "node_id": "I_kwDOOy4bS8741Jnc",
+        "number": 21,
+        "title": "proposal: Evaluate marimo as Jupyter notebook replacement for tutorials",
+        "url": "https://github.com/MuPT-hub/mupt-examples/issues/21"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/MuPT-hub/mupt-examples/issues/21#issuecomment-4210526072"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:659602412dc43e8377e236c285b792530b7247c5",
+      "metadata": {
+        "authored_at": "2026-04-30T20:59:41Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "3f79b39030ec424444c4a7210736da3a0b682e81"
+        ],
+        "sha": "659602412dc43e8377e236c285b792530b7247c5"
+      },
+      "occurred_at": "2026-04-30T20:59:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKDY1OTYwMjQxMmRjNDNlODM3N2UyMzZjMjg1Yjc5MjUzMGI3MjQ3YzU",
+        "number": null,
+        "title": "chore: ignore role-aware tutorial outputs",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/659602412dc43e8377e236c285b792530b7247c5"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/659602412dc43e8377e236c285b792530b7247c5"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:bf5c7fb163a81fdcf002be795f72c9ba9899e4db",
+      "metadata": {
+        "authored_at": "2026-04-30T21:01:50Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "659602412dc43e8377e236c285b792530b7247c5"
+        ],
+        "sha": "bf5c7fb163a81fdcf002be795f72c9ba9899e4db"
+      },
+      "occurred_at": "2026-04-30T21:01:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKGJmNWM3ZmIxNjNhODFmZGNmMDAyYmU3OTVmNzJjOWJhOTg5OWU0ZGI",
+        "number": null,
+        "title": "docs(examples): add role-aware SAAMR quickstart",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/bf5c7fb163a81fdcf002be795f72c9ba9899e4db"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/bf5c7fb163a81fdcf002be795f72c9ba9899e4db"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:a3366d0255af82f185cbe0a075b6da365ed7a15e",
+      "metadata": {
+        "authored_at": "2026-04-30T21:02:22Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "bf5c7fb163a81fdcf002be795f72c9ba9899e4db"
+        ],
+        "sha": "a3366d0255af82f185cbe0a075b6da365ed7a15e"
+      },
+      "occurred_at": "2026-04-30T21:02:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKGEzMzY2ZDAyNTVhZjgyZjE4NWNiZTBhMDc1YjZkYTM2NWVkN2ExNWU",
+        "number": null,
+        "title": "docs(examples): add OpenFF OpenMM SAAMR workflow",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/a3366d0255af82f185cbe0a075b6da365ed7a15e"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/a3366d0255af82f185cbe0a075b6da365ed7a15e"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:f701579c192d95ea74a0f9adcbcfe85c22f17d69",
+      "metadata": {
+        "authored_at": "2026-04-30T21:02:32Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "a3366d0255af82f185cbe0a075b6da365ed7a15e"
+        ],
+        "sha": "f701579c192d95ea74a0f9adcbcfe85c22f17d69"
+      },
+      "occurred_at": "2026-04-30T21:02:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKGY3MDE1NzljMTkyZDk1ZWE3NGEwZjlhZGNiY2ZlODVjMjJmMTdkNjk",
+        "number": null,
+        "title": "docs: index role-aware SAAMR tutorials",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/f701579c192d95ea74a0f9adcbcfe85c22f17d69"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/f701579c192d95ea74a0f9adcbcfe85c22f17d69"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:c32983ea897a765bd39f3290cd53f7fbc3ef8dde",
+      "metadata": {
+        "authored_at": "2026-04-30T21:09:28Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "f701579c192d95ea74a0f9adcbcfe85c22f17d69"
+        ],
+        "sha": "c32983ea897a765bd39f3290cd53f7fbc3ef8dde"
+      },
+      "occurred_at": "2026-04-30T21:09:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKGMzMjk4M2VhODk3YTc2NWJkMzlmMzI5MGNkNTNmN2ZiYzNlZjhkZGU",
+        "number": null,
+        "title": "docs(examples): run GNN-charged OpenMM workflow",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/c32983ea897a765bd39f3290cd53f7fbc3ef8dde"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/c32983ea897a765bd39f3290cd53f7fbc3ef8dde"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:c945a7792ab71aa2bb9b2782cc21782586d5f3b6",
+      "metadata": {
+        "authored_at": "2026-04-30T21:11:25Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "c32983ea897a765bd39f3290cd53f7fbc3ef8dde"
+        ],
+        "sha": "c945a7792ab71aa2bb9b2782cc21782586d5f3b6"
+      },
+      "occurred_at": "2026-04-30T21:11:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKGM5NDVhNzc5MmFiNzFhYTJiYjliMjc4MmNjMjE3ODI1ODZkNWYzYjY",
+        "number": null,
+        "title": "docs(examples): register NAGL for GNN charges",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/c945a7792ab71aa2bb9b2782cc21782586d5f3b6"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/c945a7792ab71aa2bb9b2782cc21782586d5f3b6"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:9bfb5278062935a865724e6764082a8e1562b443",
+      "metadata": {
+        "authored_at": "2026-04-30T21:13:01Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "c945a7792ab71aa2bb9b2782cc21782586d5f3b6"
+        ],
+        "sha": "9bfb5278062935a865724e6764082a8e1562b443"
+      },
+      "occurred_at": "2026-04-30T21:13:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKDliZmI1Mjc4MDYyOTM1YTg2NTcyNGU2NzY0MDgyYThlMTU2MmI0NDM",
+        "number": null,
+        "title": "docs(examples): skip GNN charges without NAGL backend",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/9bfb5278062935a865724e6764082a8e1562b443"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/9bfb5278062935a865724e6764082a8e1562b443"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:38e3ee31dde23a0a50bfc7f4d8dc05123fa88eba",
+      "metadata": {
+        "authored_at": "2026-04-30T21:21:48Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "9bfb5278062935a865724e6764082a8e1562b443"
+        ],
+        "sha": "38e3ee31dde23a0a50bfc7f4d8dc05123fa88eba"
+      },
+      "occurred_at": "2026-04-30T21:21:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKDM4ZTNlZTMxZGRlMjNhMGE1MGJmYzdmNGQ4ZGMwNTEyM2ZhODhlYmE",
+        "number": null,
+        "title": "chore(env): include OpenFF NAGL charge backend",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/38e3ee31dde23a0a50bfc7f4d8dc05123fa88eba"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/38e3ee31dde23a0a50bfc7f4d8dc05123fa88eba"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:36f887d627b81ee23f158764c782e3ace25973b9",
+      "metadata": {
+        "authored_at": "2026-04-30T21:25:32Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "38e3ee31dde23a0a50bfc7f4d8dc05123fa88eba"
+        ],
+        "sha": "36f887d627b81ee23f158764c782e3ace25973b9"
+      },
+      "occurred_at": "2026-04-30T21:25:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKDM2Zjg4N2Q2MjdiODFlZTIzZjE1ODc2NGM3ODJlM2FjZTI1OTczYjk",
+        "number": null,
+        "title": "docs(examples): place SAAMR tutorial coordinates",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/36f887d627b81ee23f158764c782e3ace25973b9"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/36f887d627b81ee23f158764c782e3ace25973b9"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:bc033ed512220f4fe6ce3a27a6e2f091313c1d06",
+      "metadata": {
+        "authored_at": "2026-04-30T21:31:24Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "36f887d627b81ee23f158764c782e3ace25973b9"
+        ],
+        "sha": "bc033ed512220f4fe6ce3a27a6e2f091313c1d06"
+      },
+      "occurred_at": "2026-04-30T21:31:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKGJjMDMzZWQ1MTIyMjBmNGZlNmNlM2EyN2E2ZTJmMDkxMzEzYzFkMDY",
+        "number": null,
+        "title": "docs(examples): add OpenMM ensemble switch",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/bc033ed512220f4fe6ce3a27a6e2f091313c1d06"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/bc033ed512220f4fe6ce3a27a6e2f091313c1d06"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:57275ecc94dcd59b28acf93187267f51d2de679d",
+      "metadata": {
+        "authored_at": "2026-04-30T21:48:17Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "bc033ed512220f4fe6ce3a27a6e2f091313c1d06"
+        ],
+        "sha": "57275ecc94dcd59b28acf93187267f51d2de679d"
+      },
+      "occurred_at": "2026-04-30T21:48:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKDU3Mjc1ZWNjOTRkY2Q1OWIyOGFjZjkzMTg3MjY3ZjUxZDJkZTY3OWQ",
+        "number": null,
+        "title": "docs(examples): preserve OpenFF PDB residue metadata",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/57275ecc94dcd59b28acf93187267f51d2de679d"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/57275ecc94dcd59b28acf93187267f51d2de679d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:594c6a08e71cd2fb022a59f409673847bea50578",
+      "metadata": {
+        "authored_at": "2026-04-30T22:39:33Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "57275ecc94dcd59b28acf93187267f51d2de679d"
+        ],
+        "sha": "594c6a08e71cd2fb022a59f409673847bea50578"
+      },
+      "occurred_at": "2026-04-30T22:39:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKDU5NGM2YTA4ZTcxY2QyZmIwMjJhNTlmNDA5NjczODQ3YmVhNTA1Nzg",
+        "number": null,
+        "title": "docs(examples): use fast MuPT SDF reconstruction",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/594c6a08e71cd2fb022a59f409673847bea50578"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/594c6a08e71cd2fb022a59f409673847bea50578"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:f1d62ab3388e12afec4eafa3ddc5759e88eb8afe",
+      "metadata": {
+        "authored_at": "2026-04-30T22:49:25Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "594c6a08e71cd2fb022a59f409673847bea50578"
+        ],
+        "sha": "f1d62ab3388e12afec4eafa3ddc5759e88eb8afe"
+      },
+      "occurred_at": "2026-04-30T22:49:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKGYxZDYyYWIzMzg4ZTEyYWZlYzRlYWZhM2RkYzU3NTllODhlYjhhZmU",
+        "number": null,
+        "title": "docs(examples): pack OpenFF systems with Packmol",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/f1d62ab3388e12afec4eafa3ddc5759e88eb8afe"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/f1d62ab3388e12afec4eafa3ddc5759e88eb8afe"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:129bfc991a540fcce4a31a27a283d98742547c7c",
+      "metadata": {
+        "authored_at": "2026-04-30T22:49:31Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "f1d62ab3388e12afec4eafa3ddc5759e88eb8afe"
+        ],
+        "sha": "129bfc991a540fcce4a31a27a283d98742547c7c"
+      },
+      "occurred_at": "2026-04-30T22:49:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKDEyOWJmYzk5MWE1NDBmY2NlNGEzMWEyN2EyODNkOTg3NDI1NDdjN2M",
+        "number": null,
+        "title": "chore(env): add OpenFF Packmol dependencies",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/129bfc991a540fcce4a31a27a283d98742547c7c"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/129bfc991a540fcce4a31a27a283d98742547c7c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:4a3c9fb0ddc26d8dbfe3882dd65bccc345adfab0",
+      "metadata": {
+        "authored_at": "2026-04-30T23:15:22Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "129bfc991a540fcce4a31a27a283d98742547c7c"
+        ],
+        "sha": "4a3c9fb0ddc26d8dbfe3882dd65bccc345adfab0"
+      },
+      "occurred_at": "2026-04-30T23:15:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKDRhM2M5ZmIwZGRjMjZkOGRiZmUzODgyZGQ2NWJjY2MzNDVhZGZhYjA",
+        "number": null,
+        "title": "docs(examples): tolerate Packmol polymer packing failures",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/4a3c9fb0ddc26d8dbfe3882dd65bccc345adfab0"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/4a3c9fb0ddc26d8dbfe3882dd65bccc345adfab0"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:7f881978058a7692259ca73bb37b20e49a46eb6c",
+      "metadata": {
+        "authored_at": "2026-04-30T23:26:43Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "4a3c9fb0ddc26d8dbfe3882dd65bccc345adfab0"
+        ],
+        "sha": "7f881978058a7692259ca73bb37b20e49a46eb6c"
+      },
+      "occurred_at": "2026-04-30T23:26:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKDdmODgxOTc4MDU4YTc2OTIyNTljYTczYmIzN2IyMGU0OWE0NmViNmM",
+        "number": null,
+        "title": "docs(examples): scale random-walk overlap checks",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/7f881978058a7692259ca73bb37b20e49a46eb6c"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/7f881978058a7692259ca73bb37b20e49a46eb6c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:919eebcf3a4252c1bbbdc4860631940727ec26ee",
+      "metadata": {
+        "authored_at": "2026-04-30T23:26:50Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "7f881978058a7692259ca73bb37b20e49a46eb6c"
+        ],
+        "sha": "919eebcf3a4252c1bbbdc4860631940727ec26ee"
+      },
+      "occurred_at": "2026-04-30T23:26:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKDkxOWVlYmNmM2E0MjUyYzFiYmJkYzQ4NjA2MzE5NDA3MjdlYzI2ZWU",
+        "number": null,
+        "title": "docs(examples): collapse polymers in vacuum before NPT",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/919eebcf3a4252c1bbbdc4860631940727ec26ee"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/919eebcf3a4252c1bbbdc4860631940727ec26ee"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:R_kgDOOy4bSw:dbc0770c2e301c8ae29c7cc8ca0de67823dcdc8e",
+      "metadata": {
+        "authored_at": "2026-04-30T23:26:55Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "email": "joelaforetjr@yahoo.com",
+          "name": "joelaforet"
+        },
+        "parent_shas": [
+          "919eebcf3a4252c1bbbdc4860631940727ec26ee"
+        ],
+        "sha": "dbc0770c2e301c8ae29c7cc8ca0de67823dcdc8e"
+      },
+      "occurred_at": "2026-04-30T23:26:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "commit",
+        "node_id": "C_kwDOOy4bS9oAKGRiYzA3NzBjMmUzMDFjOGFlMjljN2NjOGNhMGRlNjc4MjNkY2RjOGU",
+        "number": null,
+        "title": "chore(env): drop Packmol tutorial dependency",
+        "url": "https://github.com/MuPT-hub/mupt-examples/commit/dbc0770c2e301c8ae29c7cc8ca0de67823dcdc8e"
+      },
+      "type": "commit",
+      "url": "https://github.com/MuPT-hub/mupt-examples/commit/dbc0770c2e301c8ae29c7cc8ca0de67823dcdc8e"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "human",
+      "database_id": 52677403,
+      "display_name": "Timotej Bernat",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjUyNjc3NDAz",
+      "key": "MDQ6VXNlcjUyNjc3NDAz",
+      "login": "timbernat",
+      "url": "https://github.com/timbernat"
+    },
+    {
+      "classification": "human",
+      "database_id": 76799675,
+      "display_name": "Joe Laforet Jr.",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjc2Nzk5Njc1",
+      "key": "MDQ6VXNlcjc2Nzk5Njc1",
+      "login": "joelaforet",
+      "url": "https://github.com/joelaforet"
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-18T02:16:48.930783Z",
+    "collection_started_at": "2026-10-18T02:16:43.906413Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "6900b9afbbca8d00914ec9e55402f8be2199cfe6",
+    "month": "2026-04",
+    "month_end": "2026-05-01T00:00:00Z",
+    "month_start": "2026-04-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "MuPT-hub/mupt-examples",
+    "repository_node_id": "R_kgDOOy4bSw",
+    "repository_url": "https://github.com/MuPT-hub/mupt-examples"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDQ6VXNlcjUyNjc3NDAz": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 1,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjc2Nzk5Njc1": {
+        "commit": 18,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      }
+    },
+    "distinct_actors": {
+      "bot": 0,
+      "human": 2,
+      "total": 2,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 18,
+      "issue_closed": 0,
+      "issue_comment": 1,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}
