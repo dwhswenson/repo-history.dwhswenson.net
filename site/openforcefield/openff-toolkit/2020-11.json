@@ -1,0 +1,5033 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDcyMDYyOTA2Mg==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMDYyOTA2Mg=="
+      },
+      "occurred_at": "2020-11-02T17:54:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjU3NTkwMzY=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3Mjc0OTUzNDg=",
+        "number": 749,
+        "title": "Toolkit-dependent behavior of Molecule.from_qcschema for two QCA records",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/749"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/749#issuecomment-720629062"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:9dbed49d09d139c099edb3093cc2040d7dfcd327",
+      "metadata": {
+        "authored_at": "2020-11-02T19:14:21Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "57d3beda58922e888c68ae32fa509cf6727ead0e",
+          "78b7a33f671df7aed169e14d3201abf9e094e3b7"
+        ],
+        "sha": "9dbed49d09d139c099edb3093cc2040d7dfcd327"
+      },
+      "occurred_at": "2020-11-02T19:14:21Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6OWRiZWQ0OWQwOWQxMzljMDk5ZWRiMzA5M2NjMjA0MGQ3ZGZjZDMyNw==",
+        "number": null,
+        "title": "Merge remote-tracking branch 'upstream/master' into rmin-half-sigma",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/9dbed49d09d139c099edb3093cc2040d7dfcd327"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/9dbed49d09d139c099edb3093cc2040d7dfcd327"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWU3MzQ4MTI1NTM=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWU3MzQ4MTI1NTM="
+      },
+      "occurred_at": "2020-11-02T20:54:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MzQ4MTI1NTM=",
+        "number": 759,
+        "title": "Add optional argument to Molecule.visualize() to suppress hydrogens",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/759"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/759"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:b4d55223cfd85001f2ecb7672ee09c60ac107c47",
+      "metadata": {
+        "authored_at": "2020-11-02T21:36:47Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "9dbed49d09d139c099edb3093cc2040d7dfcd327"
+        ],
+        "sha": "b4d55223cfd85001f2ecb7672ee09c60ac107c47"
+      },
+      "occurred_at": "2020-11-02T21:36:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YjRkNTUyMjNjZmQ4NTAwMWYyZWNiNzY3MmVlMDljNjBhYzEwN2M0Nw==",
+        "number": null,
+        "title": "Pop _extra_nb_var when passing kwargs to VirtualSiteTYpe constructor",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/b4d55223cfd85001f2ecb7672ee09c60ac107c47"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/b4d55223cfd85001f2ecb7672ee09c60ac107c47"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:65e6385ccd66912079f05eb4c3fb345f2d5295a1",
+      "metadata": {
+        "authored_at": "2020-11-02T22:05:46Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "b4d55223cfd85001f2ecb7672ee09c60ac107c47"
+        ],
+        "sha": "65e6385ccd66912079f05eb4c3fb345f2d5295a1"
+      },
+      "occurred_at": "2020-11-02T22:05:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NjVlNjM4NWNjZDY2OTEyMDc5ZjA1ZWI0YzNmYjM0NWYyZDUyOTVhMQ==",
+        "number": null,
+        "title": "Store track which of rmin_half/sigma was not most recently used",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/65e6385ccd66912079f05eb4c3fb345f2d5295a1"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/65e6385ccd66912079f05eb4c3fb345f2d5295a1"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyMDc1NzU3MA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMDc1NzU3MA=="
+      },
+      "occurred_at": "2020-11-02T22:21:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTA5MjA1OTg0",
+        "number": 750,
+        "title": "Fix missing sigma/rmin_half attrs",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/750"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/750#issuecomment-720757570"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyMDc2MDQ2Mw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMDc2MDQ2Mw=="
+      },
+      "occurred_at": "2020-11-02T22:28:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTA5MjA1OTg0",
+        "number": 750,
+        "title": "Fix missing sigma/rmin_half attrs",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/750"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/750#issuecomment-720760463"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:bf60eff688fd8b030c4ab4ad0aa4b0887f67afa5",
+      "metadata": {
+        "authored_at": "2020-11-04T16:51:41Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "a0c7308fa16bf0bbf19a59c9bb74bf4914a7258b",
+          "78b7a33f671df7aed169e14d3201abf9e094e3b7"
+        ],
+        "sha": "bf60eff688fd8b030c4ab4ad0aa4b0887f67afa5"
+      },
+      "occurred_at": "2020-11-04T16:51:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YmY2MGVmZjY4OGZkOGIwMzBjNGFiNGFkMGFhNGIwODg3ZjY3YWZhNQ==",
+        "number": null,
+        "title": "Merge remote-tracking branch 'upstream/master' into ff-getitem2",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/bf60eff688fd8b030c4ab4ad0aa4b0887f67afa5"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/bf60eff688fd8b030c4ab4ad0aa4b0887f67afa5"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDcyMTg0OTUyNQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMTg0OTUyNQ=="
+      },
+      "occurred_at": "2020-11-04T16:53:42Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU2NjMyOTQ5MTg=",
+        "number": 659,
+        "title": "Skip QCSchema-dependent tests if QCElemental is not installed",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/659"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/659#issuecomment-721849525"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:MDExOkNsb3NlZEV2ZW50Mzk1ODU0MTY3NQ==",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "MDExOkNsb3NlZEV2ZW50Mzk1ODU0MTY3NQ=="
+      },
+      "occurred_at": "2020-11-04T16:53:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU2NjMyOTQ5MTg=",
+        "number": 659,
+        "title": "Skip QCSchema-dependent tests if QCElemental is not installed",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/659"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/659#event-3958541675"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:MDExOkNsb3NlZEV2ZW50Mzk1ODU0NTcyMA==",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "MDExOkNsb3NlZEV2ZW50Mzk1ODU0NTcyMA=="
+      },
+      "occurred_at": "2020-11-04T16:54:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MDIyOTMxNTI=",
+        "number": 714,
+        "title": "Add Topology.is_periodic",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/714"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/714#event-3958545720"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDcyMTg1MDA1Ng==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMTg1MDA1Ng=="
+      },
+      "occurred_at": "2020-11-04T16:54:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MDIyOTMxNTI=",
+        "number": 714,
+        "title": "Add Topology.is_periodic",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/714"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/714#issuecomment-721850056"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:MDExOkNsb3NlZEV2ZW50Mzk1ODU1MTM3OQ==",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "MDExOkNsb3NlZEV2ZW50Mzk1ODU1MTM3OQ=="
+      },
+      "occurred_at": "2020-11-04T16:55:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MDgzMzI3NTU=",
+        "number": 721,
+        "title": "Allow some ChargeIncrementHandler attributes to be automatically set",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/721"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/721#event-3958551379"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDcyMTg1MDgyNg==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMTg1MDgyNg=="
+      },
+      "occurred_at": "2020-11-04T16:55:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MDgzMzI3NTU=",
+        "number": 721,
+        "title": "Allow some ChargeIncrementHandler attributes to be automatically set",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/721"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/721#issuecomment-721850826"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDcyMTg1MTczMw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMTg1MTczMw=="
+      },
+      "occurred_at": "2020-11-04T16:57:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MTY4ODM0Nzk=",
+        "number": 740,
+        "title": "Support pathlib.Path in place of path strings",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/740"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/740#issuecomment-721851733"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:308334e99df20e1d6f4c4303ca60a61f25d53bd1",
+      "metadata": {
+        "authored_at": "2020-11-04T17:33:39Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "78b7a33f671df7aed169e14d3201abf9e094e3b7"
+        ],
+        "sha": "308334e99df20e1d6f4c4303ca60a61f25d53bd1"
+      },
+      "occurred_at": "2020-11-04T17:33:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MzA4MzM0ZTk5ZGYyMGUxZDZmNGM0MzAzY2E2MGE2MWYyNWQ1M2JkMQ==",
+        "number": null,
+        "title": "Move nglview import out of molecule module",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/308334e99df20e1d6f4c4303ca60a61f25d53bd1"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/308334e99df20e1d6f4c4303ca60a61f25d53bd1"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:edf31beff57c2fba378408cabef9ea4df54f7e66",
+      "metadata": {
+        "authored_at": "2020-11-04T18:49:25Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "308334e99df20e1d6f4c4303ca60a61f25d53bd1"
+        ],
+        "sha": "edf31beff57c2fba378408cabef9ea4df54f7e66"
+      },
+      "occurred_at": "2020-11-04T18:49:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZWRmMzFiZWZmNTdjMmZiYTM3ODQwOGNhYmVmOWVhNGRmNTRmN2U2Ng==",
+        "number": null,
+        "title": "Imports: Lazy load, remove un-used, use narrower paths",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/edf31beff57c2fba378408cabef9ea4df54f7e66"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/edf31beff57c2fba378408cabef9ea4df54f7e66"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:MDExOlB1bGxSZXF1ZXN0NTE1NTg3Nzk0",
+      "metadata": {
+        "source_node_id": "MDExOlB1bGxSZXF1ZXN0NTE1NTg3Nzk0"
+      },
+      "occurred_at": "2020-11-04T19:14:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE1NTg3Nzk0",
+        "number": 760,
+        "title": "Lazy import functions",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/760"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/760"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyMTkzNTAzOQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMTkzNTAzOQ=="
+      },
+      "occurred_at": "2020-11-04T19:39:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE1NTg3Nzk0",
+        "number": 760,
+        "title": "Lazy import functions",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/760"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/760#issuecomment-721935039"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUzMDI3NjM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWU3MzY0Mjc3MzU=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWU3MzY0Mjc3MzU="
+      },
+      "occurred_at": "2020-11-04T21:14:21Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUzMDI3NjM=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MzY0Mjc3MzU=",
+        "number": 761,
+        "title": "Smirnoff+Amber simulation",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/761"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/761"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:MDExOlB1bGxSZXF1ZXN0NTE1NjcyNzM5",
+      "metadata": {
+        "source_node_id": "MDExOlB1bGxSZXF1ZXN0NTE1NjcyNzM5"
+      },
+      "occurred_at": "2020-11-04T22:23:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE1NjcyNzM5",
+        "number": 762,
+        "title": "Add hydrogens in Molecule.from_rdkit",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/762"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/762"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDcyMjAxNTExOA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMjAxNTExOA=="
+      },
+      "occurred_at": "2020-11-04T22:44:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUzMDI3NjM=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MzY0Mjc3MzU=",
+        "number": 761,
+        "title": "Smirnoff+Amber simulation",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/761"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/761#issuecomment-722015118"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyMjAxNTQ4Mw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMjAxNTQ4Mw=="
+      },
+      "occurred_at": "2020-11-04T22:45:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE1NjcyNzM5",
+        "number": 762,
+        "title": "Add hydrogens in Molecule.from_rdkit",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/762"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/762#issuecomment-722015483"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUzMDI3NjM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDcyMjA1OTc0Nw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMjA1OTc0Nw=="
+      },
+      "occurred_at": "2020-11-05T01:03:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUzMDI3NjM=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MzY0Mjc3MzU=",
+        "number": 761,
+        "title": "Smirnoff+Amber simulation",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/761"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/761#issuecomment-722059747"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUzMDI3NjM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDcyMjA2MDQxNw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMjA2MDQxNw=="
+      },
+      "occurred_at": "2020-11-05T01:05:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUzMDI3NjM=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MzY0Mjc3MzU=",
+        "number": 761,
+        "title": "Smirnoff+Amber simulation",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/761"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/761#issuecomment-722060417"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:e7e6ef2252b772c43ae309afaef49642c021c127",
+      "metadata": {
+        "authored_at": "2020-11-05T03:40:57Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "78b7a33f671df7aed169e14d3201abf9e094e3b7"
+        ],
+        "sha": "e7e6ef2252b772c43ae309afaef49642c021c127"
+      },
+      "occurred_at": "2020-11-05T03:40:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZTdlNmVmMjI1MmI3NzJjNDNhZTMwOWFmYWVmNDk2NDJjMDIxYzEyNw==",
+        "number": null,
+        "title": "Adding first draft of toolkit showcase",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/e7e6ef2252b772c43ae309afaef49642c021c127"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/e7e6ef2252b772c43ae309afaef49642c021c127"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:126dcad87ec01ee96a177a829630486a5cf59db8",
+      "metadata": {
+        "authored_at": "2020-11-05T03:52:12Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "e7e6ef2252b772c43ae309afaef49642c021c127"
+        ],
+        "sha": "126dcad87ec01ee96a177a829630486a5cf59db8"
+      },
+      "occurred_at": "2020-11-05T03:52:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MTI2ZGNhZDg3ZWMwMWVlOTZhMTc3YTgyOTYzMDQ4NmE1Y2Y1OWRiOA==",
+        "number": null,
+        "title": "undo commit to master",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/126dcad87ec01ee96a177a829630486a5cf59db8"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/126dcad87ec01ee96a177a829630486a5cf59db8"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:MDExOlB1bGxSZXF1ZXN0NTE1Nzc2Mzk0",
+      "metadata": {
+        "source_node_id": "MDExOlB1bGxSZXF1ZXN0NTE1Nzc2Mzk0"
+      },
+      "occurred_at": "2020-11-05T03:57:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE1Nzc2Mzk0",
+        "number": 763,
+        "title": "Add \"toolkit showcase\" example",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/763"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/763"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDcyMjEzMTMzNg==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMjEzMTMzNg=="
+      },
+      "occurred_at": "2020-11-05T04:18:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUzMDI3NjM=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MzY0Mjc3MzU=",
+        "number": 761,
+        "title": "Smirnoff+Amber simulation",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/761"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/761#issuecomment-722131336"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyMjEzMzk4OQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMjEzMzk4OQ=="
+      },
+      "occurred_at": "2020-11-05T04:28:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE1Nzc2Mzk0",
+        "number": 763,
+        "title": "Add \"toolkit showcase\" example",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/763"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/763#issuecomment-722133989"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUzMDI3NjM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDcyMjE1ODQyMw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMjE1ODQyMw=="
+      },
+      "occurred_at": "2020-11-05T05:52:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUzMDI3NjM=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MzY0Mjc3MzU=",
+        "number": 761,
+        "title": "Smirnoff+Amber simulation",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/761"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/761#issuecomment-722158423"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDcyMjY4OTg5MA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyMjY4OTg5MA=="
+      },
+      "occurred_at": "2020-11-05T22:48:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUwMjQ0ODA2",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU2NjkxMTQwNDc=",
+        "number": 668,
+        "title": "to/from smi interoperability between OE/RDkit",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/668"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/668#issuecomment-722689890"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUxODg5MTU0Nw==",
+      "metadata": {
+        "created_at": "2020-11-06T17:17:08Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2020-11-06T18:09:06Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI1MzQ1Nzk3",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUxODg5MTU0Nw==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzI1MjM3MzE0OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2020-11-06T18:09:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTExMDk4MjIz",
+        "number": 753,
+        "title": "Override ParameterHandler.__getitem__",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/753"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/753#discussion_r518891547"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUxODkwOTA5NA==",
+      "metadata": {
+        "created_at": "2020-11-06T17:49:23Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2020-11-06T18:09:06Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI1MzQ1Nzk3",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUxODkwOTA5NA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzI1MjQ4NDQyOnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2020-11-06T18:09:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTExMDk4MjIz",
+        "number": 753,
+        "title": "Override ParameterHandler.__getitem__",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/753"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/753#discussion_r518909094"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI1MzQ1Nzk3",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI1MzQ1Nzk3",
+        "state": "CHANGES_REQUESTED",
+        "submitted_at": "2020-11-06T18:09:06Z"
+      },
+      "occurred_at": "2020-11-06T18:09:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTExMDk4MjIz",
+        "number": 753,
+        "title": "Override ParameterHandler.__getitem__",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/753"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/753#pullrequestreview-525345797"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:8b0720f09e298f3b6bf54826a32e28150bd74e82",
+      "metadata": {
+        "authored_at": "2020-11-06T22:35:46Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "bf60eff688fd8b030c4ab4ad0aa4b0887f67afa5"
+        ],
+        "sha": "8b0720f09e298f3b6bf54826a32e28150bd74e82"
+      },
+      "occurred_at": "2020-11-06T22:35:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6OGIwNzIwZjA5ZTI5OGYzYjZiZjU0ODI2YTMyZTI4MTUwYmQ3NGU4Mg==",
+        "number": null,
+        "title": "Update openforcefield/typing/engines/smirnoff/parameters.py",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/8b0720f09e298f3b6bf54826a32e28150bd74e82"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/8b0720f09e298f3b6bf54826a32e28150bd74e82"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:921285c52370a1ff689a2ecf6e401cfac5f9276c",
+      "metadata": {
+        "authored_at": "2020-11-06T22:42:59Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "8b0720f09e298f3b6bf54826a32e28150bd74e82"
+        ],
+        "sha": "921285c52370a1ff689a2ecf6e401cfac5f9276c"
+      },
+      "occurred_at": "2020-11-06T22:42:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6OTIxMjg1YzUyMzcwYTFmZjY4OWEyZWNmNmU0MDFjZmFjNWY5Mjc2Yw==",
+        "number": null,
+        "title": "Add test for lookup by int",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/921285c52370a1ff689a2ecf6e401cfac5f9276c"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/921285c52370a1ff689a2ecf6e401cfac5f9276c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:574aaa80472cb7ca23dd4e5c2b6f85a41b83f6f6",
+      "metadata": {
+        "authored_at": "2020-11-09T16:49:29Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "65e6385ccd66912079f05eb4c3fb345f2d5295a1",
+          "126dcad87ec01ee96a177a829630486a5cf59db8"
+        ],
+        "sha": "574aaa80472cb7ca23dd4e5c2b6f85a41b83f6f6"
+      },
+      "occurred_at": "2020-11-09T16:49:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NTc0YWFhODA0NzJjYjdjYTIzZGQ0ZTVjMmI2Zjg1YTQxYjgzZjZmNg==",
+        "number": null,
+        "title": "Merge branch 'master' into rmin-half-sigma",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/574aaa80472cb7ca23dd4e5c2b6f85a41b83f6f6"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/574aaa80472cb7ca23dd4e5c2b6f85a41b83f6f6"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNDE2NDg4Mg==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNDE2NDg4Mg=="
+      },
+      "occurred_at": "2020-11-09T17:38:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE1NTg3Nzk0",
+        "number": 760,
+        "title": "Lazy import functions",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/760"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/760#issuecomment-724164882"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNDIxNDY3MA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNDIxNDY3MA=="
+      },
+      "occurred_at": "2020-11-09T19:06:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE1NTg3Nzk0",
+        "number": 760,
+        "title": "Lazy import functions",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/760"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/760#issuecomment-724214670"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:41b0a065671532e264ec0c50302965ac88e8f028",
+      "metadata": {
+        "authored_at": "2020-11-09T19:06:15Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "edf31beff57c2fba378408cabef9ea4df54f7e66",
+          "126dcad87ec01ee96a177a829630486a5cf59db8"
+        ],
+        "sha": "41b0a065671532e264ec0c50302965ac88e8f028"
+      },
+      "occurred_at": "2020-11-09T19:06:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NDFiMGEwNjU2NzE1MzJlMjY0ZWMwYzUwMzAyOTY1YWM4OGU4ZjAyOA==",
+        "number": null,
+        "title": "Merge branch 'master' into lazy-import-functions",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/41b0a065671532e264ec0c50302965ac88e8f028"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/41b0a065671532e264ec0c50302965ac88e8f028"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:6bd1e133907094d7d4c798efb7fc59bb290e207f",
+      "metadata": {
+        "authored_at": "2020-11-09T19:30:54Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "921285c52370a1ff689a2ecf6e401cfac5f9276c"
+        ],
+        "sha": "6bd1e133907094d7d4c798efb7fc59bb290e207f"
+      },
+      "occurred_at": "2020-11-09T19:30:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NmJkMWUxMzM5MDcwOTRkN2Q0Yzc5OGVmYjdmYzU5YmIyOTBlMjA3Zg==",
+        "number": null,
+        "title": "Use ParameterList.__getitem__ for ParameterHandler.__getitem__",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/6bd1e133907094d7d4c798efb7fc59bb290e207f"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/6bd1e133907094d7d4c798efb7fc59bb290e207f"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyMDA2NzgxOQ==",
+      "metadata": {
+        "created_at": "2020-11-09T19:31:11Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2020-11-09T19:31:11Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI2NTg3MTYw",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyMDA2NzgxOQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzI1MjM3MzE0OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2020-11-09T19:31:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTExMDk4MjIz",
+        "number": 753,
+        "title": "Override ParameterHandler.__getitem__",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/753"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/753#discussion_r520067819"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI2NTg3MTYw",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI2NTg3MTYw",
+        "state": "COMMENTED",
+        "submitted_at": "2020-11-09T19:31:11Z"
+      },
+      "occurred_at": "2020-11-09T19:31:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTExMDk4MjIz",
+        "number": 753,
+        "title": "Override ParameterHandler.__getitem__",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/753"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/753#pullrequestreview-526587160"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:ac1bf3be903e6c337cb5adc24ee1bf52f81ec513",
+      "metadata": {
+        "authored_at": "2020-11-09T19:31:38Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "6bd1e133907094d7d4c798efb7fc59bb290e207f",
+          "126dcad87ec01ee96a177a829630486a5cf59db8"
+        ],
+        "sha": "ac1bf3be903e6c337cb5adc24ee1bf52f81ec513"
+      },
+      "occurred_at": "2020-11-09T19:31:38Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YWMxYmYzYmU5MDNlNmMzMzdjYjVhZGMyNGVlMWJmNTJmODFlYzUxMw==",
+        "number": null,
+        "title": "Merge remote-tracking branch 'upstream/master' into ff-getitem2",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/ac1bf3be903e6c337cb5adc24ee1bf52f81ec513"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/ac1bf3be903e6c337cb5adc24ee1bf52f81ec513"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNDIzMDk3OA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNDIzMDk3OA=="
+      },
+      "occurred_at": "2020-11-09T19:33:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTExMDk4MjIz",
+        "number": 753,
+        "title": "Override ParameterHandler.__getitem__",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/753"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/753#issuecomment-724230978"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI2NjI0Mzc4",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI2NjI0Mzc4",
+        "state": "APPROVED",
+        "submitted_at": "2020-11-09T20:22:52Z"
+      },
+      "occurred_at": "2020-11-09T20:22:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE1NTg3Nzk0",
+        "number": 760,
+        "title": "Lazy import functions",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/760"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/760#pullrequestreview-526624378"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:ccbee9215083833e6b2ffa10b08baf1a4f9e0b18",
+      "metadata": {
+        "authored_at": "2020-11-09T20:48:32Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "126dcad87ec01ee96a177a829630486a5cf59db8",
+          "7b112c819a6eb84350b8c413b2966115c82e1e46"
+        ],
+        "sha": "ccbee9215083833e6b2ffa10b08baf1a4f9e0b18"
+      },
+      "occurred_at": "2020-11-09T20:48:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6Y2NiZWU5MjE1MDgzODMzZTZiMmZmYTEwYjA4YmFmMWE0ZjllMGIxOA==",
+        "number": null,
+        "title": "Merge pull request #756 from openforcefield/fix-733",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/ccbee9215083833e6b2ffa10b08baf1a4f9e0b18"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/ccbee9215083833e6b2ffa10b08baf1a4f9e0b18"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:MDExOkNsb3NlZEV2ZW50Mzk3NTczOTI0Mw==",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "MDExOkNsb3NlZEV2ZW50Mzk3NTczOTI0Mw=="
+      },
+      "occurred_at": "2020-11-09T20:48:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjIyMjcyMTI2",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MTM2MzYzMjU=",
+        "number": 733,
+        "title": "Handler Internal Parameter Attributes Not Found",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/733"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/733#event-3975739243"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:MDExOk1lcmdlZEV2ZW50Mzk3NTczOTIzMQ==",
+      "metadata": {
+        "merge_commit_sha": "ccbee9215083833e6b2ffa10b08baf1a4f9e0b18",
+        "source_node_id": "MDExOk1lcmdlZEV2ZW50Mzk3NTczOTIzMQ=="
+      },
+      "occurred_at": "2020-11-09T20:48:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTEyNjAxOTQ1",
+        "number": 756,
+        "title": "Replace private attribute access in various ParameterHandlers' create_force methods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/756"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/756#event-3975739231"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:903670e446fcb26db5d23958407bf8923fa1147a",
+      "metadata": {
+        "authored_at": "2020-11-09T21:09:36Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "41b0a065671532e264ec0c50302965ac88e8f028",
+          "ccbee9215083833e6b2ffa10b08baf1a4f9e0b18"
+        ],
+        "sha": "903670e446fcb26db5d23958407bf8923fa1147a"
+      },
+      "occurred_at": "2020-11-09T21:09:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6OTAzNjcwZTQ0NmZjYjI2ZGI1ZDIzOTU4NDA3YmY4OTIzZmExMTQ3YQ==",
+        "number": null,
+        "title": "Merge branch 'master' into lazy-import-functions",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/903670e446fcb26db5d23958407bf8923fa1147a"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/903670e446fcb26db5d23958407bf8923fa1147a"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:20ca298eac032741269686e4161e2355955eabbd",
+      "metadata": {
+        "authored_at": "2020-11-09T21:42:01Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "ccbee9215083833e6b2ffa10b08baf1a4f9e0b18",
+          "903670e446fcb26db5d23958407bf8923fa1147a"
+        ],
+        "sha": "20ca298eac032741269686e4161e2355955eabbd"
+      },
+      "occurred_at": "2020-11-09T21:42:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MjBjYTI5OGVhYzAzMjc0MTI2OTY4NmU0MTYxZTIzNTU5NTVlYWJiZA==",
+        "number": null,
+        "title": "Merge pull request #760 from openforcefield/lazy-import-functions",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/20ca298eac032741269686e4161e2355955eabbd"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/20ca298eac032741269686e4161e2355955eabbd"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:MDExOkNsb3NlZEV2ZW50Mzk3NTkyNjEyMQ==",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "MDExOkNsb3NlZEV2ZW50Mzk3NTkyNjEyMQ=="
+      },
+      "occurred_at": "2020-11-09T21:42:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUzOTUzNjM4NjQ=",
+        "number": 155,
+        "title": "Move imports inside functions",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/155"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/155#event-3975926121"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:MDExOk1lcmdlZEV2ZW50Mzk3NTkyNjExNw==",
+      "metadata": {
+        "merge_commit_sha": "20ca298eac032741269686e4161e2355955eabbd",
+        "source_node_id": "MDExOk1lcmdlZEV2ZW50Mzk3NTkyNjExNw=="
+      },
+      "occurred_at": "2020-11-09T21:42:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE1NTg3Nzk0",
+        "number": 760,
+        "title": "Lazy import functions",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/760"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/760#event-3975926117"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDcyNDI5NTk2Mw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNDI5NTk2Mw=="
+      },
+      "occurred_at": "2020-11-09T21:43:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUzOTUzNjM4NjQ=",
+        "number": 155,
+        "title": "Move imports inside functions",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/155"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/155#issuecomment-724295963"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:afe9f95184aee6747315dfb8a8acdda14f5b8295",
+      "metadata": {
+        "authored_at": "2020-11-09T22:25:35Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "ac1bf3be903e6c337cb5adc24ee1bf52f81ec513",
+          "20ca298eac032741269686e4161e2355955eabbd"
+        ],
+        "sha": "afe9f95184aee6747315dfb8a8acdda14f5b8295"
+      },
+      "occurred_at": "2020-11-09T22:25:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YWZlOWY5NTE4NGFlZTY3NDczMTVkZmI4YThhY2RkYTE0ZjViODI5NQ==",
+        "number": null,
+        "title": "Merge branch 'master' into ff-getitem2",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/afe9f95184aee6747315dfb8a8acdda14f5b8295"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/afe9f95184aee6747315dfb8a8acdda14f5b8295"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI2NzEyODQz",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI2NzEyODQz",
+        "state": "APPROVED",
+        "submitted_at": "2020-11-09T22:40:04Z"
+      },
+      "occurred_at": "2020-11-09T22:40:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTExMDk4MjIz",
+        "number": 753,
+        "title": "Override ParameterHandler.__getitem__",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/753"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/753#pullrequestreview-526712843"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyMDE5Mzc3OQ==",
+      "metadata": {
+        "created_at": "2020-11-09T23:48:04Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2020-11-09T23:49:16Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI2NzQ1MTA1",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyMDE5Mzc3OQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzI2MTA2MTEwOnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2020-11-09T23:49:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTA5MjA1OTg0",
+        "number": 750,
+        "title": "Fix missing sigma/rmin_half attrs",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/750"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/750#discussion_r520193779"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI2NzQ1MTA1",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI2NzQ1MTA1",
+        "state": "APPROVED",
+        "submitted_at": "2020-11-09T23:49:16Z"
+      },
+      "occurred_at": "2020-11-09T23:49:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTA5MjA1OTg0",
+        "number": 750,
+        "title": "Fix missing sigma/rmin_half attrs",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/750"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/750#pullrequestreview-526745105"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:f8185481aec11383ffe89b5c4ea98105e217f413",
+      "metadata": {
+        "authored_at": "2020-11-09T23:50:53Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "e916a86cce3e0b521a9c4a725d99199ac8f6d1df",
+          "20ca298eac032741269686e4161e2355955eabbd"
+        ],
+        "sha": "f8185481aec11383ffe89b5c4ea98105e217f413"
+      },
+      "occurred_at": "2020-11-09T23:50:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZjgxODU0ODFhZWMxMTM4M2ZmZTg5YjVjNGVhOTgxMDVlMjE3ZjQxMw==",
+        "number": null,
+        "title": "Merge branch 'master' into toolkit-inheritance",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/f8185481aec11383ffe89b5c4ea98105e217f413"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/f8185481aec11383ffe89b5c4ea98105e217f413"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNDM1MzgzMA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNDM1MzgzMA=="
+      },
+      "occurred_at": "2020-11-09T23:51:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-724353830"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDMxNDQzOTA=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNDM1ODU3NA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNDM1ODU3NA=="
+      },
+      "occurred_at": "2020-11-10T00:03:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-724358574"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:3956035886bce24260c2573a6d35abbc64724aa7",
+      "metadata": {
+        "authored_at": "2020-11-10T00:07:32Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "afe9f95184aee6747315dfb8a8acdda14f5b8295"
+        ],
+        "sha": "3956035886bce24260c2573a6d35abbc64724aa7"
+      },
+      "occurred_at": "2020-11-10T00:07:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6Mzk1NjAzNTg4NmJjZTI0MjYwYzI1NzNhNmQzNWFiYmM2NDcyNGFhNw==",
+        "number": null,
+        "title": "Docs: Update release history and ParameterList.index docstring",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/3956035886bce24260c2573a6d35abbc64724aa7"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/3956035886bce24260c2573a6d35abbc64724aa7"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNDM3MTY0Mg==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNDM3MTY0Mg=="
+      },
+      "occurred_at": "2020-11-10T00:37:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-724371642"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:b9d499fb8be05aa8273fe84371f5d706c91b2453",
+      "metadata": {
+        "authored_at": "2020-11-10T00:57:47Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "20ca298eac032741269686e4161e2355955eabbd",
+          "3956035886bce24260c2573a6d35abbc64724aa7"
+        ],
+        "sha": "b9d499fb8be05aa8273fe84371f5d706c91b2453"
+      },
+      "occurred_at": "2020-11-10T00:57:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YjlkNDk5ZmI4YmUwNWFhODI3M2ZlODQzNzFmNWQ3MDZjOTFiMjQ1Mw==",
+        "number": null,
+        "title": "Merge pull request #753 from openforcefield/ff-getitem2",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/b9d499fb8be05aa8273fe84371f5d706c91b2453"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/b9d499fb8be05aa8273fe84371f5d706c91b2453"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:MDExOkNsb3NlZEV2ZW50Mzk3NjQ2Mjg5MQ==",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "MDExOkNsb3NlZEV2ZW50Mzk3NjQ2Mjg5MQ=="
+      },
+      "occurred_at": "2020-11-10T00:57:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU2MjA0NTM2MjM=",
+        "number": 599,
+        "title": "Overriding `__getitem__` in ForceField",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/599"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/599#event-3976462891"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:MDExOk1lcmdlZEV2ZW50Mzk3NjQ2Mjg3NQ==",
+      "metadata": {
+        "merge_commit_sha": "b9d499fb8be05aa8273fe84371f5d706c91b2453",
+        "source_node_id": "MDExOk1lcmdlZEV2ZW50Mzk3NjQ2Mjg3NQ=="
+      },
+      "occurred_at": "2020-11-10T00:57:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTExMDk4MjIz",
+        "number": 753,
+        "title": "Override ParameterHandler.__getitem__",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/753"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/753#event-3976462875"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI1NTk0Mzg=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNDUxODk4NQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNDUxODk4NQ=="
+      },
+      "occurred_at": "2020-11-10T07:30:38Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-724518985"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:4487b1d2a35cf7ff3a33a9658aee84d93df4305c",
+      "metadata": {
+        "authored_at": "2020-11-10T14:51:01Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "574aaa80472cb7ca23dd4e5c2b6f85a41b83f6f6"
+        ],
+        "sha": "4487b1d2a35cf7ff3a33a9658aee84d93df4305c"
+      },
+      "occurred_at": "2020-11-10T14:51:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NDQ4N2IxZDJhMzVjZjdmZjNhMzNhOTY1OGFlZTg0ZDkzZGY0MzA1Yw==",
+        "number": null,
+        "title": "Update openforcefield/typing/engines/smirnoff/parameters.py",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/4487b1d2a35cf7ff3a33a9658aee84d93df4305c"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/4487b1d2a35cf7ff3a33a9658aee84d93df4305c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:18e6e9a5dbc2a7c513121a2eb6a1f2d36ea3ea83",
+      "metadata": {
+        "authored_at": "2020-11-10T15:08:55Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "4487b1d2a35cf7ff3a33a9658aee84d93df4305c"
+        ],
+        "sha": "18e6e9a5dbc2a7c513121a2eb6a1f2d36ea3ea83"
+      },
+      "occurred_at": "2020-11-10T15:08:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MThlNmU5YTVkYmMyYTdjNTEzMTIxYTJlYjZhMWYyZDM2ZWEzZWE4Mw==",
+        "number": null,
+        "title": "Docs: Update changelog, lint",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/18e6e9a5dbc2a7c513121a2eb6a1f2d36ea3ea83"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/18e6e9a5dbc2a7c513121a2eb6a1f2d36ea3ea83"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:a7891d9a7db1110e87a04565f1d88ab31dae886e",
+      "metadata": {
+        "authored_at": "2020-11-10T15:14:45Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "18e6e9a5dbc2a7c513121a2eb6a1f2d36ea3ea83"
+        ],
+        "sha": "a7891d9a7db1110e87a04565f1d88ab31dae886e"
+      },
+      "occurred_at": "2020-11-10T15:14:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YTc4OTFkOWE3ZGIxMTEwZTg3YTA0NTY1ZjFkODhhYjMxZGFlODg2ZQ==",
+        "number": null,
+        "title": "Fix typo in pytest args",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/a7891d9a7db1110e87a04565f1d88ab31dae886e"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/a7891d9a7db1110e87a04565f1d88ab31dae886e"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:71f2277384b5f4a9611c5ed2768939c273b7a1b3",
+      "metadata": {
+        "authored_at": "2020-11-10T15:23:06Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "a7891d9a7db1110e87a04565f1d88ab31dae886e",
+          "b9d499fb8be05aa8273fe84371f5d706c91b2453"
+        ],
+        "sha": "71f2277384b5f4a9611c5ed2768939c273b7a1b3"
+      },
+      "occurred_at": "2020-11-10T15:23:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NzFmMjI3NzM4NGI1ZjRhOTYxMWM1ZWQyNzY4OTM5YzI3M2I3YTFiMw==",
+        "number": null,
+        "title": "Merge remote-tracking branch 'upstream/master' into rmin-half-sigma",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/71f2277384b5f4a9611c5ed2768939c273b7a1b3"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/71f2277384b5f4a9611c5ed2768939c273b7a1b3"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:2d73f3dcdf607a54e4d60fc12a0ad89a19d3d4c6",
+      "metadata": {
+        "authored_at": "2020-11-10T16:00:12Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "b9d499fb8be05aa8273fe84371f5d706c91b2453",
+          "71f2277384b5f4a9611c5ed2768939c273b7a1b3"
+        ],
+        "sha": "2d73f3dcdf607a54e4d60fc12a0ad89a19d3d4c6"
+      },
+      "occurred_at": "2020-11-10T16:00:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MmQ3M2YzZGNkZjYwN2E1NGU0ZDYwZmMxMmEwYWQ4OWExOWQzZDRjNg==",
+        "number": null,
+        "title": "Merge pull request #750 from openforcefield/rmin-half-sigma",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/2d73f3dcdf607a54e4d60fc12a0ad89a19d3d4c6"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/2d73f3dcdf607a54e4d60fc12a0ad89a19d3d4c6"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:MDExOk1lcmdlZEV2ZW50Mzk3OTY3NTY1OQ==",
+      "metadata": {
+        "merge_commit_sha": "2d73f3dcdf607a54e4d60fc12a0ad89a19d3d4c6",
+        "source_node_id": "MDExOk1lcmdlZEV2ZW50Mzk3OTY3NTY1OQ=="
+      },
+      "occurred_at": "2020-11-10T16:00:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTA5MjA1OTg0",
+        "number": 750,
+        "title": "Fix missing sigma/rmin_half attrs",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/750"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/750#event-3979675659"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:MDExOkNsb3NlZEV2ZW50Mzk3OTY4NDM5NA==",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "MDExOkNsb3NlZEV2ZW50Mzk3OTY4NDM5NA=="
+      },
+      "occurred_at": "2020-11-10T16:01:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjIyODA3MjQ=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU1NzY2MjkyNjE=",
+        "number": 537,
+        "title": "Where did sigma go in parameter handlers?",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/537"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/537#event-3979684394"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNTAyMzM3Nw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNTAyMzM3Nw=="
+      },
+      "occurred_at": "2020-11-10T23:12:20Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE1NjcyNzM5",
+        "number": 762,
+        "title": "Add hydrogens in Molecule.from_rdkit",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/762"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/762#issuecomment-725023377"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWU3NDEyMDYxOTk=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWU3NDEyMDYxOTk="
+      },
+      "occurred_at": "2020-11-12T01:58:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3NDEyMDYxOTk=",
+        "number": 764,
+        "title": "Add support for dummy particles in a Topology",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/764"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/764"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:e9a614182ea8e99d7cbeb9781926f8765a1e7cc0",
+      "metadata": {
+        "authored_at": "2020-11-12T02:39:58Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "f8185481aec11383ffe89b5c4ea98105e217f413"
+        ],
+        "sha": "e9a614182ea8e99d7cbeb9781926f8765a1e7cc0"
+      },
+      "occurred_at": "2020-11-12T02:39:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZTlhNjE0MTgyZWE4ZTk5ZDdjYmViOTc4MTkyNmY4NzY1YTFlN2NjMA==",
+        "number": null,
+        "title": "Update toolkits.py to use private molecule methods (since FrozenMolec…",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/e9a614182ea8e99d7cbeb9781926f8765a1e7cc0"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/e9a614182ea8e99d7cbeb9781926f8765a1e7cc0"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:857e645c1f3d91c5ebd489ed2deb208a46f07e6d",
+      "metadata": {
+        "authored_at": "2020-11-12T02:40:27Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "e9a614182ea8e99d7cbeb9781926f8765a1e7cc0"
+        ],
+        "sha": "857e645c1f3d91c5ebd489ed2deb208a46f07e6d"
+      },
+      "occurred_at": "2020-11-12T02:40:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ODU3ZTY0NWMxZjNkOTFjNWViZDQ4OWVkMmRlYjIwOGE0NmYwN2U2ZA==",
+        "number": null,
+        "title": "fix copy-paste typo in BITKW.assign_partial_charges",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/857e645c1f3d91c5ebd489ed2deb208a46f07e6d"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/857e645c1f3d91c5ebd489ed2deb208a46f07e6d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDMxNDQzOTA=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNTc5NDQyMg==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNTc5NDQyMg=="
+      },
+      "occurred_at": "2020-11-12T02:50:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-725794422"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:5076dfbd981e761603365dc04737d66bb91361ec",
+      "metadata": {
+        "authored_at": "2020-11-12T15:01:42Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "2d73f3dcdf607a54e4d60fc12a0ad89a19d3d4c6"
+        ],
+        "sha": "5076dfbd981e761603365dc04737d66bb91361ec"
+      },
+      "occurred_at": "2020-11-12T15:01:42Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NTA3NmRmYmQ5ODFlNzYxNjAzMzY1ZGMwNDczN2Q2NmJiOTEzNjFlYw==",
+        "number": null,
+        "title": "Add dependabot YAML",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/5076dfbd981e761603365dc04737d66bb91361ec"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/5076dfbd981e761603365dc04737d66bb91361ec"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:MDExOlB1bGxSZXF1ZXN0NTE5OTQ2NTg1",
+      "metadata": {
+        "source_node_id": "MDExOlB1bGxSZXF1ZXN0NTE5OTQ2NTg1"
+      },
+      "occurred_at": "2020-11-12T15:03:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE5OTQ2NTg1",
+        "number": 765,
+        "title": "Add dependabot",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/765"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/765"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNjE0ODUyOQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNjE0ODUyOQ=="
+      },
+      "occurred_at": "2020-11-12T15:27:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE5OTQ2NTg1",
+        "number": 765,
+        "title": "Add dependabot",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/765"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/765#issuecomment-726148529"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:e69b66c9be6d416e826e5866c0ab427f3714bea1",
+      "metadata": {
+        "authored_at": "2020-11-12T15:32:58Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "5076dfbd981e761603365dc04737d66bb91361ec"
+        ],
+        "sha": "e69b66c9be6d416e826e5866c0ab427f3714bea1"
+      },
+      "occurred_at": "2020-11-12T15:32:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZTY5YjY2YzliZTZkNDE2ZTgyNmU1ODY2YzBhYjQyN2YzNzE0YmVhMQ==",
+        "number": null,
+        "title": "goanpeca -> conda-incubator",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/e69b66c9be6d416e826e5866c0ab427f3714bea1"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/e69b66c9be6d416e826e5866c0ab427f3714bea1"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:f8b2a71fbe283ca0642d4498e025a5a8fc70a2b0",
+      "metadata": {
+        "authored_at": "2020-11-12T19:22:29Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "857e645c1f3d91c5ebd489ed2deb208a46f07e6d"
+        ],
+        "sha": "f8b2a71fbe283ca0642d4498e025a5a8fc70a2b0"
+      },
+      "occurred_at": "2020-11-12T19:22:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZjhiMmE3MWZiZTI4M2NhMDY0MmQ0NDk4ZTAyNWE1YThmYzcwYTJiMA==",
+        "number": null,
+        "title": "Remove permissive logic from oetkw.from_object",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/f8b2a71fbe283ca0642d4498e025a5a8fc70a2b0"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/f8b2a71fbe283ca0642d4498e025a5a8fc70a2b0"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:c2036d73c44f82b0c91b380a9bee0c5d15079eba",
+      "metadata": {
+        "authored_at": "2020-11-12T19:22:53Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "f8b2a71fbe283ca0642d4498e025a5a8fc70a2b0"
+        ],
+        "sha": "c2036d73c44f82b0c91b380a9bee0c5d15079eba"
+      },
+      "occurred_at": "2020-11-12T19:22:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YzIwMzZkNzNjNDRmODJiMGM5MWIzODBhOWJlZTBjNWQxNTA3OWViYQ==",
+        "number": null,
+        "title": "Update releasehistory for molecule inheritance fix",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/c2036d73c44f82b0c91b380a9bee0c5d15079eba"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/c2036d73c44f82b0c91b380a9bee0c5d15079eba"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:c33f34430a6aa4f35dd7e6e20a63f2f554c5b393",
+      "metadata": {
+        "authored_at": "2020-11-12T20:19:03Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "c2036d73c44f82b0c91b380a9bee0c5d15079eba"
+        ],
+        "sha": "c33f34430a6aa4f35dd7e6e20a63f2f554c5b393"
+      },
+      "occurred_at": "2020-11-12T20:19:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YzMzZjM0NDMwYTZhYTRmMzVkZDdlNmUyMGE2M2YyZjU1NGM1YjM5Mw==",
+        "number": null,
+        "title": "black",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/c33f34430a6aa4f35dd7e6e20a63f2f554c5b393"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/c33f34430a6aa4f35dd7e6e20a63f2f554c5b393"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:37f1caf1afdff6adb1c6f0d32acbf82718c1df83",
+      "metadata": {
+        "authored_at": "2020-11-12T20:23:42Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "c33f34430a6aa4f35dd7e6e20a63f2f554c5b393",
+          "2d73f3dcdf607a54e4d60fc12a0ad89a19d3d4c6"
+        ],
+        "sha": "37f1caf1afdff6adb1c6f0d32acbf82718c1df83"
+      },
+      "occurred_at": "2020-11-12T20:23:42Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MzdmMWNhZjFhZmRmZjZhZGIxYzZmMGQzMmFjYmY4MjcxOGMxZGY4Mw==",
+        "number": null,
+        "title": "Merge branch 'master' into toolkit-inheritance",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/37f1caf1afdff6adb1c6f0d32acbf82718c1df83"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/37f1caf1afdff6adb1c6f0d32acbf82718c1df83"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDMxNDQzOTA=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNjMyNTg1MA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNjMyNTg1MA=="
+      },
+      "occurred_at": "2020-11-12T20:31:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-726325850"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI5NTM4MzYz",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTI5NTM4MzYz",
+        "state": "APPROVED",
+        "submitted_at": "2020-11-12T22:08:58Z"
+      },
+      "occurred_at": "2020-11-12T22:08:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE5OTQ2NTg1",
+        "number": 765,
+        "title": "Add dependabot",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/765"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/765#pullrequestreview-529538363"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNjM4MDc0OQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNjM4MDc0OQ=="
+      },
+      "occurred_at": "2020-11-12T22:28:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE5OTQ2NTg1",
+        "number": 765,
+        "title": "Add dependabot",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/765"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/765#issuecomment-726380749"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:19e8cde29445bdcffbd3ad59b8deec686ec333da",
+      "metadata": {
+        "authored_at": "2020-11-12T22:28:45Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "2d73f3dcdf607a54e4d60fc12a0ad89a19d3d4c6",
+          "e69b66c9be6d416e826e5866c0ab427f3714bea1"
+        ],
+        "sha": "19e8cde29445bdcffbd3ad59b8deec686ec333da"
+      },
+      "occurred_at": "2020-11-12T22:28:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MTllOGNkZTI5NDQ1YmRjZmZiZDNhZDU5YjhkZWVjNjg2ZWMzMzNkYQ==",
+        "number": null,
+        "title": "Merge pull request #765 from openforcefield/add-dependabot",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/19e8cde29445bdcffbd3ad59b8deec686ec333da"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/19e8cde29445bdcffbd3ad59b8deec686ec333da"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:MDExOk1lcmdlZEV2ZW50Mzk5MDk0MzM5OA==",
+      "metadata": {
+        "merge_commit_sha": "19e8cde29445bdcffbd3ad59b8deec686ec333da",
+        "source_node_id": "MDExOk1lcmdlZEV2ZW50Mzk5MDk0MzM5OA=="
+      },
+      "occurred_at": "2020-11-12T22:28:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE5OTQ2NTg1",
+        "number": 765,
+        "title": "Add dependabot",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/765"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/765#event-3990943398"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDk2OTkzMzM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:9bda485847abba515f5677f035b8eb3f5f4303b1",
+      "metadata": {
+        "authored_at": "2020-11-12T22:29:09Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "19e8cde29445bdcffbd3ad59b8deec686ec333da"
+        ],
+        "sha": "9bda485847abba515f5677f035b8eb3f5f4303b1"
+      },
+      "occurred_at": "2020-11-12T22:29:09Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6OWJkYTQ4NTg0N2FiYmE1MTVmNTY3N2YwMzViOGViM2Y1ZjQzMDNiMQ==",
+        "number": null,
+        "title": "Bump actions/setup-python from v1 to v2.1.4",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/9bda485847abba515f5677f035b8eb3f5f4303b1"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/9bda485847abba515f5677f035b8eb3f5f4303b1"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDk2OTkzMzM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:MDExOlB1bGxSZXF1ZXN0NTIwMTk2Mzg1",
+      "metadata": {
+        "source_node_id": "MDExOlB1bGxSZXF1ZXN0NTIwMTk2Mzg1"
+      },
+      "occurred_at": "2020-11-12T22:29:11Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIwMTk2Mzg1",
+        "number": 767,
+        "title": "Bump conda-incubator/setup-miniconda from v1 to v2",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/767"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/767"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDk2OTkzMzM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:MDExOlB1bGxSZXF1ZXN0NTIwMTk2Mzgy",
+      "metadata": {
+        "source_node_id": "MDExOlB1bGxSZXF1ZXN0NTIwMTk2Mzgy"
+      },
+      "occurred_at": "2020-11-12T22:29:11Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIwMTk2Mzgy",
+        "number": 766,
+        "title": "Bump actions/setup-python from v1 to v2.1.4",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/766"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/766"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNjM4OTU5MA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNjM4OTU5MA=="
+      },
+      "occurred_at": "2020-11-12T22:51:11Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIwMTk2Mzg1",
+        "number": 767,
+        "title": "Bump conda-incubator/setup-miniconda from v1 to v2",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/767"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/767#issuecomment-726389590"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNjM5MDcwOA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNjM5MDcwOA=="
+      },
+      "occurred_at": "2020-11-12T22:54:13Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIwMTk2Mzgy",
+        "number": 766,
+        "title": "Bump actions/setup-python from v1 to v2.1.4",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/766"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/766#issuecomment-726390708"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNjQyNjU3Mw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNjQyNjU3Mw=="
+      },
+      "occurred_at": "2020-11-13T00:30:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-726426573"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTMwMDQ0Njc1",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTMwMDQ0Njc1",
+        "state": "APPROVED",
+        "submitted_at": "2020-11-13T13:05:35Z"
+      },
+      "occurred_at": "2020-11-13T13:05:35Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIwMTk2Mzgy",
+        "number": 766,
+        "title": "Bump actions/setup-python from v1 to v2.1.4",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/766"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/766#pullrequestreview-530044675"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:f71606874904ff141d9b64a7d896dded3b84cccf",
+      "metadata": {
+        "authored_at": "2020-11-13T13:05:54Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "19e8cde29445bdcffbd3ad59b8deec686ec333da",
+          "9bda485847abba515f5677f035b8eb3f5f4303b1"
+        ],
+        "sha": "f71606874904ff141d9b64a7d896dded3b84cccf"
+      },
+      "occurred_at": "2020-11-13T13:05:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZjcxNjA2ODc0OTA0ZmYxNDFkOWI2NGE3ZDg5NmRkZWQzYjg0Y2NjZg==",
+        "number": null,
+        "title": "Merge pull request #766 from openforcefield/dependabot/github_actions…",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/f71606874904ff141d9b64a7d896dded3b84cccf"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/f71606874904ff141d9b64a7d896dded3b84cccf"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:MDExOk1lcmdlZEV2ZW50Mzk5MzM5MjUxNg==",
+      "metadata": {
+        "merge_commit_sha": "f71606874904ff141d9b64a7d896dded3b84cccf",
+        "source_node_id": "MDExOk1lcmdlZEV2ZW50Mzk5MzM5MjUxNg=="
+      },
+      "occurred_at": "2020-11-13T13:05:55Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIwMTk2Mzgy",
+        "number": 766,
+        "title": "Bump actions/setup-python from v1 to v2.1.4",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/766"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/766#event-3993392516"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTMwMDQ1MjQ5",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTMwMDQ1MjQ5",
+        "state": "APPROVED",
+        "submitted_at": "2020-11-13T13:06:27Z"
+      },
+      "occurred_at": "2020-11-13T13:06:27Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIwMTk2Mzg1",
+        "number": 767,
+        "title": "Bump conda-incubator/setup-miniconda from v1 to v2",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/767"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/767#pullrequestreview-530045249"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDk2OTkzMzM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:c4726457f6b32be70ebb0f8499c3f859f287d79d",
+      "metadata": {
+        "authored_at": "2020-11-13T13:07:25Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "f71606874904ff141d9b64a7d896dded3b84cccf"
+        ],
+        "sha": "c4726457f6b32be70ebb0f8499c3f859f287d79d"
+      },
+      "occurred_at": "2020-11-13T13:07:25Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YzQ3MjY0NTdmNmIzMmJlNzBlYmIwZjg0OTljM2Y4NTlmMjg3ZDc5ZA==",
+        "number": null,
+        "title": "Bump conda-incubator/setup-miniconda from v1 to v2",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/c4726457f6b32be70ebb0f8499c3f859f287d79d"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/c4726457f6b32be70ebb0f8499c3f859f287d79d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWU3NDI0Nzc3NTg=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWU3NDI0Nzc3NTg="
+      },
+      "occurred_at": "2020-11-13T14:12:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3NDI0Nzc3NTg=",
+        "number": 768,
+        "title": "Clean up openforcefield/tests/utils.py",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/768"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/768"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:e8981cfde243a4e850b64708997ee7619c86f30f",
+      "metadata": {
+        "authored_at": "2020-11-13T14:17:28Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "f71606874904ff141d9b64a7d896dded3b84cccf",
+          "c4726457f6b32be70ebb0f8499c3f859f287d79d"
+        ],
+        "sha": "e8981cfde243a4e850b64708997ee7619c86f30f"
+      },
+      "occurred_at": "2020-11-13T14:17:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZTg5ODFjZmRlMjQzYTRlODUwYjY0NzA4OTk3ZWU3NjE5Yzg2ZjMwZg==",
+        "number": null,
+        "title": "Merge pull request #767 from openforcefield/dependabot/github_actions…",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/e8981cfde243a4e850b64708997ee7619c86f30f"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/e8981cfde243a4e850b64708997ee7619c86f30f"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:MDExOk1lcmdlZEV2ZW50Mzk5MzY2Nzg4NQ==",
+      "metadata": {
+        "merge_commit_sha": "e8981cfde243a4e850b64708997ee7619c86f30f",
+        "source_node_id": "MDExOk1lcmdlZEV2ZW50Mzk5MzY2Nzg4NQ=="
+      },
+      "occurred_at": "2020-11-13T14:17:28Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIwMTk2Mzg1",
+        "number": 767,
+        "title": "Bump conda-incubator/setup-miniconda from v1 to v2",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/767"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/767#event-3993667885"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:8ef5fef3b1f31a44fdbbe56e5114c86f094d83e4",
+      "metadata": {
+        "authored_at": "2020-11-13T18:55:51Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "37f1caf1afdff6adb1c6f0d32acbf82718c1df83",
+          "e8981cfde243a4e850b64708997ee7619c86f30f"
+        ],
+        "sha": "8ef5fef3b1f31a44fdbbe56e5114c86f094d83e4"
+      },
+      "occurred_at": "2020-11-13T18:55:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6OGVmNWZlZjNiMWYzMWE0NGZkYmJlNTZlNTExNGM4NmYwOTRkODNlNA==",
+        "number": null,
+        "title": "Merge branch 'master' into toolkit-inheritance",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/8ef5fef3b1f31a44fdbbe56e5114c86f094d83e4"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/8ef5fef3b1f31a44fdbbe56e5114c86f094d83e4"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDMxNDQzOTA=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNjk4MDQ5MQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNjk4MDQ5MQ=="
+      },
+      "occurred_at": "2020-11-13T19:07:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-726980491"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:MDExOlB1bGxSZXF1ZXN0NTIxMDE4MzQz",
+      "metadata": {
+        "source_node_id": "MDExOlB1bGxSZXF1ZXN0NTIxMDE4MzQz"
+      },
+      "occurred_at": "2020-11-14T15:09:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIxMDE4MzQz",
+        "number": 769,
+        "title": "Conda forge openmm testing",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/769"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/769"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyNzIyMzczNQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyNzIyMzczNQ=="
+      },
+      "occurred_at": "2020-11-14T15:31:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIxMDE4MzQz",
+        "number": 769,
+        "title": "Conda forge openmm testing",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/769"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/769#issuecomment-727223735"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyODIwNzUzNw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyODIwNzUzNw=="
+      },
+      "occurred_at": "2020-11-16T17:24:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIxMDE4MzQz",
+        "number": 769,
+        "title": "Conda forge openmm testing",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/769"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/769#issuecomment-728207537"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:MDExOlB1bGxSZXF1ZXN0NTIxODc0NzI5",
+      "metadata": {
+        "source_node_id": "MDExOlB1bGxSZXF1ZXN0NTIxODc0NzI5"
+      },
+      "occurred_at": "2020-11-16T19:20:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIxODc0NzI5",
+        "number": 770,
+        "title": "Clean up openforcefield/tests/utils.py, fix docstrings",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/770"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/770"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyODI4NDQ2MQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyODI4NDQ2MQ=="
+      },
+      "occurred_at": "2020-11-16T19:46:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIxODc0NzI5",
+        "number": 770,
+        "title": "Clean up openforcefield/tests/utils.py, fix docstrings",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/770"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/770#issuecomment-728284461"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyODI5MDkwNQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyODI5MDkwNQ=="
+      },
+      "occurred_at": "2020-11-16T19:58:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIxODc0NzI5",
+        "number": 770,
+        "title": "Clean up openforcefield/tests/utils.py, fix docstrings",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/770"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/770#issuecomment-728290905"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:80cc9b31c7470bc235953b19d1a7175d94dc0a4a",
+      "metadata": {
+        "authored_at": "2020-11-16T23:55:07Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "c33f34430a6aa4f35dd7e6e20a63f2f554c5b393"
+        ],
+        "sha": "80cc9b31c7470bc235953b19d1a7175d94dc0a4a"
+      },
+      "occurred_at": "2020-11-16T23:55:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ODBjYzliMzFjNzQ3MGJjMjM1OTUzYjE5ZDFhNzE3NWQ5NGRjMGE0YQ==",
+        "number": null,
+        "title": "update developer docs with new Molecule.from_X _cls parameter history",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/80cc9b31c7470bc235953b19d1a7175d94dc0a4a"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/80cc9b31c7470bc235953b19d1a7175d94dc0a4a"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:89cdf5b0c75ff69466709e163a4add9c3fbb631e",
+      "metadata": {
+        "authored_at": "2020-11-16T23:56:10Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "80cc9b31c7470bc235953b19d1a7175d94dc0a4a",
+          "8ef5fef3b1f31a44fdbbe56e5114c86f094d83e4"
+        ],
+        "sha": "89cdf5b0c75ff69466709e163a4add9c3fbb631e"
+      },
+      "occurred_at": "2020-11-16T23:56:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ODljZGY1YjBjNzVmZjY5NDY2NzA5ZTE2M2E0YWRkOWMzZmJiNjMxZQ==",
+        "number": null,
+        "title": "Merge remote-tracking branch 'origin/toolkit-inheritance' into toolki…",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/89cdf5b0c75ff69466709e163a4add9c3fbb631e"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/89cdf5b0c75ff69466709e163a4add9c3fbb631e"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDMxNDQzOTA=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyODQ2MDI3Nw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyODQ2MDI3Nw=="
+      },
+      "occurred_at": "2020-11-17T00:04:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-728460277"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWU3NDQzMDI0MzY=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWU3NDQzMDI0MzY="
+      },
+      "occurred_at": "2020-11-17T00:15:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3NDQzMDI0MzY=",
+        "number": 771,
+        "title": "Custom exceptions",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/771"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/771"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:1d2c0efdb154f7ffce00467c7ae9d222ec5f7563",
+      "metadata": {
+        "authored_at": "2020-11-17T01:52:36Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "89cdf5b0c75ff69466709e163a4add9c3fbb631e"
+        ],
+        "sha": "1d2c0efdb154f7ffce00467c7ae9d222ec5f7563"
+      },
+      "occurred_at": "2020-11-17T01:52:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MWQyYzBlZmRiMTU0ZjdmZmNlMDA0NjdjN2FlOWQyMjJlYzVmNzU2Mw==",
+        "number": null,
+        "title": "update FrozenMolecule.remap to work for subclasses",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/1d2c0efdb154f7ffce00467c7ae9d222ec5f7563"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/1d2c0efdb154f7ffce00467c7ae9d222ec5f7563"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:1fa156f0fcc7ecb73103e50b2639caf78299612d",
+      "metadata": {
+        "authored_at": "2020-11-17T01:52:54Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "1d2c0efdb154f7ffce00467c7ae9d222ec5f7563"
+        ],
+        "sha": "1fa156f0fcc7ecb73103e50b2639caf78299612d"
+      },
+      "occurred_at": "2020-11-17T01:52:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MWZhMTU2ZjBmY2M3ZWNiNzMxMDNlNTBiMjYzOWNhZjc4Mjk5NjEyZA==",
+        "number": null,
+        "title": "add from_X tests for molecule subclasses",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/1fa156f0fcc7ecb73103e50b2639caf78299612d"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/1fa156f0fcc7ecb73103e50b2639caf78299612d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDMxNDQzOTA=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyODYzNjc0NQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyODYzNjc0NQ=="
+      },
+      "occurred_at": "2020-11-17T02:01:21Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-728636745"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:304833f67b253ec865412ac24e63ff8ef04a9e2c",
+      "metadata": {
+        "authored_at": "2020-11-17T02:02:36Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "1fa156f0fcc7ecb73103e50b2639caf78299612d"
+        ],
+        "sha": "304833f67b253ec865412ac24e63ff8ef04a9e2c"
+      },
+      "occurred_at": "2020-11-17T02:02:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MzA0ODMzZjY3YjI1M2VjODY1NDEyYWMyNGU2M2ZmOGVmMDRhOWUyYw==",
+        "number": null,
+        "title": "more extensive testing for molecule subclasses, fix from_qcschema",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/304833f67b253ec865412ac24e63ff8ef04a9e2c"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/304833f67b253ec865412ac24e63ff8ef04a9e2c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDMxNDQzOTA=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyODY0MDI3Mg==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyODY0MDI3Mg=="
+      },
+      "occurred_at": "2020-11-17T02:11:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-728640272"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:6595de982cfc5e35a59d6c20e79062ca16aebb63",
+      "metadata": {
+        "authored_at": "2020-11-17T17:58:23Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "304833f67b253ec865412ac24e63ff8ef04a9e2c"
+        ],
+        "sha": "6595de982cfc5e35a59d6c20e79062ca16aebb63"
+      },
+      "occurred_at": "2020-11-17T17:58:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NjU5NWRlOTgyY2ZjNWUzNWE1OWQ2YzIwZTc5MDYyY2ExNmFlYmI2Mw==",
+        "number": null,
+        "title": "make molecule subclass from_pdb_and_smiles only run on rdkit builds",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/6595de982cfc5e35a59d6c20e79062ca16aebb63"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/6595de982cfc5e35a59d6c20e79062ca16aebb63"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDMxNDQzOTA=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyOTEwNTk5Mw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyOTEwNTk5Mw=="
+      },
+      "occurred_at": "2020-11-17T18:07:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-729105993"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:cf189a5e79749925e53bab25cd63afd4cf103348",
+      "metadata": {
+        "authored_at": "2020-11-17T20:07:36Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "6595de982cfc5e35a59d6c20e79062ca16aebb63"
+        ],
+        "sha": "cf189a5e79749925e53bab25cd63afd4cf103348"
+      },
+      "occurred_at": "2020-11-17T20:08:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6Y2YxODlhNWU3OTc0OTkyNWU1M2JhYjI1Y2Q2M2FmZDRjZjEwMzM0OA==",
+        "number": null,
+        "title": "update from_iupac for molecule subclasses, add test",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/cf189a5e79749925e53bab25cd63afd4cf103348"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/cf189a5e79749925e53bab25cd63afd4cf103348"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:a871340804fccf18a11356e6d8ae983f45fd5023",
+      "metadata": {
+        "authored_at": "2020-11-17T20:08:35Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "cf189a5e79749925e53bab25cd63afd4cf103348"
+        ],
+        "sha": "a871340804fccf18a11356e6d8ae983f45fd5023"
+      },
+      "occurred_at": "2020-11-17T20:08:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YTg3MTM0MDgwNGZjY2YxOGExMTM1NmU2ZDhhZTk4M2Y0NWZkNTAyMw==",
+        "number": null,
+        "title": "fix ff.create_omm_sys docstring, polish dev docs",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/a871340804fccf18a11356e6d8ae983f45fd5023"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/a871340804fccf18a11356e6d8ae983f45fd5023"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:5b3433dee8fa37fd9de306ddf61bfc3762c77b7e",
+      "metadata": {
+        "authored_at": "2020-11-17T20:09:31Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "email": "jwagnerjpl@gmail.com",
+          "name": "j-wags"
+        },
+        "parent_shas": [
+          "a871340804fccf18a11356e6d8ae983f45fd5023"
+        ],
+        "sha": "5b3433dee8fa37fd9de306ddf61bfc3762c77b7e"
+      },
+      "occurred_at": "2020-11-17T20:09:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NWIzNDMzZGVlOGZhMzdmZDlkZTMwNmRkZjYxYmZjMzc2MmM3N2I3ZQ==",
+        "number": null,
+        "title": "black",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/5b3433dee8fa37fd9de306ddf61bfc3762c77b7e"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/5b3433dee8fa37fd9de306ddf61bfc3762c77b7e"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDMxNDQzOTA=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyOTE3NzEwMw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyOTE3NzEwMw=="
+      },
+      "occurred_at": "2020-11-17T20:18:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-729177103"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTMyODAxOTIy",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTMyODAxOTIy",
+        "state": "APPROVED",
+        "submitted_at": "2020-11-17T20:51:51Z"
+      },
+      "occurred_at": "2020-11-17T20:51:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#pullrequestreview-532801922"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyOTIwNzg0NA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyOTIwNzg0NA=="
+      },
+      "occurred_at": "2020-11-17T20:54:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-729207844"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyOTIwODMyMg==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyOTIwODMyMg=="
+      },
+      "occurred_at": "2020-11-17T20:55:20Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-729208322"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyNTUzMzI0NA==",
+      "metadata": {
+        "created_at": "2020-11-17T21:23:14Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2020-11-17T21:30:00Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTMyODIzNTYw",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyNTUzMzI0NA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzI5NTA1MTE3OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2020-11-17T21:30:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#discussion_r525533244"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyNTUzNTk5Ng==",
+      "metadata": {
+        "created_at": "2020-11-17T21:28:14Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2020-11-17T21:30:00Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTMyODIzNTYw",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyNTUzNTk5Ng==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzI5NTA2ODI1OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2020-11-17T21:30:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#discussion_r525535996"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTMyODIzNTYw",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTMyODIzNTYw",
+        "state": "APPROVED",
+        "submitted_at": "2020-11-17T21:30:00Z"
+      },
+      "occurred_at": "2020-11-17T21:30:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#pullrequestreview-532823560"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "co_author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:b63350d07e3edefbd49f8b4ff81e72c25dc1ebee",
+      "metadata": {
+        "authored_at": "2020-11-17T21:52:12Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "5b3433dee8fa37fd9de306ddf61bfc3762c77b7e"
+        ],
+        "sha": "b63350d07e3edefbd49f8b4ff81e72c25dc1ebee"
+      },
+      "occurred_at": "2020-11-17T21:52:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YjYzMzUwZDA3ZTNlZGVmYmQ0OWY4YjRmZjgxZTcyYzI1ZGMxZWJlZQ==",
+        "number": null,
+        "title": "Update docs/releasehistory.rst",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/b63350d07e3edefbd49f8b4ff81e72c25dc1ebee"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/b63350d07e3edefbd49f8b4ff81e72c25dc1ebee"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyNTU1MDY4OA==",
+      "metadata": {
+        "created_at": "2020-11-17T21:55:36Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2020-11-17T21:55:36Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTMyODQ1MzEy",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUyNTU1MDY4OA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzI5NTA1MTE3OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2020-11-17T21:55:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#discussion_r525550688"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTMyODQ1MzEy",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTMyODQ1MzEy",
+        "state": "COMMENTED",
+        "submitted_at": "2020-11-17T21:55:36Z"
+      },
+      "occurred_at": "2020-11-17T21:55:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#pullrequestreview-532845312"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:1183ea03102212a5da3df092a359bc63990b98c0",
+      "metadata": {
+        "authored_at": "2020-11-17T21:56:45Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "e8981cfde243a4e850b64708997ee7619c86f30f",
+          "b63350d07e3edefbd49f8b4ff81e72c25dc1ebee"
+        ],
+        "sha": "1183ea03102212a5da3df092a359bc63990b98c0"
+      },
+      "occurred_at": "2020-11-17T21:56:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MTE4M2VhMDMxMDIyMTJhNWRhM2RmMDkyYTM1OWJjNjM5OTBiOThjMA==",
+        "number": null,
+        "title": "Merge pull request #583 from openforcefield/toolkit-inheritance",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/1183ea03102212a5da3df092a359bc63990b98c0"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/1183ea03102212a5da3df092a359bc63990b98c0"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:MDExOk1lcmdlZEV2ZW50NDAwNzcxNTU4OA==",
+      "metadata": {
+        "merge_commit_sha": "1183ea03102212a5da3df092a359bc63990b98c0",
+        "source_node_id": "MDExOk1lcmdlZEV2ZW50NDAwNzcxNTU4OA=="
+      },
+      "occurred_at": "2020-11-17T21:56:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#event-4007715588"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDMxNDQzOTA=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyOTIzOTkzMA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyOTIzOTkzMA=="
+      },
+      "occurred_at": "2020-11-17T22:00:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI1NTk0Mzg=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NDA2NjQ4MjA3",
+        "number": 583,
+        "title": "Fix toolkit inheritance in classmethods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/583"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/583#issuecomment-729239930"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWU3NDUxNjc0MjY=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWU3NDUxNjc0MjY="
+      },
+      "occurred_at": "2020-11-17T23:37:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3NDUxNjc0MjY=",
+        "number": 772,
+        "title": "Make non-standard serialization dependencies optional",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/772"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/772"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDcyOTk3MDgzOA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDcyOTk3MDgzOA=="
+      },
+      "occurred_at": "2020-11-18T21:35:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTIxODc0NzI5",
+        "number": 770,
+        "title": "Clean up openforcefield/tests/utils.py, fix docstrings",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/770"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/770#issuecomment-729970838"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE5MTkxMjI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWU3NDk5OTY4NzI=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWU3NDk5OTY4NzI="
+      },
+      "occurred_at": "2020-11-24T19:59:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE5MTkxMjI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3NDk5OTY4NzI=",
+        "number": 773,
+        "title": "Topology.from_openmm/from_mdtraj don't autoconstruct unique_molecules — docstring wrong?",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/773"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/773"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDczMzIyODY3Mw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDczMzIyODY3Mw=="
+      },
+      "occurred_at": "2020-11-24T20:56:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE5MTkxMjI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3NDk5OTY4NzI=",
+        "number": 773,
+        "title": "Topology.from_openmm/from_mdtraj don't autoconstruct unique_molecules — docstring wrong?",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/773"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/773#issuecomment-733228673"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMwNzg0ODUw",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWU3NTAyNTQ4NDI=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWU3NTAyNTQ4NDI="
+      },
+      "occurred_at": "2020-11-25T01:41:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwNzg0ODUw",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3NTAyNTQ4NDI=",
+        "number": 774,
+        "title": "validate error when creating ForceField",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/774"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/774"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDczMzQyNTg2Mw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDczMzQyNTg2Mw=="
+      },
+      "occurred_at": "2020-11-25T02:40:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwNzg0ODUw",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3NTAyNTQ4NDI=",
+        "number": 774,
+        "title": "validate error when creating ForceField",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/774"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/774#issuecomment-733425863"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUzMDI3NjM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDczMzQ3NjcxOQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDczMzQ3NjcxOQ=="
+      },
+      "occurred_at": "2020-11-25T05:33:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUzMDI3NjM=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MzY0Mjc3MzU=",
+        "number": 761,
+        "title": "Smirnoff+Amber simulation",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/761"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/761#issuecomment-733476719"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUzMDI3NjM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDczMzQ4MjY1OQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDczMzQ4MjY1OQ=="
+      },
+      "occurred_at": "2020-11-25T05:51:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUzMDI3NjM=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3MzY0Mjc3MzU=",
+        "number": 761,
+        "title": "Smirnoff+Amber simulation",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/761"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/761#issuecomment-733482659"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUzMDI3NjM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWU3NTA0OTgzMzY=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWU3NTA0OTgzMzY="
+      },
+      "occurred_at": "2020-11-25T06:04:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUzMDI3NjM=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3NTA0OTgzMzY=",
+        "number": 775,
+        "title": "System with covalent bonds between amber and openff parts",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/775"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/775"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:47bc1a912ea7c480259b4e6df06880beda099818",
+      "metadata": {
+        "authored_at": "2020-11-25T15:53:55Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "1183ea03102212a5da3df092a359bc63990b98c0"
+        ],
+        "sha": "47bc1a912ea7c480259b4e6df06880beda099818"
+      },
+      "occurred_at": "2020-11-25T15:53:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NDdiYzFhOTEyZWE3YzQ4MDI1OWI0ZTZkZjA2ODgwYmVkYTA5OTgxOA==",
+        "number": null,
+        "title": "Raise exception when from_mdtraj is missing unique_molecules",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/47bc1a912ea7c480259b4e6df06880beda099818"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/47bc1a912ea7c480259b4e6df06880beda099818"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:MDExOlB1bGxSZXF1ZXN0NTI3NTQ1Mjc0",
+      "metadata": {
+        "source_node_id": "MDExOlB1bGxSZXF1ZXN0NTI3NTQ1Mjc0"
+      },
+      "occurred_at": "2020-11-25T15:59:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTI3NTQ1Mjc0",
+        "number": 776,
+        "title": "Update Topology.from_mdtraj",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/776"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/776"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDczMzgwOTQ5Nw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDczMzgwOTQ5Nw=="
+      },
+      "occurred_at": "2020-11-25T16:23:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTI3NTQ1Mjc0",
+        "number": 776,
+        "title": "Update Topology.from_mdtraj",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/776"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/776#issuecomment-733809497"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:073ee6fc0e2f35971e18ee62d6b1ab4667e486ea",
+      "metadata": {
+        "authored_at": "2020-11-25T17:12:12Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "47bc1a912ea7c480259b4e6df06880beda099818"
+        ],
+        "sha": "073ee6fc0e2f35971e18ee62d6b1ab4667e486ea"
+      },
+      "occurred_at": "2020-11-25T17:12:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MDczZWU2ZmMwZTJmMzU5NzFlMThlZTYyZDZiMWFiNDY2N2U0ODZlYQ==",
+        "number": null,
+        "title": "Update docstrings related to unique_molecules",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/073ee6fc0e2f35971e18ee62d6b1ab4667e486ea"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/073ee6fc0e2f35971e18ee62d6b1ab4667e486ea"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUzMjY3NzE2NA==",
+      "metadata": {
+        "created_at": "2020-11-30T15:22:41Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2020-11-30T15:24:46Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTQxMDEyMTYy",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUzMjY3NzE2NA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzM0MTg0NTYyOnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2020-11-30T15:24:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTI3NTQ1Mjc0",
+        "number": 776,
+        "title": "Update Topology.from_mdtraj",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/776"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/776#discussion_r532677164"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUzMjY3NzM0Nw==",
+      "metadata": {
+        "created_at": "2020-11-30T15:22:56Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2020-11-30T15:24:46Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTQxMDEyMTYy",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUzMjY3NzM0Nw==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzM0MTg0Njc1OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2020-11-30T15:24:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTI3NTQ1Mjc0",
+        "number": 776,
+        "title": "Update Topology.from_mdtraj",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/776"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/776#discussion_r532677347"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTQxMDEyMTYy",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTQxMDEyMTYy",
+        "state": "APPROVED",
+        "submitted_at": "2020-11-30T15:24:46Z"
+      },
+      "occurred_at": "2020-11-30T15:24:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTI3NTQ1Mjc0",
+        "number": 776,
+        "title": "Update Topology.from_mdtraj",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/776"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/776#pullrequestreview-541012162"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:8ed71b0f0056e28a44a2ec089f0508a650724be2",
+      "metadata": {
+        "authored_at": "2020-11-30T15:30:17Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "073ee6fc0e2f35971e18ee62d6b1ab4667e486ea"
+        ],
+        "sha": "8ed71b0f0056e28a44a2ec089f0508a650724be2"
+      },
+      "occurred_at": "2020-11-30T15:30:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6OGVkNzFiMGYwMDU2ZTI4YTQ0YTJlYzA4OWYwNTA4YTY1MDcyNGJlMg==",
+        "number": null,
+        "title": "Test default unique_molecules",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/8ed71b0f0056e28a44a2ec089f0508a650724be2"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/8ed71b0f0056e28a44a2ec089f0508a650724be2"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMwNzg0ODUw",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDczNTg5MTU3Nw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDczNTg5MTU3Nw=="
+      },
+      "occurred_at": "2020-11-30T16:25:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwNzg0ODUw",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3NTAyNTQ4NDI=",
+        "number": 774,
+        "title": "validate error when creating ForceField",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/774"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/774#issuecomment-735891577"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:17ec41eb19ebc49d5ea6dce75bda26dad9de98e3",
+      "metadata": {
+        "authored_at": "2020-11-30T17:50:12Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "1183ea03102212a5da3df092a359bc63990b98c0"
+        ],
+        "sha": "17ec41eb19ebc49d5ea6dce75bda26dad9de98e3"
+      },
+      "occurred_at": "2020-11-30T17:50:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MTdlYzQxZWIxOWViYzQ5ZDVlYTZkY2U3NWJkYTI2ZGFkOWRlOThlMw==",
+        "number": null,
+        "title": "un-hide toolkitregistry notes in developing.rst",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/17ec41eb19ebc49d5ea6dce75bda26dad9de98e3"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/17ec41eb19ebc49d5ea6dce75bda26dad9de98e3"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:3fda6f7bef8cec80c86a582105c18ed89d1ea689",
+      "metadata": {
+        "authored_at": "2020-11-30T21:48:09Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "8ed71b0f0056e28a44a2ec089f0508a650724be2"
+        ],
+        "sha": "3fda6f7bef8cec80c86a582105c18ed89d1ea689"
+      },
+      "occurred_at": "2020-11-30T21:48:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6M2ZkYTZmN2JlZjhjZWM4MGM4NmE1ODIxMDVjMThlZDg5ZDFlYTY4OQ==",
+        "number": null,
+        "title": "Docs: Update and fix changelog",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/3fda6f7bef8cec80c86a582105c18ed89d1ea689"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/3fda6f7bef8cec80c86a582105c18ed89d1ea689"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:70dc201badfcc1b6582465323b2776f04a6c5076",
+      "metadata": {
+        "authored_at": "2020-11-30T21:48:36Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "3fda6f7bef8cec80c86a582105c18ed89d1ea689",
+          "17ec41eb19ebc49d5ea6dce75bda26dad9de98e3"
+        ],
+        "sha": "70dc201badfcc1b6582465323b2776f04a6c5076"
+      },
+      "occurred_at": "2020-11-30T21:48:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NzBkYzIwMWJhZGZjYzFiNjU4MjQ2NTMyM2IyNzc2ZjA0YTZjNTA3Ng==",
+        "number": null,
+        "title": "Merge remote-tracking branch 'upstream/master' into from-mdtraj",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/70dc201badfcc1b6582465323b2776f04a6c5076"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/70dc201badfcc1b6582465323b2776f04a6c5076"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUzMjk0Nzk4Nw==",
+      "metadata": {
+        "created_at": "2020-11-30T22:35:10Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2020-11-30T22:35:19Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTQxMzUwMTEz",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDUzMjk0Nzk4Nw==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzM0MzU4Mzk5OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2020-11-30T22:35:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTI3NTQ1Mjc0",
+        "number": 776,
+        "title": "Update Topology.from_mdtraj",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/776"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/776#discussion_r532947987"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTQxMzUwMTEz",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NTQxMzUwMTEz",
+        "state": "COMMENTED",
+        "submitted_at": "2020-11-30T22:35:19Z"
+      },
+      "occurred_at": "2020-11-30T22:35:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTI3NTQ1Mjc0",
+        "number": 776,
+        "title": "Update Topology.from_mdtraj",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/776"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/776#pullrequestreview-541350113"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:11be1f592465dffbf9b1eb680405916b0b3b1a0d",
+      "metadata": {
+        "authored_at": "2020-11-30T22:36:29Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "email": "mattwthompson@protonmail.com",
+          "name": "Matthew W. Thompson"
+        },
+        "parent_shas": [
+          "70dc201badfcc1b6582465323b2776f04a6c5076"
+        ],
+        "sha": "11be1f592465dffbf9b1eb680405916b0b3b1a0d"
+      },
+      "occurred_at": "2020-11-30T22:36:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MTFiZTFmNTkyNDY1ZGZmYmY5YjFlYjY4MDQwNTkxNmIwYjNiMWEwZA==",
+        "number": null,
+        "title": "Docs: Fix typo in changelog",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/11be1f592465dffbf9b1eb680405916b0b3b1a0d"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/11be1f592465dffbf9b1eb680405916b0b3b1a0d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDczNjEwOTM4OA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDczNjEwOTM4OA=="
+      },
+      "occurred_at": "2020-11-30T23:07:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTE1Nzc2Mzk0",
+        "number": 763,
+        "title": "Add \"toolkit showcase\" example",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/763"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/763#issuecomment-736109388"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:76571d2fccba227a80cb5477669d96d38f1ad6af",
+      "metadata": {
+        "authored_at": "2020-11-30T23:47:04Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "17ec41eb19ebc49d5ea6dce75bda26dad9de98e3",
+          "11be1f592465dffbf9b1eb680405916b0b3b1a0d"
+        ],
+        "sha": "76571d2fccba227a80cb5477669d96d38f1ad6af"
+      },
+      "occurred_at": "2020-11-30T23:47:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NzY1NzFkMmZjY2JhMjI3YTgwY2I1NDc3NjY5ZDk2ZDM4ZjFhZDZhZg==",
+        "number": null,
+        "title": "Merge pull request #776 from openforcefield/from-mdtraj",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/76571d2fccba227a80cb5477669d96d38f1ad6af"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/76571d2fccba227a80cb5477669d96d38f1ad6af"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:MDExOkNsb3NlZEV2ZW50NDA1NDQ0OTc2MQ==",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "MDExOkNsb3NlZEV2ZW50NDA1NDQ0OTc2MQ=="
+      },
+      "occurred_at": "2020-11-30T23:47:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE5MTkxMjI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3NDk5OTY4NzI=",
+        "number": 773,
+        "title": "Topology.from_openmm/from_mdtraj don't autoconstruct unique_molecules — docstring wrong?",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/773"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/773#event-4054449761"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:MDExOk1lcmdlZEV2ZW50NDA1NDQ0OTc2MA==",
+      "metadata": {
+        "merge_commit_sha": "76571d2fccba227a80cb5477669d96d38f1ad6af",
+        "source_node_id": "MDExOk1lcmdlZEV2ZW50NDA1NDQ0OTc2MA=="
+      },
+      "occurred_at": "2020-11-30T23:47:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NTI3NTQ1Mjc0",
+        "number": 776,
+        "title": "Update Topology.from_mdtraj",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/776"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/776#event-4054449760"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDczNjEyMzI5MQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDczNjEyMzI5MQ=="
+      },
+      "occurred_at": "2020-11-30T23:47:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE5MTkxMjI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWU3NDk5OTY4NzI=",
+        "number": 773,
+        "title": "Topology.from_openmm/from_mdtraj don't autoconstruct unique_molecules — docstring wrong?",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/773"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/773#issuecomment-736123291"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "bot",
+      "database_id": 22429695,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90MjI0Mjk2OTU=",
+      "key": "MDM6Qm90MjI0Mjk2OTU=",
+      "login": "codecov",
+      "url": "https://github.com/apps/codecov"
+    },
+    {
+      "classification": "bot",
+      "database_id": 43144390,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90NDMxNDQzOTA=",
+      "key": "MDM6Qm90NDMxNDQzOTA=",
+      "login": "lgtm-com",
+      "url": "https://github.com/apps/lgtm-com"
+    },
+    {
+      "classification": "bot",
+      "database_id": 49699333,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90NDk2OTkzMzM=",
+      "key": "MDM6Qm90NDk2OTkzMzM=",
+      "login": "dependabot",
+      "url": "https://github.com/apps/dependabot"
+    },
+    {
+      "classification": "human",
+      "database_id": 16329175,
+      "display_name": "Jeff Wagner",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE2MzI5MTc1",
+      "key": "MDQ6VXNlcjE2MzI5MTc1",
+      "login": "j-wags",
+      "url": "https://github.com/j-wags"
+    },
+    {
+      "classification": "human",
+      "database_id": 1919122,
+      "display_name": "Corin Wagen",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE5MTkxMjI=",
+      "key": "MDQ6VXNlcjE5MTkxMjI=",
+      "login": "corinwagen",
+      "url": "https://github.com/corinwagen"
+    },
+    {
+      "classification": "human",
+      "database_id": 2559438,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjI1NTk0Mzg=",
+      "key": "MDQ6VXNlcjI1NTk0Mzg=",
+      "login": "jaimergp",
+      "url": "https://github.com/jaimergp"
+    },
+    {
+      "classification": "human",
+      "database_id": 22272126,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjIyMjcyMTI2",
+      "key": "MDQ6VXNlcjIyMjcyMTI2",
+      "login": "SimonBoothroyd",
+      "url": "https://github.com/SimonBoothroyd"
+    },
+    {
+      "classification": "human",
+      "database_id": 2280724,
+      "display_name": "Yutong Zhao",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjIyODA3MjQ=",
+      "key": "MDQ6VXNlcjIyODA3MjQ=",
+      "login": "proteneer",
+      "url": "https://github.com/proteneer"
+    },
+    {
+      "classification": "human",
+      "database_id": 3656088,
+      "display_name": "John Chodera",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjM2NTYwODg=",
+      "key": "MDQ6VXNlcjM2NTYwODg=",
+      "login": "jchodera",
+      "url": "https://github.com/jchodera"
+    },
+    {
+      "classification": "human",
+      "database_id": 30784850,
+      "display_name": "Jessica Maat",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjMwNzg0ODUw",
+      "key": "MDQ6VXNlcjMwNzg0ODUw",
+      "login": "jmaat",
+      "url": "https://github.com/jmaat"
+    },
+    {
+      "classification": "human",
+      "database_id": 5759036,
+      "display_name": "Josh Fass",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjU3NTkwMzY=",
+      "key": "MDQ6VXNlcjU3NTkwMzY=",
+      "login": "maxentile",
+      "url": "https://github.com/maxentile"
+    },
+    {
+      "classification": "human",
+      "database_id": 50244806,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjUwMjQ0ODA2",
+      "key": "MDQ6VXNlcjUwMjQ0ODA2",
+      "login": "trevorgokey",
+      "url": "https://github.com/trevorgokey"
+    },
+    {
+      "classification": "human",
+      "database_id": 5302763,
+      "display_name": "Alex Izvorski",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjUzMDI3NjM=",
+      "key": "MDQ6VXNlcjUzMDI3NjM=",
+      "login": "aizvorski",
+      "url": "https://github.com/aizvorski"
+    },
+    {
+      "classification": "human",
+      "database_id": 7935382,
+      "display_name": "Matt Thompson",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjc5MzUzODI=",
+      "key": "MDQ6VXNlcjc5MzUzODI=",
+      "login": "mattwthompson",
+      "url": "https://github.com/mattwthompson"
+    },
+    {
+      "classification": "unresolved_git",
+      "database_id": null,
+      "display_name": null,
+      "git_email": "noreply@github.com",
+      "git_name": "GitHub",
+      "github_node_id": null,
+      "key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+      "login": null,
+      "url": null
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-18T01:48:26.293011Z",
+    "collection_started_at": "2026-10-18T01:43:32.631495Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "ef074d58a2e7b03625aae7cd3aff87a8ee46c38b",
+    "month": "2020-11",
+    "month_end": "2020-12-01T00:00:00Z",
+    "month_start": "2020-11-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "openforcefield/openff-toolkit",
+    "repository_node_id": "MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==",
+    "repository_url": "https://github.com/openforcefield/openff-toolkit"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDM6Qm90MjI0Mjk2OTU=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 11,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDM6Qm90NDMxNDQzOTA=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 10,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDM6Qm90NDk2OTkzMzM=": {
+        "commit": 2,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 2,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjE2MzI5MTc1": {
+        "commit": 25,
+        "issue_closed": 1,
+        "issue_comment": 4,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 3,
+        "pr_inline_review_comment": 6,
+        "pr_merged": 2,
+        "pr_opened": 1,
+        "pr_review": 8
+      },
+      "MDQ6VXNlcjE5MTkxMjI=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjI1NTk0Mzg=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjM2NTYwODg=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjMwNzg0ODUw": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 1,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjUzMDI3NjM=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 5,
+        "issue_opened": 2,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjc5MzUzODI=": {
+        "commit": 35,
+        "issue_closed": 7,
+        "issue_comment": 8,
+        "issue_opened": 3,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 11,
+        "pr_inline_review_comment": 4,
+        "pr_merged": 7,
+        "pr_opened": 6,
+        "pr_review": 5
+      }
+    },
+    "distinct_actors": {
+      "bot": 3,
+      "human": 7,
+      "total": 10,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 1,
+        "human": 2,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 6,
+        "total": 6,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 2,
+        "human": 3,
+        "total": 5,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 1,
+        "human": 2,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 59,
+      "issue_closed": 8,
+      "issue_comment": 18,
+      "issue_opened": 9,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 36,
+      "pr_inline_review_comment": 10,
+      "pr_merged": 9,
+      "pr_opened": 9,
+      "pr_review": 13
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}

@@ -1,0 +1,1562 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M6rsXHk",
+      "metadata": {
+        "created_at": "2026-03-03T21:19:37Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-03T21:19:50Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M7nkfHV",
+        "source_node_id": "PRRC_kwDOBS3A-M6rsXHk",
+        "thread_node_id": "PRRT_kwDOBS3A-M5x6YJX",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-03T21:19:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MTY2MDI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7GUwvD",
+        "number": 2158,
+        "title": "update citation instructions in readme",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2158"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2158#discussion_r2880532964"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M7nkfHV",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M7nkfHV",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-03T21:19:50Z"
+      },
+      "occurred_at": "2026-03-03T21:19:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MTY2MDI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7GUwvD",
+        "number": 2158,
+        "title": "update citation instructions in readme",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2158"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2158#pullrequestreview-3885101525"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M7ud8GB",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M7ud8GB"
+      },
+      "occurred_at": "2026-03-04T22:56:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MTY2MDI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7GUwvD",
+        "number": 2158,
+        "title": "update citation instructions in readme",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2158"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2158#issuecomment-4000825729"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MTY2MDI=",
+          "role": "author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "co_author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:7c738b26a10e90cec5e0fa6320d46817e4cee8a3",
+      "metadata": {
+        "authored_at": "2026-03-04T22:56:30Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "1828a877ee4c3ac1a018166337a9d5bad6b5a4f6"
+        ],
+        "sha": "7c738b26a10e90cec5e0fa6320d46817e4cee8a3"
+      },
+      "occurred_at": "2026-03-04T22:56:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MTY2MDI=",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDdjNzM4YjI2YTEwZTkwY2VjNWUwZmE2MzIwZDQ2ODE3ZTRjZWU4YTM",
+        "number": null,
+        "title": "update citation instructions in readme (#2158)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/7c738b26a10e90cec5e0fa6320d46817e4cee8a3"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/7c738b26a10e90cec5e0fa6320d46817e4cee8a3"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M7t5pZkzwAAAAVrY8-1",
+      "metadata": {
+        "merge_commit_sha": "7c738b26a10e90cec5e0fa6320d46817e4cee8a3",
+        "source_node_id": "ME_lADOBS3A-M7t5pZkzwAAAAVrY8-1"
+      },
+      "occurred_at": "2026-03-04T22:56:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MTY2MDI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7GUwvD",
+        "number": 2158,
+        "title": "update citation instructions in readme",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2158"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2158#event-23276539829"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "U_kgDOBjqdCw",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOBS3A-M7wHLPF",
+      "metadata": {
+        "source_node_id": "I_kwDOBS3A-M7wHLPF"
+      },
+      "occurred_at": "2026-03-05T14:01:41Z",
+      "subject": {
+        "author_key": "U_kgDOBjqdCw",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7wHLPF",
+        "number": 2159,
+        "title": "mmCIF/PDBx support",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2159"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2159"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M7uviI0",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M7uviI0"
+      },
+      "occurred_at": "2026-03-05T14:24:41Z",
+      "subject": {
+        "author_key": "U_kgDOBjqdCw",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7wHLPF",
+        "number": 2159,
+        "title": "mmCIF/PDBx support",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2159"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2159#issuecomment-4005438004"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOBS3A-M7InHOu",
+      "metadata": {
+        "source_node_id": "PR_kwDOBS3A-M7InHOu"
+      },
+      "occurred_at": "2026-03-06T21:55:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7InHOu",
+        "number": 2160,
+        "title": "Improve `Molecule.remap` docstring",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2160"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2160"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M7o1SgQ",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M7o1SgQ",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-06T22:09:05Z"
+      },
+      "occurred_at": "2026-03-06T22:09:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7InHOu",
+        "number": 2160,
+        "title": "Improve `Molecule.remap` docstring",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2160"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2160#pullrequestreview-3906283536"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M7vR3Sm",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M7vR3Sm"
+      },
+      "occurred_at": "2026-03-06T22:11:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7InHOu",
+        "number": 2160,
+        "title": "Improve `Molecule.remap` docstring",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2160"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2160#issuecomment-4014437542"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:329a5c8b29a57ddb7adfb7995ea36ea354bec8ac",
+      "metadata": {
+        "authored_at": "2026-03-10T03:08:47Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "7c738b26a10e90cec5e0fa6320d46817e4cee8a3"
+        ],
+        "sha": "329a5c8b29a57ddb7adfb7995ea36ea354bec8ac"
+      },
+      "occurred_at": "2026-03-10T03:08:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDMyOWE1YzhiMjlhNTdkZGI3YWRmYjc5OTVlYTM2ZWEzNTRiZWM4YWM",
+        "number": null,
+        "title": "Improve `Molecule.remap` docstring (#2160)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/329a5c8b29a57ddb7adfb7995ea36ea354bec8ac"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/329a5c8b29a57ddb7adfb7995ea36ea354bec8ac"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M7wlaAczwAAAAVzwq7f",
+      "metadata": {
+        "merge_commit_sha": "329a5c8b29a57ddb7adfb7995ea36ea354bec8ac",
+        "source_node_id": "ME_lADOBS3A-M7wlaAczwAAAAVzwq7f"
+      },
+      "occurred_at": "2026-03-10T03:08:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7InHOu",
+        "number": 2160,
+        "title": "Improve `Molecule.remap` docstring",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2160"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2160#event-23416975071"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE1MTMyMjM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOBS3A-M7x098c",
+      "metadata": {
+        "source_node_id": "I_kwDOBS3A-M7x098c"
+      },
+      "occurred_at": "2026-03-11T10:03:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE1MTMyMjM=",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7x098c",
+        "number": 2161,
+        "title": "Running protein-ligand example results in NoPositionsError",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2161"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2161"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M7wwe-P",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M7wwe-P"
+      },
+      "occurred_at": "2026-03-11T13:31:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE1MTMyMjM=",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7x098c",
+        "number": 2161,
+        "title": "Running protein-ligand example results in NoPositionsError",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2161"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2161#issuecomment-4039241615"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOBS3A-M7x6B4C",
+      "metadata": {
+        "source_node_id": "I_kwDOBS3A-M7x6B4C"
+      },
+      "occurred_at": "2026-03-11T14:19:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7x6B4C",
+        "number": 2162,
+        "title": "Update examples to use Interchange 0.5",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2162"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2162"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOBS3A-M7Jus8o",
+      "metadata": {
+        "source_node_id": "PR_kwDOBS3A-M7Jus8o"
+      },
+      "occurred_at": "2026-03-11T14:36:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7Jus8o",
+        "number": 2163,
+        "title": "Bump Interchange to 0.5 in tests and examples",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2163"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2163"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M7wybJO",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M7wybJO"
+      },
+      "occurred_at": "2026-03-11T14:47:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE1MTMyMjM=",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7x098c",
+        "number": 2161,
+        "title": "Running protein-ligand example results in NoPositionsError",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2161"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2161#issuecomment-4039750222"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M7wzzoo",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M7wzzoo"
+      },
+      "occurred_at": "2026-03-11T15:38:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7Jus8o",
+        "number": 2163,
+        "title": "Bump Interchange to 0.5 in tests and examples",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2163"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2163#issuecomment-4040112680"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE1MTMyMjM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M7wz4iw",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M7wz4iw"
+      },
+      "occurred_at": "2026-03-11T15:41:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE1MTMyMjM=",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7x098c",
+        "number": 2161,
+        "title": "Running protein-ligand example results in NoPositionsError",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2161"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2161#issuecomment-4040132784"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M7w0AzL",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M7w0AzL"
+      },
+      "occurred_at": "2026-03-11T15:47:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE1MTMyMjM=",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7x098c",
+        "number": 2161,
+        "title": "Running protein-ligand example results in NoPositionsError",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2161"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2161#issuecomment-4040166603"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M6uAZDj",
+      "metadata": {
+        "created_at": "2026-03-11T15:55:35Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-11T15:55:35Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M7qSYN9",
+        "source_node_id": "PRRC_kwDOBS3A-M6uAZDj",
+        "thread_node_id": "PRRT_kwDOBS3A-M5zo6RA",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-11T15:55:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7Jus8o",
+        "number": 2163,
+        "title": "Bump Interchange to 0.5 in tests and examples",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2163"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2163#discussion_r2919338211"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M7qSYN9",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M7qSYN9",
+        "state": "COMMENTED",
+        "submitted_at": "2026-03-11T15:55:35Z"
+      },
+      "occurred_at": "2026-03-11T15:55:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7Jus8o",
+        "number": 2163,
+        "title": "Bump Interchange to 0.5 in tests and examples",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2163"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2163#pullrequestreview-3930686333"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE1MTMyMjM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M7w0qU0",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M7w0qU0"
+      },
+      "occurred_at": "2026-03-11T16:08:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE1MTMyMjM=",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7x098c",
+        "number": 2161,
+        "title": "Running protein-ligand example results in NoPositionsError",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2161"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2161#issuecomment-4040336692"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M7w1CeB",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M7w1CeB"
+      },
+      "occurred_at": "2026-03-11T16:23:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE1MTMyMjM=",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7x098c",
+        "number": 2161,
+        "title": "Running protein-ligand example results in NoPositionsError",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2161"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2161#issuecomment-4040435585"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M6ufEoq",
+      "metadata": {
+        "created_at": "2026-03-12T21:03:56Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-12T21:16:34Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M7q08WR",
+        "source_node_id": "PRRC_kwDOBS3A-M6ufEoq",
+        "thread_node_id": "PRRT_kwDOBS3A-M5zo6RA",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-12T21:16:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7Jus8o",
+        "number": 2163,
+        "title": "Bump Interchange to 0.5 in tests and examples",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2163"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2163#discussion_r2927381034"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M6ufUjM",
+      "metadata": {
+        "created_at": "2026-03-12T21:16:26Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-03-12T21:16:34Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M7q08WR",
+        "source_node_id": "PRRC_kwDOBS3A-M6ufUjM",
+        "thread_node_id": "PRRT_kwDOBS3A-M5z_338",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-03-12T21:16:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7Jus8o",
+        "number": 2163,
+        "title": "Bump Interchange to 0.5 in tests and examples",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2163"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2163#discussion_r2927446220"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M7q08WR",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M7q08WR",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-12T21:16:34Z"
+      },
+      "occurred_at": "2026-03-12T21:16:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7Jus8o",
+        "number": 2163,
+        "title": "Bump Interchange to 0.5 in tests and examples",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2163"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2163#pullrequestreview-3939747217"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOBS3A-M7ywhw9",
+      "metadata": {
+        "source_node_id": "I_kwDOBS3A-M7ywhw9"
+      },
+      "occurred_at": "2026-03-13T18:43:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7ywhw9",
+        "number": 2164,
+        "title": "Failing GH link checks are causing CI to fail",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2164"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2164"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOBS3A-M7KfvhG",
+      "metadata": {
+        "source_node_id": "PR_kwDOBS3A-M7KfvhG"
+      },
+      "occurred_at": "2026-03-13T22:25:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7KfvhG",
+        "number": 2165,
+        "title": "Fix README link checks",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2165"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2165"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M7x5soS",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M7x5soS"
+      },
+      "occurred_at": "2026-03-13T22:34:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7KfvhG",
+        "number": 2165,
+        "title": "Fix README link checks",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2165"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2165#issuecomment-4058434066"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:c70bda93c446d7bb9d496c081e3dd9c2da5d04a5",
+      "metadata": {
+        "authored_at": "2026-03-16T16:14:56Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "329a5c8b29a57ddb7adfb7995ea36ea354bec8ac"
+        ],
+        "sha": "c70bda93c446d7bb9d496c081e3dd9c2da5d04a5"
+      },
+      "occurred_at": "2026-03-16T16:14:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKGM3MGJkYTkzYzQ0NmQ3YmI5ZDQ5NmMwODFlM2RkOWMyZGE1ZDA0YTU",
+        "number": null,
+        "title": "Fix README link checks (#2165)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/c70bda93c446d7bb9d496c081e3dd9c2da5d04a5"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/c70bda93c446d7bb9d496c081e3dd9c2da5d04a5"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M7yz2SvzwAAAAV_fN76",
+      "metadata": {
+        "merge_commit_sha": "c70bda93c446d7bb9d496c081e3dd9c2da5d04a5",
+        "source_node_id": "ME_lADOBS3A-M7yz2SvzwAAAAV_fN76"
+      },
+      "occurred_at": "2026-03-16T16:14:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7KfvhG",
+        "number": 2165,
+        "title": "Fix README link checks",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2165"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2165#event-23613726458"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOBS3A-M7ywhw9zwAAAAV_fOMC",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOBS3A-M7ywhw9zwAAAAV_fOMC"
+      },
+      "occurred_at": "2026-03-16T16:14:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7ywhw9",
+        "number": 2164,
+        "title": "Failing GH link checks are causing CI to fail",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2164"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2164#event-23613727490"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:5b91bcdf96b204d1bfda63eca14eb5ee4563aaae",
+      "metadata": {
+        "authored_at": "2026-03-16T20:18:42Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "c70bda93c446d7bb9d496c081e3dd9c2da5d04a5"
+        ],
+        "sha": "5b91bcdf96b204d1bfda63eca14eb5ee4563aaae"
+      },
+      "occurred_at": "2026-03-16T20:18:42Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDViOTFiY2RmOTZiMjA0ZDFiZmRhNjNlY2ExNGViNWVlNDU2M2FhYWU",
+        "number": null,
+        "title": "Bump Interchange to 0.5 in tests and examples (#2163)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/5b91bcdf96b204d1bfda63eca14eb5ee4563aaae"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/5b91bcdf96b204d1bfda63eca14eb5ee4563aaae"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M7x6bjfzwAAAAV_6nKv",
+      "metadata": {
+        "merge_commit_sha": "5b91bcdf96b204d1bfda63eca14eb5ee4563aaae",
+        "source_node_id": "ME_lADOBS3A-M7x6bjfzwAAAAV_6nKv"
+      },
+      "occurred_at": "2026-03-16T20:18:42Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7Jus8o",
+        "number": 2163,
+        "title": "Bump Interchange to 0.5 in tests and examples",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2163"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2163#event-23620907695"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOBS3A-M7x098czwAAAAV_6nZw",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOBS3A-M7x098czwAAAAV_6nZw"
+      },
+      "occurred_at": "2026-03-16T20:18:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE1MTMyMjM=",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7x098c",
+        "number": 2161,
+        "title": "Running protein-ligand example results in NoPositionsError",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2161"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2161#event-23620908656"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOBS3A-M7x6B4CzwAAAAV_6nfs",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOBS3A-M7x6B4CzwAAAAV_6nfs"
+      },
+      "occurred_at": "2026-03-16T20:18:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7x6B4C",
+        "number": 2162,
+        "title": "Update examples to use Interchange 0.5",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2162"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2162#event-23620909036"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M7u6plY",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M7u6plY",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-25T17:05:16Z"
+      },
+      "occurred_at": "2026-03-25T17:05:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6yAYoW",
+        "number": 2120,
+        "title": "Remove most stability/suitability/experimental warnings",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2120"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2120#pullrequestreview-4008352088"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:9b6189d1ff77be44b21f33715a03845436594e8e",
+      "metadata": {
+        "authored_at": "2026-03-25T20:02:34Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "5b91bcdf96b204d1bfda63eca14eb5ee4563aaae"
+        ],
+        "sha": "9b6189d1ff77be44b21f33715a03845436594e8e"
+      },
+      "occurred_at": "2026-03-25T20:02:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDliNjE4OWQxZmY3N2JlNDRiMjFmMzM3MTVhMDM4NDU0MzY1OTRlOGU",
+        "number": null,
+        "title": "Remove most stability/suitability/experimental warnings (#2120)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/9b6189d1ff77be44b21f33715a03845436594e8e"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/9b6189d1ff77be44b21f33715a03845436594e8e"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M7WcqVdzwAAAAWQ5rWY",
+      "metadata": {
+        "merge_commit_sha": "9b6189d1ff77be44b21f33715a03845436594e8e",
+        "source_node_id": "ME_lADOBS3A-M7WcqVdzwAAAAWQ5rWY"
+      },
+      "occurred_at": "2026-03-25T20:02:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6yAYoW",
+        "number": 2120,
+        "title": "Remove most stability/suitability/experimental warnings",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2120"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2120#event-23905875352"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOBS3A-M6_8DkQzwAAAAWQ5rjW",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOBS3A-M6_8DkQzwAAAAWQ5rjW"
+      },
+      "occurred_at": "2026-03-25T20:02:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M6_8DkQ",
+        "number": 2082,
+        "title": "Remove all instances of \"This API is experimental\"/\"not final\"/\"subject to change\"",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2082"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2082#event-23905876182"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDk2OTkzMzM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOBS3A-M7N4l4n",
+      "metadata": {
+        "source_node_id": "PR_kwDOBS3A-M7N4l4n"
+      },
+      "occurred_at": "2026-03-26T23:07:25Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7N4l4n",
+        "number": 2166,
+        "title": "Bump codecov/codecov-action from 5 to 6",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2166"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2166"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M7v2A3G",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M7v2A3G",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-27T21:59:52Z"
+      },
+      "occurred_at": "2026-03-27T21:59:52Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7N4l4n",
+        "number": 2166,
+        "title": "Bump codecov/codecov-action from 5 to 6",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2166"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2166#pullrequestreview-4023913926"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDk2OTkzMzM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:59c8d9b3c622e74f4267b21abd5a546e71ec45b1",
+      "metadata": {
+        "authored_at": "2026-03-27T21:59:58Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "9b6189d1ff77be44b21f33715a03845436594e8e"
+        ],
+        "sha": "59c8d9b3c622e74f4267b21abd5a546e71ec45b1"
+      },
+      "occurred_at": "2026-03-27T21:59:58Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDU5YzhkOWIzYzYyMmU3NGY0MjY3YjIxYWJkNWE1NDZlNzFlYzQ1YjE",
+        "number": null,
+        "title": "Bump codecov/codecov-action from 5 to 6 (#2166)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/59c8d9b3c622e74f4267b21abd5a546e71ec45b1"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/59c8d9b3c622e74f4267b21abd5a546e71ec45b1"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M73O_LJzwAAAAWVtEFz",
+      "metadata": {
+        "merge_commit_sha": "59c8d9b3c622e74f4267b21abd5a546e71ec45b1",
+        "source_node_id": "ME_lADOBS3A-M73O_LJzwAAAAWVtEFz"
+      },
+      "occurred_at": "2026-03-27T21:59:58Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7N4l4n",
+        "number": 2166,
+        "title": "Bump codecov/codecov-action from 5 to 6",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2166"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2166#event-23986454899"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDk2OTkzMzM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOBS3A-M7OLgx8",
+      "metadata": {
+        "source_node_id": "PR_kwDOBS3A-M7OLgx8"
+      },
+      "occurred_at": "2026-03-27T23:02:21Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7OLgx8",
+        "number": 2167,
+        "title": "Bump mamba-org/setup-micromamba from 2 to 3",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2167"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2167"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M7wSS-P",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M7wSS-P",
+        "state": "APPROVED",
+        "submitted_at": "2026-03-30T15:11:18Z"
+      },
+      "occurred_at": "2026-03-30T15:11:18Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7OLgx8",
+        "number": 2167,
+        "title": "Bump mamba-org/setup-micromamba from 2 to 3",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2167"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2167#pullrequestreview-4031328143"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDk2OTkzMzM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:1f972262eb836907b04a322acb89a591cc65fb3d",
+      "metadata": {
+        "authored_at": "2026-03-30T15:11:26Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "59c8d9b3c622e74f4267b21abd5a546e71ec45b1"
+        ],
+        "sha": "1f972262eb836907b04a322acb89a591cc65fb3d"
+      },
+      "occurred_at": "2026-03-30T15:11:26Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDFmOTcyMjYyZWI4MzY5MDdiMDRhMzIyYWNiODlhNTkxY2M2NWZiM2Q",
+        "number": null,
+        "title": "Bump mamba-org/setup-micromamba from 2 to 3 (#2167)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/1f972262eb836907b04a322acb89a591cc65fb3d"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/1f972262eb836907b04a322acb89a591cc65fb3d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M73vUWvzwAAAAWY5127",
+      "metadata": {
+        "merge_commit_sha": "1f972262eb836907b04a322acb89a591cc65fb3d",
+        "source_node_id": "ME_lADOBS3A-M73vUWvzwAAAAWY5127"
+      },
+      "occurred_at": "2026-03-30T15:11:26Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7OLgx8",
+        "number": 2167,
+        "title": "Bump mamba-org/setup-micromamba from 2 to 3",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2167"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2167#event-24040136123"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "bot",
+      "database_id": 22429695,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90MjI0Mjk2OTU=",
+      "key": "MDM6Qm90MjI0Mjk2OTU=",
+      "login": "codecov",
+      "url": "https://github.com/apps/codecov"
+    },
+    {
+      "classification": "bot",
+      "database_id": 49699333,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90NDk2OTkzMzM=",
+      "key": "MDM6Qm90NDk2OTkzMzM=",
+      "login": "dependabot",
+      "url": "https://github.com/apps/dependabot"
+    },
+    {
+      "classification": "human",
+      "database_id": 1513223,
+      "display_name": "Rob Welch",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE1MTMyMjM=",
+      "key": "MDQ6VXNlcjE1MTMyMjM=",
+      "login": "Rob-Welch",
+      "url": "https://github.com/Rob-Welch"
+    },
+    {
+      "classification": "human",
+      "database_id": 1616602,
+      "display_name": "James R. Baggs Eastwood",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE2MTY2MDI=",
+      "key": "MDQ6VXNlcjE2MTY2MDI=",
+      "login": "jameseastwood",
+      "url": "https://github.com/jameseastwood"
+    },
+    {
+      "classification": "human",
+      "database_id": 16329175,
+      "display_name": "Jeff Wagner",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE2MzI5MTc1",
+      "key": "MDQ6VXNlcjE2MzI5MTc1",
+      "login": "j-wags",
+      "url": "https://github.com/j-wags"
+    },
+    {
+      "classification": "human",
+      "database_id": 7935382,
+      "display_name": "Matt Thompson",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjc5MzUzODI=",
+      "key": "MDQ6VXNlcjc5MzUzODI=",
+      "login": "mattwthompson",
+      "url": "https://github.com/mattwthompson"
+    },
+    {
+      "classification": "human",
+      "database_id": 104504587,
+      "display_name": "Will Midgley",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "U_kgDOBjqdCw",
+      "key": "U_kgDOBjqdCw",
+      "login": "whmidgley",
+      "url": "https://github.com/whmidgley"
+    },
+    {
+      "classification": "unresolved_git",
+      "database_id": null,
+      "display_name": null,
+      "git_email": "noreply@github.com",
+      "git_name": "GitHub",
+      "github_node_id": null,
+      "key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+      "login": null,
+      "url": null
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-18T01:48:26.293011Z",
+    "collection_started_at": "2026-10-18T01:43:32.631495Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "ef074d58a2e7b03625aae7cd3aff87a8ee46c38b",
+    "month": "2026-03",
+    "month_end": "2026-04-01T00:00:00Z",
+    "month_start": "2026-03-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "openforcefield/openff-toolkit",
+    "repository_node_id": "MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==",
+    "repository_url": "https://github.com/openforcefield/openff-toolkit"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDM6Qm90MjI0Mjk2OTU=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 3,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDM6Qm90NDk2OTkzMzM=": {
+        "commit": 2,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 2,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjE1MTMyMjM=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 2,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjE2MTY2MDI=": {
+        "commit": 1,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjE2MzI5MTc1": {
+        "commit": 4,
+        "issue_closed": 3,
+        "issue_comment": 0,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 3,
+        "pr_merged": 3,
+        "pr_opened": 1,
+        "pr_review": 5
+      },
+      "MDQ6VXNlcjc5MzUzODI=": {
+        "commit": 4,
+        "issue_closed": 1,
+        "issue_comment": 5,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 1,
+        "pr_merged": 4,
+        "pr_opened": 2,
+        "pr_review": 2
+      },
+      "U_kgDOBjqdCw": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      }
+    },
+    "distinct_actors": {
+      "bot": 2,
+      "human": 5,
+      "total": 7,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 1,
+        "human": 3,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 1,
+        "human": 1,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 1,
+        "human": 2,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 7,
+      "issue_closed": 4,
+      "issue_comment": 7,
+      "issue_opened": 4,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 4,
+      "pr_inline_review_comment": 4,
+      "pr_merged": 7,
+      "pr_opened": 5,
+      "pr_review": 7
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}

@@ -1,0 +1,1508 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2ODIxNDI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:738ad3211bb9139ed979402933afff1982922c38",
+      "metadata": {
+        "authored_at": "2017-06-01T02:32:52Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "276e755bf306e622669b6e23f8534fefe3537078"
+        ],
+        "sha": "738ad3211bb9139ed979402933afff1982922c38"
+      },
+      "occurred_at": "2017-06-01T02:32:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NzM4YWQzMjExYmI5MTM5ZWQ5Nzk0MDI5MzNhZmZmMTk4MjkyMmMzOA==",
+        "number": null,
+        "title": "Fix syntax pinned major version of icu",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/738ad3211bb9139ed979402933afff1982922c38"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/738ad3211bb9139ed979402933afff1982922c38"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2ODIxNDI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDMwNTM3Mzk1Nw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwNTM3Mzk1Nw=="
+      },
+      "occurred_at": "2017-06-01T02:44:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTIzMTgyNjU2",
+        "number": 45,
+        "title": "Add icu dependency, add conda-forge dependency, drop python3.4, support python 3.6",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/45"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/45#issuecomment-305373957"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDMwNTM3OTA4OQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwNTM3OTA4OQ=="
+      },
+      "occurred_at": "2017-06-01T03:26:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTIzMTgyNjU2",
+        "number": 45,
+        "title": "Add icu dependency, add conda-forge dependency, drop python3.4, support python 3.6",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/45"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/45#issuecomment-305379089"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2ODIxNDI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDMwNTUwNTQyMQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwNTUwNTQyMQ=="
+      },
+      "occurred_at": "2017-06-01T14:12:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTIzMTgyNjU2",
+        "number": 45,
+        "title": "Add icu dependency, add conda-forge dependency, drop python3.4, support python 3.6",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/45"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/45#issuecomment-305505421"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExOTY4NTQx",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwNTU3ODAzNQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwNTU3ODAzNQ=="
+      },
+      "occurred_at": "2017-06-01T18:23:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzE4NDIxOTc=",
+        "number": 43,
+        "title": "Reduce size of openforcefield git checkouts by clearing out large deleted files from git history",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/43"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/43#issuecomment-305578035"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwNTY0MjM4Mw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwNTY0MjM4Mw=="
+      },
+      "occurred_at": "2017-06-01T22:51:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzE4NDIxOTc=",
+        "number": 43,
+        "title": "Reduce size of openforcefield git checkouts by clearing out large deleted files from git history",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/43"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/43#issuecomment-305642383"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDE4ODEyOTc=",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDE4ODEyOTc=",
+        "state": "APPROVED",
+        "submitted_at": "2017-06-02T20:52:27Z"
+      },
+      "occurred_at": "2017-06-02T20:52:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTIzMTgyNjU2",
+        "number": 45,
+        "title": "Add icu dependency, add conda-forge dependency, drop python3.4, support python 3.6",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/45"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/45#pullrequestreview-41881297"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:fb120588c9ae8e77df3f08f16ebe029f00e9d807",
+      "metadata": {
+        "authored_at": "2017-06-02T20:52:42Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "76745d7ceec361c39165e9c71fceecc04d7e6e3a",
+          "738ad3211bb9139ed979402933afff1982922c38"
+        ],
+        "sha": "fb120588c9ae8e77df3f08f16ebe029f00e9d807"
+      },
+      "occurred_at": "2017-06-02T20:52:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZmIxMjA1ODhjOWFlOGU3N2RmM2YwOGYxNmViZTAyOWYwMGU5ZDgwNw==",
+        "number": null,
+        "title": "Merge pull request #45 from open-forcefield-group/icu-version",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/fb120588c9ae8e77df3f08f16ebe029f00e9d807"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/fb120588c9ae8e77df3f08f16ebe029f00e9d807"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:MDExOk1lcmdlZEV2ZW50MTEwODQ4MzY0OQ==",
+      "metadata": {
+        "merge_commit_sha": "fb120588c9ae8e77df3f08f16ebe029f00e9d807",
+        "source_node_id": "MDExOk1lcmdlZEV2ZW50MTEwODQ4MzY0OQ=="
+      },
+      "occurred_at": "2017-06-02T20:52:42Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTIzMTgyNjU2",
+        "number": 45,
+        "title": "Add icu dependency, add conda-forge dependency, drop python3.4, support python 3.6",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/45"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/45#event-1108483649"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:MDExOkNsb3NlZEV2ZW50MTEwODQ4MzY2OQ==",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "MDExOkNsb3NlZEV2ZW50MTEwODQ4MzY2OQ=="
+      },
+      "occurred_at": "2017-06-02T20:52:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzIzMzM4MjU=",
+        "number": 44,
+        "title": "Add explicit icu 58.* as dependency?",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/44"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/44#event-1108483669"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDMwNTkwNjU1MA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwNTkwNjU1MA=="
+      },
+      "occurred_at": "2017-06-02T20:53:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTIzMTgyNjU2",
+        "number": 45,
+        "title": "Add icu dependency, add conda-forge dependency, drop python3.4, support python 3.6",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/45"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/45#issuecomment-305906550"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDMwNTkxMDgwOA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwNTkxMDgwOA=="
+      },
+      "occurred_at": "2017-06-02T21:14:20Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTIzMTgyNjU2",
+        "number": 45,
+        "title": "Add icu dependency, add conda-forge dependency, drop python3.4, support python 3.6",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/45"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/45#issuecomment-305910808"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2ODIxNDI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDMwNTkxMzI3NA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwNTkxMzI3NA=="
+      },
+      "occurred_at": "2017-06-02T21:27:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTIzMTgyNjU2",
+        "number": 45,
+        "title": "Add icu dependency, add conda-forge dependency, drop python3.4, support python 3.6",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/45"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/45#issuecomment-305913274"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2ODIxNDI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:fbae9eb11c3ff994a8c5921647f0a15e6a877ae3",
+      "metadata": {
+        "authored_at": "2017-06-03T00:06:10Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "fb120588c9ae8e77df3f08f16ebe029f00e9d807"
+        ],
+        "sha": "fbae9eb11c3ff994a8c5921647f0a15e6a877ae3"
+      },
+      "occurred_at": "2017-06-03T00:06:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZmJhZTllYjExYzNmZjk5NGE4YzU5MjE2NDdmMGExNWU2YTg3N2FlMw==",
+        "number": null,
+        "title": "Add supported python versions to README",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/fbae9eb11c3ff994a8c5921647f0a15e6a877ae3"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/fbae9eb11c3ff994a8c5921647f0a15e6a877ae3"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2ODIxNDI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:MDExOlB1bGxSZXF1ZXN0MTIzODE5NzI4",
+      "metadata": {
+        "source_node_id": "MDExOlB1bGxSZXF1ZXN0MTIzODE5NzI4"
+      },
+      "occurred_at": "2017-06-03T00:06:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTIzODE5NzI4",
+        "number": 46,
+        "title": "Add supported python versions to README",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/46"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/46"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDE5MDgzNzc=",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NDE5MDgzNzc=",
+        "state": "APPROVED",
+        "submitted_at": "2017-06-03T00:48:45Z"
+      },
+      "occurred_at": "2017-06-03T00:48:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTIzODE5NzI4",
+        "number": 46,
+        "title": "Add supported python versions to README",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/46"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/46#pullrequestreview-41908377"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:39ac5358f7d3fb4693b2c878ba80b07643beaece",
+      "metadata": {
+        "authored_at": "2017-06-03T00:48:51Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "fb120588c9ae8e77df3f08f16ebe029f00e9d807",
+          "fbae9eb11c3ff994a8c5921647f0a15e6a877ae3"
+        ],
+        "sha": "39ac5358f7d3fb4693b2c878ba80b07643beaece"
+      },
+      "occurred_at": "2017-06-03T00:48:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MzlhYzUzNThmN2QzZmI0NjkzYjJjODc4YmE4MGIwNzY0M2JlYWVjZQ==",
+        "number": null,
+        "title": "Merge pull request #46 from open-forcefield-group/update-readme",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/39ac5358f7d3fb4693b2c878ba80b07643beaece"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/39ac5358f7d3fb4693b2c878ba80b07643beaece"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:MDExOk1lcmdlZEV2ZW50MTEwODY3NDU3NQ==",
+      "metadata": {
+        "merge_commit_sha": "39ac5358f7d3fb4693b2c878ba80b07643beaece",
+        "source_node_id": "MDExOk1lcmdlZEV2ZW50MTEwODY3NDU3NQ=="
+      },
+      "occurred_at": "2017-06-03T00:48:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTIzODE5NzI4",
+        "number": 46,
+        "title": "Add supported python versions to README",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/46"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/46#event-1108674575"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM4MDkzODM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDMwNTk0MjY1MQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwNTk0MjY1MQ=="
+      },
+      "occurred_at": "2017-06-03T01:47:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2ODIxNDI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTIzMTgyNjU2",
+        "number": 45,
+        "title": "Add icu dependency, add conda-forge dependency, drop python3.4, support python 3.6",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/45"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/45#issuecomment-305942651"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyMjI5MDUz",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWUyMzcwMjgwMTA=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWUyMzcwMjgwMTA="
+      },
+      "occurred_at": "2017-06-19T21:22:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyMjI5MDUz",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzcwMjgwMTA=",
+        "number": 47,
+        "title": "openforcefield fails when OEMol misses atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/47"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/47"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTU4MzY1Nw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTU4MzY1Nw=="
+      },
+      "occurred_at": "2017-06-19T21:49:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyMjI5MDUz",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzcwMjgwMTA=",
+        "number": 47,
+        "title": "openforcefield fails when OEMol misses atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/47"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/47#issuecomment-309583657"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTU4NTUyMw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTU4NTUyMw=="
+      },
+      "occurred_at": "2017-06-19T21:58:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyMjI5MDUz",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzcwMjgwMTA=",
+        "number": 47,
+        "title": "openforcefield fails when OEMol misses atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/47"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/47#issuecomment-309585523"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyMjI5MDUz",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTU4OTYxOA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTU4OTYxOA=="
+      },
+      "occurred_at": "2017-06-19T22:19:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyMjI5MDUz",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzcwMjgwMTA=",
+        "number": 47,
+        "title": "openforcefield fails when OEMol misses atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/47"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/47#issuecomment-309589618"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyMjI5MDUz",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTU5NTQ3Mw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTU5NTQ3Mw=="
+      },
+      "occurred_at": "2017-06-19T22:51:18Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyMjI5MDUz",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzcwMjgwMTA=",
+        "number": 47,
+        "title": "openforcefield fails when OEMol misses atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/47"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/47#issuecomment-309595473"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTU5NzAyMg==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTU5NzAyMg=="
+      },
+      "occurred_at": "2017-06-19T23:00:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyMjI5MDUz",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzcwMjgwMTA=",
+        "number": 47,
+        "title": "openforcefield fails when OEMol misses atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/47"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/47#issuecomment-309597022"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTU5NzExMQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTU5NzExMQ=="
+      },
+      "occurred_at": "2017-06-19T23:00:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyMjI5MDUz",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzcwMjgwMTA=",
+        "number": 47,
+        "title": "openforcefield fails when OEMol misses atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/47"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/47#issuecomment-309597111"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyMjI5MDUz",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTU5OTI5Mw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTU5OTI5Mw=="
+      },
+      "occurred_at": "2017-06-19T23:14:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyMjI5MDUz",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzcwMjgwMTA=",
+        "number": 47,
+        "title": "openforcefield fails when OEMol misses atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/47"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/47#issuecomment-309599293"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:d33c2b3746df9b79b7ef7bf328eef159e4d63f2d",
+      "metadata": {
+        "authored_at": "2017-06-20T22:44:04Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "email": "dmobley@gmail.com",
+          "name": "davidlmobley"
+        },
+        "parent_shas": [
+          "39ac5358f7d3fb4693b2c878ba80b07643beaece"
+        ],
+        "sha": "d33c2b3746df9b79b7ef7bf328eef159e4d63f2d"
+      },
+      "occurred_at": "2017-06-20T22:44:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZDMzYzJiMzc0NmRmOWI3OWI3ZWY3YmYzMjhlZWYxNTllNGQ2M2YyZA==",
+        "number": null,
+        "title": "Address issue 42 -- update force labeling for constraint force",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/d33c2b3746df9b79b7ef7bf328eef159e4d63f2d"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/d33c2b3746df9b79b7ef7bf328eef159e4d63f2d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:071beef6e54c2114411148b259953872d08a02a7",
+      "metadata": {
+        "authored_at": "2017-06-20T22:55:01Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "email": "dmobley@gmail.com",
+          "name": "davidlmobley"
+        },
+        "parent_shas": [
+          "d33c2b3746df9b79b7ef7bf328eef159e4d63f2d"
+        ],
+        "sha": "071beef6e54c2114411148b259953872d08a02a7"
+      },
+      "occurred_at": "2017-06-20T22:55:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MDcxYmVlZjZlNTRjMjExNDQxMTE0OGIyNTk5NTM4NzJkMDhhMDJhNw==",
+        "number": null,
+        "title": "Add creation of atom names to generateTopologyFromOEMol if atom names…",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/071beef6e54c2114411148b259953872d08a02a7"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/071beef6e54c2114411148b259953872d08a02a7"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:545f1eee1efaabbbb61d791b9f58f9e4d9bb7429",
+      "metadata": {
+        "authored_at": "2017-06-20T23:01:44Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "email": "dmobley@gmail.com",
+          "name": "davidlmobley"
+        },
+        "parent_shas": [
+          "071beef6e54c2114411148b259953872d08a02a7"
+        ],
+        "sha": "545f1eee1efaabbbb61d791b9f58f9e4d9bb7429"
+      },
+      "occurred_at": "2017-06-20T23:01:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NTQ1ZjFlZWUxZWZhYWJiYmI2MWQ3OTFiOWY1OGY5ZTRkOWJiNzQyOQ==",
+        "number": null,
+        "title": "Create OpenMM topologies which preserve bond order.",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/545f1eee1efaabbbb61d791b9f58f9e4d9bb7429"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/545f1eee1efaabbbb61d791b9f58f9e4d9bb7429"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWUyMzczNjk1MTk=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWUyMzczNjk1MTk="
+      },
+      "occurred_at": "2017-06-20T23:04:38Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzczNjk1MTk=",
+        "number": 48,
+        "title": "Remove generateTopologyFromOEMol?",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/48"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/48"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:MDExOlB1bGxSZXF1ZXN0MTI2NjQ4Nzcx",
+      "metadata": {
+        "source_node_id": "MDExOlB1bGxSZXF1ZXN0MTI2NjQ4Nzcx"
+      },
+      "occurred_at": "2017-06-20T23:07:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTI2NjQ4Nzcx",
+        "number": 49,
+        "title": "Fix \"missing atom names\" bug and issue with constraint labeling",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/49"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/49"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:1a7cd7ef6e92e32c5eff900714c50ef55cabe04d",
+      "metadata": {
+        "authored_at": "2017-06-20T23:35:15Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "email": "dmobley@gmail.com",
+          "name": "davidlmobley"
+        },
+        "parent_shas": [
+          "545f1eee1efaabbbb61d791b9f58f9e4d9bb7429"
+        ],
+        "sha": "1a7cd7ef6e92e32c5eff900714c50ef55cabe04d"
+      },
+      "occurred_at": "2017-06-20T23:35:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MWE3Y2Q3ZWY2ZTkyZTMyYzVlZmY5MDA3MTRjNTBlZjU1Y2FiZTA0ZA==",
+        "number": null,
+        "title": "Fix list comprehension",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/1a7cd7ef6e92e32c5eff900714c50ef55cabe04d"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/1a7cd7ef6e92e32c5eff900714c50ef55cabe04d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTkyMzc3OQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTkyMzc3OQ=="
+      },
+      "occurred_at": "2017-06-20T23:54:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzczNjk1MTk=",
+        "number": 48,
+        "title": "Remove generateTopologyFromOEMol?",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/48"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/48#issuecomment-309923779"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTkyNDA0MQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTkyNDA0MQ=="
+      },
+      "occurred_at": "2017-06-20T23:55:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzczNjk1MTk=",
+        "number": 48,
+        "title": "Remove generateTopologyFromOEMol?",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/48"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/48#issuecomment-309924041"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTkyNDc5OQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTkyNDc5OQ=="
+      },
+      "occurred_at": "2017-06-21T00:00:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzczNjk1MTk=",
+        "number": 48,
+        "title": "Remove generateTopologyFromOEMol?",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/48"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/48#issuecomment-309924799"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:548f04d005a51c03b40f1b4fa0ec32b80ae10775",
+      "metadata": {
+        "authored_at": "2017-06-21T00:04:11Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "39ac5358f7d3fb4693b2c878ba80b07643beaece",
+          "1a7cd7ef6e92e32c5eff900714c50ef55cabe04d"
+        ],
+        "sha": "548f04d005a51c03b40f1b4fa0ec32b80ae10775"
+      },
+      "occurred_at": "2017-06-21T00:04:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NTQ4ZjA0ZDAwNWE1MWMwM2I0MGYxYjRmYTBlYzMyYjgwYWUxMDc3NQ==",
+        "number": null,
+        "title": "Merge pull request #49 from open-forcefield-group/mobley",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/548f04d005a51c03b40f1b4fa0ec32b80ae10775"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/548f04d005a51c03b40f1b4fa0ec32b80ae10775"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:MDExOk1lcmdlZEV2ZW50MTEzMjAwODQxMA==",
+      "metadata": {
+        "merge_commit_sha": "548f04d005a51c03b40f1b4fa0ec32b80ae10775",
+        "source_node_id": "MDExOk1lcmdlZEV2ZW50MTEzMjAwODQxMA=="
+      },
+      "occurred_at": "2017-06-21T00:04:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTI2NjQ4Nzcx",
+        "number": 49,
+        "title": "Fix \"missing atom names\" bug and issue with constraint labeling",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/49"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/49#event-1132008410"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:MDExOkNsb3NlZEV2ZW50MTEzMjAwODcyNw==",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "MDExOkNsb3NlZEV2ZW50MTEzMjAwODcyNw=="
+      },
+      "occurred_at": "2017-06-21T00:04:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyMjI5MDUz",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzcwMjgwMTA=",
+        "number": 47,
+        "title": "openforcefield fails when OEMol misses atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/47"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/47#event-1132008727"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTkyNTMzNQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTkyNTMzNQ=="
+      },
+      "occurred_at": "2017-06-21T00:04:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyMjI5MDUz",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzcwMjgwMTA=",
+        "number": 47,
+        "title": "openforcefield fails when OEMol misses atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/47"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/47#issuecomment-309925335"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:MDExOkNsb3NlZEV2ZW50MTEzMjAwOTExOQ==",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "MDExOkNsb3NlZEV2ZW50MTEzMjAwOTExOQ=="
+      },
+      "occurred_at": "2017-06-21T00:05:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUxNTExMzI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzE0NzQwOTQ=",
+        "number": 42,
+        "title": "Modify ConstraintGenerator Class' labelForce() Function",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/42"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/42#event-1132009119"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTkyNTQwOQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTkyNTQwOQ=="
+      },
+      "occurred_at": "2017-06-21T00:05:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUxNTExMzI=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzE0NzQwOTQ=",
+        "number": 42,
+        "title": "Modify ConstraintGenerator Class' labelForce() Function",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/42"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/42#issuecomment-309925409"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTkyODMyNg==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTkyODMyNg=="
+      },
+      "occurred_at": "2017-06-21T00:26:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzczNjk1MTk=",
+        "number": 48,
+        "title": "Remove generateTopologyFromOEMol?",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/48"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/48#issuecomment-309928326"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMwOTkzMDMyNg==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMwOTkzMDMyNg=="
+      },
+      "occurred_at": "2017-06-21T00:41:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzczNjk1MTk=",
+        "number": 48,
+        "title": "Remove generateTopologyFromOEMol?",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/48"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/48#issuecomment-309930326"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc3NTA5NjM=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWUyMzkyNTA3ODM=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWUyMzkyNTA3ODM="
+      },
+      "occurred_at": "2017-06-28T18:16:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTA5NjM=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzkyNTA3ODM=",
+        "number": 50,
+        "title": "smirnoff create system thrown off by atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/50"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/50"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMxMTc0NDk5Ng==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMxMTc0NDk5Ng=="
+      },
+      "occurred_at": "2017-06-28T18:21:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTA5NjM=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzkyNTA3ODM=",
+        "number": 50,
+        "title": "smirnoff create system thrown off by atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/50"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/50#issuecomment-311744996"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExOTY4NTQx",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMxMTc1OTgxNw==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMxMTc1OTgxNw=="
+      },
+      "occurred_at": "2017-06-28T19:16:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTA5NjM=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzkyNTA3ODM=",
+        "number": 50,
+        "title": "smirnoff create system thrown off by atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/50"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/50#issuecomment-311759817"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDMxMTc3ODMzOA==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDMxMTc3ODMzOA=="
+      },
+      "occurred_at": "2017-06-28T20:24:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc3NTA5NjM=",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUyMzkyNTA3ODM=",
+        "number": 50,
+        "title": "smirnoff create system thrown off by atom names",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/50"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/50#issuecomment-311778338"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "human",
+      "database_id": 1682142,
+      "display_name": "Andrea Rizzi",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE2ODIxNDI=",
+      "key": "MDQ6VXNlcjE2ODIxNDI=",
+      "login": "andrrizzi",
+      "url": "https://github.com/andrrizzi"
+    },
+    {
+      "classification": "human",
+      "database_id": 11968541,
+      "display_name": "Caitlin Bannan",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjExOTY4NTQx",
+      "key": "MDQ6VXNlcjExOTY4NTQx",
+      "login": "bannanc",
+      "url": "https://github.com/bannanc"
+    },
+    {
+      "classification": "human",
+      "database_id": 12229053,
+      "display_name": "Gaetano Calabro'",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjEyMjI5MDUz",
+      "key": "MDQ6VXNlcjEyMjI5MDUz",
+      "login": "nividic",
+      "url": "https://github.com/nividic"
+    },
+    {
+      "classification": "human",
+      "database_id": 3656088,
+      "display_name": "John Chodera",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjM2NTYwODg=",
+      "key": "MDQ6VXNlcjM2NTYwODg=",
+      "login": "jchodera",
+      "url": "https://github.com/jchodera"
+    },
+    {
+      "classification": "human",
+      "database_id": 3809383,
+      "display_name": "Levi Naden",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjM4MDkzODM=",
+      "key": "MDQ6VXNlcjM4MDkzODM=",
+      "login": "Lnaden",
+      "url": "https://github.com/Lnaden"
+    },
+    {
+      "classification": "human",
+      "database_id": 5151132,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjUxNTExMzI=",
+      "key": "MDQ6VXNlcjUxNTExMzI=",
+      "login": "hjuinj",
+      "url": "https://github.com/hjuinj"
+    },
+    {
+      "classification": "human",
+      "database_id": 7750963,
+      "display_name": "Christopher Bayly",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjc3NTA5NjM=",
+      "key": "MDQ6VXNlcjc3NTA5NjM=",
+      "login": "cbayly13",
+      "url": "https://github.com/cbayly13"
+    },
+    {
+      "classification": "human",
+      "database_id": 7132257,
+      "display_name": "David L. Mobley",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjcxMzIyNTc=",
+      "key": "MDQ6VXNlcjcxMzIyNTc=",
+      "login": "davidlmobley",
+      "url": "https://github.com/davidlmobley"
+    },
+    {
+      "classification": "unresolved_git",
+      "database_id": null,
+      "display_name": null,
+      "git_email": "noreply@github.com",
+      "git_name": "GitHub",
+      "github_node_id": null,
+      "key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+      "login": null,
+      "url": null
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-18T01:48:26.293011Z",
+    "collection_started_at": "2026-10-18T01:43:32.631495Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "ef074d58a2e7b03625aae7cd3aff87a8ee46c38b",
+    "month": "2017-06",
+    "month_end": "2017-07-01T00:00:00Z",
+    "month_start": "2017-06-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "openforcefield/openff-toolkit",
+    "repository_node_id": "MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==",
+    "repository_url": "https://github.com/openforcefield/openff-toolkit"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDQ6VXNlcjE2ODIxNDI=": {
+        "commit": 2,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 3,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 1,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjExOTY4NTQx": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 2,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjEyMjI5MDUz": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 3,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjM2NTYwODg=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 4,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjM4MDkzODM=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjc3NTA5NjM=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjcxMzIyNTc=": {
+        "commit": 7,
+        "issue_closed": 3,
+        "issue_comment": 10,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 2,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 3,
+        "pr_opened": 1,
+        "pr_review": 2
+      }
+    },
+    "distinct_actors": {
+      "bot": 0,
+      "human": 7,
+      "total": 7,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 9,
+      "issue_closed": 3,
+      "issue_comment": 19,
+      "issue_opened": 3,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 7,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 3,
+      "pr_opened": 2,
+      "pr_review": 2
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}

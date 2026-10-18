@@ -1,0 +1,853 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOBS3A-M77vAB9",
+      "metadata": {
+        "source_node_id": "PR_kwDOBS3A-M77vAB9"
+      },
+      "occurred_at": "2026-08-06T19:15:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M77vAB9",
+        "number": 2227,
+        "title": "Disable beta/rc CI",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2227"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2227"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:83787a9a97a713dc0eb05650850be7fa8d81fc5c",
+      "metadata": {
+        "authored_at": "2026-08-06T19:17:46Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "4fa2f7c0a2ffe95f95f7f8878ef78011153b78bc"
+        ],
+        "sha": "83787a9a97a713dc0eb05650850be7fa8d81fc5c"
+      },
+      "occurred_at": "2026-08-06T19:17:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDgzNzg3YTlhOTdhNzEzZGMwZWIwNTY1MDg1MGJlN2ZhOGQ4MWZjNWM",
+        "number": null,
+        "title": "disable beta/rc ci (#2227)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/83787a9a97a713dc0eb05650850be7fa8d81fc5c"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/83787a9a97a713dc0eb05650850be7fa8d81fc5c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M8AAAABLwnwxs8AAAAGxY3o5w",
+      "metadata": {
+        "merge_commit_sha": "83787a9a97a713dc0eb05650850be7fa8d81fc5c",
+        "source_node_id": "ME_lADOBS3A-M8AAAABLwnwxs8AAAAGxY3o5w"
+      },
+      "occurred_at": "2026-08-06T19:17:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M77vAB9",
+        "number": 2227,
+        "title": "Disable beta/rc CI",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2227"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2227#event-29084215527"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDk2OTkzMzM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOBS3A-M77ym_S",
+      "metadata": {
+        "source_node_id": "PR_kwDOBS3A-M77ym_S"
+      },
+      "occurred_at": "2026-08-06T23:02:24Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M77ym_S",
+        "number": 2228,
+        "title": "Bump richardsimko/update-tag from 2 to 3",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2228"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2228"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "co_author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:88301b1a93485b5fbce8e48d1f92464ac7b13500",
+      "metadata": {
+        "authored_at": "2026-08-10T21:15:57Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "83787a9a97a713dc0eb05650850be7fa8d81fc5c"
+        ],
+        "sha": "88301b1a93485b5fbce8e48d1f92464ac7b13500"
+      },
+      "occurred_at": "2026-08-10T21:15:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDg4MzAxYjFhOTM0ODViNWZiY2U4ZTQ4ZDFmOTI0NjRhYzdiMTM1MDA",
+        "number": null,
+        "title": "Stringify `None` in `ParameterType.to_dict` (fix issue #2150) (#2225)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/88301b1a93485b5fbce8e48d1f92464ac7b13500"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/88301b1a93485b5fbce8e48d1f92464ac7b13500"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M8AAAABKZiIw88AAAAGz0WjfA",
+      "metadata": {
+        "merge_commit_sha": "88301b1a93485b5fbce8e48d1f92464ac7b13500",
+        "source_node_id": "ME_lADOBS3A-M8AAAABKZiIw88AAAAGz0WjfA"
+      },
+      "occurred_at": "2026-08-10T21:15:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M73J0Fm",
+        "number": 2225,
+        "title": "Stringify `None` in `ParameterType.to_dict` (fix issue #2150)",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2225"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2225#event-29247251324"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOBS3A-M7rYRO7zwAAAAbPRaaO",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOBS3A-M7rYRO7zwAAAAbPRaaO"
+      },
+      "occurred_at": "2026-08-10T21:15:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7rYRO7",
+        "number": 2150,
+        "title": "Vsite serialization is failing",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2150"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2150#event-29247252110"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MTY2MDI=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOBS3A-M8AAAABAooYIc8AAAAG0oUSDQ",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOBS3A-M8AAAABAooYIc8AAAAG0oUSDQ"
+      },
+      "occurred_at": "2026-08-11T19:55:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2NjgzMjE1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M8AAAABAooYIQ",
+        "number": 2175,
+        "title": "xmltodict <=1.0.2?",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2175"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2175#event-29301740045"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDk2OTkzMzM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:01308a54777459e082bbb3be2427d06171f249a5",
+      "metadata": {
+        "authored_at": "2026-08-11T22:19:52Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "88301b1a93485b5fbce8e48d1f92464ac7b13500"
+        ],
+        "sha": "01308a54777459e082bbb3be2427d06171f249a5"
+      },
+      "occurred_at": "2026-08-11T22:19:52Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDAxMzA4YTU0Nzc3NDU5ZTA4MmJiYjNiZTI0MjdkMDYxNzFmMjQ5YTU",
+        "number": null,
+        "title": "Bump richardsimko/update-tag from 2 to 3 (#2228)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/01308a54777459e082bbb3be2427d06171f249a5"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/01308a54777459e082bbb3be2427d06171f249a5"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M8AAAABLxtjls8AAAAG0uJYUQ",
+      "metadata": {
+        "merge_commit_sha": "01308a54777459e082bbb3be2427d06171f249a5",
+        "source_node_id": "ME_lADOBS3A-M8AAAABLxtjls8AAAAG0uJYUQ"
+      },
+      "occurred_at": "2026-08-11T22:19:53Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M77ym_S",
+        "number": 2228,
+        "title": "Bump richardsimko/update-tag from 2 to 3",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2228"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2228#event-29307852881"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M8AAAABJUBFkw",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M8AAAABJUBFkw",
+        "state": "APPROVED",
+        "submitted_at": "2026-08-12T18:36:14Z"
+      },
+      "occurred_at": "2026-08-12T18:36:14Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7dJwrg",
+        "number": 2185,
+        "title": "Add AshGC to `Molecule.assign_partial_charges` docstring",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2185"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2185#pullrequestreview-4919936403"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:3673715c3223e1d0572a41a346fae113e8aff287",
+      "metadata": {
+        "authored_at": "2026-08-12T19:18:03Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "01308a54777459e082bbb3be2427d06171f249a5"
+        ],
+        "sha": "3673715c3223e1d0572a41a346fae113e8aff287"
+      },
+      "occurred_at": "2026-08-12T19:18:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDM2NzM3MTVjMzIyM2UxZDA1NzJhNDFhMzQ2ZmFlMTEzZThhZmYyODc",
+        "number": null,
+        "title": "Add AshGC to `Molecule.assign_partial_charges` docstring (#2185)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/3673715c3223e1d0572a41a346fae113e8aff287"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/3673715c3223e1d0572a41a346fae113e8aff287"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M8AAAABCvlvF88AAAAG1g4ubw",
+      "metadata": {
+        "merge_commit_sha": "3673715c3223e1d0572a41a346fae113e8aff287",
+        "source_node_id": "ME_lADOBS3A-M8AAAABCvlvF88AAAAG1g4ubw"
+      },
+      "occurred_at": "2026-08-12T19:18:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7dJwrg",
+        "number": 2185,
+        "title": "Add AshGC to `Molecule.assign_partial_charges` docstring",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2185"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2185#event-29361057391"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOBS3A-M8AAAABAqqurM8AAAAG1g4y-g",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOBS3A-M8AAAABAqqurM8AAAAG1g4y-g"
+      },
+      "occurred_at": "2026-08-12T19:18:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M8AAAABAqqurA",
+        "number": 2176,
+        "title": "Include AshGC in assign_partial_charges docs",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2176"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2176#event-29361058554"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:d97dd2ec1a79dae943d0b389a5e8469629885465",
+      "metadata": {
+        "authored_at": "2026-08-13T22:09:49Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "3673715c3223e1d0572a41a346fae113e8aff287"
+        ],
+        "sha": "d97dd2ec1a79dae943d0b389a5e8469629885465"
+      },
+      "occurred_at": "2026-08-13T22:09:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKGQ5N2RkMmVjMWE3OWRhZTk0M2QwYjM4OWE1ZTg0Njk2Mjk4ODU0NjU",
+        "number": null,
+        "title": "0.19.0 postrelease",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/d97dd2ec1a79dae943d0b389a5e8469629885465"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/d97dd2ec1a79dae943d0b389a5e8469629885465"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOBS3A-M8AAAABAEnRWA",
+      "metadata": {
+        "source_node_id": "PR_kwDOBS3A-M8AAAABAEnRWA"
+      },
+      "occurred_at": "2026-08-17T22:45:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M8AAAABAEnRWA",
+        "number": 2229,
+        "title": "Fix deployment tests",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2229"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2229"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABPSpaLw",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M8AAAABPSpaLw"
+      },
+      "occurred_at": "2026-08-17T22:49:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M8AAAABAEnRWA",
+        "number": 2229,
+        "title": "Fix deployment tests",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2229"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2229#issuecomment-5321153071"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:a93553259b490f89e7a9f71c4ff019e34d526ae5",
+      "metadata": {
+        "authored_at": "2026-08-18T00:01:36Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "d97dd2ec1a79dae943d0b389a5e8469629885465"
+        ],
+        "sha": "a93553259b490f89e7a9f71c4ff019e34d526ae5"
+      },
+      "occurred_at": "2026-08-18T00:01:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKGE5MzU1MzI1OWI0OTBmODllN2E5ZjcxYzRmZjAxOWUzNGQ1MjZhZTU",
+        "number": null,
+        "title": "add pytest-timeout to conda/deployment test envs (#2229)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/a93553259b490f89e7a9f71c4ff019e34d526ae5"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/a93553259b490f89e7a9f71c4ff019e34d526ae5"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M8AAAABNITc3c8AAAAG45yPAA",
+      "metadata": {
+        "merge_commit_sha": "a93553259b490f89e7a9f71c4ff019e34d526ae5",
+        "source_node_id": "ME_lADOBS3A-M8AAAABNITc3c8AAAAG45yPAA"
+      },
+      "occurred_at": "2026-08-18T00:01:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M8AAAABAEnRWA",
+        "number": 2229,
+        "title": "Fix deployment tests",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2229"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2229#event-29588492032"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQwMTMwNjA0",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M8AAAABQfOxIA",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M8AAAABQfOxIA"
+      },
+      "occurred_at": "2026-08-24T21:13:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzk3ODY=",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7sBpKD",
+        "number": 2154,
+        "title": "Support installing with pip",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2154"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2154#issuecomment-5401456928"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "bot",
+      "database_id": 22429695,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90MjI0Mjk2OTU=",
+      "key": "MDM6Qm90MjI0Mjk2OTU=",
+      "login": "codecov",
+      "url": "https://github.com/apps/codecov"
+    },
+    {
+      "classification": "bot",
+      "database_id": 49699333,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90NDk2OTkzMzM=",
+      "key": "MDM6Qm90NDk2OTkzMzM=",
+      "login": "dependabot",
+      "url": "https://github.com/apps/dependabot"
+    },
+    {
+      "classification": "human",
+      "database_id": 1616602,
+      "display_name": "James R. Baggs Eastwood",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE2MTY2MDI=",
+      "key": "MDQ6VXNlcjE2MTY2MDI=",
+      "login": "jameseastwood",
+      "url": "https://github.com/jameseastwood"
+    },
+    {
+      "classification": "human",
+      "database_id": 16329175,
+      "display_name": "Jeff Wagner",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE2MzI5MTc1",
+      "key": "MDQ6VXNlcjE2MzI5MTc1",
+      "login": "j-wags",
+      "url": "https://github.com/j-wags"
+    },
+    {
+      "classification": "human",
+      "database_id": 16683215,
+      "display_name": "Michal Krompiec",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE2NjgzMjE1",
+      "key": "MDQ6VXNlcjE2NjgzMjE1",
+      "login": "mkrompiec",
+      "url": "https://github.com/mkrompiec"
+    },
+    {
+      "classification": "human",
+      "database_id": 28590748,
+      "display_name": "Ashley Mitchell",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjI4NTkwNzQ4",
+      "key": "MDQ6VXNlcjI4NTkwNzQ4",
+      "login": "Yoshanuikabundi",
+      "url": "https://github.com/Yoshanuikabundi"
+    },
+    {
+      "classification": "human",
+      "database_id": 40130604,
+      "display_name": "Ben Payton",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjQwMTMwNjA0",
+      "key": "MDQ6VXNlcjQwMTMwNjA0",
+      "login": "Ben-Payton",
+      "url": "https://github.com/Ben-Payton"
+    },
+    {
+      "classification": "human",
+      "database_id": 4379786,
+      "display_name": "Peter Eastman",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjQzNzk3ODY=",
+      "key": "MDQ6VXNlcjQzNzk3ODY=",
+      "login": "peastman",
+      "url": "https://github.com/peastman"
+    },
+    {
+      "classification": "human",
+      "database_id": 7935382,
+      "display_name": "Matt Thompson",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjc5MzUzODI=",
+      "key": "MDQ6VXNlcjc5MzUzODI=",
+      "login": "mattwthompson",
+      "url": "https://github.com/mattwthompson"
+    },
+    {
+      "classification": "unresolved_git",
+      "database_id": null,
+      "display_name": null,
+      "git_email": "noreply@github.com",
+      "git_name": "GitHub",
+      "github_node_id": null,
+      "key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+      "login": null,
+      "url": null
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-18T01:48:26.293011Z",
+    "collection_started_at": "2026-10-18T01:43:32.631495Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "ef074d58a2e7b03625aae7cd3aff87a8ee46c38b",
+    "month": "2026-08",
+    "month_end": "2026-09-01T00:00:00Z",
+    "month_start": "2026-08-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "openforcefield/openff-toolkit",
+    "repository_node_id": "MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==",
+    "repository_url": "https://github.com/openforcefield/openff-toolkit"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDM6Qm90MjI0Mjk2OTU=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDM6Qm90NDk2OTkzMzM=": {
+        "commit": 1,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 1,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjE2MTY2MDI=": {
+        "commit": 0,
+        "issue_closed": 1,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjE2MzI5MTc1": {
+        "commit": 5,
+        "issue_closed": 2,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 5,
+        "pr_opened": 2,
+        "pr_review": 1
+      },
+      "MDQ6VXNlcjI4NTkwNzQ4": {
+        "commit": 1,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjQwMTMwNjA0": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 1,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjc5MzUzODI=": {
+        "commit": 1,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      }
+    },
+    "distinct_actors": {
+      "bot": 2,
+      "human": 5,
+      "total": 7,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 1,
+        "human": 3,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 1,
+        "human": 0,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 1,
+        "human": 1,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 6,
+      "issue_closed": 3,
+      "issue_comment": 1,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 1,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 5,
+      "pr_opened": 3,
+      "pr_review": 1
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}

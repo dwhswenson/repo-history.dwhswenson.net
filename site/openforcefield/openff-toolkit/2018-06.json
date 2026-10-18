@@ -1,0 +1,502 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:7440075f5f016db791b17e937a14fb60032df0ad",
+      "metadata": {
+        "authored_at": "2018-06-13T20:28:18Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "ae03d34fec03a7908ffdc86938e11247f5491f9a"
+        ],
+        "sha": "7440075f5f016db791b17e937a14fb60032df0ad"
+      },
+      "occurred_at": "2018-06-13T20:28:18Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NzQ0MDA3NWY1ZjAxNmRiNzkxYjE3ZTkzN2ExNGZiNjAwMzJkZjBhZA==",
+        "number": null,
+        "title": "Move Particle/Atom into molecule.py",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/7440075f5f016db791b17e937a14fb60032df0ad"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/7440075f5f016db791b17e937a14fb60032df0ad"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:c8292607685737d170e6bca2d53a7acc6af2b88d",
+      "metadata": {
+        "authored_at": "2018-06-22T23:32:22Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "7440075f5f016db791b17e937a14fb60032df0ad"
+        ],
+        "sha": "c8292607685737d170e6bca2d53a7acc6af2b88d"
+      },
+      "occurred_at": "2018-06-22T23:32:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YzgyOTI2MDc2ODU3MzdkMTcwZTZiY2EyZDUzYTdhY2M2YWYyYjg4ZA==",
+        "number": null,
+        "title": "openforcefield.utils.utils tests pass.",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/c8292607685737d170e6bca2d53a7acc6af2b88d"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/c8292607685737d170e6bca2d53a7acc6af2b88d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:5e768d4eaf49276cbf84537d6ec0e619c3806ff1",
+      "metadata": {
+        "authored_at": "2018-06-22T23:34:26Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "c8292607685737d170e6bca2d53a7acc6af2b88d"
+        ],
+        "sha": "5e768d4eaf49276cbf84537d6ec0e619c3806ff1"
+      },
+      "occurred_at": "2018-06-22T23:34:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NWU3NjhkNGVhZjQ5Mjc2Y2JmODQ1MzdkNmVjMGU2MTljMzgwNmZmMQ==",
+        "number": null,
+        "title": "Refactor toolkit utilities into a separate module",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/5e768d4eaf49276cbf84537d6ec0e619c3806ff1"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/5e768d4eaf49276cbf84537d6ec0e619c3806ff1"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:4fb86ec9f84eba63cfcc3055031bacd25907e08d",
+      "metadata": {
+        "authored_at": "2018-06-23T00:05:32Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "5e768d4eaf49276cbf84537d6ec0e619c3806ff1"
+        ],
+        "sha": "4fb86ec9f84eba63cfcc3055031bacd25907e08d"
+      },
+      "occurred_at": "2018-06-23T00:05:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NGZiODZlYzlmODRlYmE2M2NmY2MzMDU1MDMxYmFjZDI1OTA3ZTA4ZA==",
+        "number": null,
+        "title": "Refactoring of tests into separate modules",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/4fb86ec9f84eba63cfcc3055031bacd25907e08d"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/4fb86ec9f84eba63cfcc3055031bacd25907e08d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:0881a17c88f43c0c645ced3eb6b86829430cf556",
+      "metadata": {
+        "authored_at": "2018-06-23T02:52:44Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "4fb86ec9f84eba63cfcc3055031bacd25907e08d"
+        ],
+        "sha": "0881a17c88f43c0c645ced3eb6b86829430cf556"
+      },
+      "occurred_at": "2018-06-23T02:52:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MDg4MWExN2M4OGY0M2MwYzY0NWNlZDNlYjZiODY4Mjk0MzBjZjU1Ng==",
+        "number": null,
+        "title": "Draft Molecule to/from openeye and rdkit methods",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/0881a17c88f43c0c645ced3eb6b86829430cf556"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/0881a17c88f43c0c645ced3eb6b86829430cf556"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:e5f7b900280ada2fd29e9448d56e827bc2a55c86",
+      "metadata": {
+        "authored_at": "2018-06-23T05:43:30Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "0881a17c88f43c0c645ced3eb6b86829430cf556"
+        ],
+        "sha": "e5f7b900280ada2fd29e9448d56e827bc2a55c86"
+      },
+      "occurred_at": "2018-06-23T05:43:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZTVmN2I5MDAyODBhZGEyZmQyOWU5NDQ4ZDU2ZTgyN2JjMmE1NWM4Ng==",
+        "number": null,
+        "title": "Clean up Molecule",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/e5f7b900280ada2fd29e9448d56e827bc2a55c86"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/e5f7b900280ada2fd29e9448d56e827bc2a55c86"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:961548d466451cf5975da4bc351dc62aa11951cd",
+      "metadata": {
+        "authored_at": "2018-06-23T05:47:03Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "e5f7b900280ada2fd29e9448d56e827bc2a55c86"
+        ],
+        "sha": "961548d466451cf5975da4bc351dc62aa11951cd"
+      },
+      "occurred_at": "2018-06-23T05:47:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6OTYxNTQ4ZDQ2NjQ1MWNmNTk3NWRhNGJjMzUxZGM2MmFhMTE5NTFjZA==",
+        "number": null,
+        "title": "Separate out Molecule tests into a separate file",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/961548d466451cf5975da4bc351dc62aa11951cd"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/961548d466451cf5975da4bc351dc62aa11951cd"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:9dd6a472b6108d05fcbd916b7c9f963c77616bbf",
+      "metadata": {
+        "authored_at": "2018-06-27T00:16:57Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "961548d466451cf5975da4bc351dc62aa11951cd"
+        ],
+        "sha": "9dd6a472b6108d05fcbd916b7c9f963c77616bbf"
+      },
+      "occurred_at": "2018-06-27T00:16:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6OWRkNmE0NzJiNjEwOGQwNWZjYmQ5MTZiN2M5Zjk2M2M3NzYxNmJiZg==",
+        "number": null,
+        "title": "Fix docs",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/9dd6a472b6108d05fcbd916b7c9f963c77616bbf"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/9dd6a472b6108d05fcbd916b7c9f963c77616bbf"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:e8995bc3bfc35aae0bebbddcd275f928193e7c06",
+      "metadata": {
+        "authored_at": "2018-06-27T00:19:36Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "9dd6a472b6108d05fcbd916b7c9f963c77616bbf"
+        ],
+        "sha": "e8995bc3bfc35aae0bebbddcd275f928193e7c06"
+      },
+      "occurred_at": "2018-06-27T00:19:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZTg5OTViYzNiZmMzNWFhZTBiZWJiZGRjZDI3NWY5MjgxOTNlN2MwNg==",
+        "number": null,
+        "title": "More imports",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/e8995bc3bfc35aae0bebbddcd275f928193e7c06"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/e8995bc3bfc35aae0bebbddcd275f928193e7c06"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:c41347da099f88bac170042da243875445920bc9",
+      "metadata": {
+        "authored_at": "2018-06-27T10:46:38Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "e8995bc3bfc35aae0bebbddcd275f928193e7c06"
+        ],
+        "sha": "c41347da099f88bac170042da243875445920bc9"
+      },
+      "occurred_at": "2018-06-27T10:46:38Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YzQxMzQ3ZGEwOTlmODhiYWMxNzAwNDJkYTI0Mzg3NTQ0NTkyMGJjOQ==",
+        "number": null,
+        "title": "Fix some syntax errors to get docs to compile",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/c41347da099f88bac170042da243875445920bc9"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/c41347da099f88bac170042da243875445920bc9"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:47fa15a4cd9e9f438f3f93f43ef479031bf77a0c",
+      "metadata": {
+        "authored_at": "2018-06-27T14:09:06Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "c41347da099f88bac170042da243875445920bc9"
+        ],
+        "sha": "47fa15a4cd9e9f438f3f93f43ef479031bf77a0c"
+      },
+      "occurred_at": "2018-06-27T14:09:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NDdmYTE1YTRjZDllOWY0MzhmM2Y5M2Y0M2VmNDc5MDMxYmY3N2EwYw==",
+        "number": null,
+        "title": "Fix import",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/47fa15a4cd9e9f438f3f93f43ef479031bf77a0c"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/47fa15a4cd9e9f438f3f93f43ef479031bf77a0c"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "human",
+      "database_id": 3656088,
+      "display_name": "John Chodera",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjM2NTYwODg=",
+      "key": "MDQ6VXNlcjM2NTYwODg=",
+      "login": "jchodera",
+      "url": "https://github.com/jchodera"
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-18T01:48:26.293011Z",
+    "collection_started_at": "2026-10-18T01:43:32.631495Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "ef074d58a2e7b03625aae7cd3aff87a8ee46c38b",
+    "month": "2018-06",
+    "month_end": "2018-07-01T00:00:00Z",
+    "month_start": "2018-06-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "openforcefield/openff-toolkit",
+    "repository_node_id": "MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==",
+    "repository_url": "https://github.com/openforcefield/openff-toolkit"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDQ6VXNlcjM2NTYwODg=": {
+        "commit": 11,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      }
+    },
+    "distinct_actors": {
+      "bot": 0,
+      "human": 1,
+      "total": 1,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 11,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}

@@ -1,0 +1,1877 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "co_author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:8d4c8f257f0eecdaebc23b9c7dccbe2939b4075c",
+      "metadata": {
+        "authored_at": "2025-08-01T03:51:48Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "25570d0fc73a005af0d81c71ab2f8f389c0ee1fa"
+        ],
+        "sha": "8d4c8f257f0eecdaebc23b9c7dccbe2939b4075c"
+      },
+      "occurred_at": "2025-08-01T03:51:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDhkNGM4ZjI1N2YwZWVjZGFlYmMyM2I5YzdkY2NiZTI5MzliNDA3NWM",
+        "number": null,
+        "title": "Improve some typing (#2000)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/8d4c8f257f0eecdaebc23b9c7dccbe2939b4075c"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/8d4c8f257f0eecdaebc23b9c7dccbe2939b4075c"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M6nQalUzwAAAARoX1Z4",
+      "metadata": {
+        "merge_commit_sha": "8d4c8f257f0eecdaebc23b9c7dccbe2939b4075c",
+        "source_node_id": "ME_lADOBS3A-M6nQalUzwAAAARoX1Z4"
+      },
+      "occurred_at": "2025-08-01T03:51:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6IuB_i",
+        "number": 2000,
+        "title": "Improve some typing",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2000"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2000#event-18930947704"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOBS3A-M7EibUS",
+      "metadata": {
+        "source_node_id": "I_kwDOBS3A-M7EibUS"
+      },
+      "occurred_at": "2025-08-06T16:40:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7EibUS",
+        "number": 2093,
+        "title": "Topology.from_pdb silently mangles input if atom order in PDB splits up molecule",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2093"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2093"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M6GmpgJ",
+      "metadata": {
+        "created_at": "2025-08-06T20:55:24Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-06T21:13:39Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M64boVz",
+        "source_node_id": "PRRC_kwDOBS3A-M6GmpgJ",
+        "thread_node_id": "PRRT_kwDOBS3A-M5Wx3YS",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-06T21:13:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6Tg802",
+        "number": 2048,
+        "title": "Implement NAGLChargesHandler",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2048"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2048#discussion_r2258278409"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M6Gmtj4",
+      "metadata": {
+        "created_at": "2025-08-06T21:03:34Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-06T21:13:39Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M64boVz",
+        "source_node_id": "PRRC_kwDOBS3A-M6Gmtj4",
+        "thread_node_id": "PRRT_kwDOBS3A-M5Wx6Qg",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-06T21:13:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6Tg802",
+        "number": 2048,
+        "title": "Implement NAGLChargesHandler",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2048"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2048#discussion_r2258295032"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M6Gmuy5",
+      "metadata": {
+        "created_at": "2025-08-06T21:05:29Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-06T21:13:39Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M64boVz",
+        "source_node_id": "PRRC_kwDOBS3A-M6Gmuy5",
+        "thread_node_id": "PRRT_kwDOBS3A-M5Wx7H6",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-06T21:13:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6Tg802",
+        "number": 2048,
+        "title": "Implement NAGLChargesHandler",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2048"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2048#discussion_r2258300089"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M6Gmv0L",
+      "metadata": {
+        "created_at": "2025-08-06T21:08:05Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-06T21:13:39Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M64boVz",
+        "source_node_id": "PRRC_kwDOBS3A-M6Gmv0L",
+        "thread_node_id": "PRRT_kwDOBS3A-M5Wx73c",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-06T21:13:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6Tg802",
+        "number": 2048,
+        "title": "Implement NAGLChargesHandler",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2048"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2048#discussion_r2258304267"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M6GmyYU",
+      "metadata": {
+        "created_at": "2025-08-06T21:13:24Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-06T21:13:39Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M64boVz",
+        "source_node_id": "PRRC_kwDOBS3A-M6GmyYU",
+        "thread_node_id": "PRRT_kwDOBS3A-M5Wx9pu",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-06T21:13:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6Tg802",
+        "number": 2048,
+        "title": "Implement NAGLChargesHandler",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2048"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2048#discussion_r2258314772"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M64boVz",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M64boVz",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-06T21:13:39Z"
+      },
+      "occurred_at": "2025-08-06T21:13:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6Tg802",
+        "number": 2048,
+        "title": "Implement NAGLChargesHandler",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2048"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2048#pullrequestreview-3094250867"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDk2OTkzMzM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOBS3A-M6jPHkl",
+      "metadata": {
+        "source_node_id": "PR_kwDOBS3A-M6jPHkl"
+      },
+      "occurred_at": "2025-08-12T10:46:04Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6jPHkl",
+        "number": 2094,
+        "title": "Bump actions/checkout from 4 to 5",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2094"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2094"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M65X2oV",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M65X2oV",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-12T11:37:42Z"
+      },
+      "occurred_at": "2025-08-12T11:37:42Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6jPHkl",
+        "number": 2094,
+        "title": "Bump actions/checkout from 4 to 5",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2094"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2094#pullrequestreview-3110038037"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDk2OTkzMzM=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:143a70fe42b53288b18f331ed6b1b65c55e766bf",
+      "metadata": {
+        "authored_at": "2025-08-12T11:37:50Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "8d4c8f257f0eecdaebc23b9c7dccbe2939b4075c"
+        ],
+        "sha": "143a70fe42b53288b18f331ed6b1b65c55e766bf"
+      },
+      "occurred_at": "2025-08-12T11:37:50Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDE0M2E3MGZlNDJiNTMyODhiMThmMzMxZWQ2YjFiNjVjNTVlNzY2YmY",
+        "number": null,
+        "title": "Bump actions/checkout from 4 to 5 (#2094)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/143a70fe42b53288b18f331ed6b1b65c55e766bf"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/143a70fe42b53288b18f331ed6b1b65c55e766bf"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M7FgnMVzwAAAARzEGwh",
+      "metadata": {
+        "merge_commit_sha": "143a70fe42b53288b18f331ed6b1b65c55e766bf",
+        "source_node_id": "ME_lADOBS3A-M7FgnMVzwAAAARzEGwh"
+      },
+      "occurred_at": "2025-08-12T11:37:50Z",
+      "subject": {
+        "author_key": "MDM6Qm90NDk2OTkzMzM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6jPHkl",
+        "number": 2094,
+        "title": "Bump actions/checkout from 4 to 5",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2094"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2094#event-19110325281"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NjY4NTMxMTM=",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:d70974de36c817d886def6dbe51b62b895c39fb4",
+      "metadata": {
+        "authored_at": "2025-08-14T16:43:07Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "143a70fe42b53288b18f331ed6b1b65c55e766bf"
+        ],
+        "sha": "d70974de36c817d886def6dbe51b62b895c39fb4"
+      },
+      "occurred_at": "2025-08-14T16:43:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKGQ3MDk3NGRlMzZjODE3ZDg4NmRlZjZkYmU1MWI2MmI4OTVjMzlmYjQ",
+        "number": null,
+        "title": "Implement NAGLChargesHandler (#2048)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/d70974de36c817d886def6dbe51b62b895c39fb4"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/d70974de36c817d886def6dbe51b62b895c39fb4"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M6zj27pzwAAAAR2NuMr",
+      "metadata": {
+        "merge_commit_sha": "d70974de36c817d886def6dbe51b62b895c39fb4",
+        "source_node_id": "ME_lADOBS3A-M6zj27pzwAAAAR2NuMr"
+      },
+      "occurred_at": "2025-08-14T16:43:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6Tg802",
+        "number": 2048,
+        "title": "Implement NAGLChargesHandler",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2048"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2048#event-19163177771"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M6-Fnhz",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-Fnhz"
+      },
+      "occurred_at": "2025-08-14T16:44:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6eh-6L",
+        "number": 2085,
+        "title": "Actually format with `ruff`",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2085"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2085#issuecomment-3189143667"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M6-FuLN",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-FuLN"
+      },
+      "occurred_at": "2025-08-14T16:51:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6eh-6L",
+        "number": 2085,
+        "title": "Actually format with `ruff`",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2085"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2085#issuecomment-3189170893"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M6-FxZy",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-FxZy"
+      },
+      "occurred_at": "2025-08-14T16:56:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6eh-6L",
+        "number": 2085,
+        "title": "Actually format with `ruff`",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2085"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2085#issuecomment-3189184114"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M6-F2Ed",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-F2Ed"
+      },
+      "occurred_at": "2025-08-14T17:02:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6eh-6L",
+        "number": 2085,
+        "title": "Actually format with `ruff`",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2085"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2085#issuecomment-3189203229"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M66FS-E",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M66FS-E",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-14T19:59:32Z"
+      },
+      "occurred_at": "2025-08-14T19:59:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6eh-6L",
+        "number": 2085,
+        "title": "Actually format with `ruff`",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2085"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2085#pullrequestreview-3121950596"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NjY4NTMxMTM=",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "co_author"
+        },
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:9f29507a08e4c7801b3064607c2fb53b9f28c08d",
+      "metadata": {
+        "authored_at": "2025-08-14T19:59:39Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "d70974de36c817d886def6dbe51b62b895c39fb4"
+        ],
+        "sha": "9f29507a08e4c7801b3064607c2fb53b9f28c08d"
+      },
+      "occurred_at": "2025-08-14T19:59:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDlmMjk1MDdhMDhlNGM3ODAxYjMwNjQ2MDdjMmZiNTNiOWYyOGMwOGQ",
+        "number": null,
+        "title": "Actually format with `ruff` (#2085)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/9f29507a08e4c7801b3064607c2fb53b9f28c08d"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/9f29507a08e4c7801b3064607c2fb53b9f28c08d"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M7AI10HzwAAAAR2ZDgV",
+      "metadata": {
+        "merge_commit_sha": "9f29507a08e4c7801b3064607c2fb53b9f28c08d",
+        "source_node_id": "ME_lADOBS3A-M7AI10HzwAAAAR2ZDgV"
+      },
+      "occurred_at": "2025-08-14T19:59:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6eh-6L",
+        "number": 2085,
+        "title": "Actually format with `ruff`",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2085"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2085#event-19166148629"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M6-HzOc",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-HzOc"
+      },
+      "occurred_at": "2025-08-14T19:59:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6eh-6L",
+        "number": 2085,
+        "title": "Actually format with `ruff`",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2085"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2085#issuecomment-3189715868"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:3ded9791c3805faa6cb6e7b4058b103b54bfc182",
+      "metadata": {
+        "authored_at": "2025-08-18T19:16:15Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "9f29507a08e4c7801b3064607c2fb53b9f28c08d"
+        ],
+        "sha": "3ded9791c3805faa6cb6e7b4058b103b54bfc182"
+      },
+      "occurred_at": "2025-08-18T19:16:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDNkZWQ5NzkxYzM4MDVmYWE2Y2I2ZTdiNDA1OGIxMDNiNTRiZmMxODI",
+        "number": null,
+        "title": "0.17.0 post release",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/3ded9791c3805faa6cb6e7b4058b103b54bfc182"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/3ded9791c3805faa6cb6e7b4058b103b54bfc182"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOBS3A-M7Gm2Iu",
+      "metadata": {
+        "source_node_id": "I_kwDOBS3A-M7Gm2Iu"
+      },
+      "occurred_at": "2025-08-18T20:50:21Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7Gm2Iu",
+        "number": 2095,
+        "title": "Issue with nagl model filename in partial charge assignment when passing the output of `get_models_by_type`",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2095"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2095"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M6-o4Yn",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-o4Yn"
+      },
+      "occurred_at": "2025-08-18T20:53:38Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7Gm2Iu",
+        "number": 2095,
+        "title": "Issue with nagl model filename in partial charge assignment when passing the output of `get_models_by_type`",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2095"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2095#issuecomment-3198387751"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M6-rVe5",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-rVe5"
+      },
+      "occurred_at": "2025-08-19T02:49:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7Gm2Iu",
+        "number": 2095,
+        "title": "Issue with nagl model filename in partial charge assignment when passing the output of `get_models_by_type`",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2095"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2095#issuecomment-3199031225"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M6-r_iy",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-r_iy"
+      },
+      "occurred_at": "2025-08-19T04:56:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7Gm2Iu",
+        "number": 2095,
+        "title": "Issue with nagl model filename in partial charge assignment when passing the output of `get_models_by_type`",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2095"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2095#issuecomment-3199203506"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M6-wvxL",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-wvxL"
+      },
+      "occurred_at": "2025-08-19T11:54:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7Gm2Iu",
+        "number": 2095,
+        "title": "Issue with nagl model filename in partial charge assignment when passing the output of `get_models_by_type`",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2095"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2095#issuecomment-3200449611"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M6-wxJg",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-wxJg"
+      },
+      "occurred_at": "2025-08-19T11:56:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7Gm2Iu",
+        "number": 2095,
+        "title": "Issue with nagl model filename in partial charge assignment when passing the output of `get_models_by_type`",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2095"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2095#issuecomment-3200455264"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M6-xoPW",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-xoPW"
+      },
+      "occurred_at": "2025-08-19T13:04:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7Gm2Iu",
+        "number": 2095,
+        "title": "Issue with nagl model filename in partial charge assignment when passing the output of `get_models_by_type`",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2095"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2095#issuecomment-3200680918"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOBS3A-M6kTXQO",
+      "metadata": {
+        "source_node_id": "PR_kwDOBS3A-M6kTXQO"
+      },
+      "occurred_at": "2025-08-19T13:43:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6kTXQO",
+        "number": 2096,
+        "title": "Allow NAGL model paths to be `pathlib.Path | str`",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2096"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2096"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M6-yQi0",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-yQi0"
+      },
+      "occurred_at": "2025-08-19T13:47:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6kTXQO",
+        "number": 2096,
+        "title": "Allow NAGL model paths to be `pathlib.Path | str`",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2096"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2096#issuecomment-3200846004"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M6-yjWn",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-yjWn"
+      },
+      "occurred_at": "2025-08-19T14:07:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7Gm2Iu",
+        "number": 2095,
+        "title": "Issue with nagl model filename in partial charge assignment when passing the output of `get_models_by_type`",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2095"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2095#issuecomment-3200923047"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOBS3A-M6kUp8i",
+      "metadata": {
+        "source_node_id": "PR_kwDOBS3A-M6kUp8i"
+      },
+      "occurred_at": "2025-08-19T15:36:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6kUp8i",
+        "number": 2097,
+        "title": "Declare minimum Python version",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2097"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2097"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M6-0BMs",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-0BMs"
+      },
+      "occurred_at": "2025-08-19T15:52:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6kUp8i",
+        "number": 2097,
+        "title": "Declare minimum Python version",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2097"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2097#issuecomment-3201307436"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M6-0vnN",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6-0vnN"
+      },
+      "occurred_at": "2025-08-19T16:53:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7Gm2Iu",
+        "number": 2095,
+        "title": "Issue with nagl model filename in partial charge assignment when passing the output of `get_models_by_type`",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2095"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2095#issuecomment-3201497549"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M6IQUOo",
+      "metadata": {
+        "created_at": "2025-08-19T18:11:29Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-19T18:11:29Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M66wvUs",
+        "source_node_id": "PRRC_kwDOBS3A-M6IQUOo",
+        "thread_node_id": "PRRT_kwDOBS3A-M5X86tK",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-19T18:11:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6kTXQO",
+        "number": 2096,
+        "title": "Allow NAGL model paths to be `pathlib.Path | str`",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2096"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2096#discussion_r2285978536"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M66wvUs",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M66wvUs",
+        "state": "COMMENTED",
+        "submitted_at": "2025-08-19T18:11:29Z"
+      },
+      "occurred_at": "2025-08-19T18:11:29Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6kTXQO",
+        "number": 2096,
+        "title": "Allow NAGL model paths to be `pathlib.Path | str`",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2096"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2096#pullrequestreview-3133338924"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MTY2MDI=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOBS3A-M7Gm2IuzwAAAAR7WELH",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOBS3A-M7Gm2IuzwAAAAR7WELH"
+      },
+      "occurred_at": "2025-08-20T16:06:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7Gm2Iu",
+        "number": 2095,
+        "title": "Issue with nagl model filename in partial charge assignment when passing the output of `get_models_by_type`",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2095"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2095#event-19249251015"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:IC_kwDOBS3A-M6_L6eh",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M6_L6eh"
+      },
+      "occurred_at": "2025-08-20T18:25:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M559dsl",
+        "number": 1791,
+        "title": "Move type annotations from docstrings to signatures wherever possible",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/1791"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/1791#issuecomment-3207571361"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOBS3A-M7HejnC",
+      "metadata": {
+        "source_node_id": "I_kwDOBS3A-M7HejnC"
+      },
+      "occurred_at": "2025-08-22T20:43:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7HejnC",
+        "number": 2098,
+        "title": "Update wording on AM1BCC charge assignment",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2098"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2098"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOBS3A-M7He4rr",
+      "metadata": {
+        "source_node_id": "I_kwDOBS3A-M7He4rr"
+      },
+      "occurred_at": "2025-08-22T21:11:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7He4rr",
+        "number": 2099,
+        "title": "Update mixture simulation example",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2099"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2099"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:I_kwDOBS3A-M7He5tF",
+      "metadata": {
+        "source_node_id": "I_kwDOBS3A-M7He5tF"
+      },
+      "occurred_at": "2025-08-22T21:12:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7He5tF",
+        "number": 2100,
+        "title": "Update conformer energies example",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2100"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2100"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_opened:PR_kwDOBS3A-M6lRhAY",
+      "metadata": {
+        "source_node_id": "PR_kwDOBS3A-M6lRhAY"
+      },
+      "occurred_at": "2025-08-25T19:37:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6lRhAY",
+        "number": 2101,
+        "title": "Update conformer energies example",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2101"
+      },
+      "type": "pr_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2101"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90NDE5OTM5NzQ=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M7ABE1R",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M7ABE1R"
+      },
+      "occurred_at": "2025-08-25T19:37:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6lRhAY",
+        "number": 2101,
+        "title": "Update conformer energies example",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2101"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2101#issuecomment-3221507409"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_conversation_comment:IC_kwDOBS3A-M7ABHXO",
+      "metadata": {
+        "source_node_id": "IC_kwDOBS3A-M7ABHXO"
+      },
+      "occurred_at": "2025-08-25T19:41:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6lRhAY",
+        "number": 2101,
+        "title": "Update conformer energies example",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2101"
+      },
+      "type": "pr_conversation_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2101#issuecomment-3221517774"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M6Jlt1O",
+      "metadata": {
+        "created_at": "2025-08-28T19:37:57Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-28T19:37:57Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M68uT2b",
+        "source_node_id": "PRRC_kwDOBS3A-M6Jlt1O",
+        "thread_node_id": "PRRT_kwDOBS3A-M5Y5JBP",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-28T19:37:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6lRhAY",
+        "number": 2101,
+        "title": "Update conformer energies example",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2101"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2101#discussion_r2308365646"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M68uT2b",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M68uT2b",
+        "state": "COMMENTED",
+        "submitted_at": "2025-08-28T19:37:57Z"
+      },
+      "occurred_at": "2025-08-28T19:37:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6lRhAY",
+        "number": 2101,
+        "title": "Update conformer energies example",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2101"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2101#pullrequestreview-3166256539"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M68ucj-",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M68ucj-",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-28T19:50:56Z"
+      },
+      "occurred_at": "2025-08-28T19:50:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6lRhAY",
+        "number": 2101,
+        "title": "Update conformer energies example",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2101"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2101#pullrequestreview-3166292222"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M6JmkGq",
+      "metadata": {
+        "created_at": "2025-08-28T21:24:16Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-28T21:24:16Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M68vlSv",
+        "source_node_id": "PRRC_kwDOBS3A-M6JmkGq",
+        "thread_node_id": "PRRT_kwDOBS3A-M5Y5JBP",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-28T21:24:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6lRhAY",
+        "number": 2101,
+        "title": "Update conformer energies example",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2101"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2101#discussion_r2308587946"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M68vlSv",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M68vlSv",
+        "state": "COMMENTED",
+        "submitted_at": "2025-08-28T21:24:16Z"
+      },
+      "occurred_at": "2025-08-28T21:24:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6lRhAY",
+        "number": 2101,
+        "title": "Update conformer energies example",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2101"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2101#pullrequestreview-3166590127"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:e3912617c56630320e057e518bc6cb1ade017fdc",
+      "metadata": {
+        "authored_at": "2025-08-28T21:39:25Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "3ded9791c3805faa6cb6e7b4058b103b54bfc182"
+        ],
+        "sha": "e3912617c56630320e057e518bc6cb1ade017fdc"
+      },
+      "occurred_at": "2025-08-28T21:39:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKGUzOTEyNjE3YzU2NjMwMzIwZTA1N2U1MThiYzZjYjFhZGUwMTdmZGM",
+        "number": null,
+        "title": "Update conformer energies example (#2101)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/e3912617c56630320e057e518bc6cb1ade017fdc"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/e3912617c56630320e057e518bc6cb1ade017fdc"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M7H2pFQzwAAAASEVun_",
+      "metadata": {
+        "merge_commit_sha": "e3912617c56630320e057e518bc6cb1ade017fdc",
+        "source_node_id": "ME_lADOBS3A-M7H2pFQzwAAAASEVun_"
+      },
+      "occurred_at": "2025-08-28T21:39:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6lRhAY",
+        "number": 2101,
+        "title": "Update conformer energies example",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2101"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2101#event-19400157695"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "closer"
+        }
+      ],
+      "id": "issue_closed:CE_lADOBS3A-M7He5tFzwAAAASEVuqj",
+      "metadata": {
+        "reason": "COMPLETED",
+        "source_node_id": "CE_lADOBS3A-M7He5tFzwAAAASEVuqj"
+      },
+      "occurred_at": "2025-08-28T21:39:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "issue",
+        "node_id": "I_kwDOBS3A-M7He5tF",
+        "number": 2100,
+        "title": "Update conformer energies example",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/2100"
+      },
+      "type": "issue_closed",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/2100#event-19400157859"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M6Jl4jJ",
+      "metadata": {
+        "created_at": "2025-08-28T20:01:21Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-29T16:16:13Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M68ui-6",
+        "source_node_id": "PRRC_kwDOBS3A-M6Jl4jJ",
+        "thread_node_id": "PRRT_kwDOBS3A-M5Y5Q3M",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-29T16:16:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6kUp8i",
+        "number": 2097,
+        "title": "Declare minimum Python version",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2097"
+      },
+      "type": "pr_inline_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2097#discussion_r2308409545"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review:PRR_kwDOBS3A-M68ui-6",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M68ui-6",
+        "state": "APPROVED",
+        "submitted_at": "2025-08-29T16:16:13Z"
+      },
+      "occurred_at": "2025-08-29T16:16:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6kUp8i",
+        "number": 2097,
+        "title": "Declare minimum Python version",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2097"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2097#pullrequestreview-3166318522"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:5b4941c791cd49afbbdce040cefeb23da298ada2",
+      "metadata": {
+        "authored_at": "2025-08-29T16:53:58Z",
+        "committer": {
+          "actor_key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+          "email": "noreply@github.com",
+          "name": "GitHub"
+        },
+        "parent_shas": [
+          "e3912617c56630320e057e518bc6cb1ade017fdc"
+        ],
+        "sha": "5b4941c791cd49afbbdce040cefeb23da298ada2"
+      },
+      "occurred_at": "2025-08-29T16:53:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "commit",
+        "node_id": "C_kwDOBS3A-NoAKDViNDk0MWM3OTFjZDQ5YWZiYmRjZTA0MGNlZmViMjNkYTI5OGFkYTI",
+        "number": null,
+        "title": "Declare minimum Python version (#2097)",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/5b4941c791cd49afbbdce040cefeb23da298ada2"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/5b4941c791cd49afbbdce040cefeb23da298ada2"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "merger"
+        }
+      ],
+      "id": "pr_merged:ME_lADOBS3A-M7GxYI0zwAAAASFPpHx",
+      "metadata": {
+        "merge_commit_sha": "5b4941c791cd49afbbdce040cefeb23da298ada2",
+        "source_node_id": "ME_lADOBS3A-M7GxYI0zwAAAASFPpHx"
+      },
+      "occurred_at": "2025-08-29T16:53:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M6kUp8i",
+        "number": 2097,
+        "title": "Declare minimum Python version",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2097"
+      },
+      "type": "pr_merged",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2097#event-19415339505"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "bot",
+      "database_id": 22429695,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90MjI0Mjk2OTU=",
+      "key": "MDM6Qm90MjI0Mjk2OTU=",
+      "login": "codecov",
+      "url": "https://github.com/apps/codecov"
+    },
+    {
+      "classification": "bot",
+      "database_id": 41993974,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90NDE5OTM5NzQ=",
+      "key": "MDM6Qm90NDE5OTM5NzQ=",
+      "login": "review-notebook-app",
+      "url": "https://github.com/apps/review-notebook-app"
+    },
+    {
+      "classification": "bot",
+      "database_id": 49699333,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90NDk2OTkzMzM=",
+      "key": "MDM6Qm90NDk2OTkzMzM=",
+      "login": "dependabot",
+      "url": "https://github.com/apps/dependabot"
+    },
+    {
+      "classification": "bot",
+      "database_id": 66853113,
+      "display_name": null,
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDM6Qm90NjY4NTMxMTM=",
+      "key": "MDM6Qm90NjY4NTMxMTM=",
+      "login": "pre-commit-ci",
+      "url": "https://github.com/apps/pre-commit-ci"
+    },
+    {
+      "classification": "human",
+      "database_id": 1616602,
+      "display_name": "James R. Baggs Eastwood",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE2MTY2MDI=",
+      "key": "MDQ6VXNlcjE2MTY2MDI=",
+      "login": "jameseastwood",
+      "url": "https://github.com/jameseastwood"
+    },
+    {
+      "classification": "human",
+      "database_id": 16329175,
+      "display_name": "Jeff Wagner",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjE2MzI5MTc1",
+      "key": "MDQ6VXNlcjE2MzI5MTc1",
+      "login": "j-wags",
+      "url": "https://github.com/j-wags"
+    },
+    {
+      "classification": "human",
+      "database_id": 12460125,
+      "display_name": "Irfan Alibay",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjEyNDYwMTI1",
+      "key": "MDQ6VXNlcjEyNDYwMTI1",
+      "login": "IAlibay",
+      "url": "https://github.com/IAlibay"
+    },
+    {
+      "classification": "human",
+      "database_id": 28590748,
+      "display_name": "Ashley Mitchell",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjI4NTkwNzQ4",
+      "key": "MDQ6VXNlcjI4NTkwNzQ4",
+      "login": "Yoshanuikabundi",
+      "url": "https://github.com/Yoshanuikabundi"
+    },
+    {
+      "classification": "human",
+      "database_id": 7935382,
+      "display_name": "Matt Thompson",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjc5MzUzODI=",
+      "key": "MDQ6VXNlcjc5MzUzODI=",
+      "login": "mattwthompson",
+      "url": "https://github.com/mattwthompson"
+    },
+    {
+      "classification": "unresolved_git",
+      "database_id": null,
+      "display_name": null,
+      "git_email": "noreply@github.com",
+      "git_name": "GitHub",
+      "github_node_id": null,
+      "key": "git:email:3c205d8fc749f72977b9331e3179773c315bb1f4860c366de2abe9ec9337730b",
+      "login": null,
+      "url": null
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-18T01:48:26.293011Z",
+    "collection_started_at": "2026-10-18T01:43:32.631495Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "ef074d58a2e7b03625aae7cd3aff87a8ee46c38b",
+    "month": "2025-08",
+    "month_end": "2025-09-01T00:00:00Z",
+    "month_start": "2025-08-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "openforcefield/openff-toolkit",
+    "repository_node_id": "MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==",
+    "repository_url": "https://github.com/openforcefield/openff-toolkit"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDM6Qm90MjI0Mjk2OTU=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 3,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDM6Qm90NDE5OTM5NzQ=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 1,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDM6Qm90NDk2OTkzMzM=": {
+        "commit": 1,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 1,
+        "pr_review": 0
+      },
+      "MDM6Qm90NjY4NTMxMTM=": {
+        "commit": 2,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjE2MTY2MDI=": {
+        "commit": 0,
+        "issue_closed": 1,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjE2MzI5MTc1": {
+        "commit": 3,
+        "issue_closed": 0,
+        "issue_comment": 1,
+        "issue_opened": 4,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 3,
+        "pr_inline_review_comment": 3,
+        "pr_merged": 2,
+        "pr_opened": 0,
+        "pr_review": 5
+      },
+      "MDQ6VXNlcjEyNDYwMTI1": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 2,
+        "issue_opened": 1,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjI4NTkwNzQ4": {
+        "commit": 1,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 1,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjc5MzUzODI=": {
+        "commit": 4,
+        "issue_closed": 1,
+        "issue_comment": 6,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 2,
+        "pr_inline_review_comment": 6,
+        "pr_merged": 3,
+        "pr_opened": 3,
+        "pr_review": 3
+      }
+    },
+    "distinct_actors": {
+      "bot": 4,
+      "human": 5,
+      "total": 9,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 2,
+        "human": 3,
+        "total": 5,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 2,
+        "human": 2,
+        "total": 4,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 1,
+        "human": 1,
+        "total": 2,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 7,
+      "issue_closed": 2,
+      "issue_comment": 9,
+      "issue_opened": 5,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 9,
+      "pr_inline_review_comment": 9,
+      "pr_merged": 6,
+      "pr_opened": 4,
+      "pr_review": 8
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}

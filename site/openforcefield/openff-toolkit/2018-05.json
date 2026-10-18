@@ -1,0 +1,522 @@
+{
+  "activities": [
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDM4NjA0NTEzMQ==",
+      "metadata": {
+        "source_node_id": "MDEyOklzc3VlQ29tbWVudDM4NjA0NTEzMQ=="
+      },
+      "occurred_at": "2018-05-02T16:50:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUzMTkwMjIwMjQ=",
+        "number": 110,
+        "title": "Update documentation about no python2.7 support",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/110"
+      },
+      "type": "issue_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/110#issuecomment-386045131"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExOTY4NTQx",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWUzMTk5NzkzNjI=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWUzMTk5NzkzNjI="
+      },
+      "occurred_at": "2018-05-03T15:51:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUzMTk5NzkzNjI=",
+        "number": 111,
+        "title": "ChemicalEnvironments handle replacements with RDKit correctly",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/111"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/111"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExOTY4NTQx",
+          "role": "author"
+        }
+      ],
+      "id": "issue_opened:MDU6SXNzdWUzMjE4MDE4Mzk=",
+      "metadata": {
+        "source_node_id": "MDU6SXNzdWUzMjE4MDE4Mzk="
+      },
+      "occurred_at": "2018-05-10T03:59:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "issue",
+        "node_id": "MDU6SXNzdWUzMjE4MDE4Mzk=",
+        "number": 112,
+        "title": "Inconsistent with force field as 2 words",
+        "url": "https://github.com/openforcefield/openff-toolkit/issues/112"
+      },
+      "type": "issue_opened",
+      "url": "https://github.com/openforcefield/openff-toolkit/issues/112"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:8476008bd372203c652e31a9d7ae4648e2883b09",
+      "metadata": {
+        "authored_at": "2018-05-20T17:30:40Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "ca2713f3a90eabe55ceebb9aeea19d39a3ad3af3",
+          "65f6b45954bde02c6cec1059661635c53a7f4e35"
+        ],
+        "sha": "8476008bd372203c652e31a9d7ae4648e2883b09"
+      },
+      "occurred_at": "2018-05-20T17:30:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ODQ3NjAwOGJkMzcyMjAzYzY1MmUzMWE5ZDdhZTQ2NDhlMjg4M2IwOQ==",
+        "number": null,
+        "title": "Merge remote-tracking branch 'origin/master' into topology",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/8476008bd372203c652e31a9d7ae4648e2883b09"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/8476008bd372203c652e31a9d7ae4648e2883b09"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:1068ed7f04ba16f49083d21ee2c5d30c6179f8f0",
+      "metadata": {
+        "authored_at": "2018-05-20T20:15:51Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "8476008bd372203c652e31a9d7ae4648e2883b09"
+        ],
+        "sha": "1068ed7f04ba16f49083d21ee2c5d30c6179f8f0"
+      },
+      "occurred_at": "2018-05-20T20:15:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6MTA2OGVkN2YwNGJhMTZmNDkwODNkMjFlZTJjNWQzMGM2MTc5ZjhmMA==",
+        "number": null,
+        "title": "Upgrade travis to use cookiecutter-compchem framework; test both RDKi…",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/1068ed7f04ba16f49083d21ee2c5d30c6179f8f0"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/1068ed7f04ba16f49083d21ee2c5d30c6179f8f0"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:fb7413b08a95af10385b68c6f86f4744e3e76576",
+      "metadata": {
+        "authored_at": "2018-05-25T04:14:43Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "1068ed7f04ba16f49083d21ee2c5d30c6179f8f0"
+        ],
+        "sha": "fb7413b08a95af10385b68c6f86f4744e3e76576"
+      },
+      "occurred_at": "2018-05-25T04:14:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZmI3NDEzYjA4YTk1YWYxMDM4NWI2OGM2Zjg2ZjQ3NDRlM2U3NjU3Ng==",
+        "number": null,
+        "title": "About to refactor ForceField to split out XML reading/writing",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/fb7413b08a95af10385b68c6f86f4744e3e76576"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/fb7413b08a95af10385b68c6f86f4744e3e76576"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:415c3f7021b91f32a8e7f6fe84c2d165ac408896",
+      "metadata": {
+        "authored_at": "2018-05-26T20:09:39Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "fb7413b08a95af10385b68c6f86f4744e3e76576"
+        ],
+        "sha": "415c3f7021b91f32a8e7f6fe84c2d165ac408896"
+      },
+      "occurred_at": "2018-05-26T20:09:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NDE1YzNmNzAyMWI5MWYzMmE4ZTdmNmZlODRjMmQxNjVhYzQwODg5Ng==",
+        "number": null,
+        "title": "Migrate non-SMIRNOFF system merging/manipulation utilities to openfor…",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/415c3f7021b91f32a8e7f6fe84c2d165ac408896"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/415c3f7021b91f32a8e7f6fe84c2d165ac408896"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:c16e8e18b6b903a3105e90d24303194e53bf0948",
+      "metadata": {
+        "authored_at": "2018-05-26T20:10:08Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "415c3f7021b91f32a8e7f6fe84c2d165ac408896"
+        ],
+        "sha": "c16e8e18b6b903a3105e90d24303194e53bf0948"
+      },
+      "occurred_at": "2018-05-26T20:10:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YzE2ZThlMThiNmI5MDNhMzEwNWU5MGQyNDMwMzE5NGU1M2JmMDk0OA==",
+        "number": null,
+        "title": "Remove unneded openforcefield.typing.engines.smirnoff.forcefield_utils",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/c16e8e18b6b903a3105e90d24303194e53bf0948"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/c16e8e18b6b903a3105e90d24303194e53bf0948"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:6d40161975961258e2e793ad5e22d02f6fa62a26",
+      "metadata": {
+        "authored_at": "2018-05-27T01:40:52Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "c16e8e18b6b903a3105e90d24303194e53bf0948"
+        ],
+        "sha": "6d40161975961258e2e793ad5e22d02f6fa62a26"
+      },
+      "occurred_at": "2018-05-27T01:40:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6NmQ0MDE2MTk3NTk2MTI1OGUyZTc5M2FkNWUyMmQwMmY2ZmE2MmEyNg==",
+        "number": null,
+        "title": "Loads of refactoring.",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/6d40161975961258e2e793ad5e22d02f6fa62a26"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/6d40161975961258e2e793ad5e22d02f6fa62a26"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:d4a8b9c1f7d29037ab5d48d141b71c54bed78813",
+      "metadata": {
+        "authored_at": "2018-05-27T23:43:32Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "6d40161975961258e2e793ad5e22d02f6fa62a26"
+        ],
+        "sha": "d4a8b9c1f7d29037ab5d48d141b71c54bed78813"
+      },
+      "occurred_at": "2018-05-27T23:43:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6ZDRhOGI5YzFmN2QyOTAzN2FiNWQ0OGQxNDFiNzFjNTRiZWQ3ODgxMw==",
+        "number": null,
+        "title": "Add laromustine a small heterogeneous molecule test data",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/d4a8b9c1f7d29037ab5d48d141b71c54bed78813"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/d4a8b9c1f7d29037ab5d48d141b71c54bed78813"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "commit:MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==:ae03d34fec03a7908ffdc86938e11247f5491f9a",
+      "metadata": {
+        "authored_at": "2018-05-27T23:43:57Z",
+        "committer": {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "email": "john.chodera@choderalab.org",
+          "name": "John Chodera"
+        },
+        "parent_shas": [
+          "d4a8b9c1f7d29037ab5d48d141b71c54bed78813"
+        ],
+        "sha": "ae03d34fec03a7908ffdc86938e11247f5491f9a"
+      },
+      "occurred_at": "2018-05-27T23:43:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjM2NTYwODg=",
+        "kind": "commit",
+        "node_id": "MDY6Q29tbWl0ODY4ODQ2MDA6YWUwM2QzNGZlYzAzYTc5MDhmZmRjODY5MzhlMTEyNDdmNTQ5MWY5YQ==",
+        "number": null,
+        "title": "Continue major refectoring of tests",
+        "url": "https://github.com/openforcefield/openff-toolkit/commit/ae03d34fec03a7908ffdc86938e11247f5491f9a"
+      },
+      "type": "commit",
+      "url": "https://github.com/openforcefield/openff-toolkit/commit/ae03d34fec03a7908ffdc86938e11247f5491f9a"
+    }
+  ],
+  "actors": [
+    {
+      "classification": "human",
+      "database_id": 11968541,
+      "display_name": "Caitlin Bannan",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjExOTY4NTQx",
+      "key": "MDQ6VXNlcjExOTY4NTQx",
+      "login": "bannanc",
+      "url": "https://github.com/bannanc"
+    },
+    {
+      "classification": "human",
+      "database_id": 3656088,
+      "display_name": "John Chodera",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjM2NTYwODg=",
+      "key": "MDQ6VXNlcjM2NTYwODg=",
+      "login": "jchodera",
+      "url": "https://github.com/jchodera"
+    },
+    {
+      "classification": "human",
+      "database_id": 7132257,
+      "display_name": "David L. Mobley",
+      "git_email": null,
+      "git_name": null,
+      "github_node_id": "MDQ6VXNlcjcxMzIyNTc=",
+      "key": "MDQ6VXNlcjcxMzIyNTc=",
+      "login": "davidlmobley",
+      "url": "https://github.com/davidlmobley"
+    }
+  ],
+  "metadata": {
+    "collection_finished_at": "2026-10-18T01:48:26.293011Z",
+    "collection_started_at": "2026-10-18T01:43:32.631495Z",
+    "commit_history": "full",
+    "coverage_limitations": [
+      "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
+      "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
+      "Deleted or inaccessible items and transferred issues can limit historical reconstruction.",
+      "Repository and actor names, subject titles, and URLs reflect collection-time metadata; historical display names are not reconstructed.",
+      "Review states and thread resolved/outdated flags reflect collection-time metadata.",
+      "Collection is not a transactional GitHub snapshot; concurrent changes and newly available data may revise results on a later rerun."
+    ],
+    "default_branch": "main",
+    "default_branch_head": "ef074d58a2e7b03625aae7cd3aff87a8ee46c38b",
+    "month": "2018-05",
+    "month_end": "2018-06-01T00:00:00Z",
+    "month_start": "2018-05-01T00:00:00Z",
+    "ongoing": false,
+    "parent_discovery": "full",
+    "repository_full_name": "openforcefield/openff-toolkit",
+    "repository_node_id": "MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==",
+    "repository_url": "https://github.com/openforcefield/openff-toolkit"
+  },
+  "schema_version": "1",
+  "summaries": {
+    "actor_counts": {
+      "MDQ6VXNlcjExOTY4NTQx": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 2,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjM2NTYwODg=": {
+        "commit": 8,
+        "issue_closed": 0,
+        "issue_comment": 0,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      },
+      "MDQ6VXNlcjcxMzIyNTc=": {
+        "commit": 0,
+        "issue_closed": 0,
+        "issue_comment": 1,
+        "issue_opened": 0,
+        "issue_reopened": 0,
+        "pr_conversation_comment": 0,
+        "pr_inline_review_comment": 0,
+        "pr_merged": 0,
+        "pr_opened": 0,
+        "pr_review": 0
+      }
+    },
+    "distinct_actors": {
+      "bot": 0,
+      "human": 3,
+      "total": 3,
+      "unresolved_git": 0
+    },
+    "distinct_actors_by_type": {
+      "commit": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_closed": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "issue_comment": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_opened": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unresolved_git": 0
+      },
+      "issue_reopened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_conversation_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_inline_review_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_merged": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_opened": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      },
+      "pr_review": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unresolved_git": 0
+      }
+    },
+    "repository_counts": {
+      "commit": 8,
+      "issue_closed": 0,
+      "issue_comment": 1,
+      "issue_opened": 2,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_by_type": {
+      "commit": 0,
+      "issue_closed": 0,
+      "issue_comment": 0,
+      "issue_opened": 0,
+      "issue_reopened": 0,
+      "pr_conversation_comment": 0,
+      "pr_inline_review_comment": 0,
+      "pr_merged": 0,
+      "pr_opened": 0,
+      "pr_review": 0
+    },
+    "unattributed_total": 0
+  }
+}
