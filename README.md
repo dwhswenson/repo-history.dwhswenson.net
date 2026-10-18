@@ -89,7 +89,16 @@ The page is served at `/<owner>/<repo>/`. The task also refreshes the homepage's
 repository links. Preview it with `pixi run demo` and commit the resulting
 directory together with the updated `site/index.html` to publish them through
 the existing workflows.
-Monthly reports are hosted along with the manifest and HTML.
+The monthly JSON files are stored and hosted here for convenience. Of the
+JSON files in each repository directory, only `manifest.json` is needed for
+the HTML page to render its visualization; the page does not load the
+individual monthly reports.
+
+In the near future, we also plan to use these real datasets to test that
+incremental collection (for example, fetching only data from the last month)
+produces the same results as a full history run. One key case is a pull request
+that starts in one month and is merged in a later month: incremental updates
+must account for its commits consistently across those month boundaries.
 
 Rerunning the task backfills again, rebuilds the manifest, and replaces the
 generated page. Collection or summarization errors stop the task before it
