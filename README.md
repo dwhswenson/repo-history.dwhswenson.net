@@ -94,12 +94,6 @@ JSON files in each repository directory, only `manifest.json` is needed for
 the HTML page to render its visualization; the page does not load the
 individual monthly reports.
 
-In the near future, we also plan to use these real datasets to test that
-incremental collection (for example, fetching only data from the last month)
-produces the same results as a full history run. One key case is a pull request
-that starts in one month and is merged in a later month: incremental updates
-must account for its commits consistently across those month boundaries.
-
 Rerunning the task backfills again, rebuilds the manifest, and replaces the
 generated page. Collection or summarization errors stop the task before it
 writes the page; monthly files already written by the collector are retained.
@@ -123,6 +117,96 @@ pixi run repo-history summarize \
 ```
 
 There is one hosted visualizer bundle shared by all repository pages.
+
+### Compare updates with full history
+
+Set `GH_TOKEN` or `GITHUB_TOKEN`, then run:
+
+```sh
+pixi run compare-update owner/repo
+pixi run compare-update --all
+# The focused environment supports the same task:
+pixi run -e collection compare-update owner/repo
+```
+
+The script validates the saved dataset, copies its monthly reports and
+`collection-state.json` into temporary storage, runs a fresh `repo-history
+backfill` in a separate directory, and runs `repo-history update` on the copy.
+Both outputs must pass the collector's state verifier, including schema,
+report consistency, and exact-byte inventory checks. An existing nonempty
+dataset with a valid state file is required; a missing state file is an error.
+
+Comparison covers the full month inventory, repository node IDs, calendar
+boundaries, every monthly summary field (including per-contributor counts and
+unattributed activities), and credited contributor keys and classifications.
+Bots and unresolved Git identities are included. This catches differences in
+older months, such as commits belonging to a pull request merged months later,
+even when the update only refreshes recent months. Uncredited actors, display
+names, titles, URLs, coverage information, branch observations, and collection
+provenance are excluded. State hashes validate each dataset independently;
+they cannot be compared directly because report bytes include run metadata.
+
+| Option | Behavior |
+| --- | --- |
+| `OWNER/REPO` / `--all` | Choose one repository or discover all directories with monthly reports under the site root; exactly one selection is required. |
+| `--site-dir PATH` | Read datasets from another root; defaults to this checkout's `site/` regardless of the working directory. |
+| `--in-place` | Apply the update directly to the source dataset instead of a temporary copy. |
+| `--update-start YYYY-MM` | Override the updater's start month; defaults to its normal latest-report-month inference. The backfill always starts at the beginning of history. |
+| `--end YYYY-MM` | Inclusive end month for both commands; defaults to the UTC month resolved once when the script starts. Cannot precede existing reports or lie in the future. |
+| `--work-dir PATH` | Store and retain all results in a new or empty directory. |
+| `--report PATH` | Also save the complete JSON comparison report at this path. |
+| `--no-progress` | Forward `--no-progress` to backfill, suppressing its progress display while keeping ordinary logs. The current update CLI has no progress flag. |
+
+Collector output is shown live and saved to the command logs. Interactive
+terminals show the collector's normal progress display; redirected output
+uses plain progress messages. Interactive logs retain terminal control codes.
+Progress is enabled by default; use `--no-progress` to suppress it.
+
+```sh
+pixi run compare-update owner/repo --update-start 2026-08
+pixi run compare-update owner/repo --work-dir /tmp/history-comparison
+pixi run compare-update owner/repo --no-progress
+# For a disposable CI checkout with the collector already installed:
+python scripts/compare_update.py --all --in-place --report /tmp/comparison.json
+```
+
+In-place mode modifies monthly reports and collection state, including on a
+mismatch, and does not roll back partial collector writes after an error.
+It does not refresh manifests, HTML pages, social cards, or homepage links.
+Use it in a disposable CI checkout when the extra copy is unnecessary.
+Workspace and report paths must be outside the site root. This script adds no
+CI schedule; the current Pixi platform and editable dependency still target
+the local checkout described above, so CI must provision the collector itself.
+
+Repositories run sequentially in sorted order; a failure does not stop later
+repositories. Exit codes are **0** for all matching results, **1** for valid
+datasets that differ, and **2** for argument, collection, validation, filesystem,
+or reporting errors. An error takes precedence over mismatches in a batch.
+Separate live GitHub collections are not transactional snapshots. Activity
+between runs, changed attribution, or historical revisions can produce real
+mismatches; the script reports these without suppressing them automatically.
+
+The console lists month outcomes and at most 20 individual differences per
+repository. `comparison.json` contains every difference as a JSON Pointer
+field path with backfill/update values and explicit presence flags, plus
+parameters, timings, command arguments, artifact paths, and errors. Each
+repository has separate `backfill/` and `update/` directories, command logs,
+and an `initial-collection-state.json` snapshot; in-place runs record the
+original update directory instead. Logs inherit collector authentication
+through the environment; token values are never added to command arguments.
+
+Successful automatic workspaces are deleted; mismatches and errors retain
+them and print their location. Explicit `--work-dir` directories are always
+retained. Use `--report` with a distinct filename per run to keep a comparison
+record after successful automatic cleanup; artifact paths in that report
+refer to the removed workspace. A report inside an explicit workspace must
+use its `comparison.json` path.
+
+Run the offline tests, including mocked collection flows, with:
+
+```sh
+pixi run python -m unittest discover -s tests -v
+```
 
 ### Refresh homepage links
 
