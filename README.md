@@ -223,7 +223,71 @@ use the actual directory paths. Text outside the marked section is preserved.
 `add-repo` runs this automatically after creating the repository page. Run
 it manually after deleting a repository directory or changing a manifest's
 display name. The generated links are ordinary HTML and require no browser
-JavaScript or separate repository registry.
+JavaScript or separate repository registry. Combined reports are excluded from
+this repository list and linked in their own section, using `combos.yaml` as
+described below. Both generated sections are refreshed by this task; all other
+homepage content is preserved.
+
+### Combined repository reports
+
+Define combinations in the root-level `combos.yaml`, then run:
+
+```sh
+pixi run refresh-combos
+# Or use the focused collection environment:
+pixi run -e collection refresh-combos
+```
+
+The configuration maps each report's display name to its repository inputs and
+homepage link text:
+
+```yaml
+OpenFreeEnergy:
+  repos:
+    - openfreeenergy/openfe
+    - openfreeenergy/gufe
+  index-display: "OpenFreeEnergy (openfe + gufe)"
+```
+
+`repos` requires at least two distinct `owner/repo` paths, each with an existing
+`site/<owner>/<repo>/manifest.json` and neighboring `index.html`. Use the actual
+deployed directory spelling. Inputs can belong to different organizations, and
+a repository can participate in multiple combinations. All configured inputs
+are checked before any combined reports are generated. Duplicate YAML keys,
+invalid paths, blank names or labels, and colliding output slugs are errors.
+
+The top-level name supplies the manifest display name, page title, and social-card
+title. `index-display` supplies the homepage link text independently, with HTML
+escaping. Directory slugs lowercase the display name, replace runs of characters
+outside ASCII letters and digits with hyphens, and trim surrounding hyphens.
+For example, `OpenFreeEnergy` produces:
+
+```text
+site/combos/openfreeenergy/
+  manifest.json
+  index.html
+  social-card.png
+```
+
+The task runs `repo-history combine-manifests` offline on the saved manifests;
+no GitHub credentials or collection runs are needed. It uses the command's
+default of excluding any month marked partial by an input. Incompatible coverage,
+overlapping repository identities, or conflicting contributor classifications
+remain errors from the combiner. A failed combine leaves that report's existing
+manifest and page intact; combinations completed earlier in the run are retained.
+
+After each successful combine, the task generates its visualization page and
+social card. After all combinations succeed, it refreshes the homepage's
+**Combined repositories** section immediately below **Repositories**. This section
+lists configured combinations with published manifests and pages, sorted by
+`index-display`, between `BEGIN COMBINATION LINKS` and `END COMBINATION LINKS`.
+
+Rerun `refresh-combos` after changing the configuration or source manifests.
+`add-repo` does not rebuild combinations automatically, and `refresh-index`
+only updates links. Removing or renaming an entry removes its old homepage link
+on the next index refresh but leaves its old output directory on disk; remove
+obsolete directories manually. Commit generated combo directories alongside
+the homepage to publish through the existing deployment workflows.
 
 ### Social previews
 
@@ -240,13 +304,16 @@ events count toward activities but do not add a contributor identity. The
 current month is marked as partial when applicable.
 
 `add-repo` generates the image and metadata automatically. After updating
-manifests, refresh all existing repository previews without collecting again:
+manifests, refresh all existing repository and combination previews without
+collecting again:
 
 ```sh
 pixi run refresh-social-cards
 ```
 
 This refreshes metadata in the page head and leaves each page body intact.
+Combination previews use the manifest's display name and their `/combos/<slug>/`
+URL; they do not use the homepage's `index-display` label.
 Pillow, included in the collection feature, renders the images locally;
 social crawlers do not need to run the visualization's JavaScript. Commit
 the PNGs alongside the HTML to publish the previews. Social services may

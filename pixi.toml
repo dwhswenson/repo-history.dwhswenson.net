@@ -13,6 +13,7 @@ python = "3.12.*"
 
 [feature.collection.dependencies]
 pillow = ">=11,<13"
+pyyaml = ">=6,<7"
 
 [feature.collection.pypi-dependencies]
 repo-history = { path = "/Users/dwhs/Dropbox/omsf/mupt/repo-history-tracking", editable = true }
@@ -21,6 +22,7 @@ repo-history = { path = "/Users/dwhs/Dropbox/omsf/mupt/repo-history-tracking", e
 add-repo = "python scripts/add_repo.py"
 compare-update = "python scripts/compare_update.py"
 refresh-index = "python scripts/refresh_index.py"
+refresh-combos = "python scripts/refresh_combos.py"
 refresh-social-cards = "python scripts/social_cards.py"
 
 [feature.visualization.dependencies]

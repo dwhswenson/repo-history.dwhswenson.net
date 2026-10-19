@@ -4,11 +4,16 @@ import argparse
 import re
 import subprocess
 import sys
-from html import escape
 from pathlib import Path
 
-from refresh_index import refresh_index
-from social_cards import social_metadata, write_social_card
+if __package__:
+    from .refresh_index import refresh_index
+    from .report_pages import page
+    from .social_cards import write_social_card
+else:
+    from refresh_index import refresh_index
+    from report_pages import page
+    from social_cards import write_social_card
 
 SITE = Path(__file__).resolve().parents[1] / "site"
 
@@ -18,31 +23,6 @@ def repository_name(value: str) -> str:
     if match is None or match[1] in {".", ".."}:
         raise argparse.ArgumentTypeError("repository must use OWNER/REPO")
     return value
-
-
-def page(repository: str) -> str:
-    name = escape(repository)
-    return f"""<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{name} · Repository history</title>
-{social_metadata(repository)}
-    <style>
-      body {{ margin: 0; background: #f4f6fa; }}
-    </style>
-    <script type="module" src="/assets/repo-history-viz.mjs"></script>
-  </head>
-  <body>
-    <repo-history-viz
-      manifest="./manifest.json"
-      measures="commits github-activities total-contributors"
-      hide-loader
-    ></repo-history-viz>
-  </body>
-</html>
-"""
 
 
 def main(argv=None) -> int:

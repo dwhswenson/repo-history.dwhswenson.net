@@ -15,8 +15,9 @@ START = "    <!-- Social preview -->"
 END = "    <!-- /Social preview -->"
 
 
-def social_metadata(repository: str) -> str:
-    url = f"{SITE_URL}/{quote(repository, safe='/')}/"
+def social_metadata(path: str, *, display_name: str | None = None) -> str:
+    repository = display_name if display_name is not None else path
+    url = f"{SITE_URL}/{quote(path, safe='/')}/"
     image = f"{url}social-card.png"
     title = f"{repository} · Repository history"
     description = f"Explore monthly commits, GitHub activity, and contributor trends for {repository}."
@@ -132,8 +133,14 @@ def write_social_card(repository: str, directory: Path) -> Path:
 
     draw.rectangle((0, 0, WIDTH * SCALE, 6 * SCALE), fill="#76dfc5")
     text(64, 45, "REPOSITORY HISTORY", 19, "#76dfc5", bold=True)
-    owner, name = repository.split("/", 1)
-    text(64, 99, f"{owner} /", 30, "#a9b9d3")
+    if len(manifest.get("repositories", [])) > 1:
+        name = repository
+        text(64, 99, "COMBINED REPOSITORIES", 24, "#a9b9d3")
+    elif "/" in repository:
+        owner, name = repository.split("/", 1)
+        text(64, 99, f"{owner} /", 30, "#a9b9d3")
+    else:
+        name = repository
     size = 78
     while (
         size > 12 and draw.textlength(name, font=font(size, bold=True)) > 1072 * SCALE
@@ -192,13 +199,15 @@ def write_social_card(repository: str, directory: Path) -> Path:
     return target
 
 
-def refresh_existing_pages():
-    for index in sorted(SITE.glob("*/*/index.html")):
+def refresh_existing_pages(site: Path = SITE):
+    for index in sorted(site.glob("*/*/index.html")):
         if not (index.parent / "manifest.json").is_file():
             continue
-        repository = index.parent.relative_to(SITE).as_posix()
+        path = index.parent.relative_to(site).as_posix()
+        manifest = json.loads((index.parent / "manifest.json").read_text(encoding="utf-8"))
+        repository = manifest.get("display_name", path)
         original = index.read_text(encoding="utf-8")
-        metadata = social_metadata(repository)
+        metadata = social_metadata(path, display_name=repository)
         if START in original and END in original:
             prefix, remaining = original.split(START, 1)
             _, suffix = remaining.split(END, 1)
