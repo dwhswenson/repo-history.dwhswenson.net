@@ -1,4 +1,4 @@
-"""Homepage discovery across manifest formats and collection sidecars."""
+"""Homepage discovery across summary formats and collection sidecars."""
 
 import json
 import tempfile
@@ -25,15 +25,15 @@ class RefreshIndexTests(unittest.TestCase):
     def refresh(self):
         return refresh_index(self.site, self.config)
 
-    def repository(self, path, manifest, *, page=True):
+    def repository(self, path, summary, *, page=True):
         directory = self.site / path
         directory.mkdir(parents=True)
-        (directory / "manifest.json").write_text(json.dumps(manifest))
+        (directory / "summary.json").write_text(json.dumps(summary))
         if page:
             (directory / "index.html").write_text("repository page")
         return directory
 
-    def test_current_and_legacy_manifests_ignore_collection_state(self):
+    def test_current_and_legacy_summaries_ignore_collection_state(self):
         directory = self.repository(
             "owner/zeta",
             {
@@ -41,7 +41,7 @@ class RefreshIndexTests(unittest.TestCase):
                 "repositories": [{"full_name": "owner/zeta"}],
             },
         )
-        # Collection state is neither a manifest nor needed for index discovery.
+        # Collection state is neither a summary nor needed for index discovery.
         (directory / "collection-state.json").write_text("not parsed by index")
         self.repository("owner/alpha", {"repository": {"full_name": "Owner/alpha"}})
         self.repository("owner/unfinished", {"display_name": "Unfinished"}, page=False)
@@ -76,15 +76,15 @@ Title A:
 Unfinished:
   repos: [owner/one, other/two]
   index-display: Unfinished label
-Missing manifest:
+Missing summary:
   repos: [owner/one, other/two]
-  index-display: Missing manifest label
+  index-display: Missing summary label
 ''')
         self.repository("owner/one", {"display_name": "Owner/one"})
         self.repository("combos/title-z", {"display_name": "Title Z"})
         self.repository("combos/title-a", {"display_name": "Title A"})
         self.repository("combos/unfinished", {}, page=False)
-        missing = self.site / "combos/missing-manifest"
+        missing = self.site / "combos/missing-summary"
         missing.mkdir()
         (missing / "index.html").write_text("unfinished")
         # A removed entry must not reappear through filesystem discovery.
@@ -100,7 +100,7 @@ Missing manifest:
             combinations,
         )
         self.assertLess(combinations.index("Alpha"), combinations.index("Zeta"))
-        for hidden in ("Obsolete", "Unfinished label", "Missing manifest label", "Title Z"):
+        for hidden in ("Obsolete", "Unfinished label", "Missing summary label", "Title Z"):
             self.assertNotIn(hidden, output)
         self.refresh()
         self.assertEqual(self.index.read_text(), output)

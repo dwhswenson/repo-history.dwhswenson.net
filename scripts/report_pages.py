@@ -24,8 +24,8 @@ def page(display_name: str, path: str | None = None) -> str:
   </head>
   <body>
     <repo-history-viz
-      manifest="./manifest.json"
-      measures="commits github-activities total-contributors"
+      summary="./summary.json"
+      metrics="commits github-activities total-contributors"
       hide-loader
     ></repo-history-viz>
   </body>

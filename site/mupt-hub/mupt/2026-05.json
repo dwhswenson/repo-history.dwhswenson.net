@@ -419,7 +419,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABBAuNGg",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABBAuNGg",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABBAuNGg"
       },
@@ -432,7 +432,7 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/55#issuecomment-4362833178"
     },
     {
@@ -831,7 +831,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABBTPCng",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABBTPCng",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABBTPCng"
       },
@@ -844,7 +844,7 @@
         "title": "Refactor SAAMR topology traversal for MDAnalysis/RDKit exporters",
         "url": "https://github.com/MuPT-hub/mupt/pull/58"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/58#issuecomment-4382245534"
     },
     {
@@ -1695,7 +1695,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABBlp-7w",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABBlp-7w",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABBlp-7w"
       },
@@ -1708,7 +1708,7 @@
         "title": "Adding DPD XML and json files from gmso",
         "url": "https://github.com/MuPT-hub/mupt/pull/61"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/61#issuecomment-4401561327"
     },
     {
@@ -1975,37 +1975,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM6_Xj0i",
-      "metadata": {
-        "created_at": "2026-05-08T18:33:35Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-05-08T18:33:35Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDONHLdRM79ln2d",
-        "source_node_id": "PRRC_kwDONHLdRM6_Xj0i",
-        "thread_node_id": "PRRT_kwDONHLdRM6AtQ_v",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-08T18:33:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7Yg__Z",
-        "number": 59,
-        "title": "Add role-aware RDKit molecule export",
-        "url": "https://github.com/MuPT-hub/mupt/pull/59"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/59#discussion_r3210624290"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDONHLdRM79ln2d",
       "metadata": {
         "source_node_id": "PRR_kwDONHLdRM79ln2d",
@@ -2031,19 +2000,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM6_XpSk",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM6_Xj0i",
       "metadata": {
-        "created_at": "2026-05-08T18:38:35Z",
+        "created_at": "2026-05-08T18:33:35Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-05-08T18:38:35Z",
+        "published_at": "2026-05-08T18:33:35Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDONHLdRM79luFz",
-        "source_node_id": "PRRC_kwDONHLdRM6_XpSk",
-        "thread_node_id": "PRRT_kwDONHLdRM6AtVFA",
+        "review_node_id": "PRR_kwDONHLdRM79ln2d",
+        "source_node_id": "PRRC_kwDONHLdRM6_Xj0i",
+        "thread_node_id": "PRRT_kwDONHLdRM6AtQ_v",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-08T18:38:35Z",
+      "occurred_at": "2026-05-08T18:33:35Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
         "kind": "pull_request",
@@ -2052,8 +2021,8 @@
         "title": "Add role-aware RDKit molecule export",
         "url": "https://github.com/MuPT-hub/mupt/pull/59"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/59#discussion_r3210646692"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/59#discussion_r3210624290"
     },
     {
       "credits": [
@@ -2087,6 +2056,37 @@
           "role": "author"
         }
       ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM6_XpSk",
+      "metadata": {
+        "created_at": "2026-05-08T18:38:35Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-08T18:38:35Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM79luFz",
+        "source_node_id": "PRRC_kwDONHLdRM6_XpSk",
+        "thread_node_id": "PRRT_kwDONHLdRM6AtVFA",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-08T18:38:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7Yg__Z",
+        "number": 59,
+        "title": "Add role-aware RDKit molecule export",
+        "url": "https://github.com/MuPT-hub/mupt/pull/59"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/59#discussion_r3210646692"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
       "id": "pr_review:PRR_kwDONHLdRM79luuf",
       "metadata": {
         "source_node_id": "PRR_kwDONHLdRM79luuf",
@@ -2112,7 +2112,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM6_XrMh",
+      "id": "pr_review:PRR_kwDONHLdRM79lwJ5",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM79lwJ5",
+        "state": "COMMENTED",
+        "submitted_at": "2026-05-08T18:40:18Z"
+      },
+      "occurred_at": "2026-05-08T18:40:18Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7YhAK-",
+        "number": 60,
+        "title": "Add MuPT SDF utils (export and import)",
+        "url": "https://github.com/MuPT-hub/mupt/pull/60"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/60#pullrequestreview-4254532217"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM6_XrMh",
       "metadata": {
         "created_at": "2026-05-08T18:40:18Z",
         "outdated": false,
@@ -2133,33 +2158,8 @@
         "title": "Add MuPT SDF utils (export and import)",
         "url": "https://github.com/MuPT-hub/mupt/pull/60"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/60#discussion_r3210654497"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDONHLdRM79lwJ5",
-      "metadata": {
-        "source_node_id": "PRR_kwDONHLdRM79lwJ5",
-        "state": "COMMENTED",
-        "submitted_at": "2026-05-08T18:40:18Z"
-      },
-      "occurred_at": "2026-05-08T18:40:18Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7YhAK-",
-        "number": 60,
-        "title": "Add MuPT SDF utils (export and import)",
-        "url": "https://github.com/MuPT-hub/mupt/pull/60"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/MuPT-hub/mupt/pull/60#pullrequestreview-4254532217"
     },
     {
       "credits": [
@@ -2218,7 +2218,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABBtNb9g",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABBtNb9g",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABBtNb9g"
       },
@@ -2231,70 +2231,8 @@
         "title": "Hierarchical Exporters: RDKit, OpenFF, and MDAnalysis with residue/chain metadata",
         "url": "https://github.com/MuPT-hub/mupt/pull/22"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/22#issuecomment-4409482230"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkwNDM2OTMz",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM6_adqV",
-      "metadata": {
-        "created_at": "2026-05-08T21:13:34Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-05-08T21:20:55Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM79pJ8B",
-        "source_node_id": "PRRC_kwDONHLdRM6_adqV",
-        "thread_node_id": "PRRT_kwDONHLdRM6AvZLz",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-08T21:20:55Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyODE5OTQ=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7KpY2v",
-        "number": 47,
-        "title": "Creating first draft Contributing.md",
-        "url": "https://github.com/MuPT-hub/mupt/pull/47"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/47#discussion_r3211385493"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkwNDM2OTMz",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM6_alWi",
-      "metadata": {
-        "created_at": "2026-05-08T21:20:06Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-08T21:20:55Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM79pJ8B",
-        "source_node_id": "PRRC_kwDONHLdRM6_alWi",
-        "thread_node_id": "PRRT_kwDONHLdRM6AvefE",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-08T21:20:55Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyODE5OTQ=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7KpY2v",
-        "number": 47,
-        "title": "Creating first draft Contributing.md",
-        "url": "https://github.com/MuPT-hub/mupt/pull/47"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/47#discussion_r3211416994"
     },
     {
       "credits": [
@@ -2320,6 +2258,68 @@
       },
       "type": "pr_review",
       "url": "https://github.com/MuPT-hub/mupt/pull/47#pullrequestreview-4255424257"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkwNDM2OTMz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM6_adqV",
+      "metadata": {
+        "created_at": "2026-05-08T21:13:34Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-08T21:20:55Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM79pJ8B",
+        "source_node_id": "PRRC_kwDONHLdRM6_adqV",
+        "thread_node_id": "PRRT_kwDONHLdRM6AvZLz",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-08T21:20:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyODE5OTQ=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7KpY2v",
+        "number": 47,
+        "title": "Creating first draft Contributing.md",
+        "url": "https://github.com/MuPT-hub/mupt/pull/47"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/47#discussion_r3211385493"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkwNDM2OTMz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM6_alWi",
+      "metadata": {
+        "created_at": "2026-05-08T21:20:06Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-08T21:20:55Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM79pJ8B",
+        "source_node_id": "PRRC_kwDONHLdRM6_alWi",
+        "thread_node_id": "PRRT_kwDONHLdRM6AvefE",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-08T21:20:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyODE5OTQ=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7KpY2v",
+        "number": 47,
+        "title": "Creating first draft Contributing.md",
+        "url": "https://github.com/MuPT-hub/mupt/pull/47"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/47#discussion_r3211416994"
     },
     {
       "credits": [
@@ -2543,37 +2543,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7A8ELF",
-      "metadata": {
-        "created_at": "2026-05-13T19:39:40Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-13T19:39:40Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_ZNi0",
-        "source_node_id": "PRRC_kwDONHLdRM7A8ELF",
-        "thread_node_id": "PRRT_kwDONHLdRM6B3umD",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-13T19:39:40Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyODE5OTQ=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7KpY2v",
-        "number": 47,
-        "title": "Creating first draft Contributing.md",
-        "url": "https://github.com/MuPT-hub/mupt/pull/47"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/47#discussion_r3236971205"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkwNDM2OTMz",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDONHLdRM7_ZNi0",
       "metadata": {
         "source_node_id": "PRR_kwDONHLdRM7_ZNi0",
@@ -2599,19 +2568,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7A8H12",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7A8ELF",
       "metadata": {
-        "created_at": "2026-05-13T19:42:18Z",
+        "created_at": "2026-05-13T19:39:40Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-05-13T19:42:18Z",
+        "published_at": "2026-05-13T19:39:40Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_ZSFC",
-        "source_node_id": "PRRC_kwDONHLdRM7A8H12",
-        "thread_node_id": "PRRT_kwDONHLdRM6B3xSc",
+        "review_node_id": "PRR_kwDONHLdRM7_ZNi0",
+        "source_node_id": "PRRC_kwDONHLdRM7A8ELF",
+        "thread_node_id": "PRRT_kwDONHLdRM6B3umD",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-13T19:42:18Z",
+      "occurred_at": "2026-05-13T19:39:40Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyODE5OTQ=",
         "kind": "pull_request",
@@ -2620,8 +2589,8 @@
         "title": "Creating first draft Contributing.md",
         "url": "https://github.com/MuPT-hub/mupt/pull/47"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/47#discussion_r3236986230"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/47#discussion_r3236971205"
     },
     {
       "credits": [
@@ -2647,6 +2616,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/MuPT-hub/mupt/pull/47#pullrequestreview-4284817730"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkwNDM2OTMz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7A8H12",
+      "metadata": {
+        "created_at": "2026-05-13T19:42:18Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-13T19:42:18Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_ZSFC",
+        "source_node_id": "PRRC_kwDONHLdRM7A8H12",
+        "thread_node_id": "PRRT_kwDONHLdRM6B3xSc",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-13T19:42:18Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyODE5OTQ=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7KpY2v",
+        "number": 47,
+        "title": "Creating first draft Contributing.md",
+        "url": "https://github.com/MuPT-hub/mupt/pull/47"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/47#discussion_r3236986230"
     },
     {
       "credits": [
@@ -2724,7 +2724,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABCO_Pkw",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABCO_Pkw",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABCO_Pkw"
       },
@@ -2737,7 +2737,7 @@
         "title": "SMILES to PolymerizeIt! ready files",
         "url": "https://github.com/MuPT-hub/mupt/pull/36"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/36#issuecomment-4444901267"
     },
     {
@@ -3283,595 +3283,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXd2",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:18Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXd2",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbwf",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390262"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXdY",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:17Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXdY",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbwH",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390232"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXe1",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:19Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXe1",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbxQ",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390325"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXeH",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:18Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXeH",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbws",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390279"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXea",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:18Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXea",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbw7",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390298"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXfW",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:19Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXfW",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbxr",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390358"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXfs",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:19Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXfs",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbx8",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390380"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXgC",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:19Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXgC",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbyL",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390402"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXgW",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:20Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXgW",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbyX",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390422"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXgm",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:20Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXgm",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbyl",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390438"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXh0",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:21Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXh0",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbzd",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390516"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXhE",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:20Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXhE",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMby7",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390468"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXhY",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:20Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXhY",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbzI",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390488"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXid",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:21Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXid",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMb0B",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390557"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXj5",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:22Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXj5",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMb1J",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390649"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXjB",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:21Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXjB",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMb0d",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390593"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXji",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:22Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXji",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMb04",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390626"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXkR",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:22Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXkR",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMb1b",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390673"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYXky",
-      "metadata": {
-        "created_at": "2026-05-14T21:28:23Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T21:28:23Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
-        "source_node_id": "PRRC_kwDONHLdRM7BYXky",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMb11",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T21:28:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390706"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDONHLdRM7_6pcm",
       "metadata": {
         "source_node_id": "PRR_kwDONHLdRM7_6pcm",
@@ -3893,23 +3304,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "actor_key": "BOT_kgDOCnlnWA",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYibS",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXd2",
       "metadata": {
-        "created_at": "2026-05-14T21:38:41Z",
+        "created_at": "2026-05-14T21:28:18Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-05-14T21:38:41Z",
+        "published_at": "2026-05-14T21:28:23Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_634R",
-        "source_node_id": "PRRC_kwDONHLdRM7BYibS",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMb1b",
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXd2",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbwf",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-14T21:38:41Z",
+      "occurred_at": "2026-05-14T21:28:23Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -3918,8 +3329,566 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244435154"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390262"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXdY",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:17Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXdY",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbwH",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390232"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXe1",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:19Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXe1",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbxQ",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390325"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXeH",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:18Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXeH",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbws",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390279"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXea",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:18Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXea",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbw7",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390298"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXfW",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:19Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXfW",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbxr",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390358"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXfs",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:19Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXfs",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbx8",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390380"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXgC",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:19Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXgC",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbyL",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390402"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXgW",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:20Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXgW",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbyX",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390422"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXgm",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:20Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXgm",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbyl",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390438"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXh0",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:21Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXh0",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbzd",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390516"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXhE",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:20Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXhE",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMby7",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390468"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXhY",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:20Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXhY",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbzI",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390488"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXid",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:21Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXid",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMb0B",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390557"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXj5",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:22Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXj5",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMb1J",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390649"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXjB",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:21Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXjB",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMb0d",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390593"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXji",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:22Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXji",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMb04",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390626"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXkR",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:22Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXkR",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMb1b",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390673"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYXky",
+      "metadata": {
+        "created_at": "2026-05-14T21:28:23Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:28:23Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM7_6pcm",
+        "source_node_id": "PRRC_kwDONHLdRM7BYXky",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMb11",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:28:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244390706"
     },
     {
       "credits": [
@@ -3953,19 +3922,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BYn4M",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYibS",
       "metadata": {
-        "created_at": "2026-05-14T21:44:03Z",
-        "outdated": false,
+        "created_at": "2026-05-14T21:38:41Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-05-14T21:44:03Z",
+        "published_at": "2026-05-14T21:38:41Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_69uQ",
-        "source_node_id": "PRRC_kwDONHLdRM7BYn4M",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbxQ",
+        "review_node_id": "PRR_kwDONHLdRM7_634R",
+        "source_node_id": "PRRC_kwDONHLdRM7BYibS",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMb1b",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-14T21:44:03Z",
+      "occurred_at": "2026-05-14T21:38:41Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -3974,8 +3943,8 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244457484"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244435154"
     },
     {
       "credits": [
@@ -4001,6 +3970,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/MuPT-hub/mupt/pull/55#pullrequestreview-4293647248"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BYn4M",
+      "metadata": {
+        "created_at": "2026-05-14T21:44:03Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T21:44:03Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_69uQ",
+        "source_node_id": "PRRC_kwDONHLdRM7BYn4M",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbxQ",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T21:44:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244457484"
     },
     {
       "credits": [
@@ -4109,37 +4109,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BZamZ",
-      "metadata": {
-        "created_at": "2026-05-14T22:34:52Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-05-14T22:34:52Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_79uR",
-        "source_node_id": "PRRC_kwDONHLdRM7BZamZ",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbyl",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-14T22:34:52Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244665241"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDONHLdRM7_79uR",
       "metadata": {
         "source_node_id": "PRR_kwDONHLdRM7_79uR",
@@ -4165,19 +4134,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BZa2E",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BZamZ",
       "metadata": {
-        "created_at": "2026-05-14T22:35:06Z",
+        "created_at": "2026-05-14T22:34:52Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-05-14T22:35:06Z",
+        "published_at": "2026-05-14T22:34:52Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_7-Hr",
-        "source_node_id": "PRRC_kwDONHLdRM7BZa2E",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbx8",
+        "review_node_id": "PRR_kwDONHLdRM7_79uR",
+        "source_node_id": "PRRC_kwDONHLdRM7BZamZ",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbyl",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-14T22:35:06Z",
+      "occurred_at": "2026-05-14T22:34:52Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -4186,8 +4155,8 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244666244"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244665241"
     },
     {
       "credits": [
@@ -4221,19 +4190,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BZbGQ",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BZa2E",
       "metadata": {
-        "created_at": "2026-05-14T22:35:21Z",
+        "created_at": "2026-05-14T22:35:06Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-05-14T22:35:21Z",
+        "published_at": "2026-05-14T22:35:06Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_7-fs",
-        "source_node_id": "PRRC_kwDONHLdRM7BZbGQ",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbws",
+        "review_node_id": "PRR_kwDONHLdRM7_7-Hr",
+        "source_node_id": "PRRC_kwDONHLdRM7BZa2E",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbx8",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-14T22:35:21Z",
+      "occurred_at": "2026-05-14T22:35:06Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -4242,8 +4211,8 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244667280"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244666244"
     },
     {
       "credits": [
@@ -4277,19 +4246,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7BZdtM",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BZbGQ",
       "metadata": {
-        "created_at": "2026-05-14T22:37:32Z",
-        "outdated": true,
+        "created_at": "2026-05-14T22:35:21Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-05-14T22:37:32Z",
+        "published_at": "2026-05-14T22:35:21Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM7_8CSn",
-        "source_node_id": "PRRC_kwDONHLdRM7BZdtM",
-        "thread_node_id": "PRRT_kwDONHLdRM6CMbyL",
+        "review_node_id": "PRR_kwDONHLdRM7_7-fs",
+        "source_node_id": "PRRC_kwDONHLdRM7BZbGQ",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbws",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-14T22:37:32Z",
+      "occurred_at": "2026-05-14T22:35:21Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -4298,8 +4267,8 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244677964"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244667280"
     },
     {
       "credits": [
@@ -4325,6 +4294,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/MuPT-hub/mupt/pull/55#pullrequestreview-4293928103"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7BZdtM",
+      "metadata": {
+        "created_at": "2026-05-14T22:37:32Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-14T22:37:32Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM7_8CSn",
+        "source_node_id": "PRRC_kwDONHLdRM7BZdtM",
+        "thread_node_id": "PRRT_kwDONHLdRM6CMbyL",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-14T22:37:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3244677964"
     },
     {
       "credits": [
@@ -4401,7 +4401,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABCZCT-A",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABCZCT-A",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABCZCT-A"
       },
@@ -4414,7 +4414,7 @@
         "title": "Creating first draft Contributing.md",
         "url": "https://github.com/MuPT-hub/mupt/pull/47"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/47#issuecomment-4455437304"
     },
     {
@@ -4424,7 +4424,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABCZuSlQ",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABCZuSlQ",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABCZuSlQ"
       },
@@ -4437,7 +4437,7 @@
         "title": "Creating first draft Contributing.md",
         "url": "https://github.com/MuPT-hub/mupt/pull/47"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/47#issuecomment-4456157845"
     },
     {
@@ -4447,7 +4447,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABCeo4yg",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABCeo4yg",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABCeo4yg"
       },
@@ -4460,7 +4460,7 @@
         "title": "SMILES to PolymerizeIt! ready files",
         "url": "https://github.com/MuPT-hub/mupt/pull/36"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/36#issuecomment-4461312202"
     },
     {
@@ -4470,7 +4470,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABCirmMQ",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABCirmMQ",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABCirmMQ"
       },
@@ -4483,7 +4483,7 @@
         "title": "Refactor SAAMR topology traversal for MDAnalysis/RDKit exporters",
         "url": "https://github.com/MuPT-hub/mupt/pull/58"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/58#issuecomment-4465550897"
     },
     {
@@ -4493,7 +4493,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABCirm5A",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABCirm5A",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABCirm5A"
       },
@@ -4506,7 +4506,7 @@
         "title": "Add role-aware RDKit molecule export",
         "url": "https://github.com/MuPT-hub/mupt/pull/59"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/59#issuecomment-4465551076"
     },
     {
@@ -4516,7 +4516,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABCirn8Q",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABCirn8Q",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABCirn8Q"
       },
@@ -4529,7 +4529,7 @@
         "title": "Add MuPT SDF utils (export and import)",
         "url": "https://github.com/MuPT-hub/mupt/pull/60"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/60#issuecomment-4465551345"
     },
     {
@@ -4792,7 +4792,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABDQqMPQ",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABDQqMPQ",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABDQqMPQ"
       },
@@ -4805,7 +4805,7 @@
         "title": "Add MuPT SDF utils (export and import)",
         "url": "https://github.com/MuPT-hub/mupt/pull/60"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/60#issuecomment-4513762365"
     },
     {
@@ -4815,7 +4815,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABDQtyHA",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABDQtyHA",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABDQtyHA"
       },
@@ -4828,7 +4828,7 @@
         "title": "Add role-aware RDKit molecule export",
         "url": "https://github.com/MuPT-hub/mupt/pull/59"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/59#issuecomment-4513821212"
     },
     {
@@ -4838,7 +4838,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABDYAOlA",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABDYAOlA",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABDYAOlA"
       },
@@ -4851,7 +4851,7 @@
         "title": "Improving cohesion of Primitive",
         "url": "https://github.com/MuPT-hub/mupt/pull/56"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/56#issuecomment-4521463444"
     },
     {
@@ -4861,7 +4861,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABDYQK6A",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABDYQK6A",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABDYQK6A"
       },
@@ -4874,7 +4874,7 @@
         "title": "Improving cohesion of Primitive",
         "url": "https://github.com/MuPT-hub/mupt/pull/56"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/56#issuecomment-4521724648"
     },
     {
@@ -5012,192 +5012,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7ExcAx",
-      "metadata": {
-        "created_at": "2026-05-26T04:55:42Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-26T04:55:43Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABA-peZg",
-        "source_node_id": "PRRC_kwDONHLdRM7ExcAx",
-        "thread_node_id": "PRRT_kwDONHLdRM6Ery4n",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-26T04:55:43Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7fN2EL",
-        "number": 74,
-        "title": "Connector extension",
-        "url": "https://github.com/MuPT-hub/mupt/pull/74"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3301294129"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7ExcB5",
-      "metadata": {
-        "created_at": "2026-05-26T04:55:43Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-26T04:55:43Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABA-peZg",
-        "source_node_id": "PRRC_kwDONHLdRM7ExcB5",
-        "thread_node_id": "PRRT_kwDONHLdRM6Ery5d",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-26T04:55:43Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7fN2EL",
-        "number": 74,
-        "title": "Connector extension",
-        "url": "https://github.com/MuPT-hub/mupt/pull/74"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3301294201"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7ExcBR",
-      "metadata": {
-        "created_at": "2026-05-26T04:55:42Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-05-26T04:55:43Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABA-peZg",
-        "source_node_id": "PRRC_kwDONHLdRM7ExcBR",
-        "thread_node_id": "PRRT_kwDONHLdRM6Ery49",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-26T04:55:43Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7fN2EL",
-        "number": 74,
-        "title": "Connector extension",
-        "url": "https://github.com/MuPT-hub/mupt/pull/74"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3301294161"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7ExcBi",
-      "metadata": {
-        "created_at": "2026-05-26T04:55:43Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-26T04:55:43Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABA-peZg",
-        "source_node_id": "PRRC_kwDONHLdRM7ExcBi",
-        "thread_node_id": "PRRT_kwDONHLdRM6Ery5L",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-26T04:55:43Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7fN2EL",
-        "number": 74,
-        "title": "Connector extension",
-        "url": "https://github.com/MuPT-hub/mupt/pull/74"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3301294178"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7ExcBt",
-      "metadata": {
-        "created_at": "2026-05-26T04:55:43Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-26T04:55:43Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABA-peZg",
-        "source_node_id": "PRRC_kwDONHLdRM7ExcBt",
-        "thread_node_id": "PRRT_kwDONHLdRM6Ery5T",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-26T04:55:43Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7fN2EL",
-        "number": 74,
-        "title": "Connector extension",
-        "url": "https://github.com/MuPT-hub/mupt/pull/74"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3301294189"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7ExcCL",
-      "metadata": {
-        "created_at": "2026-05-26T04:55:43Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-26T04:55:43Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABA-peZg",
-        "source_node_id": "PRRC_kwDONHLdRM7ExcCL",
-        "thread_node_id": "PRRT_kwDONHLdRM6Ery5u",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-26T04:55:43Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7fN2EL",
-        "number": 74,
-        "title": "Connector extension",
-        "url": "https://github.com/MuPT-hub/mupt/pull/74"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3301294219"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "BOT_kgDOCnlnWA",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDONHLdRM8AAAABA-peZg",
       "metadata": {
         "source_node_id": "PRR_kwDONHLdRM8AAAABA-peZg",
@@ -5219,23 +5033,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "actor_key": "BOT_kgDOCnlnWA",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FEYxl",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7ExcAx",
       "metadata": {
-        "created_at": "2026-05-26T19:14:05Z",
+        "created_at": "2026-05-26T04:55:42Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-05-26T19:14:06Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBEdx3A",
-        "source_node_id": "PRRC_kwDONHLdRM7FEYxl",
-        "thread_node_id": "PRRT_kwDONHLdRM6Ery5u",
+        "published_at": "2026-05-26T04:55:43Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABA-peZg",
+        "source_node_id": "PRRC_kwDONHLdRM7ExcAx",
+        "thread_node_id": "PRRT_kwDONHLdRM6Ery4n",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-26T19:14:06Z",
+      "occurred_at": "2026-05-26T04:55:43Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -5244,8 +5058,163 @@
         "title": "Connector extension",
         "url": "https://github.com/MuPT-hub/mupt/pull/74"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3306261605"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3301294129"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7ExcB5",
+      "metadata": {
+        "created_at": "2026-05-26T04:55:43Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-26T04:55:43Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABA-peZg",
+        "source_node_id": "PRRC_kwDONHLdRM7ExcB5",
+        "thread_node_id": "PRRT_kwDONHLdRM6Ery5d",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-26T04:55:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7fN2EL",
+        "number": 74,
+        "title": "Connector extension",
+        "url": "https://github.com/MuPT-hub/mupt/pull/74"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3301294201"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7ExcBR",
+      "metadata": {
+        "created_at": "2026-05-26T04:55:42Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-26T04:55:43Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABA-peZg",
+        "source_node_id": "PRRC_kwDONHLdRM7ExcBR",
+        "thread_node_id": "PRRT_kwDONHLdRM6Ery49",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-26T04:55:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7fN2EL",
+        "number": 74,
+        "title": "Connector extension",
+        "url": "https://github.com/MuPT-hub/mupt/pull/74"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3301294161"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7ExcBi",
+      "metadata": {
+        "created_at": "2026-05-26T04:55:43Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-26T04:55:43Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABA-peZg",
+        "source_node_id": "PRRC_kwDONHLdRM7ExcBi",
+        "thread_node_id": "PRRT_kwDONHLdRM6Ery5L",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-26T04:55:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7fN2EL",
+        "number": 74,
+        "title": "Connector extension",
+        "url": "https://github.com/MuPT-hub/mupt/pull/74"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3301294178"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7ExcBt",
+      "metadata": {
+        "created_at": "2026-05-26T04:55:43Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-26T04:55:43Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABA-peZg",
+        "source_node_id": "PRRC_kwDONHLdRM7ExcBt",
+        "thread_node_id": "PRRT_kwDONHLdRM6Ery5T",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-26T04:55:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7fN2EL",
+        "number": 74,
+        "title": "Connector extension",
+        "url": "https://github.com/MuPT-hub/mupt/pull/74"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3301294189"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "BOT_kgDOCnlnWA",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7ExcCL",
+      "metadata": {
+        "created_at": "2026-05-26T04:55:43Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-26T04:55:43Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABA-peZg",
+        "source_node_id": "PRRC_kwDONHLdRM7ExcCL",
+        "thread_node_id": "PRRT_kwDONHLdRM6Ery5u",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-26T04:55:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7fN2EL",
+        "number": 74,
+        "title": "Connector extension",
+        "url": "https://github.com/MuPT-hub/mupt/pull/74"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3301294219"
     },
     {
       "credits": [
@@ -5279,19 +5248,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FEY-u",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FEYxl",
       "metadata": {
-        "created_at": "2026-05-26T19:14:14Z",
+        "created_at": "2026-05-26T19:14:05Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-05-26T19:14:15Z",
+        "published_at": "2026-05-26T19:14:06Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBEd2cA",
-        "source_node_id": "PRRC_kwDONHLdRM7FEY-u",
-        "thread_node_id": "PRRT_kwDONHLdRM6Ery5d",
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBEdx3A",
+        "source_node_id": "PRRC_kwDONHLdRM7FEYxl",
+        "thread_node_id": "PRRT_kwDONHLdRM6Ery5u",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-26T19:14:15Z",
+      "occurred_at": "2026-05-26T19:14:06Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -5300,8 +5269,8 @@
         "title": "Connector extension",
         "url": "https://github.com/MuPT-hub/mupt/pull/74"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3306262446"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3306261605"
     },
     {
       "credits": [
@@ -5335,19 +5304,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FEZOW",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FEY-u",
       "metadata": {
-        "created_at": "2026-05-26T19:14:26Z",
+        "created_at": "2026-05-26T19:14:14Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-05-26T19:14:27Z",
+        "published_at": "2026-05-26T19:14:15Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBEd7_Q",
-        "source_node_id": "PRRC_kwDONHLdRM7FEZOW",
-        "thread_node_id": "PRRT_kwDONHLdRM6Ery5L",
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBEd2cA",
+        "source_node_id": "PRRC_kwDONHLdRM7FEY-u",
+        "thread_node_id": "PRRT_kwDONHLdRM6Ery5d",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-26T19:14:27Z",
+      "occurred_at": "2026-05-26T19:14:15Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -5356,8 +5325,8 @@
         "title": "Connector extension",
         "url": "https://github.com/MuPT-hub/mupt/pull/74"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3306263446"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3306262446"
     },
     {
       "credits": [
@@ -5391,19 +5360,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FEZ0c",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FEZOW",
       "metadata": {
-        "created_at": "2026-05-26T19:14:55Z",
-        "outdated": false,
+        "created_at": "2026-05-26T19:14:26Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-05-26T19:14:56Z",
+        "published_at": "2026-05-26T19:14:27Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBEeIUw",
-        "source_node_id": "PRRC_kwDONHLdRM7FEZ0c",
-        "thread_node_id": "PRRT_kwDONHLdRM6Ery49",
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBEd7_Q",
+        "source_node_id": "PRRC_kwDONHLdRM7FEZOW",
+        "thread_node_id": "PRRT_kwDONHLdRM6Ery5L",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-26T19:14:56Z",
+      "occurred_at": "2026-05-26T19:14:27Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -5412,8 +5381,8 @@
         "title": "Connector extension",
         "url": "https://github.com/MuPT-hub/mupt/pull/74"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3306265884"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3306263446"
     },
     {
       "credits": [
@@ -5447,19 +5416,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FEa7O",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FEZ0c",
       "metadata": {
-        "created_at": "2026-05-26T19:15:51Z",
-        "outdated": true,
+        "created_at": "2026-05-26T19:14:55Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-05-26T19:15:51Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBEeeeA",
-        "source_node_id": "PRRC_kwDONHLdRM7FEa7O",
-        "thread_node_id": "PRRT_kwDONHLdRM6Ery4n",
+        "published_at": "2026-05-26T19:14:56Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBEeIUw",
+        "source_node_id": "PRRC_kwDONHLdRM7FEZ0c",
+        "thread_node_id": "PRRT_kwDONHLdRM6Ery49",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-26T19:15:51Z",
+      "occurred_at": "2026-05-26T19:14:56Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -5468,8 +5437,8 @@
         "title": "Connector extension",
         "url": "https://github.com/MuPT-hub/mupt/pull/74"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3306270414"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3306265884"
     },
     {
       "credits": [
@@ -5503,7 +5472,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABDxTZsA",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FEa7O",
+      "metadata": {
+        "created_at": "2026-05-26T19:15:51Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-26T19:15:51Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBEeeeA",
+        "source_node_id": "PRRC_kwDONHLdRM7FEa7O",
+        "thread_node_id": "PRRT_kwDONHLdRM6Ery4n",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-26T19:15:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7fN2EL",
+        "number": 74,
+        "title": "Connector extension",
+        "url": "https://github.com/MuPT-hub/mupt/pull/74"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/74#discussion_r3306270414"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABDxTZsA",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABDxTZsA"
       },
@@ -5516,256 +5516,8 @@
         "title": "Connector extension",
         "url": "https://github.com/MuPT-hub/mupt/pull/74"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/74#issuecomment-4547991984"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FF9al",
-      "metadata": {
-        "created_at": "2026-05-26T20:32:10Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-27T17:44:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
-        "source_node_id": "PRRC_kwDONHLdRM7FF9al",
-        "thread_node_id": "PRRT_kwDONHLdRM6E6yFS",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-27T17:44:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3306673829"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FFHO1",
-      "metadata": {
-        "created_at": "2026-05-26T19:50:32Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-27T17:44:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
-        "source_node_id": "PRRC_kwDONHLdRM7FFHO1",
-        "thread_node_id": "PRRT_kwDONHLdRM6E6KHl",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-27T17:44:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3306451893"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FFeWz",
-      "metadata": {
-        "created_at": "2026-05-26T20:08:30Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-27T17:44:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
-        "source_node_id": "PRRC_kwDONHLdRM7FFeWz",
-        "thread_node_id": "PRRT_kwDONHLdRM6E6bLO",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-27T17:44:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3306546611"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FGBih",
-      "metadata": {
-        "created_at": "2026-05-26T20:35:25Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-27T17:44:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
-        "source_node_id": "PRRC_kwDONHLdRM7FGBih",
-        "thread_node_id": "PRRT_kwDONHLdRM6E61Jd",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-27T17:44:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3306690721"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FYw6o",
-      "metadata": {
-        "created_at": "2026-05-27T14:47:14Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-05-27T17:44:08Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
-        "source_node_id": "PRRC_kwDONHLdRM7FYw6o",
-        "thread_node_id": "PRRT_kwDONHLdRM6FIe1R",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-27T17:44:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3311603368"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FZ0u3",
-      "metadata": {
-        "created_at": "2026-05-27T15:28:19Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-05-27T17:44:08Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
-        "source_node_id": "PRRC_kwDONHLdRM7FZ0u3",
-        "thread_node_id": "PRRT_kwDONHLdRM6FJQqj",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-27T17:44:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3311881143"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FaMsy",
-      "metadata": {
-        "created_at": "2026-05-27T15:42:59Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-27T17:44:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
-        "source_node_id": "PRRC_kwDONHLdRM7FaMsy",
-        "thread_node_id": "PRRT_kwDONHLdRM6FJiHJ",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-27T17:44:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3311979314"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FaTtb",
-      "metadata": {
-        "created_at": "2026-05-27T15:47:16Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-05-27T17:44:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
-        "source_node_id": "PRRC_kwDONHLdRM7FaTtb",
-        "thread_node_id": "PRRT_kwDONHLdRM6FJnNC",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-27T17:44:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3312008027"
     },
     {
       "credits": [
@@ -5795,23 +5547,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7Fe-0U",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FF9al",
       "metadata": {
-        "created_at": "2026-05-27T19:10:50Z",
+        "created_at": "2026-05-26T20:32:10Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-05-27T19:10:50Z",
+        "published_at": "2026-05-27T17:44:08Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBMoJ7A",
-        "source_node_id": "PRRC_kwDONHLdRM7Fe-0U",
-        "thread_node_id": "PRRT_kwDONHLdRM6E6bLO",
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
+        "source_node_id": "PRRC_kwDONHLdRM7FF9al",
+        "thread_node_id": "PRRT_kwDONHLdRM6E6yFS",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-27T19:10:50Z",
+      "occurred_at": "2026-05-27T17:44:08Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -5820,8 +5572,225 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313233172"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3306673829"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FFHO1",
+      "metadata": {
+        "created_at": "2026-05-26T19:50:32Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-27T17:44:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
+        "source_node_id": "PRRC_kwDONHLdRM7FFHO1",
+        "thread_node_id": "PRRT_kwDONHLdRM6E6KHl",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-27T17:44:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3306451893"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FFeWz",
+      "metadata": {
+        "created_at": "2026-05-26T20:08:30Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-27T17:44:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
+        "source_node_id": "PRRC_kwDONHLdRM7FFeWz",
+        "thread_node_id": "PRRT_kwDONHLdRM6E6bLO",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-27T17:44:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3306546611"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FGBih",
+      "metadata": {
+        "created_at": "2026-05-26T20:35:25Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-27T17:44:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
+        "source_node_id": "PRRC_kwDONHLdRM7FGBih",
+        "thread_node_id": "PRRT_kwDONHLdRM6E61Jd",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-27T17:44:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3306690721"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FYw6o",
+      "metadata": {
+        "created_at": "2026-05-27T14:47:14Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-27T17:44:08Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
+        "source_node_id": "PRRC_kwDONHLdRM7FYw6o",
+        "thread_node_id": "PRRT_kwDONHLdRM6FIe1R",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-27T17:44:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3311603368"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FZ0u3",
+      "metadata": {
+        "created_at": "2026-05-27T15:28:19Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-27T17:44:08Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
+        "source_node_id": "PRRC_kwDONHLdRM7FZ0u3",
+        "thread_node_id": "PRRT_kwDONHLdRM6FJQqj",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-27T17:44:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3311881143"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FaMsy",
+      "metadata": {
+        "created_at": "2026-05-27T15:42:59Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-27T17:44:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
+        "source_node_id": "PRRC_kwDONHLdRM7FaMsy",
+        "thread_node_id": "PRRT_kwDONHLdRM6FJiHJ",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-27T17:44:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3311979314"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FaTtb",
+      "metadata": {
+        "created_at": "2026-05-27T15:47:16Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-27T17:44:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBEsYyg",
+        "source_node_id": "PRRC_kwDONHLdRM7FaTtb",
+        "thread_node_id": "PRRT_kwDONHLdRM6FJnNC",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-27T17:44:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3312008027"
     },
     {
       "credits": [
@@ -5855,19 +5824,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FfGbj",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7Fe-0U",
       "metadata": {
-        "created_at": "2026-05-27T19:16:09Z",
+        "created_at": "2026-05-27T19:10:50Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-05-27T19:16:09Z",
+        "published_at": "2026-05-27T19:10:50Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBMqkEw",
-        "source_node_id": "PRRC_kwDONHLdRM7FfGbj",
-        "thread_node_id": "PRRT_kwDONHLdRM6E6yFS",
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBMoJ7A",
+        "source_node_id": "PRRC_kwDONHLdRM7Fe-0U",
+        "thread_node_id": "PRRT_kwDONHLdRM6E6bLO",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-27T19:16:09Z",
+      "occurred_at": "2026-05-27T19:10:50Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -5876,8 +5845,8 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313264355"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313233172"
     },
     {
       "credits": [
@@ -5911,19 +5880,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FfJlI",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FfGbj",
       "metadata": {
-        "created_at": "2026-05-27T19:18:35Z",
+        "created_at": "2026-05-27T19:16:09Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-05-27T19:18:35Z",
+        "published_at": "2026-05-27T19:16:09Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBMrjxQ",
-        "source_node_id": "PRRC_kwDONHLdRM7FfJlI",
-        "thread_node_id": "PRRT_kwDONHLdRM6E61Jd",
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBMqkEw",
+        "source_node_id": "PRRC_kwDONHLdRM7FfGbj",
+        "thread_node_id": "PRRT_kwDONHLdRM6E6yFS",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-27T19:18:35Z",
+      "occurred_at": "2026-05-27T19:16:09Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -5932,8 +5901,8 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313277256"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313264355"
     },
     {
       "credits": [
@@ -5967,19 +5936,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7FfXgm",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FfJlI",
       "metadata": {
-        "created_at": "2026-05-27T19:28:44Z",
-        "outdated": false,
+        "created_at": "2026-05-27T19:18:35Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-05-27T19:28:44Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBMv9ag",
-        "source_node_id": "PRRC_kwDONHLdRM7FfXgm",
-        "thread_node_id": "PRRT_kwDONHLdRM6FIe1R",
+        "published_at": "2026-05-27T19:18:35Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBMrjxQ",
+        "source_node_id": "PRRC_kwDONHLdRM7FfJlI",
+        "thread_node_id": "PRRT_kwDONHLdRM6E61Jd",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-27T19:28:44Z",
+      "occurred_at": "2026-05-27T19:18:35Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -5988,8 +5957,8 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313334310"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313277256"
     },
     {
       "credits": [
@@ -6023,19 +5992,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7Ffc2O",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7FfXgm",
       "metadata": {
-        "created_at": "2026-05-27T19:31:58Z",
+        "created_at": "2026-05-27T19:28:44Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-05-27T19:31:58Z",
+        "published_at": "2026-05-27T19:28:44Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBMxhcg",
-        "source_node_id": "PRRC_kwDONHLdRM7Ffc2O",
-        "thread_node_id": "PRRT_kwDONHLdRM6FJQqj",
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBMv9ag",
+        "source_node_id": "PRRC_kwDONHLdRM7FfXgm",
+        "thread_node_id": "PRRT_kwDONHLdRM6FIe1R",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-27T19:31:58Z",
+      "occurred_at": "2026-05-27T19:28:44Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -6044,8 +6013,8 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313356174"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313334310"
     },
     {
       "credits": [
@@ -6071,6 +6040,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/MuPT-hub/mupt/pull/55#pullrequestreview-4375470450"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7Ffc2O",
+      "metadata": {
+        "created_at": "2026-05-27T19:31:58Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-05-27T19:31:58Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBMxhcg",
+        "source_node_id": "PRRC_kwDONHLdRM7Ffc2O",
+        "thread_node_id": "PRRT_kwDONHLdRM6FJQqj",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-27T19:31:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313356174"
     },
     {
       "credits": [
@@ -6115,7 +6115,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7Ffnqt",
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABBM0a6Q",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABBM0a6Q",
+        "state": "COMMENTED",
+        "submitted_at": "2026-05-27T19:39:34Z"
+      },
+      "occurred_at": "2026-05-27T19:39:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#pullrequestreview-4375517929"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7Ffnqt",
       "metadata": {
         "created_at": "2026-05-27T19:39:34Z",
         "outdated": true,
@@ -6136,33 +6161,8 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313400493"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDONHLdRM8AAAABBM0a6Q",
-      "metadata": {
-        "source_node_id": "PRR_kwDONHLdRM8AAAABBM0a6Q",
-        "state": "COMMENTED",
-        "submitted_at": "2026-05-27T19:39:34Z"
-      },
-      "occurred_at": "2026-05-27T19:39:34Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#pullrequestreview-4375517929"
     },
     {
       "credits": [
@@ -6267,37 +6267,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7Ff-3I",
-      "metadata": {
-        "created_at": "2026-05-27T19:58:21Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-05-27T19:58:21Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBM7d4Q",
-        "source_node_id": "PRRC_kwDONHLdRM7Ff-3I",
-        "thread_node_id": "PRRT_kwDONHLdRM6E61Jd",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-05-27T19:58:21Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313495496"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDONHLdRM8AAAABBM7d4Q",
       "metadata": {
         "source_node_id": "PRR_kwDONHLdRM8AAAABBM7d4Q",
@@ -6323,19 +6292,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7Ff_av",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7Ff-3I",
       "metadata": {
-        "created_at": "2026-05-27T19:58:49Z",
+        "created_at": "2026-05-27T19:58:21Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-05-27T19:58:49Z",
+        "published_at": "2026-05-27T19:58:21Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBM7qaA",
-        "source_node_id": "PRRC_kwDONHLdRM7Ff_av",
-        "thread_node_id": "PRRT_kwDONHLdRM6E6bLO",
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBM7d4Q",
+        "source_node_id": "PRRC_kwDONHLdRM7Ff-3I",
+        "thread_node_id": "PRRT_kwDONHLdRM6E61Jd",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-27T19:58:49Z",
+      "occurred_at": "2026-05-27T19:58:21Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -6344,8 +6313,8 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313497775"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313495496"
     },
     {
       "credits": [
@@ -6379,19 +6348,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7Ff_8r",
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7Ff_av",
       "metadata": {
-        "created_at": "2026-05-27T19:59:15Z",
+        "created_at": "2026-05-27T19:58:49Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-05-27T19:59:15Z",
+        "published_at": "2026-05-27T19:58:49Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDONHLdRM8AAAABBM72Pg",
-        "source_node_id": "PRRC_kwDONHLdRM7Ff_8r",
-        "thread_node_id": "PRRT_kwDONHLdRM6E6KHl",
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBM7qaA",
+        "source_node_id": "PRRC_kwDONHLdRM7Ff_av",
+        "thread_node_id": "PRRT_kwDONHLdRM6E6bLO",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-05-27T19:59:15Z",
+      "occurred_at": "2026-05-27T19:58:49Z",
       "subject": {
         "author_key": "MDQ6VXNlcjUyNjc3NDAz",
         "kind": "pull_request",
@@ -6400,8 +6369,8 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313499947"
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313497775"
     },
     {
       "credits": [
@@ -6427,6 +6396,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/MuPT-hub/mupt/pull/55#pullrequestreview-4375639614"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7Ff_8r",
+      "metadata": {
+        "created_at": "2026-05-27T19:59:15Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-05-27T19:59:15Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDONHLdRM8AAAABBM72Pg",
+        "source_node_id": "PRRC_kwDONHLdRM7Ff_8r",
+        "thread_node_id": "PRRT_kwDONHLdRM6E6KHl",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-05-27T19:59:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313499947"
     },
     {
       "credits": [
@@ -6499,7 +6499,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDONHLdRM7Fge8q",
+      "id": "pr_review:PRR_kwDONHLdRM8AAAABBNFQZw",
+      "metadata": {
+        "source_node_id": "PRR_kwDONHLdRM8AAAABBNFQZw",
+        "state": "COMMENTED",
+        "submitted_at": "2026-05-27T20:23:22Z"
+      },
+      "occurred_at": "2026-05-27T20:23:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
+        "kind": "pull_request",
+        "node_id": "PR_kwDONHLdRM7XU8DH",
+        "number": 55,
+        "title": "Improved BoundedShapes and array typing",
+        "url": "https://github.com/MuPT-hub/mupt/pull/55"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt/pull/55#pullrequestreview-4375793767"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDONHLdRM7Fge8q",
       "metadata": {
         "created_at": "2026-05-27T20:23:22Z",
         "outdated": true,
@@ -6520,33 +6545,8 @@
         "title": "Improved BoundedShapes and array typing",
         "url": "https://github.com/MuPT-hub/mupt/pull/55"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/55#discussion_r3313626922"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjUyNjc3NDAz",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDONHLdRM8AAAABBNFQZw",
-      "metadata": {
-        "source_node_id": "PRR_kwDONHLdRM8AAAABBNFQZw",
-        "state": "COMMENTED",
-        "submitted_at": "2026-05-27T20:23:22Z"
-      },
-      "occurred_at": "2026-05-27T20:23:22Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjUyNjc3NDAz",
-        "kind": "pull_request",
-        "node_id": "PR_kwDONHLdRM7XU8DH",
-        "number": 55,
-        "title": "Improved BoundedShapes and array typing",
-        "url": "https://github.com/MuPT-hub/mupt/pull/55"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/MuPT-hub/mupt/pull/55#pullrequestreview-4375793767"
     },
     {
       "credits": [
@@ -6685,7 +6685,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABD7UtjA",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABD7UtjA",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABD7UtjA"
       },
@@ -6698,7 +6698,7 @@
         "title": "Refactor SAAMR topology traversal for MDAnalysis/RDKit exporters",
         "url": "https://github.com/MuPT-hub/mupt/pull/58"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/58#issuecomment-4558499212"
     },
     {
@@ -6846,7 +6846,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDONHLdRM8AAAABEFqqRQ",
+      "id": "pr_discussion_comment:IC_kwDONHLdRM8AAAABEFqqRQ",
       "metadata": {
         "source_node_id": "IC_kwDONHLdRM8AAAABEFqqRQ"
       },
@@ -6859,7 +6859,7 @@
         "title": "Add MuPT SDF utils (export and import)",
         "url": "https://github.com/MuPT-hub/mupt/pull/60"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt/pull/60#issuecomment-4569344581"
     }
   ],
@@ -6986,7 +6986,7 @@
       "url": "https://github.com/gitsirsha"
     },
     {
-      "classification": "unresolved_git",
+      "classification": "unlinked_git",
       "database_id": null,
       "display_name": null,
       "git_email": "noreply@github.com",
@@ -6999,7 +6999,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T15:19:35.252597Z",
+      "as_of": "2026-10-20T01:22:51.963966Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -7011,52 +7011,52 @@
     },
     "default_branch": "main",
     "default_branch_head": "1aeddd2cb59abf33533c22c369f9e4028e8866f3",
+    "is_partial": false,
     "month": "2026-05",
     "month_end": "2026-06-01T00:00:00Z",
     "month_start": "2026-05-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T15:20:09.867888Z",
+        "finished_at": "2026-10-20T01:23:17.523212Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "de721d6c-b7ae-474a-bf4f-fa79892d7bf8",
-        "started_at": "2026-10-18T15:19:35.252597Z"
+        "run_id": "71ee2214-6f71-43c7-8016-b5c4d7fad740",
+        "started_at": "2026-10-20T01:22:51.963966Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T15:20:09.867888Z",
+        "finished_at": "2026-10-20T01:23:17.523212Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "de721d6c-b7ae-474a-bf4f-fa79892d7bf8",
-        "started_at": "2026-10-18T15:19:35.252597Z"
+        "run_id": "71ee2214-6f71-43c7-8016-b5c4d7fad740",
+        "started_at": "2026-10-20T01:22:51.963966Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T15:20:09.867888Z",
+        "finished_at": "2026-10-20T01:23:17.523212Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "de721d6c-b7ae-474a-bf4f-fa79892d7bf8",
-        "started_at": "2026-10-18T15:19:35.252597Z"
+        "run_id": "71ee2214-6f71-43c7-8016-b5c4d7fad740",
+        "started_at": "2026-10-20T01:22:51.963966Z"
       }
     },
     "repository": {
@@ -7066,15 +7066,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T15:20:09.867888Z",
+        "finished_at": "2026-10-20T01:23:17.523212Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "de721d6c-b7ae-474a-bf4f-fa79892d7bf8",
-        "started_at": "2026-10-18T15:19:35.252597Z"
+        "run_id": "71ee2214-6f71-43c7-8016-b5c4d7fad740",
+        "started_at": "2026-10-20T01:22:51.963966Z"
       },
       "history_start_month": "2024-10",
       "node_id": "R_kgDONHLdRA",
@@ -7090,11 +7090,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 25,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 2
+        "pr_review": 2,
+        "pr_review_comment": 25
       },
       "MDM6Qm90MjI0Mjk2OTU=": {
         "commit": 0,
@@ -7102,11 +7102,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 3,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 3,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjEzNjkxODA2": {
         "commit": 0,
@@ -7114,11 +7114,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 1,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjQyNzQxMzI=": {
         "commit": 0,
@@ -7126,11 +7126,11 @@
         "issue_comment": 1,
         "issue_opened": 3,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 1,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjUyNjc3NDAz": {
         "commit": 62,
@@ -7138,11 +7138,11 @@
         "issue_comment": 0,
         "issue_opened": 2,
         "issue_reopened": 0,
-        "pr_conversation_comment": 8,
-        "pr_inline_review_comment": 21,
+        "pr_discussion_comment": 8,
         "pr_merged": 1,
         "pr_opened": 4,
-        "pr_review": 22
+        "pr_review": 22,
+        "pr_review_comment": 21
       },
       "MDQ6VXNlcjUyODE5OTQ=": {
         "commit": 4,
@@ -7150,11 +7150,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 1,
         "pr_merged": 2,
         "pr_opened": 0,
-        "pr_review": 3
+        "pr_review": 3,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjc2Nzk5Njc1": {
         "commit": 16,
@@ -7162,11 +7162,11 @@
         "issue_comment": 3,
         "issue_opened": 5,
         "issue_reopened": 0,
-        "pr_conversation_comment": 4,
-        "pr_inline_review_comment": 3,
+        "pr_discussion_comment": 4,
         "pr_merged": 0,
         "pr_opened": 3,
-        "pr_review": 6
+        "pr_review": 6,
+        "pr_review_comment": 3
       },
       "MDQ6VXNlcjgxNzg1NDY=": {
         "commit": 1,
@@ -7174,11 +7174,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 8,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 1
+        "pr_review": 1,
+        "pr_review_comment": 8
       },
       "MDQ6VXNlcjkwNDM2OTMz": {
         "commit": 3,
@@ -7186,11 +7186,11 @@
         "issue_comment": 5,
         "issue_opened": 2,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 4,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 3
+        "pr_review": 3,
+        "pr_review_comment": 4
       },
       "U_kgDOC8LwDw": {
         "commit": 0,
@@ -7198,79 +7198,79 @@
         "issue_comment": 0,
         "issue_opened": 3,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       }
     },
     "distinct_actors": {
       "bot": 2,
       "human": 8,
       "total": 10,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 1,
         "human": 5,
         "total": 6,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 5,
         "total": 5,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 5,
         "total": 5,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 1,
         "human": 5,
         "total": 6,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 1,
-        "human": 4,
-        "total": 5,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 1,
         "human": 5,
         "total": 6,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 1,
+        "human": 4,
+        "total": 5,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -7279,11 +7279,11 @@
       "issue_comment": 11,
       "issue_opened": 15,
       "issue_reopened": 0,
-      "pr_conversation_comment": 18,
-      "pr_inline_review_comment": 61,
+      "pr_discussion_comment": 18,
       "pr_merged": 3,
       "pr_opened": 8,
-      "pr_review": 37
+      "pr_review": 37,
+      "pr_review_comment": 61
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -7291,11 +7291,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

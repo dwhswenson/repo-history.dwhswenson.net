@@ -1,4 +1,4 @@
-"""Compare monthly counts and contributor attribution after update and backfill."""
+"""Compare monthly counts and contributor attribution after update and collect."""
 
 import argparse
 import codecs
@@ -85,31 +85,31 @@ def load_dataset(directory, *, repository=None, node_id=None):
     return state, {"repository_node_id": identity["node_id"], "months": months}
 
 
-def differences(backfill, update, path=""):
+def differences(collect, update, path=""):
     """Return deterministic JSON Pointer paths, retaining missing vs null values."""
     result = []
-    if isinstance(backfill, dict) and isinstance(update, dict):
-        for key in sorted(backfill.keys() | update.keys()):
+    if isinstance(collect, dict) and isinstance(update, dict):
+        for key in sorted(collect.keys() | update.keys()):
             child = path + "/" + key.replace("~", "~0").replace("/", "~1")
-            if key not in backfill or key not in update:
+            if key not in collect or key not in update:
                 result.append(
                     {
                         "path": child,
-                        "backfill": backfill.get(key),
+                        "collect": collect.get(key),
                         "update": update.get(key),
-                        "backfill_present": key in backfill,
+                        "collect_present": key in collect,
                         "update_present": key in update,
                     }
                 )
             else:
-                result.extend(differences(backfill[key], update[key], child))
-    elif backfill != update:
+                result.extend(differences(collect[key], update[key], child))
+    elif collect != update:
         result.append(
             {
                 "path": path,
-                "backfill": backfill,
+                "collect": collect,
                 "update": update,
-                "backfill_present": True,
+                "collect_present": True,
                 "update_present": True,
             }
         )
@@ -174,7 +174,7 @@ def run_collector(command, log):
 def compare_repository(repository, source, workspace, args):
     started = perf_counter()
     directory = workspace.joinpath(*repository.split("/"))
-    backfill = directory / "backfill"
+    collect = directory / "collect"
     update = source if args.in_place else directory / "update"
     initial = directory / "initial-collection-state.json"
     result = {
@@ -186,10 +186,10 @@ def compare_repository(repository, source, workspace, args):
         "months": {},
         "artifacts": {
             "source": str(source),
-            "backfill": str(backfill),
+            "collect": str(collect),
             "update": str(update),
             "initial_state": str(initial),
-            "backfill_log": str(directory / "backfill.log"),
+            "collect_log": str(directory / "collect.log"),
             "update_log": str(directory / "update.log"),
         },
         "commands": [],
@@ -214,7 +214,7 @@ def compare_repository(repository, source, workspace, args):
             load_dataset(update, node_id=state["repository"]["node_id"])
 
         projections = {}
-        for action, target in (("backfill", backfill), ("update", update)):
+        for action, target in (("collect", collect), ("update", update)):
             result["stage"] = action
             command = [
                 sys.executable,
@@ -227,7 +227,7 @@ def compare_repository(repository, source, workspace, args):
                 "--end",
                 args.end,
             ]
-            if action == "backfill" and args.no_progress:
+            if action == "collect" and args.no_progress:
                 command.append("--no-progress")
             if action == "update" and args.update_start:
                 command.extend(["--start", args.update_start])
@@ -248,14 +248,14 @@ def compare_repository(repository, source, workspace, args):
 
         result["stage"] = "compare"
         result["differences"] = differences(
-            projections["backfill"], projections["update"]
+            projections["collect"], projections["update"]
         )
-        left, right = projections["backfill"]["months"], projections["update"]["months"]
+        left, right = projections["collect"]["months"], projections["update"]["months"]
         for name in sorted(left.keys() | right.keys()):
             if name not in left:
                 outcome = "update-only"
             elif name not in right:
-                outcome = "backfill-only"
+                outcome = "collect-only"
             else:
                 outcome = "match" if left[name] == right[name] else "mismatch"
             result["months"][name] = outcome
@@ -263,7 +263,7 @@ def compare_repository(repository, source, workspace, args):
         result["status"] = "mismatch" if result["differences"] else "match"
         for difference in result["differences"][:20]:
             values = []
-            for side in ("backfill", "update"):
+            for side in ("collect", "update"):
                 value = (
                     json.dumps(difference[side], ensure_ascii=False)
                     if difference[side + "_present"]
@@ -329,7 +329,7 @@ def main(argv=None):
     parser.add_argument(
         "--no-progress",
         action="store_true",
-        help="pass --no-progress to backfill; keep ordinary collector logs",
+        help="pass --no-progress to collect; keep ordinary collector logs",
     )
     args = parser.parse_args(argv)
     if bool(args.repository) == args.all:

@@ -153,7 +153,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5F7QA8",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5F7QA8",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5F7QA8"
       },
@@ -166,7 +166,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#issuecomment-1173159996"
     },
     {
@@ -176,7 +176,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5F7QSR",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5F7QSR",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5F7QSR"
       },
@@ -189,7 +189,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#issuecomment-1173161105"
     },
     {
@@ -199,7 +199,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5F7WBj",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5F7WBj",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5F7WBj"
       },
@@ -212,7 +212,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#issuecomment-1173184611"
     },
     {
@@ -222,7 +222,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5F7WTR",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5F7WTR",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5F7WTR"
       },
@@ -235,7 +235,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#issuecomment-1173185745"
     },
     {
@@ -278,7 +278,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42ahVb",
+      "id": "pr_review:PRR_kwDOGuqVzM49PW7C",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM49PW7C",
+        "state": "COMMENTED",
+        "submitted_at": "2022-07-04T11:45:26Z"
+      },
+      "occurred_at": "2022-07-04T11:45:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM46TOnB",
+        "number": 147,
+        "title": "WIP: Perses atom mappers",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#pullrequestreview-1027436226"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42ahVb",
       "metadata": {
         "created_at": "2022-07-04T11:45:26Z",
         "outdated": true,
@@ -299,33 +324,8 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r912921947"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM49PW7C",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM49PW7C",
-        "state": "COMMENTED",
-        "submitted_at": "2022-07-04T11:45:26Z"
-      },
-      "occurred_at": "2022-07-04T11:45:26Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM46TOnB",
-        "number": 147,
-        "title": "WIP: Perses atom mappers",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#pullrequestreview-1027436226"
     },
     {
       "credits": [
@@ -366,7 +366,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42aq6g",
+      "id": "pr_review:PRR_kwDOGuqVzM49PkhK",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM49PkhK",
+        "state": "CHANGES_REQUESTED",
+        "submitted_at": "2022-07-04T12:42:45Z"
+      },
+      "occurred_at": "2022-07-04T12:42:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM46TOnB",
+        "number": 147,
+        "title": "WIP: Perses atom mappers",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#pullrequestreview-1027491914"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42aq6g",
       "metadata": {
         "created_at": "2022-07-04T12:36:16Z",
         "outdated": false,
@@ -387,7 +412,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r912961184"
     },
     {
@@ -397,7 +422,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42aqrY",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42aqrY",
       "metadata": {
         "created_at": "2022-07-04T12:35:06Z",
         "outdated": false,
@@ -418,7 +443,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r912960216"
     },
     {
@@ -428,7 +453,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42aqxV",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42aqxV",
       "metadata": {
         "created_at": "2022-07-04T12:35:33Z",
         "outdated": false,
@@ -449,7 +474,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r912960597"
     },
     {
@@ -459,7 +484,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42ar22",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42ar22",
       "metadata": {
         "created_at": "2022-07-04T12:40:59Z",
         "outdated": true,
@@ -480,7 +505,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r912965046"
     },
     {
@@ -490,7 +515,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42arAT",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42arAT",
       "metadata": {
         "created_at": "2022-07-04T12:36:43Z",
         "outdated": true,
@@ -511,7 +536,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r912961555"
     },
     {
@@ -521,7 +546,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42arCo",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42arCo",
       "metadata": {
         "created_at": "2022-07-04T12:36:55Z",
         "outdated": true,
@@ -542,7 +567,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r912961704"
     },
     {
@@ -552,7 +577,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42arGZ",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42arGZ",
       "metadata": {
         "created_at": "2022-07-04T12:37:14Z",
         "outdated": true,
@@ -573,7 +598,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r912961945"
     },
     {
@@ -583,7 +608,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42arOw",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42arOw",
       "metadata": {
         "created_at": "2022-07-04T12:37:53Z",
         "outdated": false,
@@ -604,7 +629,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r912962480"
     },
     {
@@ -614,7 +639,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42arRW",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42arRW",
       "metadata": {
         "created_at": "2022-07-04T12:38:07Z",
         "outdated": true,
@@ -635,7 +660,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r912962646"
     },
     {
@@ -645,7 +670,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42arUO",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42arUO",
       "metadata": {
         "created_at": "2022-07-04T12:38:21Z",
         "outdated": true,
@@ -666,7 +691,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r912962830"
     },
     {
@@ -676,7 +701,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42arYa",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42arYa",
       "metadata": {
         "created_at": "2022-07-04T12:38:39Z",
         "outdated": true,
@@ -697,7 +722,7 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r912963098"
     },
     {
@@ -707,7 +732,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42arrJ",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42arrJ",
       "metadata": {
         "created_at": "2022-07-04T12:40:07Z",
         "outdated": true,
@@ -728,33 +753,8 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r912964297"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM49PkhK",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM49PkhK",
-        "state": "CHANGES_REQUESTED",
-        "submitted_at": "2022-07-04T12:42:45Z"
-      },
-      "occurred_at": "2022-07-04T12:42:45Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM46TOnB",
-        "number": 147,
-        "title": "WIP: Perses atom mappers",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#pullrequestreview-1027491914"
     },
     {
       "credits": [
@@ -1034,7 +1034,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5GK22K",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5GK22K",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5GK22K"
       },
@@ -1047,39 +1047,8 @@
         "title": "adds AtomMapping.invert",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/152"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/152#issuecomment-1177251210"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42kxwb",
-      "metadata": {
-        "created_at": "2022-07-07T08:35:03Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2022-07-07T08:35:10Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM49dtLQ",
-        "source_node_id": "PRRC_kwDOGuqVzM42kxwb",
-        "thread_node_id": "PRRT_kwDOGuqVzM4i6w_j",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-07-07T08:35:10Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM47AAlR",
-        "number": 152,
-        "title": "adds AtomMapping.invert",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/152"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/152#discussion_r915610651"
     },
     {
       "credits": [
@@ -1109,11 +1078,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42kxwb",
+      "metadata": {
+        "created_at": "2022-07-07T08:35:03Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2022-07-07T08:35:10Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM49dtLQ",
+        "source_node_id": "PRRC_kwDOGuqVzM42kxwb",
+        "thread_node_id": "PRRT_kwDOGuqVzM4i6w_j",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-07-07T08:35:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM47AAlR",
+        "number": 152,
+        "title": "adds AtomMapping.invert",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/152"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/152#discussion_r915610651"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5GK6c_",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5GK6c_",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5GK6c_"
       },
@@ -1126,7 +1126,7 @@
         "title": "adds AtomMapping.invert",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/152"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/152#issuecomment-1177265983"
     },
     {
@@ -1388,7 +1388,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42mxkJ",
+      "id": "pr_review:PRR_kwDOGuqVzM49glgd",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM49glgd",
+        "state": "COMMENTED",
+        "submitted_at": "2022-07-07T17:47:26Z"
+      },
+      "occurred_at": "2022-07-07T17:47:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM46TOnB",
+        "number": 147,
+        "title": "WIP: Perses atom mappers",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#pullrequestreview-1031952413"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42mxkJ",
       "metadata": {
         "created_at": "2022-07-07T17:47:26Z",
         "outdated": true,
@@ -1409,33 +1434,8 @@
         "title": "WIP: Perses atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#discussion_r916134153"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM49glgd",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM49glgd",
-        "state": "COMMENTED",
-        "submitted_at": "2022-07-07T17:47:26Z"
-      },
-      "occurred_at": "2022-07-07T17:47:26Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM46TOnB",
-        "number": 147,
-        "title": "WIP: Perses atom mappers",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/147"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/147#pullrequestreview-1031952413"
     },
     {
       "credits": [
@@ -1629,7 +1629,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5GX1iZ",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5GX1iZ",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5GX1iZ"
       },
@@ -1642,39 +1642,8 @@
         "title": "WIP: Project Wally - implementing Mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/155"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/155#issuecomment-1180653721"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42uhuY",
-      "metadata": {
-        "created_at": "2022-07-11T17:05:34Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-07-11T17:05:35Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM49q9Sl",
-        "source_node_id": "PRRC_kwDOGuqVzM42uhuY",
-        "thread_node_id": "PRRT_kwDOGuqVzM4jBJnx",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-07-11T17:05:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM47NUMc",
-        "number": 155,
-        "title": "WIP: Project Wally - implementing Mappers",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/155"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/155#discussion_r918166424"
     },
     {
       "credits": [
@@ -1708,19 +1677,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42uh_u",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42uhuY",
       "metadata": {
-        "created_at": "2022-07-11T17:06:59Z",
+        "created_at": "2022-07-11T17:05:34Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2022-07-11T17:06:59Z",
+        "published_at": "2022-07-11T17:05:35Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM49q9qw",
-        "source_node_id": "PRRC_kwDOGuqVzM42uh_u",
-        "thread_node_id": "PRRT_kwDOGuqVzM4jBJyx",
+        "review_node_id": "PRR_kwDOGuqVzM49q9Sl",
+        "source_node_id": "PRRC_kwDOGuqVzM42uhuY",
+        "thread_node_id": "PRRT_kwDOGuqVzM4jBJnx",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-07-11T17:06:59Z",
+      "occurred_at": "2022-07-11T17:05:35Z",
       "subject": {
         "author_key": "MDQ6VXNlcjkyNDk1NDM=",
         "kind": "pull_request",
@@ -1729,8 +1698,8 @@
         "title": "WIP: Project Wally - implementing Mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/155"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/155#discussion_r918167534"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/155#discussion_r918166424"
     },
     {
       "credits": [
@@ -1760,11 +1729,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42uh_u",
+      "metadata": {
+        "created_at": "2022-07-11T17:06:59Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-07-11T17:06:59Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM49q9qw",
+        "source_node_id": "PRRC_kwDOGuqVzM42uh_u",
+        "thread_node_id": "PRRT_kwDOGuqVzM4jBJyx",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-07-11T17:06:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM47NUMc",
+        "number": 155,
+        "title": "WIP: Project Wally - implementing Mappers",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/155"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/155#discussion_r918167534"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5GX4Ct",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5GX4Ct",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5GX4Ct"
       },
@@ -1777,7 +1777,7 @@
         "title": "WIP: Project Wally - implementing Mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/155"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/155#issuecomment-1180663981"
     },
     {
@@ -1973,7 +1973,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5GgmpP",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5GgmpP",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5GgmpP"
       },
@@ -1986,7 +1986,7 @@
         "title": "Add lower pin for lomap2 in environment yaml file",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/157"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/157#issuecomment-1182952015"
     },
     {
@@ -2077,7 +2077,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5GijCV",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5GijCV",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5GijCV"
       },
@@ -2090,7 +2090,7 @@
         "title": "Add lower pin for lomap2 in environment yaml file",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/157"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/157#issuecomment-1183461525"
     },
     {
@@ -2100,7 +2100,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5GijlN",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5GijlN",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5GijlN"
       },
@@ -2113,7 +2113,7 @@
         "title": "Add lower pin for lomap2 in environment yaml file",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/157"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/157#issuecomment-1183463757"
     },
     {
@@ -2256,7 +2256,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5Gqw-E",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5Gqw-E",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5Gqw-E"
       },
@@ -2269,7 +2269,7 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#issuecomment-1185615748"
     },
     {
@@ -2304,7 +2304,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5GqyZB",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5GqyZB",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5GqyZB"
       },
@@ -2317,7 +2317,7 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#issuecomment-1185621569"
     },
     {
@@ -2359,7 +2359,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5Gq0I6",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5Gq0I6",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5Gq0I6"
       },
@@ -2372,7 +2372,7 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#issuecomment-1185628730"
     },
     {
@@ -2382,7 +2382,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5Gq1SW",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5Gq1SW",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5Gq1SW"
       },
@@ -2395,7 +2395,7 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#issuecomment-1185633430"
     },
     {
@@ -2405,7 +2405,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5Gq1Xw",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5Gq1Xw",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5Gq1Xw"
       },
@@ -2418,7 +2418,7 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#issuecomment-1185633776"
     },
     {
@@ -2460,7 +2460,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5Gq4Wv",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5Gq4Wv",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5Gq4Wv"
       },
@@ -2473,7 +2473,7 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#issuecomment-1185645999"
     },
     {
@@ -2547,7 +2547,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5Gq86e",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5Gq86e",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5Gq86e"
       },
@@ -2560,7 +2560,7 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#issuecomment-1185664670"
     },
     {
@@ -2634,7 +2634,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5GrAED",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5GrAED",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5GrAED"
       },
@@ -2647,101 +2647,8 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#issuecomment-1185677571"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42-UGz",
-      "metadata": {
-        "created_at": "2022-07-15T16:00:53Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-07-15T16:06:54Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM4-BMER",
-        "source_node_id": "PRRC_kwDOGuqVzM42-UGz",
-        "thread_node_id": "PRRT_kwDOGuqVzM4jLGqO",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-07-15T16:06:54Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM47ebvT",
-        "number": 158,
-        "title": "154 add test for persesmapper not finding a mapping",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922304947"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42-Uir",
-      "metadata": {
-        "created_at": "2022-07-15T16:03:15Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-07-15T16:06:54Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM4-BMER",
-        "source_node_id": "PRRC_kwDOGuqVzM42-Uir",
-        "thread_node_id": "PRRT_kwDOGuqVzM4jLG8d",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-07-15T16:06:54Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM47ebvT",
-        "number": 158,
-        "title": "154 add test for persesmapper not finding a mapping",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922306731"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42-VK8",
-      "metadata": {
-        "created_at": "2022-07-15T16:06:48Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-07-15T16:06:54Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM4-BMER",
-        "source_node_id": "PRRC_kwDOGuqVzM42-VK8",
-        "thread_node_id": "PRRT_kwDOGuqVzM4jLHVm",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-07-15T16:06:54Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM47ebvT",
-        "number": 158,
-        "title": "154 add test for persesmapper not finding a mapping",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922309308"
     },
     {
       "credits": [
@@ -2767,6 +2674,99 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#pullrequestreview-1040498961"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42-UGz",
+      "metadata": {
+        "created_at": "2022-07-15T16:00:53Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-07-15T16:06:54Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM4-BMER",
+        "source_node_id": "PRRC_kwDOGuqVzM42-UGz",
+        "thread_node_id": "PRRT_kwDOGuqVzM4jLGqO",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-07-15T16:06:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM47ebvT",
+        "number": 158,
+        "title": "154 add test for persesmapper not finding a mapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922304947"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42-Uir",
+      "metadata": {
+        "created_at": "2022-07-15T16:03:15Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-07-15T16:06:54Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM4-BMER",
+        "source_node_id": "PRRC_kwDOGuqVzM42-Uir",
+        "thread_node_id": "PRRT_kwDOGuqVzM4jLG8d",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-07-15T16:06:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM47ebvT",
+        "number": 158,
+        "title": "154 add test for persesmapper not finding a mapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922306731"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42-VK8",
+      "metadata": {
+        "created_at": "2022-07-15T16:06:48Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-07-15T16:06:54Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM4-BMER",
+        "source_node_id": "PRRC_kwDOGuqVzM42-VK8",
+        "thread_node_id": "PRRT_kwDOGuqVzM4jLHVm",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-07-15T16:06:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM47ebvT",
+        "number": 158,
+        "title": "154 add test for persesmapper not finding a mapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922309308"
     },
     {
       "credits": [
@@ -2847,7 +2847,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5GrCuf",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5GrCuf",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5GrCuf"
       },
@@ -2860,39 +2860,8 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#issuecomment-1185688479"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42-Vvr",
-      "metadata": {
-        "created_at": "2022-07-15T16:09:58Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-07-15T16:09:58Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM4-BO2V",
-        "source_node_id": "PRRC_kwDOGuqVzM42-Vvr",
-        "thread_node_id": "PRRT_kwDOGuqVzM4jLG8d",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-07-15T16:09:58Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM47ebvT",
-        "number": 158,
-        "title": "154 add test for persesmapper not finding a mapping",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922311659"
     },
     {
       "credits": [
@@ -2922,11 +2891,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42-Vvr",
+      "metadata": {
+        "created_at": "2022-07-15T16:09:58Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-07-15T16:09:58Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM4-BO2V",
+        "source_node_id": "PRRC_kwDOGuqVzM42-Vvr",
+        "thread_node_id": "PRRT_kwDOGuqVzM4jLG8d",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-07-15T16:09:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM47ebvT",
+        "number": 158,
+        "title": "154 add test for persesmapper not finding a mapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922311659"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5GrDw7",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5GrDw7",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5GrDw7"
       },
@@ -2939,39 +2939,8 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#issuecomment-1185692731"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42-Wki",
-      "metadata": {
-        "created_at": "2022-07-15T16:14:23Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-07-15T16:14:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM4-BP_Y",
-        "source_node_id": "PRRC_kwDOGuqVzM42-Wki",
-        "thread_node_id": "PRRT_kwDOGuqVzM4jLHVm",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-07-15T16:14:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM47ebvT",
-        "number": 158,
-        "title": "154 add test for persesmapper not finding a mapping",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922315042"
     },
     {
       "credits": [
@@ -3005,19 +2974,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42-ZYY",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42-Wki",
       "metadata": {
-        "created_at": "2022-07-15T16:29:28Z",
+        "created_at": "2022-07-15T16:14:23Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2022-07-15T16:29:28Z",
+        "published_at": "2022-07-15T16:14:23Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM4-BUAy",
-        "source_node_id": "PRRC_kwDOGuqVzM42-ZYY",
+        "review_node_id": "PRR_kwDOGuqVzM4-BP_Y",
+        "source_node_id": "PRRC_kwDOGuqVzM42-Wki",
         "thread_node_id": "PRRT_kwDOGuqVzM4jLHVm",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-07-15T16:29:28Z",
+      "occurred_at": "2022-07-15T16:14:23Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDI4MDA1",
         "kind": "pull_request",
@@ -3026,8 +2995,8 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922326552"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922315042"
     },
     {
       "credits": [
@@ -3061,19 +3030,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM42-bW3",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42-ZYY",
       "metadata": {
-        "created_at": "2022-07-15T16:39:07Z",
+        "created_at": "2022-07-15T16:29:28Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2022-07-15T16:39:07Z",
+        "published_at": "2022-07-15T16:29:28Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM4-BXIE",
-        "source_node_id": "PRRC_kwDOGuqVzM42-bW3",
-        "thread_node_id": "PRRT_kwDOGuqVzM4jLLKo",
+        "review_node_id": "PRR_kwDOGuqVzM4-BUAy",
+        "source_node_id": "PRRC_kwDOGuqVzM42-ZYY",
+        "thread_node_id": "PRRT_kwDOGuqVzM4jLHVm",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-07-15T16:39:07Z",
+      "occurred_at": "2022-07-15T16:29:28Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDI4MDA1",
         "kind": "pull_request",
@@ -3082,8 +3051,8 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922334647"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922326552"
     },
     {
       "credits": [
@@ -3113,33 +3082,33 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM43C_4R",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM42-bW3",
       "metadata": {
-        "created_at": "2022-07-18T15:51:22Z",
+        "created_at": "2022-07-15T16:39:07Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2022-07-18T15:51:22Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM4-HOxK",
-        "source_node_id": "PRRC_kwDOGuqVzM43C_4R",
-        "thread_node_id": "PRRT_kwDOGuqVzM4jBJyx",
+        "published_at": "2022-07-15T16:39:07Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM4-BXIE",
+        "source_node_id": "PRRC_kwDOGuqVzM42-bW3",
+        "thread_node_id": "PRRT_kwDOGuqVzM4jLLKo",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-07-18T15:51:22Z",
+      "occurred_at": "2022-07-15T16:39:07Z",
       "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
         "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM47NUMc",
-        "number": 155,
-        "title": "WIP: Project Wally - implementing Mappers",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/155"
+        "node_id": "PR_kwDOGuqVzM47ebvT",
+        "number": 158,
+        "title": "154 add test for persesmapper not finding a mapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/155#discussion_r923532817"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r922334647"
     },
     {
       "credits": [
@@ -3165,6 +3134,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/155#pullrequestreview-1042082890"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM43C_4R",
+      "metadata": {
+        "created_at": "2022-07-18T15:51:22Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-07-18T15:51:22Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM4-HOxK",
+        "source_node_id": "PRRC_kwDOGuqVzM43C_4R",
+        "thread_node_id": "PRRT_kwDOGuqVzM4jBJyx",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-07-18T15:51:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM47NUMc",
+        "number": 155,
+        "title": "WIP: Project Wally - implementing Mappers",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/155"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/155#discussion_r923532817"
     },
     {
       "credits": [
@@ -3228,7 +3228,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM43F9xt",
+      "id": "pr_review:PRR_kwDOGuqVzM4-LXms",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM4-LXms",
+        "state": "COMMENTED",
+        "submitted_at": "2022-07-19T10:05:35Z"
+      },
+      "occurred_at": "2022-07-19T10:05:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM47o2wM",
+        "number": 159,
+        "title": "Fixes the openmm rbfe protocol",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/159"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/159#pullrequestreview-1043167660"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM43F9xt",
       "metadata": {
         "created_at": "2022-07-19T10:05:34Z",
         "outdated": true,
@@ -3249,33 +3274,8 @@
         "title": "Fixes the openmm rbfe protocol",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/159"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/159#discussion_r924310637"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM4-LXms",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM4-LXms",
-        "state": "COMMENTED",
-        "submitted_at": "2022-07-19T10:05:35Z"
-      },
-      "occurred_at": "2022-07-19T10:05:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM47o2wM",
-        "number": 159,
-        "title": "Fixes the openmm rbfe protocol",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/159"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/159#pullrequestreview-1043167660"
     },
     {
       "credits": [
@@ -3316,7 +3316,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM43F_G7",
+      "id": "pr_review:PRR_kwDOGuqVzM4-LZgn",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM4-LZgn",
+        "state": "COMMENTED",
+        "submitted_at": "2022-07-19T10:11:35Z"
+      },
+      "occurred_at": "2022-07-19T10:11:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM47o2wM",
+        "number": 159,
+        "title": "Fixes the openmm rbfe protocol",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/159"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/159#pullrequestreview-1043175463"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM43F_G7",
       "metadata": {
         "created_at": "2022-07-19T10:11:35Z",
         "outdated": true,
@@ -3337,33 +3362,8 @@
         "title": "Fixes the openmm rbfe protocol",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/159"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/159#discussion_r924316091"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM4-LZgn",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM4-LZgn",
-        "state": "COMMENTED",
-        "submitted_at": "2022-07-19T10:11:35Z"
-      },
-      "occurred_at": "2022-07-19T10:11:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM47o2wM",
-        "number": 159,
-        "title": "Fixes the openmm rbfe protocol",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/159"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/159#pullrequestreview-1043175463"
     },
     {
       "credits": [
@@ -3404,7 +3404,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5G3L1j",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5G3L1j",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5G3L1j"
       },
@@ -3417,7 +3417,7 @@
         "title": "Fixes the openmm rbfe protocol",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/159"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/159#issuecomment-1188871523"
     },
     {
@@ -3545,7 +3545,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM43LhZm",
+      "id": "pr_review:PRR_kwDOGuqVzM4-TahM",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM4-TahM",
+        "state": "COMMENTED",
+        "submitted_at": "2022-07-20T15:43:32Z"
+      },
+      "occurred_at": "2022-07-20T15:43:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM47ebvT",
+        "number": 158,
+        "title": "154 add test for persesmapper not finding a mapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#pullrequestreview-1045276748"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM43LhZm",
       "metadata": {
         "created_at": "2022-07-20T15:43:32Z",
         "outdated": true,
@@ -3566,33 +3591,8 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r925767270"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM4-TahM",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM4-TahM",
-        "state": "COMMENTED",
-        "submitted_at": "2022-07-20T15:43:32Z"
-      },
-      "occurred_at": "2022-07-20T15:43:32Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM47ebvT",
-        "number": 158,
-        "title": "154 add test for persesmapper not finding a mapping",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#pullrequestreview-1045276748"
     },
     {
       "credits": [
@@ -3656,7 +3656,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5G9Wiz",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5G9Wiz",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5G9Wiz"
       },
@@ -3669,7 +3669,7 @@
         "title": "Add vacuum support for relative ligand transform",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/160"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/160#issuecomment-1190488243"
     },
     {
@@ -3679,7 +3679,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5G9WmB",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5G9WmB",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5G9WmB"
       },
@@ -3692,7 +3692,7 @@
         "title": "Add vacuum support for relative ligand transform",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/160"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/160#issuecomment-1190488449"
     },
     {
@@ -3702,7 +3702,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5G9aHi",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5G9aHi",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5G9aHi"
       },
@@ -3715,7 +3715,7 @@
         "title": "Add vacuum support for relative ligand transform",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/160"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/160#issuecomment-1190502882"
     },
     {
@@ -3725,7 +3725,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5G9aVr",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5G9aVr",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5G9aVr"
       },
@@ -3738,7 +3738,7 @@
         "title": "Add vacuum support for relative ligand transform",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/160"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/160#issuecomment-1190503787"
     },
     {
@@ -3748,7 +3748,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5HBDuc",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5HBDuc",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5HBDuc"
       },
@@ -3761,7 +3761,7 @@
         "title": "Add vacuum support for relative ligand transform",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/160"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/160#issuecomment-1191459740"
     },
     {
@@ -3826,7 +3826,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5HCPvg",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5HCPvg",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5HCPvg"
       },
@@ -3839,39 +3839,8 @@
         "title": "Fix rms tolerance check",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/161"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/161#issuecomment-1191771104"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM43QMlq",
-      "metadata": {
-        "created_at": "2022-07-21T18:33:38Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-07-21T18:33:55Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM4-Z6J8",
-        "source_node_id": "PRRC_kwDOGuqVzM43QMlq",
-        "thread_node_id": "PRRT_kwDOGuqVzM4jWkz1",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-07-21T18:33:55Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM47ebvT",
-        "number": 158,
-        "title": "154 add test for persesmapper not finding a mapping",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r926992746"
     },
     {
       "credits": [
@@ -3897,6 +3866,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#pullrequestreview-1046979196"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM43QMlq",
+      "metadata": {
+        "created_at": "2022-07-21T18:33:38Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-07-21T18:33:55Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM4-Z6J8",
+        "source_node_id": "PRRC_kwDOGuqVzM43QMlq",
+        "thread_node_id": "PRRT_kwDOGuqVzM4jWkz1",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-07-21T18:33:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM47ebvT",
+        "number": 158,
+        "title": "154 add test for persesmapper not finding a mapping",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#discussion_r926992746"
     },
     {
       "credits": [
@@ -3999,7 +3999,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5HFbPC",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5HFbPC",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5HFbPC"
       },
@@ -4012,7 +4012,7 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#issuecomment-1192604610"
     },
     {
@@ -4022,7 +4022,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5HHUqG",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5HHUqG",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5HHUqG"
       },
@@ -4035,7 +4035,7 @@
         "title": "Fix rms tolerance check",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/161"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/161#issuecomment-1193101958"
     },
     {
@@ -4127,7 +4127,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5HRtb_",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5HRtb_",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5HRtb_"
       },
@@ -4140,7 +4140,7 @@
         "title": "154 add test for persesmapper not finding a mapping",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/158"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/158#issuecomment-1195824895"
     },
     {
@@ -4264,7 +4264,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM43kQx4",
+      "id": "pr_review:PRR_kwDOGuqVzM4-1O5_",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM4-1O5_",
+        "state": "COMMENTED",
+        "submitted_at": "2022-07-28T13:56:50Z"
+      },
+      "occurred_at": "2022-07-28T13:56:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM47wPtX",
+        "number": 160,
+        "title": "Add vacuum support for relative ligand transform",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/160"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/160#pullrequestreview-1054142079"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM43kQx4",
       "metadata": {
         "created_at": "2022-07-28T13:56:50Z",
         "outdated": true,
@@ -4285,33 +4310,8 @@
         "title": "Add vacuum support for relative ligand transform",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/160"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/160#discussion_r932252792"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM4-1O5_",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM4-1O5_",
-        "state": "COMMENTED",
-        "submitted_at": "2022-07-28T13:56:50Z"
-      },
-      "occurred_at": "2022-07-28T13:56:50Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM47wPtX",
-        "number": 160,
-        "title": "Add vacuum support for relative ligand transform",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/160"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/160#pullrequestreview-1054142079"
     },
     {
       "credits": [
@@ -4550,7 +4550,7 @@
       "url": "https://github.com/richardjgowers"
     },
     {
-      "classification": "unresolved_git",
+      "classification": "unlinked_git",
       "database_id": null,
       "display_name": null,
       "git_email": "noreply@github.com",
@@ -4563,7 +4563,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T06:04:25.762902Z",
+      "as_of": "2026-10-20T01:27:33.215442Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -4574,53 +4574,53 @@
       ]
     },
     "default_branch": "main",
-    "default_branch_head": "6495313a58148e30ad92e7f6f601f7222f9547a9",
+    "default_branch_head": "82c7ce04f5fcbeeb8c9349f9832b185254446aed",
+    "is_partial": false,
     "month": "2022-07",
     "month_end": "2022-08-01T00:00:00Z",
     "month_start": "2022-07-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:08:49.596788Z",
+        "finished_at": "2026-10-20T01:32:50.569946Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "eeead485-c0e1-4891-b58c-d4f1585028cd",
-        "started_at": "2026-10-18T06:04:25.762902Z"
+        "run_id": "aeef0710-b1db-4a39-9848-f03e32dc4b44",
+        "started_at": "2026-10-20T01:27:33.215442Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:08:49.596788Z",
+        "finished_at": "2026-10-20T01:32:50.569946Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "eeead485-c0e1-4891-b58c-d4f1585028cd",
-        "started_at": "2026-10-18T06:04:25.762902Z"
+        "run_id": "aeef0710-b1db-4a39-9848-f03e32dc4b44",
+        "started_at": "2026-10-20T01:27:33.215442Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:08:49.596788Z",
+        "finished_at": "2026-10-20T01:32:50.569946Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "eeead485-c0e1-4891-b58c-d4f1585028cd",
-        "started_at": "2026-10-18T06:04:25.762902Z"
+        "run_id": "aeef0710-b1db-4a39-9848-f03e32dc4b44",
+        "started_at": "2026-10-20T01:27:33.215442Z"
       }
     },
     "repository": {
@@ -4630,15 +4630,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:08:49.596788Z",
+        "finished_at": "2026-10-20T01:32:50.569946Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "eeead485-c0e1-4891-b58c-d4f1585028cd",
-        "started_at": "2026-10-18T06:04:25.762902Z"
+        "run_id": "aeef0710-b1db-4a39-9848-f03e32dc4b44",
+        "started_at": "2026-10-20T01:27:33.215442Z"
       },
       "history_start_month": "2022-01",
       "node_id": "R_kgDOGuqVzA",
@@ -4654,11 +4654,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 7,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 7,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjExNzY1OTgy": {
         "commit": 0,
@@ -4666,11 +4666,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 2,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 2,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjEyNDI4MDA1": {
         "commit": 21,
@@ -4678,11 +4678,11 @@
         "issue_comment": 3,
         "issue_opened": 1,
         "issue_reopened": 1,
-        "pr_conversation_comment": 5,
-        "pr_inline_review_comment": 2,
+        "pr_discussion_comment": 5,
         "pr_merged": 2,
         "pr_opened": 1,
-        "pr_review": 2
+        "pr_review": 2,
+        "pr_review_comment": 2
       },
       "MDQ6VXNlcjEyNDYwMTI1": {
         "commit": 12,
@@ -4690,11 +4690,11 @@
         "issue_comment": 7,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 7,
-        "pr_inline_review_comment": 19,
+        "pr_discussion_comment": 7,
         "pr_merged": 0,
         "pr_opened": 4,
-        "pr_review": 7
+        "pr_review": 7,
+        "pr_review_comment": 19
       },
       "MDQ6VXNlcjI0NzM2NTA3": {
         "commit": 0,
@@ -4702,11 +4702,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 2,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 2,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjM2NTYwODg=": {
         "commit": 0,
@@ -4714,11 +4714,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 2,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 2,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjgxNzg1NDY=": {
         "commit": 1,
@@ -4726,11 +4726,11 @@
         "issue_comment": 2,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 4,
-        "pr_inline_review_comment": 4,
+        "pr_discussion_comment": 4,
         "pr_merged": 1,
         "pr_opened": 0,
-        "pr_review": 6
+        "pr_review": 6,
+        "pr_review_comment": 4
       },
       "MDQ6VXNlcjkyNDk1NDM=": {
         "commit": 10,
@@ -4738,79 +4738,79 @@
         "issue_comment": 2,
         "issue_opened": 4,
         "issue_reopened": 0,
-        "pr_conversation_comment": 2,
-        "pr_inline_review_comment": 5,
+        "pr_discussion_comment": 2,
         "pr_merged": 4,
         "pr_opened": 2,
-        "pr_review": 10
+        "pr_review": 10,
+        "pr_review_comment": 5
       }
     },
     "distinct_actors": {
       "bot": 1,
       "human": 7,
       "total": 8,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 0,
         "human": 4,
         "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 1,
         "total": 1,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 4,
         "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 1,
         "total": 1,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 1,
         "human": 7,
         "total": 8,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 4,
-        "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 4,
         "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -4819,11 +4819,11 @@
       "issue_comment": 14,
       "issue_opened": 5,
       "issue_reopened": 1,
-      "pr_conversation_comment": 31,
-      "pr_inline_review_comment": 30,
+      "pr_discussion_comment": 31,
       "pr_merged": 7,
       "pr_opened": 7,
-      "pr_review": 25
+      "pr_review": 25,
+      "pr_review_comment": 30
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -4831,11 +4831,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

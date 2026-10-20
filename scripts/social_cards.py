@@ -23,7 +23,7 @@ def social_metadata(path: str, *, display_name: str | None = None) -> str:
     description = f"Explore monthly commits, GitHub activity, and contributor trends for {repository}."
     alt = (
         f"Repository history for {repository}: monthly commits and totals for commits, "
-        "GitHub activities, and contributors."
+        "GitHub activity, and contributors."
     )
     tags = [
         START,
@@ -77,14 +77,14 @@ def font(size: int, *, bold: bool = False):
     return ImageFont.load_default(size=size * SCALE)
 
 
-def contribution_totals(manifest: dict) -> tuple[int, int]:
-    """Match the visualizer's default human and unresolved-identity filters."""
+def contribution_totals(summary: dict) -> tuple[int, int]:
+    """Match the visualizer's default human and unlinked-identity filters."""
     activities = 0
     contributors = set()
-    for month in manifest["months"]:
+    for month in summary["months"]:
         summaries = month["summaries"]
         for actor, counts in summaries["actor_counts"].items():
-            if manifest["actors"][actor] not in ("human", "unresolved_git"):
+            if summary["actors"][actor] not in ("human", "unlinked_git"):
                 continue
             if any(counts.values()):
                 contributors.add(actor)
@@ -100,8 +100,8 @@ def contribution_totals(manifest: dict) -> tuple[int, int]:
 
 
 def write_social_card(repository: str, directory: Path) -> Path:
-    manifest = json.loads((directory / "manifest.json").read_text(encoding="utf-8"))
-    months = sorted(manifest["months"], key=lambda month: month["metadata"]["month"])
+    summary = json.loads((directory / "summary.json").read_text(encoding="utf-8"))
+    months = sorted(summary["months"], key=lambda month: month["metadata"]["month"])
     if not months:
         raise ValueError(f"{directory}: no monthly data for a social card")
     counts = {
@@ -109,7 +109,7 @@ def write_social_card(repository: str, directory: Path) -> Path:
         for month in months
     }
     first, last = months[0]["metadata"]["month"], months[-1]["metadata"]["month"]
-    activities, contributors = contribution_totals(manifest)
+    activities, contributors = contribution_totals(summary)
 
     def month_index(value):
         year, month = map(int, value.split("-"))
@@ -133,7 +133,7 @@ def write_social_card(repository: str, directory: Path) -> Path:
 
     draw.rectangle((0, 0, WIDTH * SCALE, 6 * SCALE), fill="#76dfc5")
     text(64, 45, "REPOSITORY HISTORY", 19, "#76dfc5", bold=True)
-    if len(manifest.get("repositories", [])) > 1:
+    if len(summary.get("repositories", [])) > 1:
         name = repository
         text(64, 99, "COMBINED REPOSITORIES", 24, "#a9b9d3")
     elif "/" in repository:
@@ -160,7 +160,7 @@ def write_social_card(repository: str, directory: Path) -> Path:
     text(
         1136,
         343,
-        f"{activities:,} GitHub activities  /  {contributors:,} total contributors",
+        f"{activities:,} GitHub activity  /  {contributors:,} total contributors",
         22,
         "#f6f8ff",
         anchor="ra",
@@ -178,10 +178,10 @@ def write_social_card(repository: str, directory: Path) -> Path:
             continue
         x = left + index * step + step * 0.17
         height = value / max(maximum, 1) * (bottom - top)
-        ongoing = index == len(timeline) - 1 and months[-1]["metadata"]["ongoing"]
+        is_partial = index == len(timeline) - 1 and months[-1]["metadata"]["is_partial"]
         draw.rectangle(
             [position(x, bottom - height), position(x + step * 0.66, bottom)],
-            fill="#76dfc5" if ongoing else "#9aaeff",
+            fill="#76dfc5" if is_partial else "#9aaeff",
         )
 
     def label(month):
@@ -191,7 +191,7 @@ def write_social_card(repository: str, directory: Path) -> Path:
     text(left, 520, label(first), 15, "#a9b9d3")
     text(right, 520, label(last), 15, "#a9b9d3", anchor="ra")
     text(64, 577, "repo-history.dwhswenson.net", 18, "#a9b9d3")
-    if months[-1]["metadata"]["ongoing"]:
+    if months[-1]["metadata"]["is_partial"]:
         text(1136, 579, "Latest month is partial", 16, "#76dfc5", anchor="ra")
 
     target = directory / "social-card.png"
@@ -201,11 +201,11 @@ def write_social_card(repository: str, directory: Path) -> Path:
 
 def refresh_existing_pages(site: Path = SITE):
     for index in sorted(site.glob("*/*/index.html")):
-        if not (index.parent / "manifest.json").is_file():
+        if not (index.parent / "summary.json").is_file():
             continue
         path = index.parent.relative_to(site).as_posix()
-        manifest = json.loads((index.parent / "manifest.json").read_text(encoding="utf-8"))
-        repository = manifest.get("display_name", path)
+        summary = json.loads((index.parent / "summary.json").read_text(encoding="utf-8"))
+        repository = summary.get("display_name", path)
         original = index.read_text(encoding="utf-8")
         metadata = social_metadata(path, display_name=repository)
         if START in original and END in original:

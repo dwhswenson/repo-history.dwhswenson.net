@@ -7,37 +7,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4wqblw",
-      "metadata": {
-        "created_at": "2022-03-01T03:52:32Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2022-03-01T03:52:32Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M41ZUmF",
-        "source_node_id": "PRRC_kwDOBS3A-M4wqblw",
-        "thread_node_id": "PRRT_kwDOBS3A-M4fHPOL",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-01T03:52:32Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M4zbR6s",
-        "number": 1198,
-        "title": "Port #896 to biopolymer-topology-refactor branch",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1198"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1198#discussion_r816429424"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOBS3A-M41ZUmF",
       "metadata": {
         "source_node_id": "PRR_kwDOBS3A-M41ZUmF",
@@ -63,19 +32,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4wqb1u",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4wqblw",
       "metadata": {
-        "created_at": "2022-03-01T03:55:54Z",
-        "outdated": true,
+        "created_at": "2022-03-01T03:52:32Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2022-03-01T03:55:55Z",
+        "published_at": "2022-03-01T03:52:32Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M41ZU6P",
-        "source_node_id": "PRRC_kwDOBS3A-M4wqb1u",
-        "thread_node_id": "PRRT_kwDOBS3A-M4fHPZI",
+        "review_node_id": "PRR_kwDOBS3A-M41ZUmF",
+        "source_node_id": "PRRC_kwDOBS3A-M4wqblw",
+        "thread_node_id": "PRRT_kwDOBS3A-M4fHPOL",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-03-01T03:55:55Z",
+      "occurred_at": "2022-03-01T03:52:32Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -84,8 +53,8 @@
         "title": "Port #896 to biopolymer-topology-refactor branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1198"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1198#discussion_r816430446"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1198#discussion_r816429424"
     },
     {
       "credits": [
@@ -119,7 +88,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4-60b_",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4wqb1u",
+      "metadata": {
+        "created_at": "2022-03-01T03:55:54Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-03-01T03:55:55Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M41ZU6P",
+        "source_node_id": "PRRC_kwDOBS3A-M4wqb1u",
+        "thread_node_id": "PRRT_kwDOBS3A-M4fHPZI",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-01T03:55:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M4zbR6s",
+        "number": 1198,
+        "title": "Port #896 to biopolymer-topology-refactor branch",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1198"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1198#discussion_r816430446"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4-60b_",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4-60b_"
       },
@@ -132,7 +132,7 @@
         "title": "Port #896 to biopolymer-topology-refactor branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1198"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1198#issuecomment-1055606527"
     },
     {
@@ -165,7 +165,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4-8KP9",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4-8KP9",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4-8KP9"
       },
@@ -178,7 +178,7 @@
         "title": "Bump actions/checkout from 2.4.0 to 3",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1203"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1203#issuecomment-1055958013"
     },
     {
@@ -341,7 +341,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_CHAK",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_CHAK",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_CHAK"
       },
@@ -354,101 +354,8 @@
         "title": "Normalize package names in requires_package",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1197"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1197#issuecomment-1057517578"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4wxHB2",
-      "metadata": {
-        "created_at": "2022-03-02T23:10:44Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-03-02T23:59:45Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M41iqYC",
-        "source_node_id": "PRRC_kwDOBS3A-M4wxHB2",
-        "thread_node_id": "PRRT_kwDOBS3A-M4fLdJ5",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-02T23:59:45Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M4zbR6s",
-        "number": 1198,
-        "title": "Port #896 to biopolymer-topology-refactor branch",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1198"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1198#discussion_r818180214"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4wxHD-",
-      "metadata": {
-        "created_at": "2022-03-02T23:10:59Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2022-03-02T23:59:45Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M41iqYC",
-        "source_node_id": "PRRC_kwDOBS3A-M4wxHD-",
-        "thread_node_id": "PRRT_kwDOBS3A-M4fLdLd",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-02T23:59:45Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M4zbR6s",
-        "number": 1198,
-        "title": "Port #896 to biopolymer-topology-refactor branch",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1198"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1198#discussion_r818180350"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4wxKfK",
-      "metadata": {
-        "created_at": "2022-03-02T23:39:40Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2022-03-02T23:59:45Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M41iqYC",
-        "source_node_id": "PRRC_kwDOBS3A-M4wxKfK",
-        "thread_node_id": "PRRT_kwDOBS3A-M4fLfcE",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-02T23:59:45Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M4zbR6s",
-        "number": 1198,
-        "title": "Port #896 to biopolymer-topology-refactor branch",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1198"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1198#discussion_r818194378"
     },
     {
       "credits": [
@@ -478,23 +385,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4wzTUZ",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4wxHB2",
       "metadata": {
-        "created_at": "2022-03-03T15:13:14Z",
-        "outdated": false,
+        "created_at": "2022-03-02T23:10:44Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2022-03-03T15:13:15Z",
+        "published_at": "2022-03-02T23:59:45Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M41lqLM",
-        "source_node_id": "PRRC_kwDOBS3A-M4wzTUZ",
-        "thread_node_id": "PRRT_kwDOBS3A-M4fLfcE",
+        "review_node_id": "PRR_kwDOBS3A-M41iqYC",
+        "source_node_id": "PRRC_kwDOBS3A-M4wxHB2",
+        "thread_node_id": "PRRT_kwDOBS3A-M4fLdJ5",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-03-03T15:13:15Z",
+      "occurred_at": "2022-03-02T23:59:45Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -503,8 +410,70 @@
         "title": "Port #896 to biopolymer-topology-refactor branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1198"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1198#discussion_r818754841"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1198#discussion_r818180214"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4wxHD-",
+      "metadata": {
+        "created_at": "2022-03-02T23:10:59Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2022-03-02T23:59:45Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M41iqYC",
+        "source_node_id": "PRRC_kwDOBS3A-M4wxHD-",
+        "thread_node_id": "PRRT_kwDOBS3A-M4fLdLd",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-02T23:59:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M4zbR6s",
+        "number": 1198,
+        "title": "Port #896 to biopolymer-topology-refactor branch",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1198"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1198#discussion_r818180350"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4wxKfK",
+      "metadata": {
+        "created_at": "2022-03-02T23:39:40Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2022-03-02T23:59:45Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M41iqYC",
+        "source_node_id": "PRRC_kwDOBS3A-M4wxKfK",
+        "thread_node_id": "PRRT_kwDOBS3A-M4fLfcE",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-02T23:59:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M4zbR6s",
+        "number": 1198,
+        "title": "Port #896 to biopolymer-topology-refactor branch",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1198"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1198#discussion_r818194378"
     },
     {
       "credits": [
@@ -534,11 +503,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4wzTUZ",
+      "metadata": {
+        "created_at": "2022-03-03T15:13:14Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2022-03-03T15:13:15Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M41lqLM",
+        "source_node_id": "PRRC_kwDOBS3A-M4wzTUZ",
+        "thread_node_id": "PRRT_kwDOBS3A-M4fLfcE",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-03T15:13:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M4zbR6s",
+        "number": 1198,
+        "title": "Port #896 to biopolymer-topology-refactor branch",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1198"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1198#discussion_r818754841"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjg2OTcxOTYw",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_EkeV",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_EkeV",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_EkeV"
       },
@@ -551,7 +551,7 @@
         "title": "Reformulate RDKit stereo assignment as CSP problem",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1184"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1184#issuecomment-1058162581"
     },
     {
@@ -584,7 +584,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_Ez6X",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_Ez6X",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_Ez6X"
       },
@@ -597,7 +597,7 @@
         "title": "Debug macOS failures in CI",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1205"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1205#issuecomment-1058225815"
     },
     {
@@ -607,7 +607,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_E4pD",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_E4pD",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_E4pD"
       },
@@ -620,7 +620,7 @@
         "title": "Debug macOS failures in CI",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1205"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1205#issuecomment-1058245187"
     },
     {
@@ -630,7 +630,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_E8_I",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_E8_I",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_E8_I"
       },
@@ -643,7 +643,7 @@
         "title": "Debug macOS failures in CI",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1205"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1205#issuecomment-1058262984"
     },
     {
@@ -653,7 +653,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_FCsU",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_FCsU",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_FCsU"
       },
@@ -666,7 +666,7 @@
         "title": "Debug macOS failures in CI",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1205"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1205#issuecomment-1058286356"
     },
     {
@@ -861,7 +861,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_Jk1S",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_Jk1S",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_Jk1S"
       },
@@ -874,7 +874,7 @@
         "title": "Update unit checks in Topology.to_file",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1207"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1207#issuecomment-1059474770"
     },
     {
@@ -930,7 +930,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_J_rO",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_J_rO",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_J_rO"
       },
@@ -943,7 +943,7 @@
         "title": "fix #1208, add tests, update releasenotes",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1209"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1209#issuecomment-1059584718"
     },
     {
@@ -976,7 +976,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4w4CKS",
+      "id": "pr_review:PRR_kwDOBS3A-M41sX2-",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M41sX2-",
+        "state": "APPROVED",
+        "submitted_at": "2022-03-05T00:20:03Z"
+      },
+      "occurred_at": "2022-03-05T00:20:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M4z-pUd",
+        "number": 1209,
+        "title": "fix #1208, add tests, update releasenotes",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1209"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1209#pullrequestreview-900824510"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4w4CKS",
       "metadata": {
         "created_at": "2022-03-05T00:19:21Z",
         "outdated": false,
@@ -997,33 +1022,8 @@
         "title": "fix #1208, add tests, update releasenotes",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1209"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1209#discussion_r819995282"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOBS3A-M41sX2-",
-      "metadata": {
-        "source_node_id": "PRR_kwDOBS3A-M41sX2-",
-        "state": "APPROVED",
-        "submitted_at": "2022-03-05T00:20:03Z"
-      },
-      "occurred_at": "2022-03-05T00:20:03Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M4z-pUd",
-        "number": 1209,
-        "title": "fix #1208, add tests, update releasenotes",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1209"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1209#pullrequestreview-900824510"
     },
     {
       "credits": [
@@ -1277,7 +1277,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_PlD0",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_PlD0",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_PlD0"
       },
@@ -1290,7 +1290,7 @@
         "title": "[pre-commit.ci] pre-commit autoupdate",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1210"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1210#issuecomment-1061048564"
     },
     {
@@ -1372,7 +1372,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_QQAX",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_QQAX",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_QQAX"
       },
@@ -1385,7 +1385,7 @@
         "title": "Remove some internal calls to deprecated API points",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1204"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1204#issuecomment-1061224471"
     },
     {
@@ -1441,7 +1441,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_QrX5",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_QrX5",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_QrX5"
       },
@@ -1454,7 +1454,7 @@
         "title": "Fixes #1206.",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1211"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1211#issuecomment-1061336569"
     },
     {
@@ -1464,7 +1464,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_Qrbi",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_Qrbi",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_Qrbi"
       },
@@ -1477,7 +1477,7 @@
         "title": "Fixes #1206.",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1211"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1211#issuecomment-1061336802"
     },
     {
@@ -1487,7 +1487,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_Qsnh",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_Qsnh",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_Qsnh"
       },
@@ -1500,7 +1500,7 @@
         "title": "Fixes #1206.",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1211"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1211#issuecomment-1061341665"
     },
     {
@@ -1510,7 +1510,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_Qthg",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_Qthg",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_Qthg"
       },
@@ -1523,7 +1523,7 @@
         "title": "Fixes #1206.",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1211"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1211#issuecomment-1061345376"
     },
     {
@@ -1556,7 +1556,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_Su5i",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_Su5i",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_Su5i"
       },
@@ -1569,7 +1569,7 @@
         "title": "Update non-bonded methods to better match SMIRNOFF spec",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/925"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/925#issuecomment-1061875298"
     },
     {
@@ -1744,7 +1744,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_S2dv",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_S2dv",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_S2dv"
       },
@@ -1757,7 +1757,7 @@
         "title": "Fix formatting in an `.assign_partial_charges` docstring",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1212"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1212#issuecomment-1061906287"
     },
     {
@@ -1790,7 +1790,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_S_WO",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_S_WO",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_S_WO"
       },
@@ -1803,7 +1803,7 @@
         "title": "Remove un-used Topology attributes",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1213"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1213#issuecomment-1061942670"
     },
     {
@@ -1837,7 +1837,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_UxS1",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_UxS1",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_UxS1"
       },
@@ -1850,7 +1850,7 @@
         "title": "Reformulate RDKit stereo assignment as CSP problem",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1184"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1184#issuecomment-1062409397"
     },
     {
@@ -1883,7 +1883,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_WBqV",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_WBqV",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_WBqV"
       },
@@ -1896,7 +1896,7 @@
         "title": "Reformulate RDKit stereo assignment as CSP problem",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1184"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1184#issuecomment-1062738581"
     },
     {
@@ -2009,7 +2009,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_c-tH",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_c-tH",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_c-tH"
       },
@@ -2022,7 +2022,7 @@
         "title": "Fix #837",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1214"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1214#issuecomment-1064561479"
     },
     {
@@ -2153,7 +2153,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_gvDV",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_gvDV",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_gvDV"
       },
@@ -2166,7 +2166,7 @@
         "title": "Remove some internal calls to deprecated API points",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1204"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1204#issuecomment-1065545941"
     },
     {
@@ -2176,7 +2176,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_gyDR",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_gyDR",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_gyDR"
       },
@@ -2189,7 +2189,7 @@
         "title": "Fix #837",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1214"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1214#issuecomment-1065558225"
     },
     {
@@ -2255,7 +2255,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_g3nB",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_g3nB",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_g3nB"
       },
@@ -2268,7 +2268,7 @@
         "title": "Add Electrostatics tag to `test_forcefields/tip3p.offxml`",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1188"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1188#issuecomment-1065580993"
     },
     {
@@ -2359,7 +2359,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4xLztr",
+      "id": "pr_review:PRR_kwDOBS3A-M42HQTv",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M42HQTv",
+        "state": "COMMENTED",
+        "submitted_at": "2022-03-11T22:58:59Z"
+      },
+      "occurred_at": "2022-03-11T22:58:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M4z26BN",
+        "number": 1204,
+        "title": "Remove some internal calls to deprecated API points",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1204"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1204#pullrequestreview-907871471"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4xLztr",
       "metadata": {
         "created_at": "2022-03-11T22:58:59Z",
         "outdated": true,
@@ -2380,33 +2405,8 @@
         "title": "Remove some internal calls to deprecated API points",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1204"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1204#discussion_r825178987"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOBS3A-M42HQTv",
-      "metadata": {
-        "source_node_id": "PRR_kwDOBS3A-M42HQTv",
-        "state": "COMMENTED",
-        "submitted_at": "2022-03-11T22:58:59Z"
-      },
-      "occurred_at": "2022-03-11T22:58:59Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M4z26BN",
-        "number": 1204,
-        "title": "Remove some internal calls to deprecated API points",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1204"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1204#pullrequestreview-907871471"
     },
     {
       "credits": [
@@ -2552,7 +2552,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_hZ8R",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_hZ8R",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_hZ8R"
       },
@@ -2565,7 +2565,7 @@
         "title": "Remove un-used Topology attributes",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1213"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1213#issuecomment-1065721617"
     },
     {
@@ -2631,7 +2631,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_hngF",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_hngF",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_hngF"
       },
@@ -2644,7 +2644,7 @@
         "title": "Fixes #1206.",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1211"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1211#issuecomment-1065777157"
     },
     {
@@ -2654,7 +2654,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_htrB",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_htrB",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_htrB"
       },
@@ -2667,7 +2667,7 @@
         "title": "Fixes #1206.",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1211"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1211#issuecomment-1065802433"
     },
     {
@@ -2700,7 +2700,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_nnwY",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_nnwY",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_nnwY"
       },
@@ -2713,7 +2713,7 @@
         "title": "Fix #837",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1214"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1214#issuecomment-1067351064"
     },
     {
@@ -2723,7 +2723,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_n3a8",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_n3a8",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_n3a8"
       },
@@ -2736,7 +2736,7 @@
         "title": "Fixes #1206.",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1211"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1211#issuecomment-1067415228"
     },
     {
@@ -2746,7 +2746,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_oKkU",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_oKkU",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_oKkU"
       },
@@ -2759,7 +2759,7 @@
         "title": "Fix #837",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1214"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1214#issuecomment-1067493652"
     },
     {
@@ -2792,7 +2792,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_rUOZ",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_rUOZ",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_rUOZ"
       },
@@ -2805,7 +2805,7 @@
         "title": "Performance improvements in from_openeye",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1217"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1217#issuecomment-1068319641"
     },
     {
@@ -2861,7 +2861,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_rkhD",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_rkhD",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_rkhD"
       },
@@ -2874,7 +2874,7 @@
         "title": "Raise descriptive error when OpenEye stereochemistry assumptions fail",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1218"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1218#issuecomment-1068386371"
     },
     {
@@ -2930,7 +2930,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M4_19Pe",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M4_19Pe",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M4_19Pe"
       },
@@ -2943,7 +2943,7 @@
         "title": "Port PR #1200 to v0.11.0 branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1220"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1220#issuecomment-1071109086"
     },
     {
@@ -3022,7 +3022,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5ACVdX",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5ACVdX",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5ACVdX"
       },
@@ -3035,7 +3035,7 @@
         "title": "Cherry pick #1160 into topology-biopolymer-refactor",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1224"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1224#issuecomment-1074354007"
     },
     {
@@ -3045,7 +3045,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5ACrtE",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5ACrtE",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5ACrtE"
       },
@@ -3058,7 +3058,7 @@
         "title": "Cherry pick #1160 into topology-biopolymer-refactor",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1224"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1224#issuecomment-1074445124"
     },
     {
@@ -3068,7 +3068,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5ACs1y",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5ACs1y",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5ACs1y"
       },
@@ -3081,7 +3081,7 @@
         "title": "Cherry pick #1160 into topology-biopolymer-refactor",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1224"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1224#issuecomment-1074449778"
     },
     {
@@ -3197,7 +3197,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AL9cp",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AL9cp",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AL9cp"
       },
@@ -3210,7 +3210,7 @@
         "title": "Add flake8",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1074"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1074#issuecomment-1076877097"
     },
     {
@@ -3220,7 +3220,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AL9gN",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AL9gN",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AL9gN"
       },
@@ -3233,7 +3233,7 @@
         "title": "Port PR #1200 to v0.11.0 branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1220"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1220#issuecomment-1076877325"
     },
     {
@@ -3328,7 +3328,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AMdAI",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AMdAI",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AMdAI"
       },
@@ -3341,7 +3341,7 @@
         "title": "Performance improvements in from_openeye",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1217"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1217#issuecomment-1077006344"
     },
     {
@@ -3407,7 +3407,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AMdEs",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AMdEs",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AMdEs"
       },
@@ -3420,7 +3420,7 @@
         "title": "Raise descriptive error when OpenEye stereochemistry assumptions fail",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1218"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1218#issuecomment-1077006636"
     },
     {
@@ -3532,7 +3532,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5APLuk",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5APLuk",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5APLuk"
       },
@@ -3545,7 +3545,7 @@
         "title": "Check macOS cairo issue",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1225"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1225#issuecomment-1077722020"
     },
     {
@@ -3602,37 +3602,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4xvucQ",
-      "metadata": {
-        "created_at": "2022-03-24T18:11:24Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-03-24T18:11:24Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M424G2E",
-        "source_node_id": "PRRC_kwDOBS3A-M4xvucQ",
-        "thread_node_id": "PRRT_kwDOBS3A-M4fz1gU",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-24T18:11:24Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M4yUOlB",
-        "number": 1194,
-        "title": "Add `Topology.__add__`",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1194"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1194#discussion_r834594576"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOBS3A-M424G2E",
       "metadata": {
         "source_node_id": "PRR_kwDOBS3A-M424G2E",
@@ -3654,23 +3623,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4xvxd2",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4xvucQ",
       "metadata": {
-        "created_at": "2022-03-24T18:26:31Z",
+        "created_at": "2022-03-24T18:11:24Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2022-03-24T18:26:31Z",
+        "published_at": "2022-03-24T18:11:24Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M424MUx",
-        "source_node_id": "PRRC_kwDOBS3A-M4xvxd2",
+        "review_node_id": "PRR_kwDOBS3A-M424G2E",
+        "source_node_id": "PRRC_kwDOBS3A-M4xvucQ",
         "thread_node_id": "PRRT_kwDOBS3A-M4fz1gU",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-03-24T18:26:31Z",
+      "occurred_at": "2022-03-24T18:11:24Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3679,8 +3648,8 @@
         "title": "Add `Topology.__add__`",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1194"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1194#discussion_r834606966"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1194#discussion_r834594576"
     },
     {
       "credits": [
@@ -3714,19 +3683,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4xvyvl",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4xvxd2",
       "metadata": {
-        "created_at": "2022-03-24T18:32:43Z",
+        "created_at": "2022-03-24T18:26:31Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2022-03-24T18:32:43Z",
+        "published_at": "2022-03-24T18:26:31Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M424N7y",
-        "source_node_id": "PRRC_kwDOBS3A-M4xvyvl",
+        "review_node_id": "PRR_kwDOBS3A-M424MUx",
+        "source_node_id": "PRRC_kwDOBS3A-M4xvxd2",
         "thread_node_id": "PRRT_kwDOBS3A-M4fz1gU",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-03-24T18:32:43Z",
+      "occurred_at": "2022-03-24T18:26:31Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3735,8 +3704,8 @@
         "title": "Add `Topology.__add__`",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1194"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1194#discussion_r834612197"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1194#discussion_r834606966"
     },
     {
       "credits": [
@@ -3770,6 +3739,37 @@
           "role": "author"
         }
       ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4xvyvl",
+      "metadata": {
+        "created_at": "2022-03-24T18:32:43Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-03-24T18:32:43Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M424N7y",
+        "source_node_id": "PRRC_kwDOBS3A-M4xvyvl",
+        "thread_node_id": "PRRT_kwDOBS3A-M4fz1gU",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-24T18:32:43Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M4yUOlB",
+        "number": 1194,
+        "title": "Add `Topology.__add__`",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1194"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1194#discussion_r834612197"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
       "id": "pr_opened:PR_kwDOBS3A-M40-aa4",
       "metadata": {
         "source_node_id": "PR_kwDOBS3A-M40-aa4"
@@ -3785,37 +3785,6 @@
       },
       "type": "pr_opened",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1226"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4xwBKm",
-      "metadata": {
-        "created_at": "2022-03-24T19:51:20Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2022-03-24T19:51:20Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M424khy",
-        "source_node_id": "PRRC_kwDOBS3A-M4xwBKm",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f0BJ9",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-24T19:51:20Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M40-aa4",
-        "number": 1226,
-        "title": "Update docstrings and tests for deprecated Topology API",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1226"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1226#discussion_r834671270"
     },
     {
       "credits": [
@@ -3849,6 +3818,37 @@
           "role": "author"
         }
       ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4xwBKm",
+      "metadata": {
+        "created_at": "2022-03-24T19:51:20Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2022-03-24T19:51:20Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M424khy",
+        "source_node_id": "PRRC_kwDOBS3A-M4xwBKm",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f0BJ9",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-24T19:51:20Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M40-aa4",
+        "number": 1226,
+        "title": "Update docstrings and tests for deprecated Topology API",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1226"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1226#discussion_r834671270"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
       "id": "pr_opened:PR_kwDOBS3A-M40-pjG",
       "metadata": {
         "source_node_id": "PR_kwDOBS3A-M40-pjG"
@@ -3872,7 +3872,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5ARY5K",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5ARY5K",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5ARY5K"
       },
@@ -3885,39 +3885,8 @@
         "title": "Fix a redundant unit tag",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1227"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1227#issuecomment-1078300234"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4xwYzE",
-      "metadata": {
-        "created_at": "2022-03-24T22:02:47Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-03-24T22:02:47Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M425HRt",
-        "source_node_id": "PRRC_kwDOBS3A-M4xwYzE",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f0Pzf",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-24T22:02:47Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M4yUOlB",
-        "number": 1194,
-        "title": "Add `Topology.__add__`",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1194"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1194#discussion_r834768068"
     },
     {
       "credits": [
@@ -3951,19 +3920,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4xwY1C",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4xwYzE",
       "metadata": {
-        "created_at": "2022-03-24T22:03:02Z",
+        "created_at": "2022-03-24T22:02:47Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2022-03-24T22:03:02Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M425HUe",
-        "source_node_id": "PRRC_kwDOBS3A-M4xwY1C",
-        "thread_node_id": "PRRT_kwDOBS3A-M4fz1gU",
+        "published_at": "2022-03-24T22:02:47Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M425HRt",
+        "source_node_id": "PRRC_kwDOBS3A-M4xwYzE",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f0Pzf",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-03-24T22:03:02Z",
+      "occurred_at": "2022-03-24T22:02:47Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3972,8 +3941,8 @@
         "title": "Add `Topology.__add__`",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1194"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1194#discussion_r834768194"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1194#discussion_r834768068"
     },
     {
       "credits": [
@@ -4007,6 +3976,37 @@
           "role": "author"
         }
       ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4xwY1C",
+      "metadata": {
+        "created_at": "2022-03-24T22:03:02Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-03-24T22:03:02Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M425HUe",
+        "source_node_id": "PRRC_kwDOBS3A-M4xwY1C",
+        "thread_node_id": "PRRT_kwDOBS3A-M4fz1gU",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-24T22:03:02Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M4yUOlB",
+        "number": 1194,
+        "title": "Add `Topology.__add__`",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1194"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1194#discussion_r834768194"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
       "id": "pr_review:PRR_kwDOBS3A-M425JJn",
       "metadata": {
         "source_node_id": "PRR_kwDOBS3A-M425JJn",
@@ -4032,7 +4032,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AR6LO",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AR6LO",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AR6LO"
       },
@@ -4045,7 +4045,7 @@
         "title": "Fix a redundant unit tag",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1227"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1227#issuecomment-1078436558"
     },
     {
@@ -4180,7 +4180,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5ASNEj",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5ASNEj",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5ASNEj"
       },
@@ -4193,7 +4193,7 @@
         "title": "Fix #1215",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1228"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1228#issuecomment-1078513955"
     },
     {
@@ -4203,7 +4203,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5ASTHI",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5ASTHI",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5ASTHI"
       },
@@ -4216,7 +4216,7 @@
         "title": "Fix #1215",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1228"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1228#issuecomment-1078538696"
     },
     {
@@ -4282,37 +4282,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4xwwoc",
-      "metadata": {
-        "created_at": "2022-03-25T00:51:43Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2022-03-25T00:57:12Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M425g6d",
-        "source_node_id": "PRRC_kwDOBS3A-M4xwwoc",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f0BJ9",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-25T00:57:12Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M40-aa4",
-        "number": 1226,
-        "title": "Update docstrings and tests for deprecated Topology API",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1226"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1226#discussion_r834865692"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOBS3A-M425g6d",
       "metadata": {
         "source_node_id": "PRR_kwDOBS3A-M425g6d",
@@ -4334,11 +4303,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4xwwoc",
+      "metadata": {
+        "created_at": "2022-03-25T00:51:43Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2022-03-25T00:57:12Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M425g6d",
+        "source_node_id": "PRRC_kwDOBS3A-M4xwwoc",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f0BJ9",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-25T00:57:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M40-aa4",
+        "number": 1226,
+        "title": "Update docstrings and tests for deprecated Topology API",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1226"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1226#discussion_r834865692"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjc5MzUzODI=",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5ASZZV",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5ASZZV",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5ASZZV"
       },
@@ -4351,7 +4351,7 @@
         "title": "Update docstrings and tests for deprecated Topology API",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1226"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1226#issuecomment-1078564437"
     },
     {
@@ -4361,7 +4361,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5ASbND",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5ASbND",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5ASbND"
       },
@@ -4374,7 +4374,7 @@
         "title": "Update docstrings and tests for deprecated Topology API",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1226"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1226#issuecomment-1078571843"
     },
     {
@@ -4463,7 +4463,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AVg0K",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AVg0K",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AVg0K"
       },
@@ -4476,7 +4476,7 @@
         "title": "Performance improvements in/near Molecule API and RDKit wrapper",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1229"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1229#issuecomment-1079381258"
     },
     {
@@ -4486,7 +4486,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AVm0d",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AVm0d",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AVm0d"
       },
@@ -4499,7 +4499,7 @@
         "title": "[WIP] Topology biopolymer interoperability and ToolkitWrapper backend creation",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1195"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1195#issuecomment-1079405853"
     },
     {
@@ -4509,7 +4509,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AVsq1",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AVsq1",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AVsq1"
       },
@@ -4522,7 +4522,7 @@
         "title": "Performance improvements in/near Molecule API and RDKit wrapper",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1229"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1229#issuecomment-1079429813"
     },
     {
@@ -4532,7 +4532,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AVvLu",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AVvLu",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AVvLu"
       },
@@ -4545,7 +4545,7 @@
         "title": "Rework externally-dependent examples into dedicated subdirectory",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1114"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1114#issuecomment-1079440110"
     },
     {
@@ -4578,7 +4578,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AV_BP",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AV_BP",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AV_BP"
       },
@@ -4591,7 +4591,7 @@
         "title": "Use quick imports for core classes, remove simtk imports",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1230"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1230#issuecomment-1079504975"
     },
     {
@@ -4624,7 +4624,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AWDUZ",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AWDUZ",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AWDUZ"
       },
@@ -4637,7 +4637,7 @@
         "title": "Reformulate RDKit stereo assignment as CSP problem",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1184"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1184#issuecomment-1079522585"
     },
     {
@@ -4647,7 +4647,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AWEOu",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AWEOu",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AWEOu"
       },
@@ -4660,7 +4660,7 @@
         "title": "Redo #1184 on topology-biopolyer-refactor branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#issuecomment-1079526318"
     },
     {
@@ -4693,7 +4693,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AWT63",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AWT63",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AWT63"
       },
@@ -4706,7 +4706,7 @@
         "title": "Run examples workflow in biopolymer feature branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1232"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1232#issuecomment-1079590583"
     },
     {
@@ -4762,7 +4762,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AbRIC",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AbRIC",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AbRIC"
       },
@@ -4775,7 +4775,7 @@
         "title": "Run examples workflow in biopolymer feature branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1232"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1232#issuecomment-1080889858"
     },
     {
@@ -4831,7 +4831,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5Ac04h",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5Ac04h",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5Ac04h"
       },
@@ -4844,225 +4844,8 @@
         "title": "Redo #1184 on topology-biopolyer-refactor branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#issuecomment-1081298465"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x5v3D",
-      "metadata": {
-        "created_at": "2022-03-29T08:49:15Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-03-29T08:56:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
-        "source_node_id": "PRRC_kwDOBS3A-M4x5v3D",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f6YDo",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-29T08:56:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M41DDO3",
-        "number": 1231,
-        "title": "Redo #1184 on topology-biopolyer-refactor branch",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837221827"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x5v6N",
-      "metadata": {
-        "created_at": "2022-03-29T08:49:25Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-03-29T08:56:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
-        "source_node_id": "PRRC_kwDOBS3A-M4x5v6N",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f6YFj",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-29T08:56:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M41DDO3",
-        "number": 1231,
-        "title": "Redo #1184 on topology-biopolyer-refactor branch",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837222029"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x5vmw",
-      "metadata": {
-        "created_at": "2022-03-29T08:48:15Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-03-29T08:56:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
-        "source_node_id": "PRRC_kwDOBS3A-M4x5vmw",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f6X5J",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-29T08:56:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M41DDO3",
-        "number": 1231,
-        "title": "Redo #1184 on topology-biopolyer-refactor branch",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837220784"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x5w5X",
-      "metadata": {
-        "created_at": "2022-03-29T08:53:20Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2022-03-29T08:56:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
-        "source_node_id": "PRRC_kwDOBS3A-M4x5w5X",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f6Ysc",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-29T08:56:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M41DDO3",
-        "number": 1231,
-        "title": "Redo #1184 on topology-biopolyer-refactor branch",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837226071"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x5wAI",
-      "metadata": {
-        "created_at": "2022-03-29T08:49:47Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-03-29T08:56:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
-        "source_node_id": "PRRC_kwDOBS3A-M4x5wAI",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f6YJQ",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-29T08:56:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M41DDO3",
-        "number": 1231,
-        "title": "Redo #1184 on topology-biopolyer-refactor branch",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837222408"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x5wU2",
-      "metadata": {
-        "created_at": "2022-03-29T08:51:08Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-03-29T08:56:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
-        "source_node_id": "PRRC_kwDOBS3A-M4x5wU2",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f6YDo",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-29T08:56:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M41DDO3",
-        "number": 1231,
-        "title": "Redo #1184 on topology-biopolyer-refactor branch",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837223734"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x5xIb",
-      "metadata": {
-        "created_at": "2022-03-29T08:54:17Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2022-03-29T08:56:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
-        "source_node_id": "PRRC_kwDOBS3A-M4x5xIb",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f6Y1d",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-29T08:56:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M41DDO3",
-        "number": 1231,
-        "title": "Redo #1184 on topology-biopolyer-refactor branch",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837227035"
     },
     {
       "credits": [
@@ -5092,23 +4875,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x7kNP",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x5v3D",
       "metadata": {
-        "created_at": "2022-03-29T16:51:25Z",
+        "created_at": "2022-03-29T08:49:15Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2022-03-29T16:51:25Z",
+        "published_at": "2022-03-29T08:56:08Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43IXcQ",
-        "source_node_id": "PRRC_kwDOBS3A-M4x7kNP",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f6X5J",
+        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
+        "source_node_id": "PRRC_kwDOBS3A-M4x5v3D",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f6YDo",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-03-29T16:51:25Z",
+      "occurred_at": "2022-03-29T08:56:08Z",
       "subject": {
         "author_key": "MDQ6VXNlcjE2MzI5MTc1",
         "kind": "pull_request",
@@ -5117,8 +4900,194 @@
         "title": "Redo #1184 on topology-biopolyer-refactor branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837698383"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837221827"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x5v6N",
+      "metadata": {
+        "created_at": "2022-03-29T08:49:25Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-03-29T08:56:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
+        "source_node_id": "PRRC_kwDOBS3A-M4x5v6N",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f6YFj",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-29T08:56:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M41DDO3",
+        "number": 1231,
+        "title": "Redo #1184 on topology-biopolyer-refactor branch",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837222029"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x5vmw",
+      "metadata": {
+        "created_at": "2022-03-29T08:48:15Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-03-29T08:56:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
+        "source_node_id": "PRRC_kwDOBS3A-M4x5vmw",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f6X5J",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-29T08:56:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M41DDO3",
+        "number": 1231,
+        "title": "Redo #1184 on topology-biopolyer-refactor branch",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837220784"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x5w5X",
+      "metadata": {
+        "created_at": "2022-03-29T08:53:20Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2022-03-29T08:56:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
+        "source_node_id": "PRRC_kwDOBS3A-M4x5w5X",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f6Ysc",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-29T08:56:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M41DDO3",
+        "number": 1231,
+        "title": "Redo #1184 on topology-biopolyer-refactor branch",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837226071"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x5wAI",
+      "metadata": {
+        "created_at": "2022-03-29T08:49:47Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-03-29T08:56:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
+        "source_node_id": "PRRC_kwDOBS3A-M4x5wAI",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f6YJQ",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-29T08:56:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M41DDO3",
+        "number": 1231,
+        "title": "Redo #1184 on topology-biopolyer-refactor branch",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837222408"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x5wU2",
+      "metadata": {
+        "created_at": "2022-03-29T08:51:08Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-03-29T08:56:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
+        "source_node_id": "PRRC_kwDOBS3A-M4x5wU2",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f6YDo",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-29T08:56:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M41DDO3",
+        "number": 1231,
+        "title": "Redo #1184 on topology-biopolyer-refactor branch",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837223734"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x5xIb",
+      "metadata": {
+        "created_at": "2022-03-29T08:54:17Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2022-03-29T08:56:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M43FxC4",
+        "source_node_id": "PRRC_kwDOBS3A-M4x5xIb",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f6Y1d",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-29T08:56:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M41DDO3",
+        "number": 1231,
+        "title": "Redo #1184 on topology-biopolyer-refactor branch",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837227035"
     },
     {
       "credits": [
@@ -5152,19 +5121,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x7lGx",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x7kNP",
       "metadata": {
-        "created_at": "2022-03-29T16:55:39Z",
+        "created_at": "2022-03-29T16:51:25Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2022-03-29T16:55:39Z",
+        "published_at": "2022-03-29T16:51:25Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43IYsc",
-        "source_node_id": "PRRC_kwDOBS3A-M4x7lGx",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f6YFj",
+        "review_node_id": "PRR_kwDOBS3A-M43IXcQ",
+        "source_node_id": "PRRC_kwDOBS3A-M4x7kNP",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f6X5J",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-03-29T16:55:39Z",
+      "occurred_at": "2022-03-29T16:51:25Z",
       "subject": {
         "author_key": "MDQ6VXNlcjE2MzI5MTc1",
         "kind": "pull_request",
@@ -5173,8 +5142,8 @@
         "title": "Redo #1184 on topology-biopolyer-refactor branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837702065"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837698383"
     },
     {
       "credits": [
@@ -5204,6 +5173,37 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x7lGx",
+      "metadata": {
+        "created_at": "2022-03-29T16:55:39Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-03-29T16:55:39Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M43IYsc",
+        "source_node_id": "PRRC_kwDOBS3A-M4x7lGx",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f6YFj",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-29T16:55:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M41DDO3",
+        "number": 1231,
+        "title": "Redo #1184 on topology-biopolyer-refactor branch",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837702065"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjc5MzUzODI=",
           "role": "author"
         }
@@ -5223,37 +5223,6 @@
       },
       "type": "pr_opened",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1236"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x8KlO",
-      "metadata": {
-        "created_at": "2022-03-29T19:51:31Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2022-03-29T19:51:31Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43JNEe",
-        "source_node_id": "PRRC_kwDOBS3A-M4x8KlO",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f74sN",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-29T19:51:31Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M41DDO3",
-        "number": 1231,
-        "title": "Redo #1184 on topology-biopolyer-refactor branch",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837855566"
     },
     {
       "credits": [
@@ -5287,19 +5256,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x8KwJ",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x8KlO",
       "metadata": {
-        "created_at": "2022-03-29T19:52:28Z",
+        "created_at": "2022-03-29T19:51:31Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2022-03-29T19:52:29Z",
+        "published_at": "2022-03-29T19:51:31Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43JNT5",
-        "source_node_id": "PRRC_kwDOBS3A-M4x8KwJ",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f74zF",
+        "review_node_id": "PRR_kwDOBS3A-M43JNEe",
+        "source_node_id": "PRRC_kwDOBS3A-M4x8KlO",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f74sN",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-03-29T19:52:29Z",
+      "occurred_at": "2022-03-29T19:51:31Z",
       "subject": {
         "author_key": "MDQ6VXNlcjE2MzI5MTc1",
         "kind": "pull_request",
@@ -5308,8 +5277,8 @@
         "title": "Redo #1184 on topology-biopolyer-refactor branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837856265"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837855566"
     },
     {
       "credits": [
@@ -5343,19 +5312,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x8K1B",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x8KwJ",
       "metadata": {
-        "created_at": "2022-03-29T19:52:55Z",
+        "created_at": "2022-03-29T19:52:28Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2022-03-29T19:52:56Z",
+        "published_at": "2022-03-29T19:52:29Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43JNay",
-        "source_node_id": "PRRC_kwDOBS3A-M4x8K1B",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f742R",
+        "review_node_id": "PRR_kwDOBS3A-M43JNT5",
+        "source_node_id": "PRRC_kwDOBS3A-M4x8KwJ",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f74zF",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-03-29T19:52:56Z",
+      "occurred_at": "2022-03-29T19:52:29Z",
       "subject": {
         "author_key": "MDQ6VXNlcjE2MzI5MTc1",
         "kind": "pull_request",
@@ -5364,8 +5333,8 @@
         "title": "Redo #1184 on topology-biopolyer-refactor branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837856577"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837856265"
     },
     {
       "credits": [
@@ -5399,19 +5368,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x8K71",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x8K1B",
       "metadata": {
-        "created_at": "2022-03-29T19:53:33Z",
+        "created_at": "2022-03-29T19:52:55Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2022-03-29T19:53:34Z",
+        "published_at": "2022-03-29T19:52:56Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43JNks",
-        "source_node_id": "PRRC_kwDOBS3A-M4x8K71",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f746v",
+        "review_node_id": "PRR_kwDOBS3A-M43JNay",
+        "source_node_id": "PRRC_kwDOBS3A-M4x8K1B",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f742R",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-03-29T19:53:34Z",
+      "occurred_at": "2022-03-29T19:52:56Z",
       "subject": {
         "author_key": "MDQ6VXNlcjE2MzI5MTc1",
         "kind": "pull_request",
@@ -5420,8 +5389,8 @@
         "title": "Redo #1184 on topology-biopolyer-refactor branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837857013"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837856577"
     },
     {
       "credits": [
@@ -5451,11 +5420,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x8K71",
+      "metadata": {
+        "created_at": "2022-03-29T19:53:33Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2022-03-29T19:53:34Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M43JNks",
+        "source_node_id": "PRRC_kwDOBS3A-M4x8K71",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f746v",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-29T19:53:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M41DDO3",
+        "number": 1231,
+        "title": "Redo #1184 on topology-biopolyer-refactor branch",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837857013"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjc5MzUzODI=",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AgtPa",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AgtPa",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AgtPa"
       },
@@ -5468,39 +5468,8 @@
         "title": "Raise exception when dealing with radicals",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1098"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1098#issuecomment-1082315738"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x8L4X",
-      "metadata": {
-        "created_at": "2022-03-29T19:58:35Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2022-03-29T19:58:35Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43JO02",
-        "source_node_id": "PRRC_kwDOBS3A-M4x8L4X",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f6Y1d",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2022-03-29T19:58:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M41DDO3",
-        "number": 1231,
-        "title": "Redo #1184 on topology-biopolyer-refactor branch",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837860887"
     },
     {
       "credits": [
@@ -5534,19 +5503,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M4x8M1e",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x8L4X",
       "metadata": {
-        "created_at": "2022-03-29T20:03:49Z",
+        "created_at": "2022-03-29T19:58:35Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2022-03-29T20:03:49Z",
+        "published_at": "2022-03-29T19:58:35Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M43JQKZ",
-        "source_node_id": "PRRC_kwDOBS3A-M4x8M1e",
-        "thread_node_id": "PRRT_kwDOBS3A-M4f6Ysc",
+        "review_node_id": "PRR_kwDOBS3A-M43JO02",
+        "source_node_id": "PRRC_kwDOBS3A-M4x8L4X",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f6Y1d",
         "timestamp_fallback": false
       },
-      "occurred_at": "2022-03-29T20:03:49Z",
+      "occurred_at": "2022-03-29T19:58:35Z",
       "subject": {
         "author_key": "MDQ6VXNlcjE2MzI5MTc1",
         "kind": "pull_request",
@@ -5555,8 +5524,8 @@
         "title": "Redo #1184 on topology-biopolyer-refactor branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837864798"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837860887"
     },
     {
       "credits": [
@@ -5590,7 +5559,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AgvZK",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M4x8M1e",
+      "metadata": {
+        "created_at": "2022-03-29T20:03:49Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2022-03-29T20:03:49Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M43JQKZ",
+        "source_node_id": "PRRC_kwDOBS3A-M4x8M1e",
+        "thread_node_id": "PRRT_kwDOBS3A-M4f6Ysc",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2022-03-29T20:03:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M41DDO3",
+        "number": 1231,
+        "title": "Redo #1184 on topology-biopolyer-refactor branch",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#discussion_r837864798"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AgvZK",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AgvZK"
       },
@@ -5603,7 +5603,7 @@
         "title": "Redo #1184 on topology-biopolyer-refactor branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1231"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1231#issuecomment-1082324554"
     },
     {
@@ -5613,7 +5613,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5Agxp0",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5Agxp0",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5Agxp0"
       },
@@ -5626,7 +5626,7 @@
         "title": "Raise exception when processing molecule with radical electrons",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1236"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1236#issuecomment-1082333812"
     },
     {
@@ -5636,7 +5636,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5AgyE9",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5AgyE9",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5AgyE9"
       },
@@ -5649,7 +5649,7 @@
         "title": "Raise exception when processing molecule with radical electrons",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1236"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1236#issuecomment-1082335549"
     },
     {
@@ -5857,7 +5857,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5Alxpm",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5Alxpm",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5Alxpm"
       },
@@ -5870,7 +5870,7 @@
         "title": "Run examples workflow in biopolymer feature branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1232"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1232#issuecomment-1083644518"
     },
     {
@@ -5880,7 +5880,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5Al5vv",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5Al5vv",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5Al5vv"
       },
@@ -5893,7 +5893,7 @@
         "title": "Performance improvements in/near Molecule API and RDKit wrapper",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1229"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1229#issuecomment-1083677679"
     },
     {
@@ -5926,7 +5926,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5Aqbz7",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5Aqbz7",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5Aqbz7"
       },
@@ -5939,7 +5939,7 @@
         "title": "Run examples workflow in biopolymer feature branch",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1232"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1232#issuecomment-1084865787"
     },
     {
@@ -6052,7 +6052,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5ArGPR",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5ArGPR",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5ArGPR"
       },
@@ -6065,7 +6065,7 @@
         "title": "Use quick imports for core classes, remove simtk imports",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1230"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1230#issuecomment-1085039569"
     },
     {
@@ -6154,7 +6154,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5ArOcr",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5ArOcr",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5ArOcr"
       },
@@ -6167,7 +6167,7 @@
         "title": "Simplify pre-commit configuration",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1239"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1239#issuecomment-1085073195"
     },
     {
@@ -6256,7 +6256,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5ArbjA",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5ArbjA",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5ArbjA"
       },
@@ -6269,7 +6269,7 @@
         "title": "Fix #882",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/896"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/896#issuecomment-1085126848"
     },
     {
@@ -6279,7 +6279,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5ArcpW",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5ArcpW",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5ArcpW"
       },
@@ -6292,7 +6292,7 @@
         "title": "Port #1176",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1240"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1240#issuecomment-1085131350"
     },
     {
@@ -6302,7 +6302,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M5ArdLR",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M5ArdLR",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M5ArdLR"
       },
@@ -6315,7 +6315,7 @@
         "title": "Port #1176",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1240"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1240#issuecomment-1085133521"
     },
     {
@@ -6573,7 +6573,7 @@
       "url": "https://github.com/readthedocs-assistant"
     },
     {
-      "classification": "unresolved_git",
+      "classification": "unlinked_git",
       "database_id": null,
       "display_name": null,
       "git_email": "noreply@github.com",
@@ -6586,7 +6586,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T06:18:49.797655Z",
+      "as_of": "2026-10-20T01:37:15.275657Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -6598,52 +6598,52 @@
     },
     "default_branch": "main",
     "default_branch_head": "ef074d58a2e7b03625aae7cd3aff87a8ee46c38b",
+    "is_partial": false,
     "month": "2022-03",
     "month_end": "2022-04-01T00:00:00Z",
     "month_start": "2022-03-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       }
     },
     "repository": {
@@ -6653,15 +6653,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "history_start_month": "2016-06",
       "node_id": "MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==",
@@ -6677,11 +6677,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 25,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 25,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDM6Qm90NDMxNDQzOTA=": {
         "commit": 0,
@@ -6689,11 +6689,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 3,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 3,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDM6Qm90NDk2OTkzMzM=": {
         "commit": 0,
@@ -6701,11 +6701,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDM6Qm90NjY4NTMxMTM=": {
         "commit": 0,
@@ -6713,11 +6713,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjE2MzI5MTc1": {
         "commit": 5,
@@ -6725,11 +6725,11 @@
         "issue_comment": 5,
         "issue_opened": 3,
         "issue_reopened": 0,
-        "pr_conversation_comment": 13,
-        "pr_inline_review_comment": 15,
+        "pr_discussion_comment": 13,
         "pr_merged": 4,
         "pr_opened": 4,
-        "pr_review": 22
+        "pr_review": 22,
+        "pr_review_comment": 15
       },
       "MDQ6VXNlcjI4NTkwNzQ4": {
         "commit": 1,
@@ -6737,11 +6737,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjI5NDk3Mjk=": {
         "commit": 0,
@@ -6749,11 +6749,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjIyMjcyMTI2": {
         "commit": 2,
@@ -6761,11 +6761,11 @@
         "issue_comment": 0,
         "issue_opened": 2,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 7,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 1
+        "pr_review": 1,
+        "pr_review_comment": 7
       },
       "MDQ6VXNlcjMxMTE1MTAx": {
         "commit": 0,
@@ -6773,11 +6773,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 1,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjQ0MjYzMTI=": {
         "commit": 0,
@@ -6785,11 +6785,11 @@
         "issue_comment": 1,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjQzMTI1OTY0": {
         "commit": 0,
@@ -6797,11 +6797,11 @@
         "issue_comment": 1,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjUwMjQ0ODA2": {
         "commit": 0,
@@ -6809,11 +6809,11 @@
         "issue_comment": 7,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 2,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 2,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjc5MzUzODI=": {
         "commit": 19,
@@ -6821,11 +6821,11 @@
         "issue_comment": 11,
         "issue_opened": 5,
         "issue_reopened": 1,
-        "pr_conversation_comment": 24,
-        "pr_inline_review_comment": 8,
+        "pr_discussion_comment": 24,
         "pr_merged": 20,
         "pr_opened": 18,
-        "pr_review": 11
+        "pr_review": 11,
+        "pr_review_comment": 8
       },
       "MDQ6VXNlcjg2OTcxOTYw": {
         "commit": 0,
@@ -6833,11 +6833,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 2,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 2,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "U_kgDOBcEdkQ": {
         "commit": 1,
@@ -6845,79 +6845,79 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       }
     },
     "distinct_actors": {
       "bot": 4,
       "human": 11,
       "total": 15,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 0,
         "human": 5,
         "total": 5,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 1,
         "total": 1,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 7,
         "total": 7,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 5,
         "total": 5,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 1,
         "total": 1,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 2,
         "human": 5,
         "total": 7,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 3,
-        "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 2,
         "human": 3,
         "total": 5,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -6926,11 +6926,11 @@
       "issue_comment": 27,
       "issue_opened": 12,
       "issue_reopened": 1,
-      "pr_conversation_comment": 70,
-      "pr_inline_review_comment": 30,
+      "pr_discussion_comment": 70,
       "pr_merged": 24,
       "pr_opened": 25,
-      "pr_review": 34
+      "pr_review": 34,
+      "pr_review_comment": 30
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -6938,11 +6938,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

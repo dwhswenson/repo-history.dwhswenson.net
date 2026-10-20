@@ -30,7 +30,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOOy4bS8734o3C",
+      "id": "pr_discussion_comment:IC_kwDOOy4bS8734o3C",
       "metadata": {
         "source_node_id": "IC_kwDOOy4bS8734o3C"
       },
@@ -43,7 +43,7 @@
         "title": "Tutorial notebook demonstrating functionality implemented in MuPT-hub/mupt#22",
         "url": "https://github.com/MuPT-hub/mupt-examples/pull/13"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt-examples/pull/13#issuecomment-4158819778"
     },
     {
@@ -53,7 +53,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOOy4bS8734p0-",
+      "id": "pr_discussion_comment:IC_kwDOOy4bS8734p0-",
       "metadata": {
         "source_node_id": "IC_kwDOOy4bS8734p0-"
       },
@@ -66,7 +66,7 @@
         "title": "Tutorial notebook demonstrating functionality implemented in MuPT-hub/mupt#22",
         "url": "https://github.com/MuPT-hub/mupt-examples/pull/13"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt-examples/pull/13#issuecomment-4158823742"
     },
     {
@@ -76,7 +76,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOOy4bS8735Ru-",
+      "id": "pr_discussion_comment:IC_kwDOOy4bS8735Ru-",
       "metadata": {
         "source_node_id": "IC_kwDOOy4bS8735Ru-"
       },
@@ -89,7 +89,7 @@
         "title": "Tutorial notebook demonstrating functionality implemented in MuPT-hub/mupt#22",
         "url": "https://github.com/MuPT-hub/mupt-examples/pull/13"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt-examples/pull/13#issuecomment-4158987198"
     }
   ],
@@ -119,7 +119,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T15:20:38.322324Z",
+      "as_of": "2026-10-20T01:23:48.955843Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -131,52 +131,52 @@
     },
     "default_branch": "main",
     "default_branch_head": "6900b9afbbca8d00914ec9e55402f8be2199cfe6",
+    "is_partial": false,
     "month": "2026-03",
     "month_end": "2026-04-01T00:00:00Z",
     "month_start": "2026-03-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T15:20:43.593968Z",
+        "finished_at": "2026-10-20T01:23:55.567053Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
-        "started_at": "2026-10-18T15:20:38.322324Z"
+        "run_id": "27beaac9-879e-4c25-a289-0814cb1f54be",
+        "started_at": "2026-10-20T01:23:48.955843Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T15:20:43.593968Z",
+        "finished_at": "2026-10-20T01:23:55.567053Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
-        "started_at": "2026-10-18T15:20:38.322324Z"
+        "run_id": "27beaac9-879e-4c25-a289-0814cb1f54be",
+        "started_at": "2026-10-20T01:23:48.955843Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T15:20:43.593968Z",
+        "finished_at": "2026-10-20T01:23:55.567053Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
-        "started_at": "2026-10-18T15:20:38.322324Z"
+        "run_id": "27beaac9-879e-4c25-a289-0814cb1f54be",
+        "started_at": "2026-10-20T01:23:48.955843Z"
       }
     },
     "repository": {
@@ -186,15 +186,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T15:20:43.593968Z",
+        "finished_at": "2026-10-20T01:23:55.567053Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
-        "started_at": "2026-10-18T15:20:38.322324Z"
+        "run_id": "27beaac9-879e-4c25-a289-0814cb1f54be",
+        "started_at": "2026-10-20T01:23:48.955843Z"
       },
       "history_start_month": "2025-05",
       "node_id": "R_kgDOOy4bSw",
@@ -210,11 +210,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 1,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjc2Nzk5Njc1": {
         "commit": 0,
@@ -222,79 +222,79 @@
         "issue_comment": 0,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 2,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 2,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       }
     },
     "distinct_actors": {
       "bot": 0,
       "human": 2,
       "total": 2,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 1,
         "total": 1,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 0,
-        "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -303,11 +303,11 @@
       "issue_comment": 0,
       "issue_opened": 1,
       "issue_reopened": 0,
-      "pr_conversation_comment": 3,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 3,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -315,11 +315,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

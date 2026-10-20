@@ -33,7 +33,7 @@ def dataset(
     performers=("A", "B"),
     classifications=None,
     variant=0,
-    command="backfill",
+    command="collect",
     node_id="R_test",
 ):
     """Write valid synthetic reports and a real, verified exact-byte inventory."""
@@ -46,8 +46,8 @@ def dataset(
         "0.1.0",
         observed,
         observed,
-        parent_discovery="full" if command == "backfill" else "bounded",
-        commit_history="full" if command == "backfill" else "bounded",
+        parent_discovery="full" if command == "collect" else "bounded",
+        commit_history="full" if command == "collect" else "bounded",
     )
     identity = api.RepositoryMetadata(
         node_id,
@@ -66,8 +66,8 @@ def dataset(
         )
         for key in ("A", "B", "C")
     ]
-    unresolved = api.unresolved_git_actor("unlinked@example.com", "Unlinked")
-    actors.append(unresolved)
+    unlinked = api.unlinked_git_actor("unlinked@example.com", "Unlinked")
+    actors.append(unlinked)
     for name in months:
         year, number = map(int, name.split("-"))
         first = datetime(year, number, 1, tzinfo=timezone.utc)
@@ -95,7 +95,7 @@ def dataset(
                 first + timedelta(hours=i + 1),
                 f"https://github.com/{repository}/issues/1#issuecomment-{i}",
                 api.Subject("issue", "I_1", f"Title variant {variant}", None, number=1),
-                (api.Credit(unresolved.key if key == "unresolved" else key, "author"),),
+                (api.Credit(unlinked.key if key == "unlinked" else key, "author"),),
                 api.IssueCommentMetadata(f"IC_{i}"),
             )
             for i, key in enumerate(credited)
@@ -133,7 +133,7 @@ class DatasetTests(unittest.TestCase):
             ({"performers": ("A", "C")}, "/summaries/actor_counts/B"),
             ({"classifications": {"A": "bot"}}, "/contributors/A"),
             ({"performers": ("A", None)}, "/summaries/unattributed_total"),
-            ({"performers": ("A", "unresolved")}, "/contributors/"),
+            ({"performers": ("A", "unlinked")}, "/contributors/"),
         ]
         left = self.projection("left")
         for i, (kwargs, suffix) in enumerate(scenarios):
@@ -161,7 +161,7 @@ class DatasetTests(unittest.TestCase):
         right = self.projection("right", months=("2024-02",), node_id="R_other")
         changes = {item["path"]: item for item in script.differences(left, right)}
         self.assertFalse(changes["/months/2024-01"]["update_present"])
-        self.assertFalse(changes["/months/2024-02"]["backfill_present"])
+        self.assertFalse(changes["/months/2024-02"]["collect_present"])
         self.assertIn("/repository_node_id", changes)
 
     def test_calendar_comparison_and_json_pointer_escaping(self):
@@ -309,7 +309,7 @@ class OrchestrationTests(unittest.TestCase):
         self.site = self.root / "site"
         self.source = dataset(self.site / "owner" / "repo")
         (self.source / "index.html").write_text("site page")
-        (self.source / "manifest.json").write_text("site manifest")
+        (self.source / "summary.json").write_text("site summary")
         (self.source / "social-card.png").write_bytes(b"image")
         self.work = self.root / "work"
         self.report = self.root / "report.json"
@@ -323,7 +323,7 @@ class OrchestrationTests(unittest.TestCase):
         self.assertTrue(check)
         action, repository = command[3:5]
         destination = Path(command[command.index("--output-directory") + 1])
-        if action == "backfill":
+        if action == "collect":
             self.assertFalse(destination.exists())
         elif destination != self.site.joinpath(*repository.split("/")):
             self.assertEqual(
@@ -364,7 +364,7 @@ class OrchestrationTests(unittest.TestCase):
 
     def test_copy_flow_commands_report_and_initial_state(self):
         self.assertEqual(self.invoke(), 0, self.output.getvalue())
-        self.assertEqual([cmd[3] for cmd in self.commands], ["backfill", "update"])
+        self.assertEqual([cmd[3] for cmd in self.commands], ["collect", "update"])
         for command in self.commands:
             self.assertEqual(command[command.index("--end") + 1], "2024-03")
             self.assertNotIn("--start", command)
@@ -377,7 +377,7 @@ class OrchestrationTests(unittest.TestCase):
             Path(artifacts["initial_state"]).read_bytes(),
             self.original[script.STATE_FILE],
         )
-        self.assertIn("synthetic backfill", Path(artifacts["backfill_log"]).read_text())
+        self.assertIn("synthetic collect", Path(artifacts["collect_log"]).read_text())
         self.assertIn("synthetic update", Path(artifacts["update_log"]).read_text())
         self.assertEqual(self.result()["results"][0]["status"], "match")
         self.assertTrue(self.result()["workspace_retained"])
@@ -385,7 +385,7 @@ class OrchestrationTests(unittest.TestCase):
             json.loads((self.work / "comparison.json").read_text()), self.result()
         )
 
-    def test_no_progress_is_forwarded_only_to_backfill(self):
+    def test_no_progress_is_forwarded_only_to_collect(self):
         self.assertEqual(self.invoke(["owner/repo", "--no-progress"]), 0)
         self.assertIn("--no-progress", self.commands[0])
         self.assertNotIn("--no-progress", self.commands[1])
@@ -428,7 +428,7 @@ class OrchestrationTests(unittest.TestCase):
     def test_mismatch_outside_update_range_retains_automatic_workspace(self):
         def collect(command, **kwargs):
             result = self.collect(command, **kwargs)
-            if command[3] == "backfill":
+            if command[3] == "collect":
                 path = Path(command[command.index("--output-directory") + 1])
                 dataset(
                     path, performers={"2024-01": ("A", "A", "B"), "2024-02": ("A", "B")}
@@ -460,10 +460,10 @@ class OrchestrationTests(unittest.TestCase):
 
         self.assertEqual(self.invoke(collector=collect), 1)
         self.assertEqual(
-            self.result()["results"][0]["months"]["2024-01"], "backfill-only"
+            self.result()["results"][0]["months"]["2024-01"], "collect-only"
         )
 
-    def test_failed_backfill_does_not_run_update_or_touch_in_place_data(self):
+    def test_failed_collect_does_not_run_update_or_touch_in_place_data(self):
         def fail(command, **kwargs):
             kwargs["stdout"].write("collector failed\n")
             raise subprocess.CalledProcessError(7, command)
@@ -508,9 +508,9 @@ class OrchestrationTests(unittest.TestCase):
 
         self.assertEqual(self.invoke(collector=collect), 2)
         self.assertEqual(len(self.commands), 1)
-        self.assertEqual(self.result()["results"][0]["stage"], "validate-backfill")
+        self.assertEqual(self.result()["results"][0]["stage"], "validate-collect")
 
-    def test_wrong_backfill_identity_stops_before_update(self):
+    def test_wrong_collect_identity_stops_before_update(self):
         def collect(command, **kwargs):
             result = self.collect(command, **kwargs)
             destination = Path(command[command.index("--output-directory") + 1])
@@ -542,7 +542,7 @@ class OrchestrationTests(unittest.TestCase):
 
         def collect(command, **kwargs):
             result = self.collect(command, **kwargs)
-            if command[3] == "backfill" and command[4] == "owner/repo":
+            if command[3] == "collect" and command[4] == "owner/repo":
                 destination = Path(command[command.index("--output-directory") + 1])
                 dataset(destination, performers=("A",))
             return result
@@ -560,7 +560,7 @@ class OrchestrationTests(unittest.TestCase):
     def test_console_limit_preserves_all_json_differences(self):
         def collect(command, **kwargs):
             result = self.collect(command, **kwargs)
-            if command[3] == "backfill":
+            if command[3] == "collect":
                 destination = Path(command[command.index("--output-directory") + 1])
                 dataset(destination, performers=("C",))
             return result
@@ -568,7 +568,7 @@ class OrchestrationTests(unittest.TestCase):
         self.assertEqual(self.invoke(collector=collect), 1)
         changes = self.result()["results"][0]["differences"]
         self.assertGreater(len(changes), 20)
-        self.assertEqual(self.output.getvalue().count("backfill="), 20)
+        self.assertEqual(self.output.getvalue().count("collect="), 20)
         self.assertIn("more differences", self.output.getvalue())
 
     def test_report_write_failure_is_operational_and_retains_workspace_report(self):

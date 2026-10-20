@@ -219,7 +219,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYwNjAxNjI1MQ==",
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjI2NzI5MTA1",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjI2NzI5MTA1",
+        "state": "APPROVED",
+        "submitted_at": "2021-04-02T00:46:15Z"
+      },
+      "occurred_at": "2021-04-02T00:46:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjIyMjcyMTI2",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjA1NTMzMTky",
+        "number": 897,
+        "title": "Fix #892",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/897"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/897#pullrequestreview-626729105"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYwNjAxNjI1MQ==",
       "metadata": {
         "created_at": "2021-04-02T00:38:21Z",
         "outdated": false,
@@ -240,33 +265,8 @@
         "title": "Fix #892",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/897"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/897#discussion_r606016251"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjI2NzI5MTA1",
-      "metadata": {
-        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjI2NzI5MTA1",
-        "state": "APPROVED",
-        "submitted_at": "2021-04-02T00:46:15Z"
-      },
-      "occurred_at": "2021-04-02T00:46:15Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjIyMjcyMTI2",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjA1NTMzMTky",
-        "number": 897,
-        "title": "Fix #892",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/897"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/897#pullrequestreview-626729105"
     },
     {
       "credits": [
@@ -431,7 +431,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxMjc4MDAyOQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxMjc4MDAyOQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxMjc4MDAyOQ=="
       },
@@ -444,7 +444,7 @@
         "title": "Add hydrogens in Molecule.from_rdkit",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/762"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/762#issuecomment-812780029"
     },
     {
@@ -454,7 +454,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxMzc0NTc1NA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxMzc0NTc1NA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxMzc0NTc1NA=="
       },
@@ -467,7 +467,7 @@
         "title": "Add hydrogens in Molecule.from_rdkit",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/762"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/762#issuecomment-813745754"
     },
     {
@@ -525,7 +525,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxMzkxMzU2Mw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxMzkxMzU2Mw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxMzkxMzU2Mw=="
       },
@@ -538,7 +538,7 @@
         "title": "Examples helper script",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/888#issuecomment-813913563"
     },
     {
@@ -814,7 +814,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxNDUyNDI4MQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxNDUyNDI4MQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxNDUyNDI4MQ=="
       },
@@ -827,7 +827,7 @@
         "title": "Fix #882",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/896"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/896#issuecomment-814524281"
     },
     {
@@ -837,7 +837,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxNDUyOTMzMQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxNDUyOTMzMQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxNDUyOTMzMQ=="
       },
@@ -850,7 +850,7 @@
         "title": "Fix #882",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/896"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/896#issuecomment-814529331"
     },
     {
@@ -929,7 +929,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxNTM2NTk2OA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxNTM2NTk2OA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxNTM2NTk2OA=="
       },
@@ -942,70 +942,8 @@
         "title": "Adding element getter to topology atoms",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/904"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/904#issuecomment-815365968"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYwOTE3MDU2OA==",
-      "metadata": {
-        "created_at": "2021-04-08T00:52:15Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2021-04-08T00:58:24Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjMwODk1NTI1",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYwOTE3MDU2OA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg1MjIyMjQ5OnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-08T00:58:24Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjI5NDk3Mjk=",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjExMTIyNDI4",
-        "number": 904,
-        "title": "Adding element getter to topology atoms",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/904"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/904#discussion_r609170568"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYwOTE3MDgyNA==",
-      "metadata": {
-        "created_at": "2021-04-08T00:53:19Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2021-04-08T00:58:24Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjMwODk1NTI1",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYwOTE3MDgyNA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg1MjIyNDIzOnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-08T00:58:24Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjI5NDk3Mjk=",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjExMTIyNDI4",
-        "number": 904,
-        "title": "Adding element getter to topology atoms",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/904"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/904#discussion_r609170824"
     },
     {
       "credits": [
@@ -1035,11 +973,73 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYwOTE3MDU2OA==",
+      "metadata": {
+        "created_at": "2021-04-08T00:52:15Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2021-04-08T00:58:24Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjMwODk1NTI1",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYwOTE3MDU2OA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg1MjIyMjQ5OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-08T00:58:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI5NDk3Mjk=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjExMTIyNDI4",
+        "number": 904,
+        "title": "Adding element getter to topology atoms",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/904"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/904#discussion_r609170568"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYwOTE3MDgyNA==",
+      "metadata": {
+        "created_at": "2021-04-08T00:53:19Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2021-04-08T00:58:24Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjMwODk1NTI1",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYwOTE3MDgyNA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg1MjIyNDIzOnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-08T00:58:24Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI5NDk3Mjk=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjExMTIyNDI4",
+        "number": 904,
+        "title": "Adding element getter to topology atoms",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/904"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/904#discussion_r609170824"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxNTQ1NjQxOA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxNTQ1NjQxOA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxNTQ1NjQxOA=="
       },
@@ -1052,7 +1052,7 @@
         "title": "Examples helper script",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/888#issuecomment-815456418"
     },
     {
@@ -1122,7 +1122,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxNjMzNjM1OA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxNjMzNjM1OA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxNjMzNjM1OA=="
       },
@@ -1135,7 +1135,7 @@
         "title": "Raise error when force field is missing Electrostatics tag",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/833"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/833#issuecomment-816336358"
     },
     {
@@ -1145,7 +1145,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxNjc2MzY5Nw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxNjc2MzY5Nw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxNjc2MzY5Nw=="
       },
@@ -1158,7 +1158,7 @@
         "title": "Raise error when force field is missing Electrostatics tag",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/833"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/833#issuecomment-816763697"
     },
     {
@@ -1168,7 +1168,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxNjc4MjM2MQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxNjc4MjM2MQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxNjc4MjM2MQ=="
       },
@@ -1181,7 +1181,7 @@
         "title": "Raise error when force field is missing Electrostatics tag",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/833"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/833#issuecomment-816782361"
     },
     {
@@ -1191,7 +1191,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxNjkxODMzMg==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxNjkxODMzMg==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxNjkxODMzMg=="
       },
@@ -1204,7 +1204,7 @@
         "title": "Raise error when force field is missing Electrostatics tag",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/833"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/833#issuecomment-816918332"
     },
     {
@@ -1237,7 +1237,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxODQ4MDE1MQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxODQ4MDE1MQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxODQ4MDE1MQ=="
       },
@@ -1250,7 +1250,7 @@
         "title": "Bump actions/setup-python from v2.2.1 to v2.2.2",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/905"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/905#issuecomment-818480151"
     },
     {
@@ -1364,7 +1364,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxOTEwNjY2Mg==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxOTEwNjY2Mg==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxOTEwNjY2Mg=="
       },
@@ -1377,7 +1377,7 @@
         "title": "setting up development environment using test_env.yaml",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/906"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/906#issuecomment-819106662"
     },
     {
@@ -1387,7 +1387,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxOTExMTQzMQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxOTExMTQzMQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxOTExMTQzMQ=="
       },
@@ -1400,7 +1400,7 @@
         "title": "setting up development environment using test_env.yaml",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/906"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/906#issuecomment-819111431"
     },
     {
@@ -1410,7 +1410,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxOTEyMDgyNw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxOTEyMDgyNw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxOTEyMDgyNw=="
       },
@@ -1423,7 +1423,7 @@
         "title": "setting up development environment using test_env.yaml",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/906"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/906#issuecomment-819120827"
     },
     {
@@ -1458,7 +1458,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxOTUwNDYyMA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxOTUwNDYyMA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxOTUwNDYyMA=="
       },
@@ -1471,7 +1471,7 @@
         "title": "Examples helper script",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/888#issuecomment-819504620"
     },
     {
@@ -1560,37 +1560,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY1NDY1NA==",
-      "metadata": {
-        "created_at": "2021-04-14T23:44:29Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2021-04-14T23:44:29Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MTYzOTg2",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY1NDY1NA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM0MTUzOnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-14T23:44:29Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjAyNTYzMjk1",
-        "number": 888,
-        "title": "Examples helper script",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613654654"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MTYzOTg2",
       "metadata": {
         "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MTYzOTg2",
@@ -1616,19 +1585,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY1NTE5OA==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY1NDY1NA==",
       "metadata": {
-        "created_at": "2021-04-14T23:46:10Z",
-        "outdated": true,
+        "created_at": "2021-04-14T23:44:29Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2021-04-14T23:46:11Z",
+        "published_at": "2021-04-14T23:44:29Z",
         "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MTY0NjQ2",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY1NTE5OA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM0NTQ2OnYy",
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MTYzOTg2",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY1NDY1NA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM0MTUzOnYy",
         "timestamp_fallback": false
       },
-      "occurred_at": "2021-04-14T23:46:11Z",
+      "occurred_at": "2021-04-14T23:44:29Z",
       "subject": {
         "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
         "kind": "pull_request",
@@ -1637,8 +1606,8 @@
         "title": "Examples helper script",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613655198"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613654654"
     },
     {
       "credits": [
@@ -1672,19 +1641,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY1Njk4OQ==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY1NTE5OA==",
       "metadata": {
-        "created_at": "2021-04-14T23:51:30Z",
-        "outdated": false,
+        "created_at": "2021-04-14T23:46:10Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2021-04-14T23:51:30Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MTY2NzEw",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY1Njk4OQ==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM1NzIwOnYy",
+        "published_at": "2021-04-14T23:46:11Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MTY0NjQ2",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY1NTE5OA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM0NTQ2OnYy",
         "timestamp_fallback": false
       },
-      "occurred_at": "2021-04-14T23:51:30Z",
+      "occurred_at": "2021-04-14T23:46:11Z",
       "subject": {
         "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
         "kind": "pull_request",
@@ -1693,8 +1662,8 @@
         "title": "Examples helper script",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613656989"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613655198"
     },
     {
       "credits": [
@@ -1728,19 +1697,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY2MjI2OA==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY1Njk4OQ==",
       "metadata": {
-        "created_at": "2021-04-15T00:08:12Z",
+        "created_at": "2021-04-14T23:51:30Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2021-04-15T00:08:13Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MTcyNzM0",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY2MjI2OA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM5MjI0OnYy",
+        "published_at": "2021-04-14T23:51:30Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MTY2NzEw",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY1Njk4OQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM1NzIwOnYy",
         "timestamp_fallback": false
       },
-      "occurred_at": "2021-04-15T00:08:13Z",
+      "occurred_at": "2021-04-14T23:51:30Z",
       "subject": {
         "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
         "kind": "pull_request",
@@ -1749,8 +1718,8 @@
         "title": "Examples helper script",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613662268"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613656989"
     },
     {
       "credits": [
@@ -1784,19 +1753,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY2MzAyOQ==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY2MjI2OA==",
       "metadata": {
-        "created_at": "2021-04-15T00:10:44Z",
+        "created_at": "2021-04-15T00:08:12Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2021-04-15T00:10:45Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MTczNjQw",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY2MzAyOQ==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM5NzMwOnYy",
+        "published_at": "2021-04-15T00:08:13Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MTcyNzM0",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY2MjI2OA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM5MjI0OnYy",
         "timestamp_fallback": false
       },
-      "occurred_at": "2021-04-15T00:10:45Z",
+      "occurred_at": "2021-04-15T00:08:13Z",
       "subject": {
         "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
         "kind": "pull_request",
@@ -1805,8 +1774,8 @@
         "title": "Examples helper script",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613663029"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613662268"
     },
     {
       "credits": [
@@ -1840,7 +1809,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgxOTk1NjQwMg==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY2MzAyOQ==",
+      "metadata": {
+        "created_at": "2021-04-15T00:10:44Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2021-04-15T00:10:45Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MTczNjQw",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzY2MzAyOQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM5NzMwOnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-15T00:10:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjAyNTYzMjk1",
+        "number": 888,
+        "title": "Examples helper script",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613663029"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgxOTk1NjQwMg==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgxOTk1NjQwMg=="
       },
@@ -1853,39 +1853,8 @@
         "title": "Raise error when force field is missing Electrostatics tag",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/833"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/833#issuecomment-819956402"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzc4OTA2OQ==",
-      "metadata": {
-        "created_at": "2021-04-15T06:27:36Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2021-04-15T06:27:36Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MzEwNzI5",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzc4OTA2OQ==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM0MTUzOnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-15T06:27:36Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjAyNTYzMjk1",
-        "number": 888,
-        "title": "Examples helper script",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613789069"
     },
     {
       "credits": [
@@ -1919,19 +1888,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzgyNTQ5Mg==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzc4OTA2OQ==",
       "metadata": {
-        "created_at": "2021-04-15T07:33:42Z",
+        "created_at": "2021-04-15T06:27:36Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2021-04-15T07:33:43Z",
+        "published_at": "2021-04-15T06:27:36Z",
         "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MzU4MDAy",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzgyNTQ5Mg==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM5MjI0OnYy",
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MzEwNzI5",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzc4OTA2OQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM0MTUzOnYy",
         "timestamp_fallback": false
       },
-      "occurred_at": "2021-04-15T07:33:43Z",
+      "occurred_at": "2021-04-15T06:27:36Z",
       "subject": {
         "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
         "kind": "pull_request",
@@ -1940,8 +1909,8 @@
         "title": "Examples helper script",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613825492"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613789069"
     },
     {
       "credits": [
@@ -1975,19 +1944,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzg4MTk5MA==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzgyNTQ5Mg==",
       "metadata": {
-        "created_at": "2021-04-15T08:54:06Z",
-        "outdated": true,
+        "created_at": "2021-04-15T07:33:42Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2021-04-15T08:54:06Z",
+        "published_at": "2021-04-15T07:33:43Z",
         "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2NDMxOTg1",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzg4MTk5MA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM0NTQ2OnYy",
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2MzU4MDAy",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzgyNTQ5Mg==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM5MjI0OnYy",
         "timestamp_fallback": false
       },
-      "occurred_at": "2021-04-15T08:54:06Z",
+      "occurred_at": "2021-04-15T07:33:43Z",
       "subject": {
         "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
         "kind": "pull_request",
@@ -1996,8 +1965,8 @@
         "title": "Examples helper script",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613881990"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613825492"
     },
     {
       "credits": [
@@ -2027,11 +1996,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzg4MTk5MA==",
+      "metadata": {
+        "created_at": "2021-04-15T08:54:06Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2021-04-15T08:54:06Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjM2NDMxOTg1",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxMzg4MTk5MA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzg4MjM0NTQ2OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-15T08:54:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjAyNTYzMjk1",
+        "number": 888,
+        "title": "Examples helper script",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/888#discussion_r613881990"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjc5MzUzODI=",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyMDUzNDMyMw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyMDUzNDMyMw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyMDUzNDMyMw=="
       },
@@ -2044,7 +2044,7 @@
         "title": "Raise error when force field is missing Electrostatics tag",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/833"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/833#issuecomment-820534323"
     },
     {
@@ -2054,7 +2054,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyMTcyMjYxNQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyMTcyMjYxNQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyMTcyMjYxNQ=="
       },
@@ -2067,7 +2067,7 @@
         "title": "Raise error when force field is missing Electrostatics tag",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/833"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/833#issuecomment-821722615"
     },
     {
@@ -2077,7 +2077,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyMzE1NTMzMw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyMzE1NTMzMw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyMzE1NTMzMw=="
       },
@@ -2090,7 +2090,7 @@
         "title": "Examples helper script",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/888#issuecomment-823155333"
     },
     {
@@ -2100,7 +2100,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyMzE2MjE1Mg==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyMzE2MjE1Mg==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyMzE2MjE1Mg=="
       },
@@ -2113,7 +2113,7 @@
         "title": "Examples helper script",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/888#issuecomment-823162152"
     },
     {
@@ -2123,7 +2123,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyMzIxMDI2OQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyMzIxMDI2OQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyMzIxMDI2OQ=="
       },
@@ -2136,7 +2136,7 @@
         "title": "Examples helper script",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/888#issuecomment-823210269"
     },
     {
@@ -2146,7 +2146,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyMzQ1NDkxNA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyMzQ1NDkxNA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyMzQ1NDkxNA=="
       },
@@ -2159,7 +2159,7 @@
         "title": "Raise error when force field is missing Electrostatics tag",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/833"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/833#issuecomment-823454914"
     },
     {
@@ -2238,7 +2238,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyMzU2OTEwNA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyMzU2OTEwNA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyMzU2OTEwNA=="
       },
@@ -2251,7 +2251,7 @@
         "title": "0.9.2 release prep",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/908"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/908#issuecomment-823569104"
     },
     {
@@ -2261,7 +2261,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyMzU3MDQ4Ng==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyMzU3MDQ4Ng==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyMzU3MDQ4Ng=="
       },
@@ -2274,7 +2274,7 @@
         "title": "Compute virtual site positions",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/909"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/909#issuecomment-823570486"
     },
     {
@@ -2339,7 +2339,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyMzY3MDU2Nw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyMzY3MDU2Nw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyMzY3MDU2Nw=="
       },
@@ -2352,7 +2352,7 @@
         "title": "0.9.2 release prep",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/908"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/908#issuecomment-823670567"
     },
     {
@@ -2473,7 +2473,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyNDQ1MzgxNw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyNDQ1MzgxNw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyNDQ1MzgxNw=="
       },
@@ -2486,7 +2486,7 @@
         "title": "Examples helper script",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/888"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/888#issuecomment-824453817"
     },
     {
@@ -2542,7 +2542,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyNDU5NjMwMA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyNDU5NjMwMA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyNDU5NjMwMA=="
       },
@@ -2555,7 +2555,7 @@
         "title": "Add parallel CI for examples, including their own deps",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/911#issuecomment-824596300"
     },
     {
@@ -2565,7 +2565,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyNDYwNTA1MA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyNDYwNTA1MA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyNDYwNTA1MA=="
       },
@@ -2578,7 +2578,7 @@
         "title": "Make `isort` and `black` compatible",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/912"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/912#issuecomment-824605050"
     },
     {
@@ -2588,7 +2588,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyNDkzMDQ3MA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyNDkzMDQ3MA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyNDkzMDQ3MA=="
       },
@@ -2601,7 +2601,7 @@
         "title": "Add parallel CI for examples, including their own deps",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/911#issuecomment-824930470"
     },
     {
@@ -2636,7 +2636,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyNTMwNjMzNg==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyNTMwNjMzNg==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyNTMwNjMzNg=="
       },
@@ -2649,132 +2649,8 @@
         "title": "[WIP] Make OpenEye write custom atom names to PDB",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/848"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/848#issuecomment-825306336"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg1Njk5MA==",
-      "metadata": {
-        "created_at": "2021-04-23T01:13:41Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2021-04-23T01:44:33Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQyODQyNjI1",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg1Njk5MA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjY3NDY1OnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-23T01:44:33Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjIwODEwNDc3",
-        "number": 911,
-        "title": "Add parallel CI for examples, including their own deps",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r618856990"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg2MzYxMg==",
-      "metadata": {
-        "created_at": "2021-04-23T01:25:47Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2021-04-23T01:44:33Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQyODQyNjI1",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg2MzYxMg==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjcyMzEzOnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-23T01:44:33Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjIwODEwNDc3",
-        "number": 911,
-        "title": "Add parallel CI for examples, including their own deps",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r618863612"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg2MzgyOA==",
-      "metadata": {
-        "created_at": "2021-04-23T01:26:08Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2021-04-23T01:44:33Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQyODQyNjI1",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg2MzgyOA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjcyNTAxOnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-23T01:44:33Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjIwODEwNDc3",
-        "number": 911,
-        "title": "Add parallel CI for examples, including their own deps",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r618863828"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg3MjYzNQ==",
-      "metadata": {
-        "created_at": "2021-04-23T01:40:24Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2021-04-23T01:44:33Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQyODQyNjI1",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg3MjYzNQ==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjc5MDE2OnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-23T01:44:33Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjIwODEwNDc3",
-        "number": 911,
-        "title": "Add parallel CI for examples, including their own deps",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r618872635"
     },
     {
       "credits": [
@@ -2800,6 +2676,130 @@
       },
       "type": "pr_review",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/911#pullrequestreview-642842625"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg1Njk5MA==",
+      "metadata": {
+        "created_at": "2021-04-23T01:13:41Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2021-04-23T01:44:33Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQyODQyNjI1",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg1Njk5MA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjY3NDY1OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-23T01:44:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjIwODEwNDc3",
+        "number": 911,
+        "title": "Add parallel CI for examples, including their own deps",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r618856990"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg2MzYxMg==",
+      "metadata": {
+        "created_at": "2021-04-23T01:25:47Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2021-04-23T01:44:33Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQyODQyNjI1",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg2MzYxMg==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjcyMzEzOnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-23T01:44:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjIwODEwNDc3",
+        "number": 911,
+        "title": "Add parallel CI for examples, including their own deps",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r618863612"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg2MzgyOA==",
+      "metadata": {
+        "created_at": "2021-04-23T01:26:08Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2021-04-23T01:44:33Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQyODQyNjI1",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg2MzgyOA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjcyNTAxOnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-23T01:44:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjIwODEwNDc3",
+        "number": 911,
+        "title": "Add parallel CI for examples, including their own deps",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r618863828"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg3MjYzNQ==",
+      "metadata": {
+        "created_at": "2021-04-23T01:40:24Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2021-04-23T01:44:33Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQyODQyNjI1",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxODg3MjYzNQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjc5MDE2OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-23T01:44:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjIwODEwNDc3",
+        "number": 911,
+        "title": "Add parallel CI for examples, including their own deps",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r618872635"
     },
     {
       "credits": [
@@ -2864,37 +2864,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxOTE3MDA0Mw==",
-      "metadata": {
-        "created_at": "2021-04-23T12:11:53Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2021-04-23T12:11:53Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQzMjI5MDMw",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxOTE3MDA0Mw==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjY3NDY1OnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-23T12:11:53Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjIwODEwNDc3",
-        "number": 911,
-        "title": "Add parallel CI for examples, including their own deps",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r619170043"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQzMjI5MDMw",
       "metadata": {
         "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQzMjI5MDMw",
@@ -2920,6 +2889,37 @@
           "role": "author"
         }
       ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxOTE3MDA0Mw==",
+      "metadata": {
+        "created_at": "2021-04-23T12:11:53Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2021-04-23T12:11:53Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQzMjI5MDMw",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxOTE3MDA0Mw==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjY3NDY1OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-23T12:11:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjIwODEwNDc3",
+        "number": 911,
+        "title": "Add parallel CI for examples, including their own deps",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r619170043"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
       "id": "issue_comment:MDEyOklzc3VlQ29tbWVudDgyNTY1NTU1Mw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyNTY1NTU1Mw=="
@@ -2935,37 +2935,6 @@
       },
       "type": "issue_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/issues/286#issuecomment-825655553"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxOTIxNjk4OA==",
-      "metadata": {
-        "created_at": "2021-04-23T13:24:26Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2021-04-23T13:24:26Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQzMjkzMTc2",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxOTIxNjk4OA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjY3NDY1OnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-23T13:24:26Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjIwODEwNDc3",
-        "number": 911,
-        "title": "Add parallel CI for examples, including their own deps",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r619216988"
     },
     {
       "credits": [
@@ -2999,19 +2968,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxOTIxNzE5Nw==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxOTIxNjk4OA==",
       "metadata": {
-        "created_at": "2021-04-23T13:24:45Z",
-        "outdated": false,
+        "created_at": "2021-04-23T13:24:26Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2021-04-23T13:24:45Z",
+        "published_at": "2021-04-23T13:24:26Z",
         "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQzMjkzNDc3",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxOTIxNzE5Nw==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjc5MDE2OnYy",
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQzMjkzMTc2",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxOTIxNjk4OA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjY3NDY1OnYy",
         "timestamp_fallback": false
       },
-      "occurred_at": "2021-04-23T13:24:45Z",
+      "occurred_at": "2021-04-23T13:24:26Z",
       "subject": {
         "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
         "kind": "pull_request",
@@ -3020,8 +2989,8 @@
         "title": "Add parallel CI for examples, including their own deps",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r619217197"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r619216988"
     },
     {
       "credits": [
@@ -3055,7 +3024,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyNTY3NDQ0Nw==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxOTIxNzE5Nw==",
+      "metadata": {
+        "created_at": "2021-04-23T13:24:45Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2021-04-23T13:24:45Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQzMjkzNDc3",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYxOTIxNzE5Nw==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkxNjc5MDE2OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-23T13:24:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjI4NTkwNzQ4",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjIwODEwNDc3",
+        "number": 911,
+        "title": "Add parallel CI for examples, including their own deps",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/911#discussion_r619217197"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyNTY3NDQ0Nw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyNTY3NDQ0Nw=="
       },
@@ -3068,7 +3068,7 @@
         "title": "Add parallel CI for examples, including their own deps",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/911"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/911#issuecomment-825674447"
     },
     {
@@ -3255,7 +3255,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyNjU5ODU1MA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyNjU5ODU1MA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyNjU5ODU1MA=="
       },
@@ -3268,7 +3268,7 @@
         "title": "Release workflow",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/913"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/913#issuecomment-826598550"
     },
     {
@@ -3301,7 +3301,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyNzE4ODc2Mw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyNzE4ODc2Mw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyNzE4ODc2Mw=="
       },
@@ -3314,7 +3314,7 @@
         "title": "Raise error when force field is missing Electrostatics tag",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/833"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/833#issuecomment-827188763"
     },
     {
@@ -3370,7 +3370,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyNzc2ODA2OQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyNzc2ODA2OQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyNzc2ODA2OQ=="
       },
@@ -3383,39 +3383,8 @@
         "title": "Update for black 21.4b0",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/915"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/915#issuecomment-827768069"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTQyMjUxNw==",
-      "metadata": {
-        "created_at": "2021-04-27T17:08:05Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2021-04-27T17:08:13Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2MTQxMzkz",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTQyMjUxNw==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNDU1NDA2OnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-27T17:08:13Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjI0NDc3MDIw",
-        "number": 915,
-        "title": "Update for black 21.4b0",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/915"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/915#discussion_r621422517"
     },
     {
       "credits": [
@@ -3441,6 +3410,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/915#pullrequestreview-646141393"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTQyMjUxNw==",
+      "metadata": {
+        "created_at": "2021-04-27T17:08:05Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2021-04-27T17:08:13Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2MTQxMzkz",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTQyMjUxNw==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNDU1NDA2OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-27T17:08:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjI0NDc3MDIw",
+        "number": 915,
+        "title": "Update for black 21.4b0",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/915"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/915#discussion_r621422517"
     },
     {
       "credits": [
@@ -3528,7 +3528,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyNzgwMjYwNA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyNzgwMjYwNA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyNzgwMjYwNA=="
       },
@@ -3541,7 +3541,7 @@
         "title": "Document nonbonded methods",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/916#issuecomment-827802604"
     },
     {
@@ -3566,68 +3566,6 @@
       },
       "type": "issue_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/issues/914#issuecomment-828086036"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc1NzI0MA==",
-      "metadata": {
-        "created_at": "2021-04-28T02:13:40Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2021-04-28T02:18:16Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTM3NzA0",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc1NzI0MA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjc3OTYwOnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-28T02:18:16Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjI0NTE0NzEz",
-        "number": 916,
-        "title": "Document nonbonded methods",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621757240"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc1ODA2Mw==",
-      "metadata": {
-        "created_at": "2021-04-28T02:16:05Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2021-04-28T02:18:16Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTM3NzA0",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc1ODA2Mw==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjc4NTUyOnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-28T02:18:16Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjI0NTE0NzEz",
-        "number": 916,
-        "title": "Document nonbonded methods",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621758063"
     },
     {
       "credits": [
@@ -3661,19 +3599,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc1ODk1Nw==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc1NzI0MA==",
       "metadata": {
-        "created_at": "2021-04-28T02:18:43Z",
-        "outdated": true,
+        "created_at": "2021-04-28T02:13:40Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2021-04-28T02:18:43Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTM5NDEy",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc1ODk1Nw==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjc5MTg4OnYy",
+        "published_at": "2021-04-28T02:18:16Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTM3NzA0",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc1NzI0MA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjc3OTYwOnYy",
         "timestamp_fallback": false
       },
-      "occurred_at": "2021-04-28T02:18:43Z",
+      "occurred_at": "2021-04-28T02:18:16Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3682,8 +3620,39 @@
         "title": "Document nonbonded methods",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621758957"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621757240"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc1ODA2Mw==",
+      "metadata": {
+        "created_at": "2021-04-28T02:16:05Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2021-04-28T02:18:16Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTM3NzA0",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc1ODA2Mw==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjc4NTUyOnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-28T02:18:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjI0NTE0NzEz",
+        "number": 916,
+        "title": "Document nonbonded methods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621758063"
     },
     {
       "credits": [
@@ -3713,23 +3682,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc2NDAzNw==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc1ODk1Nw==",
       "metadata": {
-        "created_at": "2021-04-28T02:31:49Z",
+        "created_at": "2021-04-28T02:18:43Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2021-04-28T02:31:49Z",
+        "published_at": "2021-04-28T02:18:43Z",
         "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTQ0NTE5",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc2NDAzNw==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjc4NTUyOnYy",
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTM5NDEy",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc1ODk1Nw==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjc5MTg4OnYy",
         "timestamp_fallback": false
       },
-      "occurred_at": "2021-04-28T02:31:49Z",
+      "occurred_at": "2021-04-28T02:18:43Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3738,8 +3707,8 @@
         "title": "Document nonbonded methods",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621764037"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621758957"
     },
     {
       "credits": [
@@ -3773,50 +3742,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc2NTE2Nw==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc2NDAzNw==",
       "metadata": {
-        "created_at": "2021-04-28T02:35:13Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2021-04-28T02:56:28Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTQ1NjU5",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc2NTE2Nw==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjgzNTU1OnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-28T02:56:28Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjI0NTE0NzEz",
-        "number": 916,
-        "title": "Document nonbonded methods",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621765167"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc2NjgzNA==",
-      "metadata": {
-        "created_at": "2021-04-28T02:39:34Z",
+        "created_at": "2021-04-28T02:31:49Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2021-04-28T02:56:28Z",
+        "published_at": "2021-04-28T02:31:49Z",
         "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTQ1NjU5",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc2NjgzNA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjg0NzY2OnYy",
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTQ0NTE5",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc2NDAzNw==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjc4NTUyOnYy",
         "timestamp_fallback": false
       },
-      "occurred_at": "2021-04-28T02:56:28Z",
+      "occurred_at": "2021-04-28T02:31:49Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3825,39 +3763,8 @@
         "title": "Document nonbonded methods",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621766834"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc3MjgzNA==",
-      "metadata": {
-        "created_at": "2021-04-28T02:55:12Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2021-04-28T02:56:28Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTQ1NjU5",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc3MjgzNA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjg4OTk4OnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-28T02:56:28Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjI0NTE0NzEz",
-        "number": 916,
-        "title": "Document nonbonded methods",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621772834"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621764037"
     },
     {
       "credits": [
@@ -3887,6 +3794,99 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc2NTE2Nw==",
+      "metadata": {
+        "created_at": "2021-04-28T02:35:13Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2021-04-28T02:56:28Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTQ1NjU5",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc2NTE2Nw==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjgzNTU1OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-28T02:56:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjI0NTE0NzEz",
+        "number": 916,
+        "title": "Document nonbonded methods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621765167"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc2NjgzNA==",
+      "metadata": {
+        "created_at": "2021-04-28T02:39:34Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2021-04-28T02:56:28Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTQ1NjU5",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc2NjgzNA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjg0NzY2OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-28T02:56:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjI0NTE0NzEz",
+        "number": 916,
+        "title": "Document nonbonded methods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621766834"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc3MjgzNA==",
+      "metadata": {
+        "created_at": "2021-04-28T02:55:12Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2021-04-28T02:56:28Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ2NTQ1NjU5",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMTc3MjgzNA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjg4OTk4OnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-28T02:56:28Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjI0NTE0NzEz",
+        "number": 916,
+        "title": "Document nonbonded methods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r621772834"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjIyMjcyMTI2",
           "role": "author"
         }
@@ -3906,37 +3906,6 @@
       },
       "type": "issue_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/issues/522#issuecomment-828372275"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMjMzMjE5Mw==",
-      "metadata": {
-        "created_at": "2021-04-28T16:11:11Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2021-04-28T16:11:11Z",
-        "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ3MjYyMTYx",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMjMzMjE5Mw==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjgzNTU1OnYy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2021-04-28T16:11:11Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0NjI0NTE0NzEz",
-        "number": 916,
-        "title": "Document nonbonded methods",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r622332193"
     },
     {
       "credits": [
@@ -3970,19 +3939,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMjMzMzY5OA==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMjMzMjE5Mw==",
       "metadata": {
-        "created_at": "2021-04-28T16:13:01Z",
-        "outdated": true,
+        "created_at": "2021-04-28T16:11:11Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2021-04-28T16:13:01Z",
+        "published_at": "2021-04-28T16:11:11Z",
         "resolved": true,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ3MjY0MDkz",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMjMzMzY5OA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjc4NTUyOnYy",
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ3MjYyMTYx",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMjMzMjE5Mw==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjgzNTU1OnYy",
         "timestamp_fallback": false
       },
-      "occurred_at": "2021-04-28T16:13:01Z",
+      "occurred_at": "2021-04-28T16:11:11Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3991,8 +3960,8 @@
         "title": "Document nonbonded methods",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r622333698"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r622332193"
     },
     {
       "credits": [
@@ -4026,7 +3995,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyODU5NzgwMg==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMjMzMzY5OA==",
+      "metadata": {
+        "created_at": "2021-04-28T16:13:01Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2021-04-28T16:13:01Z",
+        "resolved": true,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjQ3MjY0MDkz",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDYyMjMzMzY5OA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkMzkzNjc4NTUyOnYy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2021-04-28T16:13:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0NjI0NTE0NzEz",
+        "number": 916,
+        "title": "Document nonbonded methods",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/916#discussion_r622333698"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyODU5NzgwMg==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyODU5NzgwMg=="
       },
@@ -4039,7 +4039,7 @@
         "title": "Document nonbonded methods",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/916#issuecomment-828597802"
     },
     {
@@ -4049,7 +4049,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyODYwMDI0Mg==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyODYwMDI0Mg==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyODYwMDI0Mg=="
       },
@@ -4062,7 +4062,7 @@
         "title": "Document nonbonded methods",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/916#issuecomment-828600242"
     },
     {
@@ -4072,7 +4072,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyODYwNDExNA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyODYwNDExNA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyODYwNDExNA=="
       },
@@ -4085,7 +4085,7 @@
         "title": "Document nonbonded methods",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/916#issuecomment-828604114"
     },
     {
@@ -4095,7 +4095,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyODYyNTcxMA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyODYyNTcxMA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyODYyNTcxMA=="
       },
@@ -4108,7 +4108,7 @@
         "title": "Document nonbonded methods",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/916#issuecomment-828625710"
     },
     {
@@ -4118,7 +4118,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyODYzMzM1OQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyODYzMzM1OQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyODYzMzM1OQ=="
       },
@@ -4131,7 +4131,7 @@
         "title": "Document nonbonded methods",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/916"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/916#issuecomment-828633359"
     },
     {
@@ -4252,7 +4252,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyODc5MTMwMA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyODc5MTMwMA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyODc5MTMwMA=="
       },
@@ -4265,7 +4265,7 @@
         "title": "Ensure NonbondedForce cutoff is set to vdW handler's cutoff",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/917"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/917#issuecomment-828791300"
     },
     {
@@ -4275,7 +4275,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyODgxMDQ2Ng==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyODgxMDQ2Ng==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyODgxMDQ2Ng=="
       },
@@ -4288,7 +4288,7 @@
         "title": "Implement Topology.to_dict, Topology.from_dict",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/787"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/787#issuecomment-828810466"
     },
     {
@@ -4460,7 +4460,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyOTM3OTQxOA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyOTM3OTQxOA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyOTM3OTQxOA=="
       },
@@ -4473,7 +4473,7 @@
         "title": "Ensure NonbondedForce cutoff is set to vdW handler's cutoff",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/917"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/917#issuecomment-829379418"
     },
     {
@@ -4483,7 +4483,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyOTM4NDg2NQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyOTM4NDg2NQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyOTM4NDg2NQ=="
       },
@@ -4496,7 +4496,7 @@
         "title": "Check vanilla install in deployment tests",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/919"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/919#issuecomment-829384865"
     },
     {
@@ -4529,7 +4529,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDgyOTYxMjQwOQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDgyOTYxMjQwOQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDgyOTYxMjQwOQ=="
       },
@@ -4542,7 +4542,7 @@
         "title": "Optionally split out nonbonded force into multiple forces",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/920"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/920#issuecomment-829612409"
     }
   ],
@@ -4691,7 +4691,7 @@
       "url": "https://github.com/davidlmobley"
     },
     {
-      "classification": "unresolved_git",
+      "classification": "unlinked_git",
       "database_id": null,
       "display_name": null,
       "git_email": "noreply@github.com",
@@ -4704,7 +4704,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T06:18:49.797655Z",
+      "as_of": "2026-10-20T01:37:15.275657Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -4716,52 +4716,52 @@
     },
     "default_branch": "main",
     "default_branch_head": "ef074d58a2e7b03625aae7cd3aff87a8ee46c38b",
+    "is_partial": false,
     "month": "2021-04",
     "month_end": "2021-05-01T00:00:00Z",
     "month_start": "2021-04-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       }
     },
     "repository": {
@@ -4771,15 +4771,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "history_start_month": "2016-06",
       "node_id": "MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==",
@@ -4795,11 +4795,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 13,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 13,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDM6Qm90NDMxNDQzOTA=": {
         "commit": 0,
@@ -4807,11 +4807,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 3,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 3,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDM6Qm90NDk2OTkzMzM=": {
         "commit": 1,
@@ -4819,11 +4819,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjE2MzI5MTc1": {
         "commit": 11,
@@ -4831,11 +4831,11 @@
         "issue_comment": 5,
         "issue_opened": 4,
         "issue_reopened": 0,
-        "pr_conversation_comment": 10,
-        "pr_inline_review_comment": 16,
+        "pr_discussion_comment": 10,
         "pr_merged": 6,
         "pr_opened": 1,
-        "pr_review": 18
+        "pr_review": 18,
+        "pr_review_comment": 16
       },
       "MDQ6VXNlcjI1NTk0Mzg=": {
         "commit": 0,
@@ -4843,11 +4843,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjI4NTkwNzQ4": {
         "commit": 3,
@@ -4855,11 +4855,11 @@
         "issue_comment": 2,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 5,
-        "pr_inline_review_comment": 10,
+        "pr_discussion_comment": 5,
         "pr_merged": 2,
         "pr_opened": 3,
-        "pr_review": 8
+        "pr_review": 8,
+        "pr_review_comment": 10
       },
       "MDQ6VXNlcjI5NDk3Mjk=": {
         "commit": 2,
@@ -4867,11 +4867,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 1,
         "pr_merged": 2,
         "pr_opened": 2,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjIyMjcyMTI2": {
         "commit": 4,
@@ -4879,11 +4879,11 @@
         "issue_comment": 2,
         "issue_opened": 3,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjMxMTE1MTAx": {
         "commit": 0,
@@ -4891,11 +4891,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 3,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 3,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjUwMjQ0ODA2": {
         "commit": 0,
@@ -4903,11 +4903,11 @@
         "issue_comment": 0,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjc5MzUzODI=": {
         "commit": 3,
@@ -4915,11 +4915,11 @@
         "issue_comment": 4,
         "issue_opened": 1,
         "issue_reopened": 1,
-        "pr_conversation_comment": 11,
-        "pr_inline_review_comment": 2,
+        "pr_discussion_comment": 11,
         "pr_merged": 3,
         "pr_opened": 5,
-        "pr_review": 3
+        "pr_review": 3,
+        "pr_review_comment": 2
       },
       "MDQ6VXNlcjcxMzIyNTc=": {
         "commit": 0,
@@ -4927,79 +4927,79 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       }
     },
     "distinct_actors": {
       "bot": 3,
       "human": 9,
       "total": 12,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 1,
         "human": 5,
         "total": 6,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 6,
         "total": 6,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 4,
         "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 1,
         "total": 1,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 2,
         "human": 5,
         "total": 7,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 3,
-        "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 4,
         "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 1,
         "human": 5,
         "total": 6,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -5008,11 +5008,11 @@
       "issue_comment": 15,
       "issue_opened": 9,
       "issue_reopened": 1,
-      "pr_conversation_comment": 46,
-      "pr_inline_review_comment": 28,
+      "pr_discussion_comment": 46,
       "pr_merged": 13,
       "pr_opened": 13,
-      "pr_review": 29
+      "pr_review": 29,
+      "pr_review_comment": 28
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -5020,11 +5020,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

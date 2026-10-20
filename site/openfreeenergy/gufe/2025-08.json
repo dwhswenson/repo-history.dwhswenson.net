@@ -7,7 +7,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6Gkbii",
+      "id": "pr_review:PRR_kwDOHD_0tM64YXEu",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM64YXEu",
+        "state": "COMMENTED",
+        "submitted_at": "2025-08-06T16:23:04Z"
+      },
+      "occurred_at": "2025-08-06T16:23:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#pullrequestreview-3093393710"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6Gkbii",
       "metadata": {
         "created_at": "2025-08-06T16:23:03Z",
         "outdated": true,
@@ -28,33 +53,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2257696930"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOHD_0tM64YXEu",
-      "metadata": {
-        "source_node_id": "PRR_kwDOHD_0tM64YXEu",
-        "state": "COMMENTED",
-        "submitted_at": "2025-08-06T16:23:04Z"
-      },
-      "occurred_at": "2025-08-06T16:23:04Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#pullrequestreview-3093393710"
     },
     {
       "credits": [
@@ -144,37 +144,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6Grona",
-      "metadata": {
-        "created_at": "2025-08-07T08:45:20Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-07T08:45:21Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM64ilUu",
-        "source_node_id": "PRRC_kwDOHD_0tM6Grona",
-        "thread_node_id": "PRRT_kwDOHD_0tM5W1Tvu",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-07T08:45:21Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6gKtes",
-        "number": 594,
-        "title": "Added Protocol how-to doc",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259585498"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOHD_0tM64ilUu",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM64ilUu",
@@ -200,19 +169,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6Grsxn",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6Grona",
       "metadata": {
-        "created_at": "2025-08-07T08:51:12Z",
-        "outdated": false,
+        "created_at": "2025-08-07T08:45:20Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-07T08:51:12Z",
+        "published_at": "2025-08-07T08:45:21Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM64isel",
-        "source_node_id": "PRRC_kwDOHD_0tM6Grsxn",
-        "thread_node_id": "PRRT_kwDOHD_0tM5W1Wo6",
+        "review_node_id": "PRR_kwDOHD_0tM64ilUu",
+        "source_node_id": "PRRC_kwDOHD_0tM6Grona",
+        "thread_node_id": "PRRT_kwDOHD_0tM5W1Tvu",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-07T08:51:12Z",
+      "occurred_at": "2025-08-07T08:45:21Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEzMjY4MTE=",
         "kind": "pull_request",
@@ -221,8 +190,8 @@
         "title": "Added Protocol how-to doc",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259602535"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259585498"
     },
     {
       "credits": [
@@ -256,19 +225,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6GruGJ",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6Grsxn",
       "metadata": {
-        "created_at": "2025-08-07T08:53:10Z",
+        "created_at": "2025-08-07T08:51:12Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2025-08-07T08:53:10Z",
+        "published_at": "2025-08-07T08:51:12Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM64iuiM",
-        "source_node_id": "PRRC_kwDOHD_0tM6GruGJ",
+        "review_node_id": "PRR_kwDOHD_0tM64isel",
+        "source_node_id": "PRRC_kwDOHD_0tM6Grsxn",
         "thread_node_id": "PRRT_kwDOHD_0tM5W1Wo6",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-07T08:53:10Z",
+      "occurred_at": "2025-08-07T08:51:12Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEzMjY4MTE=",
         "kind": "pull_request",
@@ -277,8 +246,8 @@
         "title": "Added Protocol how-to doc",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259607945"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259602535"
     },
     {
       "credits": [
@@ -312,19 +281,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6GrvMG",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6GruGJ",
       "metadata": {
-        "created_at": "2025-08-07T08:54:36Z",
-        "outdated": true,
+        "created_at": "2025-08-07T08:53:10Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2025-08-07T08:54:36Z",
+        "published_at": "2025-08-07T08:53:10Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM64iwL6",
-        "source_node_id": "PRRC_kwDOHD_0tM6GrvMG",
-        "thread_node_id": "PRRT_kwDOHD_0tM5W1YWl",
+        "review_node_id": "PRR_kwDOHD_0tM64iuiM",
+        "source_node_id": "PRRC_kwDOHD_0tM6GruGJ",
+        "thread_node_id": "PRRT_kwDOHD_0tM5W1Wo6",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-07T08:54:36Z",
+      "occurred_at": "2025-08-07T08:53:10Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEzMjY4MTE=",
         "kind": "pull_request",
@@ -333,8 +302,8 @@
         "title": "Added Protocol how-to doc",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259612422"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259607945"
     },
     {
       "credits": [
@@ -368,19 +337,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6GryrJ",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6GrvMG",
       "metadata": {
-        "created_at": "2025-08-07T08:59:57Z",
+        "created_at": "2025-08-07T08:54:36Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-07T08:59:57Z",
+        "published_at": "2025-08-07T08:54:36Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM64i1D9",
-        "source_node_id": "PRRC_kwDOHD_0tM6GryrJ",
-        "thread_node_id": "PRRT_kwDOHD_0tM5W1a5Z",
+        "review_node_id": "PRR_kwDOHD_0tM64iwL6",
+        "source_node_id": "PRRC_kwDOHD_0tM6GrvMG",
+        "thread_node_id": "PRRT_kwDOHD_0tM5W1YWl",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-07T08:59:57Z",
+      "occurred_at": "2025-08-07T08:54:36Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEzMjY4MTE=",
         "kind": "pull_request",
@@ -389,8 +358,8 @@
         "title": "Added Protocol how-to doc",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259626697"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259612422"
     },
     {
       "credits": [
@@ -424,19 +393,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6Gr0N5",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6GryrJ",
       "metadata": {
-        "created_at": "2025-08-07T09:02:29Z",
-        "outdated": false,
+        "created_at": "2025-08-07T08:59:57Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-07T09:02:29Z",
+        "published_at": "2025-08-07T08:59:57Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM64i3HR",
-        "source_node_id": "PRRC_kwDOHD_0tM6Gr0N5",
-        "thread_node_id": "PRRT_kwDOHD_0tM5W1cBw",
+        "review_node_id": "PRR_kwDOHD_0tM64i1D9",
+        "source_node_id": "PRRC_kwDOHD_0tM6GryrJ",
+        "thread_node_id": "PRRT_kwDOHD_0tM5W1a5Z",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-07T09:02:29Z",
+      "occurred_at": "2025-08-07T08:59:57Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEzMjY4MTE=",
         "kind": "pull_request",
@@ -445,8 +414,8 @@
         "title": "Added Protocol how-to doc",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259633017"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259626697"
     },
     {
       "credits": [
@@ -480,19 +449,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6Gr2BX",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6Gr0N5",
       "metadata": {
-        "created_at": "2025-08-07T09:05:32Z",
+        "created_at": "2025-08-07T09:02:29Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2025-08-07T09:05:32Z",
+        "published_at": "2025-08-07T09:02:29Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM64i5ff",
-        "source_node_id": "PRRC_kwDOHD_0tM6Gr2BX",
+        "review_node_id": "PRR_kwDOHD_0tM64i3HR",
+        "source_node_id": "PRRC_kwDOHD_0tM6Gr0N5",
         "thread_node_id": "PRRT_kwDOHD_0tM5W1cBw",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-07T09:05:32Z",
+      "occurred_at": "2025-08-07T09:02:29Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEzMjY4MTE=",
         "kind": "pull_request",
@@ -501,8 +470,8 @@
         "title": "Added Protocol how-to doc",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259640407"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259633017"
     },
     {
       "credits": [
@@ -536,19 +505,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6Gr5nQ",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6Gr2BX",
       "metadata": {
-        "created_at": "2025-08-07T09:11:41Z",
+        "created_at": "2025-08-07T09:05:32Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2025-08-07T09:11:41Z",
+        "published_at": "2025-08-07T09:05:32Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM64i-Q6",
-        "source_node_id": "PRRC_kwDOHD_0tM6Gr5nQ",
-        "thread_node_id": "PRRT_kwDOHD_0tM5W1f6c",
+        "review_node_id": "PRR_kwDOHD_0tM64i5ff",
+        "source_node_id": "PRRC_kwDOHD_0tM6Gr2BX",
+        "thread_node_id": "PRRT_kwDOHD_0tM5W1cBw",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-07T09:11:41Z",
+      "occurred_at": "2025-08-07T09:05:32Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEzMjY4MTE=",
         "kind": "pull_request",
@@ -557,8 +526,8 @@
         "title": "Added Protocol how-to doc",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259655120"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259640407"
     },
     {
       "credits": [
@@ -592,19 +561,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6Gr7bk",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6Gr5nQ",
       "metadata": {
-        "created_at": "2025-08-07T09:14:54Z",
+        "created_at": "2025-08-07T09:11:41Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2025-08-07T09:14:54Z",
+        "published_at": "2025-08-07T09:11:41Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM64jAsT",
-        "source_node_id": "PRRC_kwDOHD_0tM6Gr7bk",
-        "thread_node_id": "PRRT_kwDOHD_0tM5W1hOB",
+        "review_node_id": "PRR_kwDOHD_0tM64i-Q6",
+        "source_node_id": "PRRC_kwDOHD_0tM6Gr5nQ",
+        "thread_node_id": "PRRT_kwDOHD_0tM5W1f6c",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-07T09:14:54Z",
+      "occurred_at": "2025-08-07T09:11:41Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEzMjY4MTE=",
         "kind": "pull_request",
@@ -613,8 +582,8 @@
         "title": "Added Protocol how-to doc",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259662564"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259655120"
     },
     {
       "credits": [
@@ -640,6 +609,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#pullrequestreview-3096185619"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6Gr7bk",
+      "metadata": {
+        "created_at": "2025-08-07T09:14:54Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-07T09:14:54Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM64jAsT",
+        "source_node_id": "PRRC_kwDOHD_0tM6Gr7bk",
+        "thread_node_id": "PRRT_kwDOHD_0tM5W1hOB",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-07T09:14:54Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6gKtes",
+        "number": 594,
+        "title": "Added Protocol how-to doc",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2259662564"
     },
     {
       "credits": [
@@ -671,7 +671,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM687Pxe",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM687Pxe",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM687Pxe"
       },
@@ -684,39 +684,8 @@
         "title": "Proposal for adding `get_convergence` method to `ProtocolResult`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/599"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/599#issuecomment-3169647710"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6G-DV1",
-      "metadata": {
-        "created_at": "2025-08-09T03:42:56Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-09T03:42:56Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM647h_2",
-        "source_node_id": "PRRC_kwDOHD_0tM6G-DV1",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XCQ25",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-09T03:42:56Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6i18Xo",
-        "number": 599,
-        "title": "Proposal for adding `get_convergence` method to `ProtocolResult`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/599"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/599#discussion_r2264413557"
     },
     {
       "credits": [
@@ -742,6 +711,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/599#pullrequestreview-3102613494"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6G-DV1",
+      "metadata": {
+        "created_at": "2025-08-09T03:42:56Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-09T03:42:56Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM647h_2",
+        "source_node_id": "PRRC_kwDOHD_0tM6G-DV1",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XCQ25",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-09T03:42:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6i18Xo",
+        "number": 599,
+        "title": "Proposal for adding `get_convergence` method to `ProtocolResult`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/599"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/599#discussion_r2264413557"
     },
     {
       "credits": [
@@ -866,37 +866,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HJ13t",
-      "metadata": {
-        "created_at": "2025-08-11T17:26:01Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-11T17:26:01Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65MEX_",
-        "source_node_id": "PRRC_kwDOHD_0tM6HJ13t",
-        "thread_node_id": "PRRT_kwDOHD_0tM5W1Tvu",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-11T17:26:01Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6gKtes",
-        "number": 594,
-        "title": "Added Protocol how-to doc",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2267504109"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOHD_0tM65MEX_",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM65MEX_",
@@ -918,11 +887,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HJ13t",
+      "metadata": {
+        "created_at": "2025-08-11T17:26:01Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-11T17:26:01Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM65MEX_",
+        "source_node_id": "PRRC_kwDOHD_0tM6HJ13t",
+        "thread_node_id": "PRRT_kwDOHD_0tM5W1Tvu",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-11T17:26:01Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6gKtes",
+        "number": 594,
+        "title": "Added Protocol how-to doc",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2267504109"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM69UWba",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM69UWba",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM69UWba"
       },
@@ -935,101 +935,8 @@
         "title": "Allow ProtocolUnitResults to store stderr and stdout bytes",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/600"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#issuecomment-3176228570"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HSARo",
-      "metadata": {
-        "created_at": "2025-08-12T12:12:54Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-12T12:34:37Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65Y1Wh",
-        "source_node_id": "PRRC_kwDOHD_0tM6HSARo",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XQrZz",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-12T12:34:37Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6gKtes",
-        "number": 594,
-        "title": "Added Protocol how-to doc",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269643880"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HSL4w",
-      "metadata": {
-        "created_at": "2025-08-12T12:32:56Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-12T12:34:37Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65Y1Wh",
-        "source_node_id": "PRRC_kwDOHD_0tM6HSL4w",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XQz4g",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-12T12:34:37Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6gKtes",
-        "number": 594,
-        "title": "Added Protocol how-to doc",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269691440"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HSMo8",
-      "metadata": {
-        "created_at": "2025-08-12T12:34:04Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-12T12:34:37Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65Y1Wh",
-        "source_node_id": "PRRC_kwDOHD_0tM6HSMo8",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XQ0ak",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-12T12:34:37Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6gKtes",
-        "number": 594,
-        "title": "Added Protocol how-to doc",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269694524"
     },
     {
       "credits": [
@@ -1059,23 +966,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HSRWo",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HSARo",
       "metadata": {
-        "created_at": "2025-08-12T12:40:49Z",
+        "created_at": "2025-08-12T12:12:54Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-12T12:40:50Z",
+        "published_at": "2025-08-12T12:34:37Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65ZUEL",
-        "source_node_id": "PRRC_kwDOHD_0tM6HSRWo",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XQ315",
+        "review_node_id": "PRR_kwDOHD_0tM65Y1Wh",
+        "source_node_id": "PRRC_kwDOHD_0tM6HSARo",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XQrZz",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-12T12:40:50Z",
+      "occurred_at": "2025-08-12T12:34:37Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEzMjY4MTE=",
         "kind": "pull_request",
@@ -1084,8 +991,70 @@
         "title": "Added Protocol how-to doc",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269713832"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269643880"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HSL4w",
+      "metadata": {
+        "created_at": "2025-08-12T12:32:56Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-12T12:34:37Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM65Y1Wh",
+        "source_node_id": "PRRC_kwDOHD_0tM6HSL4w",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XQz4g",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-12T12:34:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6gKtes",
+        "number": 594,
+        "title": "Added Protocol how-to doc",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269691440"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HSMo8",
+      "metadata": {
+        "created_at": "2025-08-12T12:34:04Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-12T12:34:37Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM65Y1Wh",
+        "source_node_id": "PRRC_kwDOHD_0tM6HSMo8",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XQ0ak",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-12T12:34:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6gKtes",
+        "number": 594,
+        "title": "Added Protocol how-to doc",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269694524"
     },
     {
       "credits": [
@@ -1119,50 +1088,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HSSsf",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HSRWo",
       "metadata": {
-        "created_at": "2025-08-12T12:42:43Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-12T13:25:10Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
-        "source_node_id": "PRRC_kwDOHD_0tM6HSSsf",
-        "thread_node_id": "PRRT_kwDOHD_0tM5W1Wo6",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-12T13:25:10Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6gKtes",
-        "number": 594,
-        "title": "Added Protocol how-to doc",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269719327"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HSUHE",
-      "metadata": {
-        "created_at": "2025-08-12T12:44:36Z",
+        "created_at": "2025-08-12T12:40:49Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-12T13:25:10Z",
+        "published_at": "2025-08-12T12:40:50Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
-        "source_node_id": "PRRC_kwDOHD_0tM6HSUHE",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Vdo6z",
+        "review_node_id": "PRR_kwDOHD_0tM65ZUEL",
+        "source_node_id": "PRRC_kwDOHD_0tM6HSRWo",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XQ315",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-12T13:25:10Z",
+      "occurred_at": "2025-08-12T12:40:50Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEzMjY4MTE=",
         "kind": "pull_request",
@@ -1171,225 +1109,8 @@
         "title": "Added Protocol how-to doc",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269725124"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HSVm1",
-      "metadata": {
-        "created_at": "2025-08-12T12:46:48Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-12T13:25:10Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
-        "source_node_id": "PRRC_kwDOHD_0tM6HSVm1",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XQ6-B",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-12T13:25:10Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6gKtes",
-        "number": 594,
-        "title": "Added Protocol how-to doc",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269731253"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HSX9V",
-      "metadata": {
-        "created_at": "2025-08-12T12:50:16Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-12T13:25:10Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
-        "source_node_id": "PRRC_kwDOHD_0tM6HSX9V",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XQ8uZ",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-12T13:25:10Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6gKtes",
-        "number": 594,
-        "title": "Added Protocol how-to doc",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269740885"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HSXnG",
-      "metadata": {
-        "created_at": "2025-08-12T12:49:45Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-12T13:25:10Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
-        "source_node_id": "PRRC_kwDOHD_0tM6HSXnG",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XQ8dp",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-12T13:25:10Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6gKtes",
-        "number": 594,
-        "title": "Added Protocol how-to doc",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269739462"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HSbSg",
-      "metadata": {
-        "created_at": "2025-08-12T12:55:01Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-12T13:25:10Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
-        "source_node_id": "PRRC_kwDOHD_0tM6HSbSg",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XQ_L2",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-12T13:25:10Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6gKtes",
-        "number": 594,
-        "title": "Added Protocol how-to doc",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269754528"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HSern",
-      "metadata": {
-        "created_at": "2025-08-12T12:59:31Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-12T13:25:10Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
-        "source_node_id": "PRRC_kwDOHD_0tM6HSern",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XRBjW",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-12T13:25:10Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6gKtes",
-        "number": 594,
-        "title": "Added Protocol how-to doc",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269768423"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HSs3j",
-      "metadata": {
-        "created_at": "2025-08-12T13:20:41Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-12T13:25:10Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
-        "source_node_id": "PRRC_kwDOHD_0tM6HSs3j",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XRMG8",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-12T13:25:10Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6gKtes",
-        "number": 594,
-        "title": "Added Protocol how-to doc",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269826531"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HSvKP",
-      "metadata": {
-        "created_at": "2025-08-12T13:24:09Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-12T13:25:10Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
-        "source_node_id": "PRRC_kwDOHD_0tM6HSvKP",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XRNxW",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-12T13:25:10Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6gKtes",
-        "number": 594,
-        "title": "Added Protocol how-to doc",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269835919"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269713832"
     },
     {
       "credits": [
@@ -1419,33 +1140,281 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HVwU9",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HSSsf",
       "metadata": {
-        "created_at": "2025-08-12T17:25:51Z",
-        "outdated": true,
+        "created_at": "2025-08-12T12:42:43Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2025-08-12T17:25:51Z",
+        "published_at": "2025-08-12T13:25:10Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM65fOg9",
-        "source_node_id": "PRRC_kwDOHD_0tM6HVwU9",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XTYj2",
+        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
+        "source_node_id": "PRRC_kwDOHD_0tM6HSSsf",
+        "thread_node_id": "PRRT_kwDOHD_0tM5W1Wo6",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-12T17:25:51Z",
+      "occurred_at": "2025-08-12T13:25:10Z",
       "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
         "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+        "node_id": "PR_kwDOHD_0tM6gKtes",
+        "number": 594,
+        "title": "Added Protocol how-to doc",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2270627133"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269719327"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HSUHE",
+      "metadata": {
+        "created_at": "2025-08-12T12:44:36Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-12T13:25:10Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
+        "source_node_id": "PRRC_kwDOHD_0tM6HSUHE",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Vdo6z",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-12T13:25:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6gKtes",
+        "number": 594,
+        "title": "Added Protocol how-to doc",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269725124"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HSVm1",
+      "metadata": {
+        "created_at": "2025-08-12T12:46:48Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-12T13:25:10Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
+        "source_node_id": "PRRC_kwDOHD_0tM6HSVm1",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XQ6-B",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-12T13:25:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6gKtes",
+        "number": 594,
+        "title": "Added Protocol how-to doc",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269731253"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HSX9V",
+      "metadata": {
+        "created_at": "2025-08-12T12:50:16Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-12T13:25:10Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
+        "source_node_id": "PRRC_kwDOHD_0tM6HSX9V",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XQ8uZ",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-12T13:25:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6gKtes",
+        "number": 594,
+        "title": "Added Protocol how-to doc",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269740885"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HSXnG",
+      "metadata": {
+        "created_at": "2025-08-12T12:49:45Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-12T13:25:10Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
+        "source_node_id": "PRRC_kwDOHD_0tM6HSXnG",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XQ8dp",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-12T13:25:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6gKtes",
+        "number": 594,
+        "title": "Added Protocol how-to doc",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269739462"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HSbSg",
+      "metadata": {
+        "created_at": "2025-08-12T12:55:01Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-12T13:25:10Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
+        "source_node_id": "PRRC_kwDOHD_0tM6HSbSg",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XQ_L2",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-12T13:25:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6gKtes",
+        "number": 594,
+        "title": "Added Protocol how-to doc",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269754528"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HSern",
+      "metadata": {
+        "created_at": "2025-08-12T12:59:31Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-12T13:25:10Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
+        "source_node_id": "PRRC_kwDOHD_0tM6HSern",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XRBjW",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-12T13:25:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6gKtes",
+        "number": 594,
+        "title": "Added Protocol how-to doc",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269768423"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HSs3j",
+      "metadata": {
+        "created_at": "2025-08-12T13:20:41Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-12T13:25:10Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
+        "source_node_id": "PRRC_kwDOHD_0tM6HSs3j",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XRMG8",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-12T13:25:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6gKtes",
+        "number": 594,
+        "title": "Added Protocol how-to doc",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269826531"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HSvKP",
+      "metadata": {
+        "created_at": "2025-08-12T13:24:09Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-12T13:25:10Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM65ZWGq",
+        "source_node_id": "PRRC_kwDOHD_0tM6HSvKP",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XRNxW",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-12T13:25:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEzMjY4MTE=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6gKtes",
+        "number": 594,
+        "title": "Added Protocol how-to doc",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/594"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/594#discussion_r2269835919"
     },
     {
       "credits": [
@@ -1471,6 +1440,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#pullrequestreview-3111970877"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HVwU9",
+      "metadata": {
+        "created_at": "2025-08-12T17:25:51Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-12T17:25:51Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM65fOg9",
+        "source_node_id": "PRRC_kwDOHD_0tM6HVwU9",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XTYj2",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-12T17:25:51Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2270627133"
     },
     {
       "credits": [
@@ -1571,7 +1571,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM6-I3po",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM6-I3po",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM6-I3po"
       },
@@ -1584,39 +1584,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#issuecomment-3189996136"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6HytvK",
-      "metadata": {
-        "created_at": "2025-08-15T04:44:12Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-15T04:44:12Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM66Io7j",
-        "source_node_id": "PRRC_kwDOHD_0tM6HytvK",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Xn0Mk",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-15T04:44:12Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2278218698"
     },
     {
       "credits": [
@@ -1650,7 +1619,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM6-LaIG",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6HytvK",
+      "metadata": {
+        "created_at": "2025-08-15T04:44:12Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-15T04:44:12Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM66Io7j",
+        "source_node_id": "PRRC_kwDOHD_0tM6HytvK",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Xn0Mk",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-15T04:44:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2278218698"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM6-LaIG",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM6-LaIG"
       },
@@ -1663,7 +1663,7 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#issuecomment-3190661638"
     },
     {
@@ -1696,7 +1696,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM6-TVrl",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM6-TVrl",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM6-TVrl"
       },
@@ -1709,132 +1709,8 @@
         "title": "adding charge difference to ligandmapping",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/602"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/602#issuecomment-3192740581"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6H5O0o",
-      "metadata": {
-        "created_at": "2025-08-15T21:34:47Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-15T21:53:04Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM66Rw3h",
-        "source_node_id": "PRRC_kwDOHD_0tM6H5O0o",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XsQm2",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-15T21:53:04Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjcwODUxNjQ=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6jE1R4",
-        "number": 600,
-        "title": "Allow ProtocolUnitResults to store stderr and stdout bytes",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/600"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#discussion_r2279927080"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6H5O6z",
-      "metadata": {
-        "created_at": "2025-08-15T21:35:11Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-15T21:53:04Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM66Rw3h",
-        "source_node_id": "PRRC_kwDOHD_0tM6H5O6z",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XsQrk",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-15T21:53:04Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjcwODUxNjQ=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6jE1R4",
-        "number": 600,
-        "title": "Allow ProtocolUnitResults to store stderr and stdout bytes",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/600"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#discussion_r2279927475"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6H5S8_",
-      "metadata": {
-        "created_at": "2025-08-15T21:51:11Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-15T21:53:04Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM66Rw3h",
-        "source_node_id": "PRRC_kwDOHD_0tM6H5S8_",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XsTsa",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-15T21:53:04Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjcwODUxNjQ=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6jE1R4",
-        "number": 600,
-        "title": "Allow ProtocolUnitResults to store stderr and stdout bytes",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/600"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#discussion_r2279943999"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6H5Skj",
-      "metadata": {
-        "created_at": "2025-08-15T21:49:27Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-15T21:53:04Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM66Rw3h",
-        "source_node_id": "PRRC_kwDOHD_0tM6H5Skj",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XsTaD",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-15T21:53:04Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjcwODUxNjQ=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6jE1R4",
-        "number": 600,
-        "title": "Allow ProtocolUnitResults to store stderr and stdout bytes",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/600"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#discussion_r2279942435"
     },
     {
       "credits": [
@@ -1860,6 +1736,130 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#pullrequestreview-3125218785"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6H5O0o",
+      "metadata": {
+        "created_at": "2025-08-15T21:34:47Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-15T21:53:04Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM66Rw3h",
+        "source_node_id": "PRRC_kwDOHD_0tM6H5O0o",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XsQm2",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-15T21:53:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcwODUxNjQ=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6jE1R4",
+        "number": 600,
+        "title": "Allow ProtocolUnitResults to store stderr and stdout bytes",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/600"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#discussion_r2279927080"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6H5O6z",
+      "metadata": {
+        "created_at": "2025-08-15T21:35:11Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-15T21:53:04Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM66Rw3h",
+        "source_node_id": "PRRC_kwDOHD_0tM6H5O6z",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XsQrk",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-15T21:53:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcwODUxNjQ=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6jE1R4",
+        "number": 600,
+        "title": "Allow ProtocolUnitResults to store stderr and stdout bytes",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/600"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#discussion_r2279927475"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6H5S8_",
+      "metadata": {
+        "created_at": "2025-08-15T21:51:11Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-15T21:53:04Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM66Rw3h",
+        "source_node_id": "PRRC_kwDOHD_0tM6H5S8_",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XsTsa",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-15T21:53:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcwODUxNjQ=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6jE1R4",
+        "number": 600,
+        "title": "Allow ProtocolUnitResults to store stderr and stdout bytes",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/600"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#discussion_r2279943999"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6H5Skj",
+      "metadata": {
+        "created_at": "2025-08-15T21:49:27Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-15T21:53:04Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM66Rw3h",
+        "source_node_id": "PRRC_kwDOHD_0tM6H5Skj",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XsTaD",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-15T21:53:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcwODUxNjQ=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6jE1R4",
+        "number": 600,
+        "title": "Allow ProtocolUnitResults to store stderr and stdout bytes",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/600"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#discussion_r2279942435"
     },
     {
       "credits": [
@@ -1893,37 +1893,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IC6KF",
-      "metadata": {
-        "created_at": "2025-08-18T13:47:52Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-18T13:47:52Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM66eJK4",
-        "source_node_id": "PRRC_kwDOHD_0tM6IC6KF",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XsTaD",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-18T13:47:52Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjcwODUxNjQ=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6jE1R4",
-        "number": 600,
-        "title": "Allow ProtocolUnitResults to store stderr and stdout bytes",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/600"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#discussion_r2282463877"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcwODUxNjQ=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOHD_0tM66eJK4",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM66eJK4",
@@ -1949,19 +1918,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IC-Ig",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IC6KF",
       "metadata": {
-        "created_at": "2025-08-18T13:51:32Z",
-        "outdated": true,
+        "created_at": "2025-08-18T13:47:52Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2025-08-18T13:51:32Z",
+        "published_at": "2025-08-18T13:47:52Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM66eOyA",
-        "source_node_id": "PRRC_kwDOHD_0tM6IC-Ig",
-        "thread_node_id": "PRRT_kwDOHD_0tM5XsTsa",
+        "review_node_id": "PRR_kwDOHD_0tM66eJK4",
+        "source_node_id": "PRRC_kwDOHD_0tM6IC6KF",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XsTaD",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-18T13:51:32Z",
+      "occurred_at": "2025-08-18T13:47:52Z",
       "subject": {
         "author_key": "MDQ6VXNlcjcwODUxNjQ=",
         "kind": "pull_request",
@@ -1970,8 +1939,8 @@
         "title": "Allow ProtocolUnitResults to store stderr and stdout bytes",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/600"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#discussion_r2282480160"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#discussion_r2282463877"
     },
     {
       "credits": [
@@ -1997,6 +1966,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#pullrequestreview-3128487040"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcwODUxNjQ=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IC-Ig",
+      "metadata": {
+        "created_at": "2025-08-18T13:51:32Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-18T13:51:32Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM66eOyA",
+        "source_node_id": "PRRC_kwDOHD_0tM6IC-Ig",
+        "thread_node_id": "PRRT_kwDOHD_0tM5XsTsa",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-18T13:51:32Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcwODUxNjQ=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6jE1R4",
+        "number": 600,
+        "title": "Allow ProtocolUnitResults to store stderr and stdout bytes",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/600"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/600#discussion_r2282480160"
     },
     {
       "credits": [
@@ -2107,37 +2107,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IP60e",
-      "metadata": {
-        "created_at": "2025-08-19T17:19:30Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-19T17:19:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM66wLZy",
-        "source_node_id": "PRRC_kwDOHD_0tM6IP60e",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X8odl",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-19T17:19:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2285874462"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOHD_0tM66wLZy",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM66wLZy",
@@ -2159,23 +2128,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITVgC",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IP60e",
       "metadata": {
-        "created_at": "2025-08-20T01:31:27Z",
+        "created_at": "2025-08-19T17:19:30Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
+        "published_at": "2025-08-19T17:19:30Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITVgC",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_BVd",
+        "review_node_id": "PRR_kwDOHD_0tM66wLZy",
+        "source_node_id": "PRRC_kwDOHD_0tM6IP60e",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X8odl",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-20T03:06:09Z",
+      "occurred_at": "2025-08-19T17:19:30Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -2184,535 +2153,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286770178"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITYqW",
-      "metadata": {
-        "created_at": "2025-08-20T01:45:36Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITYqW",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_Di4",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286783126"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITZmt",
-      "metadata": {
-        "created_at": "2025-08-20T01:48:26Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITZmt",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_EMi",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286786989"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITaAC",
-      "metadata": {
-        "created_at": "2025-08-20T01:49:59Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITaAC",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_EfN",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286788610"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITaFD",
-      "metadata": {
-        "created_at": "2025-08-20T01:50:18Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITaFD",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_Ei1",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286788931"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITb7r",
-      "metadata": {
-        "created_at": "2025-08-20T01:57:20Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITb7r",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_F7-",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286796523"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITbPn",
-      "metadata": {
-        "created_at": "2025-08-20T01:54:46Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITbPn",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_FbO",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286793703"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITh-I",
-      "metadata": {
-        "created_at": "2025-08-20T02:22:32Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITh-I",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_KP5",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286821256"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IThAh",
-      "metadata": {
-        "created_at": "2025-08-20T02:18:18Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6IThAh",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_JkN",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286817313"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IThjT",
-      "metadata": {
-        "created_at": "2025-08-20T02:20:49Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6IThjT",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_J8o",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286819539"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IThpB",
-      "metadata": {
-        "created_at": "2025-08-20T02:21:11Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6IThpB",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_KBC",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286819905"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITiOk",
-      "metadata": {
-        "created_at": "2025-08-20T02:23:34Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITiOk",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_KcL",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286822308"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITkw8",
-      "metadata": {
-        "created_at": "2025-08-20T02:33:02Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITkw8",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_MQB",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286832700"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITlLR",
-      "metadata": {
-        "created_at": "2025-08-20T02:34:48Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITlLR",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_Mhc",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286834385"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IToeT",
-      "metadata": {
-        "created_at": "2025-08-20T02:48:53Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6IToeT",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_O3R",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286847891"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITpSK",
-      "metadata": {
-        "created_at": "2025-08-20T02:52:05Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITpSK",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_Pe2",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286851210"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITr-K",
-      "metadata": {
-        "created_at": "2025-08-20T03:03:30Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITr-K",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_Rbt",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286862218"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ITsYP",
-      "metadata": {
-        "created_at": "2025-08-20T03:05:18Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T03:06:09Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM661MpS",
-        "source_node_id": "PRRC_kwDOHD_0tM6ITsYP",
-        "thread_node_id": "PRRT_kwDOHD_0tM5V40PJ",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T03:06:09Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286863887"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2285874462"
     },
     {
       "credits": [
@@ -2742,23 +2184,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IbHti",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITVgC",
       "metadata": {
-        "created_at": "2025-08-20T17:11:51Z",
+        "created_at": "2025-08-20T01:31:27Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-20T17:11:51Z",
+        "published_at": "2025-08-20T03:06:09Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67A1TD",
-        "source_node_id": "PRRC_kwDOHD_0tM6IbHti",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_EMi",
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITVgC",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_BVd",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-20T17:11:51Z",
+      "occurred_at": "2025-08-20T03:06:09Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -2767,8 +2209,535 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288810850"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286770178"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITYqW",
+      "metadata": {
+        "created_at": "2025-08-20T01:45:36Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITYqW",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_Di4",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286783126"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITZmt",
+      "metadata": {
+        "created_at": "2025-08-20T01:48:26Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITZmt",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_EMi",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286786989"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITaAC",
+      "metadata": {
+        "created_at": "2025-08-20T01:49:59Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITaAC",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_EfN",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286788610"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITaFD",
+      "metadata": {
+        "created_at": "2025-08-20T01:50:18Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITaFD",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_Ei1",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286788931"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITb7r",
+      "metadata": {
+        "created_at": "2025-08-20T01:57:20Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITb7r",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_F7-",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286796523"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITbPn",
+      "metadata": {
+        "created_at": "2025-08-20T01:54:46Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITbPn",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_FbO",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286793703"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITh-I",
+      "metadata": {
+        "created_at": "2025-08-20T02:22:32Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITh-I",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_KP5",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286821256"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IThAh",
+      "metadata": {
+        "created_at": "2025-08-20T02:18:18Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6IThAh",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_JkN",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286817313"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IThjT",
+      "metadata": {
+        "created_at": "2025-08-20T02:20:49Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6IThjT",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_J8o",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286819539"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IThpB",
+      "metadata": {
+        "created_at": "2025-08-20T02:21:11Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6IThpB",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_KBC",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286819905"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITiOk",
+      "metadata": {
+        "created_at": "2025-08-20T02:23:34Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITiOk",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_KcL",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286822308"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITkw8",
+      "metadata": {
+        "created_at": "2025-08-20T02:33:02Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITkw8",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_MQB",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286832700"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITlLR",
+      "metadata": {
+        "created_at": "2025-08-20T02:34:48Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITlLR",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_Mhc",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286834385"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IToeT",
+      "metadata": {
+        "created_at": "2025-08-20T02:48:53Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6IToeT",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_O3R",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286847891"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITpSK",
+      "metadata": {
+        "created_at": "2025-08-20T02:52:05Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITpSK",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_Pe2",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286851210"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITr-K",
+      "metadata": {
+        "created_at": "2025-08-20T03:03:30Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITr-K",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_Rbt",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286862218"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ITsYP",
+      "metadata": {
+        "created_at": "2025-08-20T03:05:18Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T03:06:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM661MpS",
+        "source_node_id": "PRRC_kwDOHD_0tM6ITsYP",
+        "thread_node_id": "PRRT_kwDOHD_0tM5V40PJ",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T03:06:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2286863887"
     },
     {
       "credits": [
@@ -2802,19 +2771,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IbJ0Z",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IbHti",
       "metadata": {
-        "created_at": "2025-08-20T17:15:51Z",
-        "outdated": false,
+        "created_at": "2025-08-20T17:11:51Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-20T17:15:51Z",
+        "published_at": "2025-08-20T17:11:51Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67A4yX",
-        "source_node_id": "PRRC_kwDOHD_0tM6IbJ0Z",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_Di4",
+        "review_node_id": "PRR_kwDOHD_0tM67A1TD",
+        "source_node_id": "PRRC_kwDOHD_0tM6IbHti",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_EMi",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-20T17:15:51Z",
+      "occurred_at": "2025-08-20T17:11:51Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -2823,8 +2792,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288819481"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288810850"
     },
     {
       "credits": [
@@ -2858,19 +2827,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IbMJi",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IbJ0Z",
       "metadata": {
-        "created_at": "2025-08-20T17:20:54Z",
-        "outdated": true,
+        "created_at": "2025-08-20T17:15:51Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2025-08-20T17:20:54Z",
+        "published_at": "2025-08-20T17:15:51Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67A80k",
-        "source_node_id": "PRRC_kwDOHD_0tM6IbMJi",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_Rbt",
+        "review_node_id": "PRR_kwDOHD_0tM67A4yX",
+        "source_node_id": "PRRC_kwDOHD_0tM6IbJ0Z",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_Di4",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-20T17:20:54Z",
+      "occurred_at": "2025-08-20T17:15:51Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -2879,8 +2848,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288829026"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288819481"
     },
     {
       "credits": [
@@ -2910,23 +2879,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IbPkk",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IbMJi",
       "metadata": {
-        "created_at": "2025-08-20T17:27:34Z",
+        "created_at": "2025-08-20T17:20:54Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-20T17:27:34Z",
+        "published_at": "2025-08-20T17:20:54Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67BCUq",
-        "source_node_id": "PRRC_kwDOHD_0tM6IbPkk",
+        "review_node_id": "PRR_kwDOHD_0tM67A80k",
+        "source_node_id": "PRRC_kwDOHD_0tM6IbMJi",
         "thread_node_id": "PRRT_kwDOHD_0tM5X_Rbt",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-20T17:27:34Z",
+      "occurred_at": "2025-08-20T17:20:54Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -2935,8 +2904,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288843044"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288829026"
     },
     {
       "credits": [
@@ -2970,19 +2939,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IbRL8",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IbPkk",
       "metadata": {
-        "created_at": "2025-08-20T17:30:37Z",
+        "created_at": "2025-08-20T17:27:34Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-20T17:30:37Z",
+        "published_at": "2025-08-20T17:27:34Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67BEnt",
-        "source_node_id": "PRRC_kwDOHD_0tM6IbRL8",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_KcL",
+        "review_node_id": "PRR_kwDOHD_0tM67BCUq",
+        "source_node_id": "PRRC_kwDOHD_0tM6IbPkk",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_Rbt",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-20T17:30:37Z",
+      "occurred_at": "2025-08-20T17:27:34Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -2991,8 +2960,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288849660"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288843044"
     },
     {
       "credits": [
@@ -3022,6 +2991,37 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IbRL8",
+      "metadata": {
+        "created_at": "2025-08-20T17:30:37Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-20T17:30:37Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM67BEnt",
+        "source_node_id": "PRRC_kwDOHD_0tM6IbRL8",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_KcL",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-20T17:30:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288849660"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
           "role": "author"
         }
@@ -3041,37 +3041,6 @@
       },
       "type": "issue_opened",
       "url": "https://github.com/OpenFreeEnergy/gufe/issues/603"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IbTrW",
-      "metadata": {
-        "created_at": "2025-08-20T17:35:37Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-20T17:35:39Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67BH3q",
-        "source_node_id": "PRRC_kwDOHD_0tM6IbTrW",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_F7-",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-20T17:35:39Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288859862"
     },
     {
       "credits": [
@@ -3105,19 +3074,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IbUDu",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IbTrW",
       "metadata": {
-        "created_at": "2025-08-20T17:36:31Z",
+        "created_at": "2025-08-20T17:35:37Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-20T17:36:32Z",
+        "published_at": "2025-08-20T17:35:39Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67BIbE",
-        "source_node_id": "PRRC_kwDOHD_0tM6IbUDu",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_FbO",
+        "review_node_id": "PRR_kwDOHD_0tM67BH3q",
+        "source_node_id": "PRRC_kwDOHD_0tM6IbTrW",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_F7-",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-20T17:36:32Z",
+      "occurred_at": "2025-08-20T17:35:39Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -3126,8 +3095,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288861422"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288859862"
     },
     {
       "credits": [
@@ -3161,19 +3130,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IbVZf",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IbUDu",
       "metadata": {
-        "created_at": "2025-08-20T17:39:15Z",
+        "created_at": "2025-08-20T17:36:31Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-20T17:39:15Z",
+        "published_at": "2025-08-20T17:36:32Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67BKSf",
-        "source_node_id": "PRRC_kwDOHD_0tM6IbVZf",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_JkN",
+        "review_node_id": "PRR_kwDOHD_0tM67BIbE",
+        "source_node_id": "PRRC_kwDOHD_0tM6IbUDu",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_FbO",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-20T17:39:15Z",
+      "occurred_at": "2025-08-20T17:36:32Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -3182,8 +3151,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288866911"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288861422"
     },
     {
       "credits": [
@@ -3217,19 +3186,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IbWSv",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IbVZf",
       "metadata": {
-        "created_at": "2025-08-20T17:40:56Z",
+        "created_at": "2025-08-20T17:39:15Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-20T17:40:56Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM67BLhL",
-        "source_node_id": "PRRC_kwDOHD_0tM6IbWSv",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_MQB",
+        "published_at": "2025-08-20T17:39:15Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM67BKSf",
+        "source_node_id": "PRRC_kwDOHD_0tM6IbVZf",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_JkN",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-20T17:40:56Z",
+      "occurred_at": "2025-08-20T17:39:15Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -3238,8 +3207,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288870575"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288866911"
     },
     {
       "credits": [
@@ -3273,19 +3242,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6Id-Ae",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IbWSv",
       "metadata": {
-        "created_at": "2025-08-21T00:02:37Z",
-        "outdated": false,
+        "created_at": "2025-08-20T17:40:56Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-21T00:02:37Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67E4W3",
-        "source_node_id": "PRRC_kwDOHD_0tM6Id-Ae",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_EfN",
+        "published_at": "2025-08-20T17:40:56Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM67BLhL",
+        "source_node_id": "PRRC_kwDOHD_0tM6IbWSv",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_MQB",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-21T00:02:37Z",
+      "occurred_at": "2025-08-20T17:40:56Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -3294,8 +3263,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2289557534"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2288870575"
     },
     {
       "credits": [
@@ -3329,19 +3298,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IeDdu",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6Id-Ae",
       "metadata": {
-        "created_at": "2025-08-21T00:23:10Z",
-        "outdated": true,
+        "created_at": "2025-08-21T00:02:37Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2025-08-21T00:23:10Z",
+        "published_at": "2025-08-21T00:02:37Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67E_RT",
-        "source_node_id": "PRRC_kwDOHD_0tM6IeDdu",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_Rbt",
+        "review_node_id": "PRR_kwDOHD_0tM67E4W3",
+        "source_node_id": "PRRC_kwDOHD_0tM6Id-Ae",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_EfN",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-21T00:23:10Z",
+      "occurred_at": "2025-08-21T00:02:37Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -3350,8 +3319,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2289579886"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2289557534"
     },
     {
       "credits": [
@@ -3381,23 +3350,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IefN_",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IeDdu",
       "metadata": {
-        "created_at": "2025-08-21T02:13:06Z",
+        "created_at": "2025-08-21T00:23:10Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-21T02:13:06Z",
+        "published_at": "2025-08-21T00:23:10Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67FnhH",
-        "source_node_id": "PRRC_kwDOHD_0tM6IefN_",
+        "review_node_id": "PRR_kwDOHD_0tM67E_RT",
+        "source_node_id": "PRRC_kwDOHD_0tM6IeDdu",
         "thread_node_id": "PRRT_kwDOHD_0tM5X_Rbt",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-21T02:13:06Z",
+      "occurred_at": "2025-08-21T00:23:10Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -3406,8 +3375,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2289693567"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2289579886"
     },
     {
       "credits": [
@@ -3437,23 +3406,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ImnpD",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IefN_",
       "metadata": {
-        "created_at": "2025-08-21T18:23:27Z",
+        "created_at": "2025-08-21T02:13:06Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-21T18:23:27Z",
+        "published_at": "2025-08-21T02:13:06Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67RI88",
-        "source_node_id": "PRRC_kwDOHD_0tM6ImnpD",
+        "review_node_id": "PRR_kwDOHD_0tM67FnhH",
+        "source_node_id": "PRRC_kwDOHD_0tM6IefN_",
         "thread_node_id": "PRRT_kwDOHD_0tM5X_Rbt",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-21T18:23:27Z",
+      "occurred_at": "2025-08-21T02:13:06Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -3462,8 +3431,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2291825219"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2289693567"
     },
     {
       "credits": [
@@ -3493,23 +3462,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ImwOJ",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ImnpD",
       "metadata": {
-        "created_at": "2025-08-21T18:41:47Z",
+        "created_at": "2025-08-21T18:23:27Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-21T18:41:47Z",
+        "published_at": "2025-08-21T18:23:27Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67RVbV",
-        "source_node_id": "PRRC_kwDOHD_0tM6ImwOJ",
+        "review_node_id": "PRR_kwDOHD_0tM67RI88",
+        "source_node_id": "PRRC_kwDOHD_0tM6ImnpD",
         "thread_node_id": "PRRT_kwDOHD_0tM5X_Rbt",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-21T18:41:47Z",
+      "occurred_at": "2025-08-21T18:23:27Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -3518,8 +3487,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2291860361"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2291825219"
     },
     {
       "credits": [
@@ -3553,19 +3522,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6ImxLk",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ImwOJ",
       "metadata": {
-        "created_at": "2025-08-21T18:43:51Z",
+        "created_at": "2025-08-21T18:41:47Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-21T18:43:52Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM67RWq0",
-        "source_node_id": "PRRC_kwDOHD_0tM6ImxLk",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_MQB",
+        "published_at": "2025-08-21T18:41:47Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM67RVbV",
+        "source_node_id": "PRRC_kwDOHD_0tM6ImwOJ",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_Rbt",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-21T18:43:52Z",
+      "occurred_at": "2025-08-21T18:41:47Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -3574,8 +3543,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2291864292"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2291860361"
     },
     {
       "credits": [
@@ -3609,6 +3578,37 @@
           "role": "author"
         }
       ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6ImxLk",
+      "metadata": {
+        "created_at": "2025-08-21T18:43:51Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-21T18:43:52Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM67RWq0",
+        "source_node_id": "PRRC_kwDOHD_0tM6ImxLk",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_MQB",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-21T18:43:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2291864292"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
       "id": "pr_opened:PR_kwDOHD_0tM6kxtts",
       "metadata": {
         "source_node_id": "PR_kwDOHD_0tM6kxtts"
@@ -3632,7 +3632,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM6_d5xW",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM6_d5xW",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM6_d5xW"
       },
@@ -3645,39 +3645,8 @@
         "title": "use autosummary templates",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/604"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/604#issuecomment-3212287062"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6IpBxI",
-      "metadata": {
-        "created_at": "2025-08-22T01:16:50Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-22T01:16:50Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM67Uis7",
-        "source_node_id": "PRRC_kwDOHD_0tM6IpBxI",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_Rbt",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-22T01:16:50Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2292456520"
     },
     {
       "credits": [
@@ -3703,6 +3672,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#pullrequestreview-3142724411"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6IpBxI",
+      "metadata": {
+        "created_at": "2025-08-22T01:16:50Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-22T01:16:50Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM67Uis7",
+        "source_node_id": "PRRC_kwDOHD_0tM6IpBxI",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_Rbt",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-22T01:16:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2292456520"
     },
     {
       "credits": [
@@ -3780,37 +3780,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JWHIZ",
-      "metadata": {
-        "created_at": "2025-08-27T15:08:53Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-27T15:08:53Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68Xe0H",
-        "source_node_id": "PRRC_kwDOHD_0tM6JWHIZ",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_Di4",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-27T15:08:53Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2304274969"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOHD_0tM68Xe0H",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM68Xe0H",
@@ -3836,19 +3805,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JZf35",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JWHIZ",
       "metadata": {
-        "created_at": "2025-08-27T19:54:55Z",
-        "outdated": true,
+        "created_at": "2025-08-27T15:08:53Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2025-08-27T19:54:55Z",
+        "published_at": "2025-08-27T15:08:53Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68cZhz",
-        "source_node_id": "PRRC_kwDOHD_0tM6JZf35",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_KcL",
+        "review_node_id": "PRR_kwDOHD_0tM68Xe0H",
+        "source_node_id": "PRRC_kwDOHD_0tM6JWHIZ",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_Di4",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-27T19:54:55Z",
+      "occurred_at": "2025-08-27T15:08:53Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -3857,8 +3826,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305162745"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2304274969"
     },
     {
       "credits": [
@@ -3892,19 +3861,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JZgVq",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JZf35",
       "metadata": {
-        "created_at": "2025-08-27T19:55:40Z",
+        "created_at": "2025-08-27T19:54:55Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-27T19:55:40Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM68caEC",
-        "source_node_id": "PRRC_kwDOHD_0tM6JZgVq",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_MQB",
+        "published_at": "2025-08-27T19:54:55Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM68cZhz",
+        "source_node_id": "PRRC_kwDOHD_0tM6JZf35",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_KcL",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-27T19:55:40Z",
+      "occurred_at": "2025-08-27T19:54:55Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -3913,8 +3882,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305164650"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305162745"
     },
     {
       "credits": [
@@ -3948,19 +3917,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JZguh",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JZgVq",
       "metadata": {
-        "created_at": "2025-08-27T19:56:28Z",
+        "created_at": "2025-08-27T19:55:40Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-27T19:56:29Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68camg",
-        "source_node_id": "PRRC_kwDOHD_0tM6JZguh",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_Ei1",
+        "published_at": "2025-08-27T19:55:40Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM68caEC",
+        "source_node_id": "PRRC_kwDOHD_0tM6JZgVq",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_MQB",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-27T19:56:29Z",
+      "occurred_at": "2025-08-27T19:55:40Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -3969,8 +3938,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305166241"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305164650"
     },
     {
       "credits": [
@@ -4004,19 +3973,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JaHKe",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JZguh",
       "metadata": {
-        "created_at": "2025-08-27T21:22:01Z",
+        "created_at": "2025-08-27T19:56:28Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-27T21:22:02Z",
+        "published_at": "2025-08-27T19:56:29Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68dRmr",
-        "source_node_id": "PRRC_kwDOHD_0tM6JaHKe",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_BVd",
+        "review_node_id": "PRR_kwDOHD_0tM68camg",
+        "source_node_id": "PRRC_kwDOHD_0tM6JZguh",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_Ei1",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-27T21:22:02Z",
+      "occurred_at": "2025-08-27T19:56:29Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -4025,8 +3994,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305323678"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305166241"
     },
     {
       "credits": [
@@ -4060,19 +4029,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JaZ2M",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JaHKe",
       "metadata": {
-        "created_at": "2025-08-27T22:13:03Z",
-        "outdated": false,
+        "created_at": "2025-08-27T21:22:01Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-27T22:13:10Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM68drrL",
-        "source_node_id": "PRRC_kwDOHD_0tM6JaZ2M",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_O3R",
+        "published_at": "2025-08-27T21:22:02Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM68dRmr",
+        "source_node_id": "PRRC_kwDOHD_0tM6JaHKe",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_BVd",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-27T22:13:10Z",
+      "occurred_at": "2025-08-27T21:22:02Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -4081,8 +4050,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305400204"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305323678"
     },
     {
       "credits": [
@@ -4116,19 +4085,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JadI2",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JaZ2M",
       "metadata": {
-        "created_at": "2025-08-27T22:23:30Z",
-        "outdated": true,
+        "created_at": "2025-08-27T22:13:03Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2025-08-27T22:29:07Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68dwYO",
-        "source_node_id": "PRRC_kwDOHD_0tM6JadI2",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_KBC",
+        "published_at": "2025-08-27T22:13:10Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM68drrL",
+        "source_node_id": "PRRC_kwDOHD_0tM6JaZ2M",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_O3R",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-27T22:29:07Z",
+      "occurred_at": "2025-08-27T22:13:10Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -4137,70 +4106,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305413686"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JaeSL",
-      "metadata": {
-        "created_at": "2025-08-27T22:26:15Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-27T22:29:07Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68dwYO",
-        "source_node_id": "PRRC_kwDOHD_0tM6JaeSL",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_KP5",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-27T22:29:07Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305418379"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JagPF",
-      "metadata": {
-        "created_at": "2025-08-27T22:28:22Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-27T22:29:07Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68dwYO",
-        "source_node_id": "PRRC_kwDOHD_0tM6JagPF",
-        "thread_node_id": "PRRT_kwDOHD_0tM5VwSLd",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-27T22:29:07Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305426373"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305400204"
     },
     {
       "credits": [
@@ -4226,6 +4133,99 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#pullrequestreview-3161916942"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JadI2",
+      "metadata": {
+        "created_at": "2025-08-27T22:23:30Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-27T22:29:07Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM68dwYO",
+        "source_node_id": "PRRC_kwDOHD_0tM6JadI2",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_KBC",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-27T22:29:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305413686"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JaeSL",
+      "metadata": {
+        "created_at": "2025-08-27T22:26:15Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-27T22:29:07Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM68dwYO",
+        "source_node_id": "PRRC_kwDOHD_0tM6JaeSL",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_KP5",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-27T22:29:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305418379"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JagPF",
+      "metadata": {
+        "created_at": "2025-08-27T22:28:22Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-27T22:29:07Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM68dwYO",
+        "source_node_id": "PRRC_kwDOHD_0tM6JagPF",
+        "thread_node_id": "PRRT_kwDOHD_0tM5VwSLd",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-27T22:29:07Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305426373"
     },
     {
       "credits": [
@@ -4257,223 +4257,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JbkmF",
-      "metadata": {
-        "created_at": "2025-08-28T00:23:00Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-28T18:06:35Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68fojg",
-        "source_node_id": "PRRC_kwDOHD_0tM6JbkmF",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Yx3Zx",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-28T18:06:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305706373"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JboCj",
-      "metadata": {
-        "created_at": "2025-08-28T00:28:44Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-28T18:06:35Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68fojg",
-        "source_node_id": "PRRC_kwDOHD_0tM6JboCj",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Yx5rF",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-28T18:06:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305720483"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6Jk1nL",
-      "metadata": {
-        "created_at": "2025-08-28T17:48:37Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-28T18:06:35Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68fojg",
-        "source_node_id": "PRRC_kwDOHD_0tM6Jk1nL",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Y4gsc",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-28T18:06:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308135371"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6Jk40S",
-      "metadata": {
-        "created_at": "2025-08-28T17:54:06Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-28T18:06:35Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68fojg",
-        "source_node_id": "PRRC_kwDOHD_0tM6Jk40S",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Y4i30",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-28T18:06:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308148498"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6Jk6Ef",
-      "metadata": {
-        "created_at": "2025-08-28T17:56:36Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2025-08-28T18:06:35Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68fojg",
-        "source_node_id": "PRRC_kwDOHD_0tM6Jk6Ef",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Y4jxx",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-28T18:06:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308153631"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6Jkp3I",
-      "metadata": {
-        "created_at": "2025-08-28T17:34:59Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-28T18:06:35Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM68fojg",
-        "source_node_id": "PRRC_kwDOHD_0tM6Jkp3I",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Y4ZfX",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-28T18:06:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308087240"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JkqVP",
-      "metadata": {
-        "created_at": "2025-08-28T17:35:26Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-28T18:06:35Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM68fojg",
-        "source_node_id": "PRRC_kwDOHD_0tM6JkqVP",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Y4ZxJ",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-28T18:06:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308089167"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOHD_0tM68fojg",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM68fojg",
@@ -4495,116 +4278,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6Jm_8p",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JbkmF",
       "metadata": {
-        "created_at": "2025-08-28T22:43:23Z",
-        "outdated": false,
+        "created_at": "2025-08-28T00:23:00Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-28T22:57:15Z",
+        "published_at": "2025-08-28T18:06:35Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68wOg4",
-        "source_node_id": "PRRC_kwDOHD_0tM6Jm_8p",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Y4jxx",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-28T22:57:15Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308701993"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JnAZv",
-      "metadata": {
-        "created_at": "2025-08-28T22:45:14Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-28T22:57:15Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM68wOg4",
-        "source_node_id": "PRRC_kwDOHD_0tM6JnAZv",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Y4ZfX",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-28T22:57:15Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308703855"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JnAbM",
-      "metadata": {
-        "created_at": "2025-08-28T22:45:19Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-28T22:57:15Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM68wOg4",
-        "source_node_id": "PRRC_kwDOHD_0tM6JnAbM",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Y4ZxJ",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-28T22:57:15Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308703948"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JnCSp",
-      "metadata": {
-        "created_at": "2025-08-28T22:52:16Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-28T22:57:15Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68wOg4",
-        "source_node_id": "PRRC_kwDOHD_0tM6JnCSp",
+        "review_node_id": "PRR_kwDOHD_0tM68fojg",
+        "source_node_id": "PRRC_kwDOHD_0tM6JbkmF",
         "thread_node_id": "PRRT_kwDOHD_0tM5Yx3Zx",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-28T22:57:15Z",
+      "occurred_at": "2025-08-28T18:06:35Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -4613,60 +4303,29 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308711593"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305706373"
     },
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JnCjk",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JboCj",
       "metadata": {
-        "created_at": "2025-08-28T22:53:27Z",
+        "created_at": "2025-08-28T00:28:44Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-28T22:57:15Z",
+        "published_at": "2025-08-28T18:06:35Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68wOg4",
-        "source_node_id": "PRRC_kwDOHD_0tM6JnCjk",
-        "thread_node_id": "PRRT_kwDOHD_0tM5X_J8o",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2025-08-28T22:57:15Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM6fACyo",
-        "number": 584,
-        "title": "migrate to pydantic v2",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308712676"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JnCkC",
-      "metadata": {
-        "created_at": "2025-08-28T22:53:30Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2025-08-28T22:57:15Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68wOg4",
-        "source_node_id": "PRRC_kwDOHD_0tM6JnCkC",
+        "review_node_id": "PRR_kwDOHD_0tM68fojg",
+        "source_node_id": "PRRC_kwDOHD_0tM6JboCj",
         "thread_node_id": "PRRT_kwDOHD_0tM5Yx5rF",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-28T22:57:15Z",
+      "occurred_at": "2025-08-28T18:06:35Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -4675,8 +4334,163 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308712706"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2305720483"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6Jk1nL",
+      "metadata": {
+        "created_at": "2025-08-28T17:48:37Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-28T18:06:35Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM68fojg",
+        "source_node_id": "PRRC_kwDOHD_0tM6Jk1nL",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Y4gsc",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-28T18:06:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308135371"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6Jk40S",
+      "metadata": {
+        "created_at": "2025-08-28T17:54:06Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-28T18:06:35Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM68fojg",
+        "source_node_id": "PRRC_kwDOHD_0tM6Jk40S",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Y4i30",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-28T18:06:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308148498"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6Jk6Ef",
+      "metadata": {
+        "created_at": "2025-08-28T17:56:36Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-28T18:06:35Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM68fojg",
+        "source_node_id": "PRRC_kwDOHD_0tM6Jk6Ef",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Y4jxx",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-28T18:06:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308153631"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6Jkp3I",
+      "metadata": {
+        "created_at": "2025-08-28T17:34:59Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-28T18:06:35Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM68fojg",
+        "source_node_id": "PRRC_kwDOHD_0tM6Jkp3I",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Y4ZfX",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-28T18:06:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308087240"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JkqVP",
+      "metadata": {
+        "created_at": "2025-08-28T17:35:26Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-28T18:06:35Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM68fojg",
+        "source_node_id": "PRRC_kwDOHD_0tM6JkqVP",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Y4ZxJ",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-28T18:06:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308089167"
     },
     {
       "credits": [
@@ -4710,19 +4524,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JnEOq",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6Jm_8p",
       "metadata": {
-        "created_at": "2025-08-28T23:00:21Z",
-        "outdated": true,
+        "created_at": "2025-08-28T22:43:23Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2025-08-28T23:00:21Z",
+        "published_at": "2025-08-28T22:57:15Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68wT1a",
-        "source_node_id": "PRRC_kwDOHD_0tM6JnEOq",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Y4gsc",
+        "review_node_id": "PRR_kwDOHD_0tM68wOg4",
+        "source_node_id": "PRRC_kwDOHD_0tM6Jm_8p",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Y4jxx",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-28T23:00:21Z",
+      "occurred_at": "2025-08-28T22:57:15Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -4731,8 +4545,163 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308719530"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308701993"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JnAZv",
+      "metadata": {
+        "created_at": "2025-08-28T22:45:14Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-28T22:57:15Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM68wOg4",
+        "source_node_id": "PRRC_kwDOHD_0tM6JnAZv",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Y4ZfX",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-28T22:57:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308703855"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JnAbM",
+      "metadata": {
+        "created_at": "2025-08-28T22:45:19Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-28T22:57:15Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM68wOg4",
+        "source_node_id": "PRRC_kwDOHD_0tM6JnAbM",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Y4ZxJ",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-28T22:57:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308703948"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JnCSp",
+      "metadata": {
+        "created_at": "2025-08-28T22:52:16Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-28T22:57:15Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM68wOg4",
+        "source_node_id": "PRRC_kwDOHD_0tM6JnCSp",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Yx3Zx",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-28T22:57:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308711593"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JnCjk",
+      "metadata": {
+        "created_at": "2025-08-28T22:53:27Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-28T22:57:15Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM68wOg4",
+        "source_node_id": "PRRC_kwDOHD_0tM6JnCjk",
+        "thread_node_id": "PRRT_kwDOHD_0tM5X_J8o",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-28T22:57:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308712676"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JnCkC",
+      "metadata": {
+        "created_at": "2025-08-28T22:53:30Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2025-08-28T22:57:15Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM68wOg4",
+        "source_node_id": "PRRC_kwDOHD_0tM6JnCkC",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Yx5rF",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-28T22:57:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308712706"
     },
     {
       "credits": [
@@ -4766,19 +4735,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM6JnEpg",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JnEOq",
       "metadata": {
-        "created_at": "2025-08-28T23:02:08Z",
-        "outdated": false,
+        "created_at": "2025-08-28T23:00:21Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2025-08-28T23:02:08Z",
+        "published_at": "2025-08-28T23:00:21Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM68wUcL",
-        "source_node_id": "PRRC_kwDOHD_0tM6JnEpg",
-        "thread_node_id": "PRRT_kwDOHD_0tM5Y4i30",
+        "review_node_id": "PRR_kwDOHD_0tM68wT1a",
+        "source_node_id": "PRRC_kwDOHD_0tM6JnEOq",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Y4gsc",
         "timestamp_fallback": false
       },
-      "occurred_at": "2025-08-28T23:02:08Z",
+      "occurred_at": "2025-08-28T23:00:21Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -4787,8 +4756,8 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308721248"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308719530"
     },
     {
       "credits": [
@@ -4822,6 +4791,37 @@
           "role": "author"
         }
       ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM6JnEpg",
+      "metadata": {
+        "created_at": "2025-08-28T23:02:08Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2025-08-28T23:02:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM68wUcL",
+        "source_node_id": "PRRC_kwDOHD_0tM6JnEpg",
+        "thread_node_id": "PRRT_kwDOHD_0tM5Y4i30",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2025-08-28T23:02:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM6fACyo",
+        "number": 584,
+        "title": "migrate to pydantic v2",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#discussion_r2308721248"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
       "id": "pr_review:PRR_kwDOHD_0tM68we5X",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM68we5X",
@@ -4847,7 +4847,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM7A1YYW",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM7A1YYW",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM7A1YYW"
       },
@@ -4860,7 +4860,7 @@
         "title": "Increase default force field version to openff-2.2.1",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/601"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/601#issuecomment-3235218966"
     },
     {
@@ -4870,7 +4870,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM7A4iSK",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM7A4iSK",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM7A4iSK"
       },
@@ -4883,7 +4883,7 @@
         "title": "Increase default force field version to openff-2.2.1",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/601"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/601#issuecomment-3236045962"
     },
     {
@@ -4977,7 +4977,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM7A9pPa",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM7A9pPa",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM7A9pPa"
       },
@@ -4990,7 +4990,7 @@
         "title": "migrate to pydantic v2",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/584"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/584#issuecomment-3237385178"
     }
   ],
@@ -5095,7 +5095,7 @@
       "url": "https://github.com/ianmkenney"
     },
     {
-      "classification": "unresolved_git",
+      "classification": "unlinked_git",
       "database_id": null,
       "display_name": null,
       "git_email": "noreply@github.com",
@@ -5108,7 +5108,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T06:13:38.132558Z",
+      "as_of": "2026-10-20T01:24:08.630229Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -5120,52 +5120,52 @@
     },
     "default_branch": "main",
     "default_branch_head": "a9aeae4f86f1b3a34ef0732277777bc3a45d9035",
+    "is_partial": false,
     "month": "2025-08",
     "month_end": "2025-09-01T00:00:00Z",
     "month_start": "2025-08-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "finished_at": "2026-10-20T01:25:47.982688Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
-        "started_at": "2026-10-18T06:13:38.132558Z"
+        "run_id": "675c3133-967f-4dac-85d8-f8537a7072ae",
+        "started_at": "2026-10-20T01:24:08.630229Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "finished_at": "2026-10-20T01:25:47.982688Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
-        "started_at": "2026-10-18T06:13:38.132558Z"
+        "run_id": "675c3133-967f-4dac-85d8-f8537a7072ae",
+        "started_at": "2026-10-20T01:24:08.630229Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "finished_at": "2026-10-20T01:25:47.982688Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
-        "started_at": "2026-10-18T06:13:38.132558Z"
+        "run_id": "675c3133-967f-4dac-85d8-f8537a7072ae",
+        "started_at": "2026-10-20T01:24:08.630229Z"
       }
     },
     "repository": {
@@ -5175,15 +5175,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "finished_at": "2026-10-20T01:25:47.982688Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
-        "started_at": "2026-10-18T06:13:38.132558Z"
+        "run_id": "675c3133-967f-4dac-85d8-f8537a7072ae",
+        "started_at": "2026-10-20T01:24:08.630229Z"
       },
       "history_start_month": "2022-03",
       "node_id": "R_kgDOHD_0tA",
@@ -5199,11 +5199,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 5,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 5,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjExNzY1OTgy": {
         "commit": 0,
@@ -5211,11 +5211,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 1,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 3
+        "pr_review": 3,
+        "pr_review_comment": 1
       },
       "MDQ6VXNlcjEyNDYwMTI1": {
         "commit": 1,
@@ -5223,11 +5223,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 14,
+        "pr_discussion_comment": 1,
         "pr_merged": 1,
         "pr_opened": 1,
-        "pr_review": 6
+        "pr_review": 6,
+        "pr_review_comment": 14
       },
       "MDQ6VXNlcjEzMjY4MTE=": {
         "commit": 0,
@@ -5235,11 +5235,11 @@
         "issue_comment": 3,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 27,
+        "pr_discussion_comment": 1,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 4
+        "pr_review": 4,
+        "pr_review_comment": 27
       },
       "MDQ6VXNlcjI5NDk3Mjk=": {
         "commit": 0,
@@ -5247,11 +5247,11 @@
         "issue_comment": 3,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjMwMjU5NDE0": {
         "commit": 0,
@@ -5259,11 +5259,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 9,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 9
+        "pr_review": 9,
+        "pr_review_comment": 9
       },
       "MDQ6VXNlcjMxOTc0NDk1": {
         "commit": 3,
@@ -5271,11 +5271,11 @@
         "issue_comment": 2,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 2,
-        "pr_inline_review_comment": 36,
+        "pr_discussion_comment": 2,
         "pr_merged": 2,
         "pr_opened": 2,
-        "pr_review": 27
+        "pr_review": 27,
+        "pr_review_comment": 36
       },
       "MDQ6VXNlcjQzNzY1NjM4": {
         "commit": 0,
@@ -5283,11 +5283,11 @@
         "issue_comment": 1,
         "issue_opened": 3,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 3,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 1
+        "pr_review": 1,
+        "pr_review_comment": 3
       },
       "MDQ6VXNlcjcwODUxNjQ=": {
         "commit": 0,
@@ -5295,79 +5295,79 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 2,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 2
+        "pr_review": 2,
+        "pr_review_comment": 2
       }
     },
     "distinct_actors": {
       "bot": 1,
       "human": 8,
       "total": 9,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 4,
         "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 1,
         "human": 3,
         "total": 4,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 7,
-        "total": 7,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 0,
         "human": 4,
         "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 7,
         "total": 7,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 7,
+        "total": 7,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -5376,11 +5376,11 @@
       "issue_comment": 9,
       "issue_opened": 4,
       "issue_reopened": 0,
-      "pr_conversation_comment": 9,
-      "pr_inline_review_comment": 92,
+      "pr_discussion_comment": 9,
       "pr_merged": 3,
       "pr_opened": 5,
-      "pr_review": 52
+      "pr_review": 52,
+      "pr_review_comment": 92
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -5388,11 +5388,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

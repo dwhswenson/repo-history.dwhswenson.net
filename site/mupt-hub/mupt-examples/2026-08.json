@@ -7,37 +7,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOOy4bS87cUE6p",
-      "metadata": {
-        "created_at": "2026-08-01T18:02:36Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-06T03:12:47Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOOy4bS88AAAABIDUYYg",
-        "source_node_id": "PRRC_kwDOOy4bS87cUE6p",
-        "thread_node_id": "PRRT_kwDOOy4bS86Vp7l6",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-06T03:12:47Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOOy4bS87q46M8",
-        "number": 27,
-        "title": "AA-DPD Demo",
-        "url": "https://github.com/MuPT-hub/mupt-examples/pull/27"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/MuPT-hub/mupt-examples/pull/27#discussion_r3696250537"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOOy4bS88AAAABIDUYYg",
       "metadata": {
         "source_node_id": "PRR_kwDOOy4bS88AAAABIDUYYg",
@@ -59,11 +28,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOOy4bS87cUE6p",
+      "metadata": {
+        "created_at": "2026-08-01T18:02:36Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-06T03:12:47Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOOy4bS88AAAABIDUYYg",
+        "source_node_id": "PRRC_kwDOOy4bS87cUE6p",
+        "thread_node_id": "PRRT_kwDOOy4bS86Vp7l6",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-06T03:12:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOOy4bS87q46M8",
+        "number": 27,
+        "title": "AA-DPD Demo",
+        "url": "https://github.com/MuPT-hub/mupt-examples/pull/27"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/MuPT-hub/mupt-examples/pull/27#discussion_r3696250537"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOOy4bS88AAAABNnYgqg",
+      "id": "pr_discussion_comment:IC_kwDOOy4bS88AAAABNnYgqg",
       "metadata": {
         "source_node_id": "IC_kwDOOy4bS88AAAABNnYgqg"
       },
@@ -76,7 +76,7 @@
         "title": "AA-DPD Demo",
         "url": "https://github.com/MuPT-hub/mupt-examples/pull/27"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt-examples/pull/27#issuecomment-5208678570"
     },
     {
@@ -86,7 +86,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOOy4bS88AAAABNnqpYw",
+      "id": "pr_discussion_comment:IC_kwDOOy4bS88AAAABNnqpYw",
       "metadata": {
         "source_node_id": "IC_kwDOOy4bS88AAAABNnqpYw"
       },
@@ -99,7 +99,7 @@
         "title": "Tutorial notebook demonstrating functionality implemented in MuPT-hub/mupt#22",
         "url": "https://github.com/MuPT-hub/mupt-examples/pull/13"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt-examples/pull/13#issuecomment-5208975715"
     },
     {
@@ -109,7 +109,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOOy4bS88AAAABNywjGA",
+      "id": "pr_discussion_comment:IC_kwDOOy4bS88AAAABNywjGA",
       "metadata": {
         "source_node_id": "IC_kwDOOy4bS88AAAABNywjGA"
       },
@@ -122,7 +122,7 @@
         "title": "Tutorial notebook demonstrating functionality implemented in MuPT-hub/mupt#22",
         "url": "https://github.com/MuPT-hub/mupt-examples/pull/13"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt-examples/pull/13#issuecomment-5220606744"
     },
     {
@@ -228,7 +228,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOOy4bS87jaGgG",
+      "id": "pr_review:PRR_kwDOOy4bS88AAAABKIf_yw",
+      "metadata": {
+        "source_node_id": "PRR_kwDOOy4bS88AAAABKIf_yw",
+        "state": "COMMENTED",
+        "submitted_at": "2026-08-19T17:29:41Z"
+      },
+      "occurred_at": "2026-08-19T17:29:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOOy4bS87q46M8",
+        "number": 27,
+        "title": "AA-DPD Demo",
+        "url": "https://github.com/MuPT-hub/mupt-examples/pull/27"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/MuPT-hub/mupt-examples/pull/27#pullrequestreview-4974968779"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOOy4bS87jaGgG",
       "metadata": {
         "created_at": "2026-08-19T17:29:41Z",
         "outdated": true,
@@ -249,33 +274,8 @@
         "title": "AA-DPD Demo",
         "url": "https://github.com/MuPT-hub/mupt-examples/pull/27"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/MuPT-hub/mupt-examples/pull/27#discussion_r3815270406"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc2Nzk5Njc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOOy4bS88AAAABKIf_yw",
-      "metadata": {
-        "source_node_id": "PRR_kwDOOy4bS88AAAABKIf_yw",
-        "state": "COMMENTED",
-        "submitted_at": "2026-08-19T17:29:41Z"
-      },
-      "occurred_at": "2026-08-19T17:29:41Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOOy4bS87q46M8",
-        "number": 27,
-        "title": "AA-DPD Demo",
-        "url": "https://github.com/MuPT-hub/mupt-examples/pull/27"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/MuPT-hub/mupt-examples/pull/27#pullrequestreview-4974968779"
     },
     {
       "credits": [
@@ -540,7 +540,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOOy4bS88AAAABPsc3qA",
+      "id": "pr_discussion_comment:IC_kwDOOy4bS88AAAABPsc3qA",
       "metadata": {
         "source_node_id": "IC_kwDOOy4bS88AAAABPsc3qA"
       },
@@ -553,7 +553,7 @@
         "title": "AA-DPD Demo",
         "url": "https://github.com/MuPT-hub/mupt-examples/pull/27"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt-examples/pull/27#issuecomment-5348210600"
     },
     {
@@ -723,7 +723,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOOy4bS88AAAABPtC4DQ",
+      "id": "pr_discussion_comment:IC_kwDOOy4bS88AAAABPtC4DQ",
       "metadata": {
         "source_node_id": "IC_kwDOOy4bS88AAAABPtC4DQ"
       },
@@ -736,7 +736,7 @@
         "title": "AA-DPD Demo",
         "url": "https://github.com/MuPT-hub/mupt-examples/pull/27"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt-examples/pull/27#issuecomment-5348833293"
     },
     {
@@ -746,7 +746,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOOy4bS88AAAABPtDLcg",
+      "id": "pr_discussion_comment:IC_kwDOOy4bS88AAAABPtDLcg",
       "metadata": {
         "source_node_id": "IC_kwDOOy4bS88AAAABPtDLcg"
       },
@@ -759,7 +759,7 @@
         "title": "AA-DPD Demo",
         "url": "https://github.com/MuPT-hub/mupt-examples/pull/27"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/MuPT-hub/mupt-examples/pull/27#issuecomment-5348838258"
     }
   ],
@@ -800,7 +800,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T15:20:38.322324Z",
+      "as_of": "2026-10-20T01:23:48.955843Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -812,52 +812,52 @@
     },
     "default_branch": "main",
     "default_branch_head": "6900b9afbbca8d00914ec9e55402f8be2199cfe6",
+    "is_partial": false,
     "month": "2026-08",
     "month_end": "2026-09-01T00:00:00Z",
     "month_start": "2026-08-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T15:20:43.593968Z",
+        "finished_at": "2026-10-20T01:23:55.567053Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
-        "started_at": "2026-10-18T15:20:38.322324Z"
+        "run_id": "27beaac9-879e-4c25-a289-0814cb1f54be",
+        "started_at": "2026-10-20T01:23:48.955843Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T15:20:43.593968Z",
+        "finished_at": "2026-10-20T01:23:55.567053Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
-        "started_at": "2026-10-18T15:20:38.322324Z"
+        "run_id": "27beaac9-879e-4c25-a289-0814cb1f54be",
+        "started_at": "2026-10-20T01:23:48.955843Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T15:20:43.593968Z",
+        "finished_at": "2026-10-20T01:23:55.567053Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
-        "started_at": "2026-10-18T15:20:38.322324Z"
+        "run_id": "27beaac9-879e-4c25-a289-0814cb1f54be",
+        "started_at": "2026-10-20T01:23:48.955843Z"
       }
     },
     "repository": {
@@ -867,15 +867,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T15:20:43.593968Z",
+        "finished_at": "2026-10-20T01:23:55.567053Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "3b855c10-90de-4245-bd0c-ad55b7f2915d",
-        "started_at": "2026-10-18T15:20:38.322324Z"
+        "run_id": "27beaac9-879e-4c25-a289-0814cb1f54be",
+        "started_at": "2026-10-20T01:23:48.955843Z"
       },
       "history_start_month": "2025-05",
       "node_id": "R_kgDOOy4bSw",
@@ -891,11 +891,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 1,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjc2Nzk5Njc1": {
         "commit": 16,
@@ -903,11 +903,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 5,
-        "pr_inline_review_comment": 1,
+        "pr_discussion_comment": 5,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 1
+        "pr_review": 1,
+        "pr_review_comment": 1
       },
       "MDQ6VXNlcjgxNzg1NDY=": {
         "commit": 0,
@@ -915,79 +915,79 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 1,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 1
+        "pr_review": 1,
+        "pr_review_comment": 1
       }
     },
     "distinct_actors": {
       "bot": 0,
       "human": 3,
       "total": 3,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 0,
         "human": 1,
         "total": 1,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 2,
-        "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 2,
+        "total": 2,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -996,11 +996,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 6,
-      "pr_inline_review_comment": 2,
+      "pr_discussion_comment": 6,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 2
+      "pr_review": 2,
+      "pr_review_comment": 2
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -1008,11 +1008,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

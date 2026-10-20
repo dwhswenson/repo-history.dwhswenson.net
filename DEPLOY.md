@@ -162,4 +162,4 @@ workflow can also be started manually from the Actions tab.
 After the first successful deployment, verify the Pages hostname reported by
 `tofu output pages_hostname` and <https://repo-history.dwhswenson.net>. Check
 that Cloudflare reports the custom domain and certificate as active. Future
-repository pages and manifests are published by committing them under `site/`.
+repository pages and summaries are published by committing them under `site/`.

@@ -7,7 +7,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNAWn8w",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNAWn8w",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNAWn8w"
       },
@@ -20,7 +20,7 @@
         "title": "First pass at integrating gufe framejs visualization",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/812"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/812#issuecomment-5167753203"
     },
     {
@@ -76,7 +76,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNCS8jg",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNCS8jg",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNCS8jg"
       },
@@ -89,7 +89,7 @@
         "title": "Test/stricter units codec test",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/815"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/815#issuecomment-5169790094"
     },
     {
@@ -122,7 +122,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNDOefg",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNDOefg",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNDOefg"
       },
@@ -135,7 +135,7 @@
         "title": "make model_dump test more specific",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/816"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/816#issuecomment-5170765438"
     },
     {
@@ -145,7 +145,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNDQyKw",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNDQyKw",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNDQyKw"
       },
@@ -158,39 +158,8 @@
         "title": "make model_dump test more specific",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/816"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/816#issuecomment-5170803243"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7c-TjY",
-      "metadata": {
-        "created_at": "2026-08-03T20:08:55Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-08-03T20:08:55Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABIPiHtg",
-        "source_node_id": "PRRC_kwDOHD_0tM7c-TjY",
-        "thread_node_id": "PRRT_kwDOHD_0tM6WG5pO",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-03T20:08:55Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76Lzlo",
-        "number": 816,
-        "title": "make model_dump test more specific",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/816"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/816#discussion_r3707320536"
     },
     {
       "credits": [
@@ -216,6 +185,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/816#pullrequestreview-4848125878"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7c-TjY",
+      "metadata": {
+        "created_at": "2026-08-03T20:08:55Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-08-03T20:08:55Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABIPiHtg",
+        "source_node_id": "PRRC_kwDOHD_0tM7c-TjY",
+        "thread_node_id": "PRRT_kwDOHD_0tM6WG5pO",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-03T20:08:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76Lzlo",
+        "number": 816,
+        "title": "make model_dump test more specific",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/816"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/816#discussion_r3707320536"
     },
     {
       "credits": [
@@ -280,37 +280,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7c-6fD",
-      "metadata": {
-        "created_at": "2026-08-03T20:34:40Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-08-03T20:34:41Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABIPtydw",
-        "source_node_id": "PRRC_kwDOHD_0tM7c-6fD",
-        "thread_node_id": "PRRT_kwDOHD_0tM6WHUhV",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-03T20:34:41Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM7sWNhL",
-        "number": 808,
-        "title": "support pydantic 2.13",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/808"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#discussion_r3707480003"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOHD_0tM8AAAABIPtydw",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM8AAAABIPtydw",
@@ -332,11 +301,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7c-6fD",
+      "metadata": {
+        "created_at": "2026-08-03T20:34:40Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-08-03T20:34:41Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABIPtydw",
+        "source_node_id": "PRRC_kwDOHD_0tM7c-6fD",
+        "thread_node_id": "PRRT_kwDOHD_0tM6WHUhV",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-03T20:34:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7sWNhL",
+        "number": 808,
+        "title": "support pydantic 2.13",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/808"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#discussion_r3707480003"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDM6Qm90NDE4OTgyODI=",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNEAtCw",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNEAtCw",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNEAtCw"
       },
@@ -349,7 +349,7 @@
         "title": "support pydantic 2.13",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/808"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#issuecomment-5171588363"
     },
     {
@@ -359,7 +359,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNEEBWg",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNEEBWg",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNEEBWg"
       },
@@ -372,7 +372,7 @@
         "title": "Test/stricter units codec test",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/815"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/815#issuecomment-5171642714"
     },
     {
@@ -382,7 +382,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNEEo6g",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNEEo6g",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNEEo6g"
       },
@@ -395,7 +395,7 @@
         "title": "add py.typed",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/813"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/813#issuecomment-5171652842"
     },
     {
@@ -405,7 +405,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNEZs8Q",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNEZs8Q",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNEZs8Q"
       },
@@ -418,7 +418,7 @@
         "title": "[WIP] Use `StorageManager` in `execute_DAG`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/258"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/258#issuecomment-5171997937"
     },
     {
@@ -428,7 +428,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNEaAKw",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNEaAKw",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNEaAKw"
       },
@@ -441,7 +441,7 @@
         "title": "[WIP DNM] Per-Unit Execution",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/234"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/234#issuecomment-5172002859"
     },
     {
@@ -497,7 +497,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNErUlw",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNErUlw",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNErUlw"
       },
@@ -510,7 +510,7 @@
         "title": "Docs/sprucing",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/818"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/818#issuecomment-5172286615"
     },
     {
@@ -543,7 +543,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNEt6jw",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNEt6jw",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNEt6jw"
       },
@@ -556,7 +556,7 @@
         "title": "Docs/sprucing",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/818"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/818#issuecomment-5172329103"
     },
     {
@@ -566,7 +566,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNEuPHg",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNEuPHg",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNEuPHg"
       },
@@ -579,7 +579,7 @@
         "title": "remove to_rbfe_alchemical_network",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/819"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/819#issuecomment-5172334366"
     },
     {
@@ -589,7 +589,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNEvXsw",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNEvXsw",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNEvXsw"
       },
@@ -602,7 +602,7 @@
         "title": "remove to_rbfe_alchemical_network",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/819"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/819#issuecomment-5172352947"
     },
     {
@@ -612,7 +612,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNEvjNA",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNEvjNA",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNEvjNA"
       },
@@ -625,7 +625,7 @@
         "title": "remove to_rbfe_alchemical_network",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/819"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/819#issuecomment-5172355892"
     },
     {
@@ -658,7 +658,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNIdZHw",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNIdZHw",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNIdZHw"
       },
@@ -671,7 +671,7 @@
         "title": "Support atropisomeric molecules as smc",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/820"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/820#issuecomment-5176252703"
     },
     {
@@ -681,7 +681,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNIe8Sg",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNIe8Sg",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNIe8Sg"
       },
@@ -694,7 +694,7 @@
         "title": "Support atropisomeric molecules as smc",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/820"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/820#issuecomment-5176278090"
     },
     {
@@ -704,7 +704,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNIiZCQ",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNIiZCQ",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNIiZCQ"
       },
@@ -717,7 +717,7 @@
         "title": "Support atropisomeric molecules as smc",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/820"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/820#issuecomment-5176334601"
     },
     {
@@ -802,7 +802,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNM5qMg",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNM5qMg",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNM5qMg"
       },
@@ -815,7 +815,7 @@
         "title": "remove to_rbfe_alchemical_network",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/819"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/819#issuecomment-5180910130"
     },
     {
@@ -848,7 +848,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNNVyfw",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNNVyfw",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNNVyfw"
       },
@@ -861,39 +861,8 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#issuecomment-5181371007"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7dX_xP",
-      "metadata": {
-        "created_at": "2026-08-04T15:46:42Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-04T15:46:42Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABIXZtvQ",
-        "source_node_id": "PRRC_kwDOHD_0tM7dX_xP",
-        "thread_node_id": "PRRT_kwDOHD_0tM6WYjSS",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-04T15:46:42Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3714055247"
     },
     {
       "credits": [
@@ -923,23 +892,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7dYS6H",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7dX_xP",
       "metadata": {
-        "created_at": "2026-08-04T15:57:15Z",
+        "created_at": "2026-08-04T15:46:42Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-08-04T15:57:15Z",
+        "published_at": "2026-08-04T15:46:42Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABIXfgzQ",
-        "source_node_id": "PRRC_kwDOHD_0tM7dYS6H",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABIXZtvQ",
+        "source_node_id": "PRRC_kwDOHD_0tM7dX_xP",
         "thread_node_id": "PRRT_kwDOHD_0tM6WYjSS",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-04T15:57:15Z",
+      "occurred_at": "2026-08-04T15:46:42Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
@@ -948,8 +917,8 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3714133639"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3714055247"
     },
     {
       "credits": [
@@ -975,6 +944,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#pullrequestreview-4856471757"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7dYS6H",
+      "metadata": {
+        "created_at": "2026-08-04T15:57:15Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-04T15:57:15Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABIXfgzQ",
+        "source_node_id": "PRRC_kwDOHD_0tM7dYS6H",
+        "thread_node_id": "PRRT_kwDOHD_0tM6WYjSS",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-04T15:57:15Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3714133639"
     },
     {
       "credits": [
@@ -1033,7 +1033,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7d0_Ft",
+      "id": "pr_review:PRR_kwDOHD_0tM8AAAABIgXxng",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM8AAAABIgXxng",
+        "state": "COMMENTED",
+        "submitted_at": "2026-08-05T14:59:44Z"
+      },
+      "occurred_at": "2026-08-05T14:59:44Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7sWNhL",
+        "number": 808,
+        "title": "support pydantic 2.13",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/808"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#pullrequestreview-4865782174"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7d0_Ft",
       "metadata": {
         "created_at": "2026-08-05T14:59:44Z",
         "outdated": false,
@@ -1054,33 +1079,8 @@
         "title": "support pydantic 2.13",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/808"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#discussion_r3721654637"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOHD_0tM8AAAABIgXxng",
-      "metadata": {
-        "source_node_id": "PRR_kwDOHD_0tM8AAAABIgXxng",
-        "state": "COMMENTED",
-        "submitted_at": "2026-08-05T14:59:44Z"
-      },
-      "occurred_at": "2026-08-05T14:59:44Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM7sWNhL",
-        "number": 808,
-        "title": "support pydantic 2.13",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/808"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#pullrequestreview-4865782174"
     },
     {
       "credits": [
@@ -1306,7 +1306,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7d1jtg",
+      "id": "pr_review:PRR_kwDOHD_0tM8AAAABIgj9uA",
+      "metadata": {
+        "source_node_id": "PRR_kwDOHD_0tM8AAAABIgj9uA",
+        "state": "COMMENTED",
+        "submitted_at": "2026-08-05T15:20:50Z"
+      },
+      "occurred_at": "2026-08-05T15:20:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7sWNhL",
+        "number": 808,
+        "title": "support pydantic 2.13",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/808"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#pullrequestreview-4865981880"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7d1jtg",
       "metadata": {
         "created_at": "2026-08-05T15:20:49Z",
         "outdated": true,
@@ -1327,33 +1352,8 @@
         "title": "support pydantic 2.13",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/808"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#discussion_r3721804640"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOHD_0tM8AAAABIgj9uA",
-      "metadata": {
-        "source_node_id": "PRR_kwDOHD_0tM8AAAABIgj9uA",
-        "state": "COMMENTED",
-        "submitted_at": "2026-08-05T15:20:50Z"
-      },
-      "occurred_at": "2026-08-05T15:20:50Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM7sWNhL",
-        "number": 808,
-        "title": "support pydantic 2.13",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/808"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#pullrequestreview-4865981880"
     },
     {
       "credits": [
@@ -1673,7 +1673,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNeGcOQ",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNeGcOQ",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNeGcOQ"
       },
@@ -1686,39 +1686,8 @@
         "title": "Revert \"add py.typed\"",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/822"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/822#issuecomment-5198945337"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7eL7wG",
-      "metadata": {
-        "created_at": "2026-08-06T09:46:29Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-06T09:46:29Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABIne5aw",
-        "source_node_id": "PRRC_kwDOHD_0tM7eL7wG",
-        "thread_node_id": "PRRT_kwDOHD_0tM6W8DfK",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-06T09:46:29Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3727670278"
     },
     {
       "credits": [
@@ -1752,19 +1721,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7eL-eF",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7eL7wG",
       "metadata": {
-        "created_at": "2026-08-06T09:48:17Z",
+        "created_at": "2026-08-06T09:46:29Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-08-06T11:10:26Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
-        "source_node_id": "PRRC_kwDOHD_0tM7eL-eF",
-        "thread_node_id": "PRRT_kwDOHD_0tM6W8FUa",
+        "published_at": "2026-08-06T09:46:29Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABIne5aw",
+        "source_node_id": "PRRC_kwDOHD_0tM7eL7wG",
+        "thread_node_id": "PRRT_kwDOHD_0tM6W8DfK",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-06T11:10:26Z",
+      "occurred_at": "2026-08-06T09:46:29Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
@@ -1773,194 +1742,8 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3727681413"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7eMF8I",
-      "metadata": {
-        "created_at": "2026-08-06T09:53:03Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-08-06T11:10:26Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
-        "source_node_id": "PRRC_kwDOHD_0tM7eMF8I",
-        "thread_node_id": "PRRT_kwDOHD_0tM6W8Kcs",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-06T11:10:26Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3727712008"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7eMucj",
-      "metadata": {
-        "created_at": "2026-08-06T10:14:35Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-06T11:10:26Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
-        "source_node_id": "PRRC_kwDOHD_0tM7eMucj",
-        "thread_node_id": "PRRT_kwDOHD_0tM6W8lkm",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-06T11:10:26Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3727877923"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7eNJI2",
-      "metadata": {
-        "created_at": "2026-08-06T10:27:37Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-06T11:10:26Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
-        "source_node_id": "PRRC_kwDOHD_0tM7eNJI2",
-        "thread_node_id": "PRRT_kwDOHD_0tM6W83SK",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-06T11:10:26Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3727987254"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7eNa0E",
-      "metadata": {
-        "created_at": "2026-08-06T10:37:04Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-06T11:10:26Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
-        "source_node_id": "PRRC_kwDOHD_0tM7eNa0E",
-        "thread_node_id": "PRRT_kwDOHD_0tM6W9DZ2",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-06T11:10:26Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3728059652"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7eNgG2",
-      "metadata": {
-        "created_at": "2026-08-06T10:39:49Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-06T11:10:26Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
-        "source_node_id": "PRRC_kwDOHD_0tM7eNgG2",
-        "thread_node_id": "PRRT_kwDOHD_0tM6W9G2t",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-06T11:10:26Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3728081334"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7eOPDA",
-      "metadata": {
-        "created_at": "2026-08-06T11:10:17Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-06T11:10:26Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
-        "source_node_id": "PRRC_kwDOHD_0tM7eOPDA",
-        "thread_node_id": "PRRT_kwDOHD_0tM6W9nN3",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-06T11:10:26Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3728273600"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3727670278"
     },
     {
       "credits": [
@@ -1994,6 +1777,223 @@
           "role": "author"
         }
       ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7eL-eF",
+      "metadata": {
+        "created_at": "2026-08-06T09:48:17Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-06T11:10:26Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
+        "source_node_id": "PRRC_kwDOHD_0tM7eL-eF",
+        "thread_node_id": "PRRT_kwDOHD_0tM6W8FUa",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-06T11:10:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3727681413"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7eMF8I",
+      "metadata": {
+        "created_at": "2026-08-06T09:53:03Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-08-06T11:10:26Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
+        "source_node_id": "PRRC_kwDOHD_0tM7eMF8I",
+        "thread_node_id": "PRRT_kwDOHD_0tM6W8Kcs",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-06T11:10:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3727712008"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7eMucj",
+      "metadata": {
+        "created_at": "2026-08-06T10:14:35Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-06T11:10:26Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
+        "source_node_id": "PRRC_kwDOHD_0tM7eMucj",
+        "thread_node_id": "PRRT_kwDOHD_0tM6W8lkm",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-06T11:10:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3727877923"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7eNJI2",
+      "metadata": {
+        "created_at": "2026-08-06T10:27:37Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-06T11:10:26Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
+        "source_node_id": "PRRC_kwDOHD_0tM7eNJI2",
+        "thread_node_id": "PRRT_kwDOHD_0tM6W83SK",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-06T11:10:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3727987254"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7eNa0E",
+      "metadata": {
+        "created_at": "2026-08-06T10:37:04Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-06T11:10:26Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
+        "source_node_id": "PRRC_kwDOHD_0tM7eNa0E",
+        "thread_node_id": "PRRT_kwDOHD_0tM6W9DZ2",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-06T11:10:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3728059652"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7eNgG2",
+      "metadata": {
+        "created_at": "2026-08-06T10:39:49Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-06T11:10:26Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
+        "source_node_id": "PRRC_kwDOHD_0tM7eNgG2",
+        "thread_node_id": "PRRT_kwDOHD_0tM6W9G2t",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-06T11:10:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3728081334"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7eOPDA",
+      "metadata": {
+        "created_at": "2026-08-06T11:10:17Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-06T11:10:26Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABInfs5g",
+        "source_node_id": "PRRC_kwDOHD_0tM7eOPDA",
+        "thread_node_id": "PRRT_kwDOHD_0tM6W9nN3",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-06T11:10:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3728273600"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
       "id": "pr_opened:PR_kwDOHD_0tM77jXG4",
       "metadata": {
         "source_node_id": "PR_kwDOHD_0tM77jXG4"
@@ -2017,7 +2017,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNizy-Q",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNizy-Q",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNizy-Q"
       },
@@ -2030,7 +2030,7 @@
         "title": "Protein validation review suggestion",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/824"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/824#issuecomment-5203882745"
     },
     {
@@ -2040,7 +2040,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNi253A",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNi253A",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNi253A"
       },
@@ -2053,7 +2053,7 @@
         "title": "Protein validation review suggestion",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/824"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/824#issuecomment-5203933660"
     },
     {
@@ -2063,7 +2063,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNjFdFA",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNjFdFA",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNjFdFA"
       },
@@ -2076,7 +2076,7 @@
         "title": "Protein validation review suggestion",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/824"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/824#issuecomment-5204172052"
     },
     {
@@ -2086,7 +2086,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABNlr_lw",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABNlr_lw",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABNlr_lw"
       },
@@ -2099,39 +2099,8 @@
         "title": "Test/stricter units codec test",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/815"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/815#issuecomment-5206900631"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7eVfTE",
-      "metadata": {
-        "created_at": "2026-08-06T15:36:07Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-08-06T15:36:07Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABIqdf0g",
-        "source_node_id": "PRRC_kwDOHD_0tM7eVfTE",
-        "thread_node_id": "PRRT_kwDOHD_0tM6XCooL",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-06T15:36:07Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM7sWNhL",
-        "number": 808,
-        "title": "support pydantic 2.13",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/808"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#discussion_r3730175172"
     },
     {
       "credits": [
@@ -2161,23 +2130,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7eZoNL",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7eVfTE",
       "metadata": {
-        "created_at": "2026-08-06T18:55:53Z",
+        "created_at": "2026-08-06T15:36:07Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-08-06T18:55:53Z",
+        "published_at": "2026-08-06T15:36:07Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABIrlVDw",
-        "source_node_id": "PRRC_kwDOHD_0tM7eZoNL",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABIqdf0g",
+        "source_node_id": "PRRC_kwDOHD_0tM7eVfTE",
         "thread_node_id": "PRRT_kwDOHD_0tM6XCooL",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-06T18:55:53Z",
+      "occurred_at": "2026-08-06T15:36:07Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMxOTc0NDk1",
         "kind": "pull_request",
@@ -2186,8 +2155,8 @@
         "title": "support pydantic 2.13",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/808"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#discussion_r3731260235"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#discussion_r3730175172"
     },
     {
       "credits": [
@@ -2213,6 +2182,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#pullrequestreview-4877538575"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7eZoNL",
+      "metadata": {
+        "created_at": "2026-08-06T18:55:53Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-08-06T18:55:53Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABIrlVDw",
+        "source_node_id": "PRRC_kwDOHD_0tM7eZoNL",
+        "thread_node_id": "PRRT_kwDOHD_0tM6XCooL",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-06T18:55:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM7sWNhL",
+        "number": 808,
+        "title": "support pydantic 2.13",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/808"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/808#discussion_r3731260235"
     },
     {
       "credits": [
@@ -2371,7 +2371,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABN1IzbQ",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABN1IzbQ",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABN1IzbQ"
       },
@@ -2384,7 +2384,7 @@
         "title": "DNM: test pint 0.25",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/825"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/825#issuecomment-5223101293"
     },
     {
@@ -2394,7 +2394,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABN1Kt7g",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABN1Kt7g",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABN1Kt7g"
       },
@@ -2407,7 +2407,7 @@
         "title": "DNM: test pint 0.25",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/825"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/825#issuecomment-5223132654"
     },
     {
@@ -2536,7 +2536,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABOQrqPg",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABOQrqPg",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABOQrqPg"
       },
@@ -2549,7 +2549,7 @@
         "title": "Ligand mapping helper functions",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#issuecomment-5251983934"
     },
     {
@@ -2559,7 +2559,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABOQvbyA",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABOQvbyA",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABOQvbyA"
       },
@@ -2572,70 +2572,8 @@
         "title": "Ligand mapping helper functions",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#issuecomment-5252045768"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7f8fpX",
-      "metadata": {
-        "created_at": "2026-08-11T10:35:08Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-11T10:39:26Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABJGCUrA",
-        "source_node_id": "PRRC_kwDOHD_0tM7f8fpX",
-        "thread_node_id": "PRRT_kwDOHD_0tM6YMTLN",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-11T10:39:26Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM79dR0-",
-        "number": 826,
-        "title": "Ligand mapping helper functions",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3757177431"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7f8lta",
-      "metadata": {
-        "created_at": "2026-08-11T10:38:55Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-11T10:39:26Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABJGCUrA",
-        "source_node_id": "PRRC_kwDOHD_0tM7f8lta",
-        "thread_node_id": "PRRT_kwDOHD_0tM6YMXQt",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-11T10:39:26Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM79dR0-",
-        "number": 826,
-        "title": "Ligand mapping helper functions",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3757202266"
     },
     {
       "credits": [
@@ -2665,11 +2603,73 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7f8fpX",
+      "metadata": {
+        "created_at": "2026-08-11T10:35:08Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-11T10:39:26Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABJGCUrA",
+        "source_node_id": "PRRC_kwDOHD_0tM7f8fpX",
+        "thread_node_id": "PRRT_kwDOHD_0tM6YMTLN",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-11T10:39:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM79dR0-",
+        "number": 826,
+        "title": "Ligand mapping helper functions",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3757177431"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7f8lta",
+      "metadata": {
+        "created_at": "2026-08-11T10:38:55Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-11T10:39:26Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABJGCUrA",
+        "source_node_id": "PRRC_kwDOHD_0tM7f8lta",
+        "thread_node_id": "PRRT_kwDOHD_0tM6YMXQt",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-11T10:39:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM79dR0-",
+        "number": 826,
+        "title": "Ligand mapping helper functions",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3757202266"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABOgyJ_A",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABOgyJ_A",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABOgyJ_A"
       },
@@ -2682,7 +2682,7 @@
         "title": "Ligand mapping helper functions",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#issuecomment-5268867580"
     },
     {
@@ -2717,99 +2717,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7gl00s",
-      "metadata": {
-        "created_at": "2026-08-12T15:49:39Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-12T16:44:56Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABJSnUPg",
-        "source_node_id": "PRRC_kwDOHD_0tM7gl00s",
-        "thread_node_id": "PRRT_kwDOHD_0tM6Yoc7H",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-12T16:44:56Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM79dR0-",
-        "number": 826,
-        "title": "Ligand mapping helper functions",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3768012076"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7gnX9U",
-      "metadata": {
-        "created_at": "2026-08-12T16:40:58Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-12T16:44:56Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABJSnUPg",
-        "source_node_id": "PRRC_kwDOHD_0tM7gnX9U",
-        "thread_node_id": "PRRT_kwDOHD_0tM6YpgxF",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-12T16:44:56Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM79dR0-",
-        "number": 826,
-        "title": "Ligand mapping helper functions",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3768418132"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7gnc2L",
-      "metadata": {
-        "created_at": "2026-08-12T16:43:47Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-12T16:44:56Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABJSnUPg",
-        "source_node_id": "PRRC_kwDOHD_0tM7gnc2L",
-        "thread_node_id": "PRRT_kwDOHD_0tM6YpgxF",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-12T16:44:56Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM79dR0-",
-        "number": 826,
-        "title": "Ligand mapping helper functions",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3768438155"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOHD_0tM8AAAABJSnUPg",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM8AAAABJSnUPg",
@@ -2831,23 +2738,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7gqfU-",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7gl00s",
       "metadata": {
-        "created_at": "2026-08-12T18:27:26Z",
+        "created_at": "2026-08-12T15:49:39Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-08-12T18:27:26Z",
+        "published_at": "2026-08-12T16:44:56Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABJT8reQ",
-        "source_node_id": "PRRC_kwDOHD_0tM7gqfU-",
-        "thread_node_id": "PRRT_kwDOHD_0tM6YpgxF",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABJSnUPg",
+        "source_node_id": "PRRC_kwDOHD_0tM7gl00s",
+        "thread_node_id": "PRRT_kwDOHD_0tM6Yoc7H",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-12T18:27:26Z",
+      "occurred_at": "2026-08-12T16:44:56Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
@@ -2856,8 +2763,70 @@
         "title": "Ligand mapping helper functions",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3769234750"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3768012076"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7gnX9U",
+      "metadata": {
+        "created_at": "2026-08-12T16:40:58Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-12T16:44:56Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABJSnUPg",
+        "source_node_id": "PRRC_kwDOHD_0tM7gnX9U",
+        "thread_node_id": "PRRT_kwDOHD_0tM6YpgxF",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-12T16:44:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM79dR0-",
+        "number": 826,
+        "title": "Ligand mapping helper functions",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3768418132"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7gnc2L",
+      "metadata": {
+        "created_at": "2026-08-12T16:43:47Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-12T16:44:56Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABJSnUPg",
+        "source_node_id": "PRRC_kwDOHD_0tM7gnc2L",
+        "thread_node_id": "PRRT_kwDOHD_0tM6YpgxF",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-12T16:44:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM79dR0-",
+        "number": 826,
+        "title": "Ligand mapping helper functions",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3768438155"
     },
     {
       "credits": [
@@ -2887,23 +2856,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7g7Toj",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7gqfU-",
       "metadata": {
-        "created_at": "2026-08-13T08:22:50Z",
+        "created_at": "2026-08-12T18:27:26Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-08-13T08:22:50Z",
+        "published_at": "2026-08-12T18:27:26Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABJYxBYA",
-        "source_node_id": "PRRC_kwDOHD_0tM7g7Toj",
-        "thread_node_id": "PRRT_kwDOHD_0tM6Yoc7H",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABJT8reQ",
+        "source_node_id": "PRRC_kwDOHD_0tM7gqfU-",
+        "thread_node_id": "PRRT_kwDOHD_0tM6YpgxF",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-13T08:22:50Z",
+      "occurred_at": "2026-08-12T18:27:26Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
@@ -2912,8 +2881,8 @@
         "title": "Ligand mapping helper functions",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3773643299"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3769234750"
     },
     {
       "credits": [
@@ -2947,19 +2916,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7g96d5",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7g7Toj",
       "metadata": {
-        "created_at": "2026-08-13T10:03:11Z",
+        "created_at": "2026-08-13T08:22:50Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-08-13T10:03:11Z",
+        "published_at": "2026-08-13T08:22:50Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABJZkTmw",
-        "source_node_id": "PRRC_kwDOHD_0tM7g96d5",
-        "thread_node_id": "PRRT_kwDOHD_0tM6YpgxF",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABJYxBYA",
+        "source_node_id": "PRRC_kwDOHD_0tM7g7Toj",
+        "thread_node_id": "PRRT_kwDOHD_0tM6Yoc7H",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-13T10:03:11Z",
+      "occurred_at": "2026-08-13T08:22:50Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
@@ -2968,8 +2937,8 @@
         "title": "Ligand mapping helper functions",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3774326649"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3773643299"
     },
     {
       "credits": [
@@ -3003,7 +2972,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABOqVVgQ",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7g96d5",
+      "metadata": {
+        "created_at": "2026-08-13T10:03:11Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-13T10:03:11Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABJZkTmw",
+        "source_node_id": "PRRC_kwDOHD_0tM7g96d5",
+        "thread_node_id": "PRRT_kwDOHD_0tM6YpgxF",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-13T10:03:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM79dR0-",
+        "number": 826,
+        "title": "Ligand mapping helper functions",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3774326649"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABOqVVgQ",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABOqVVgQ"
       },
@@ -3016,39 +3016,8 @@
         "title": "Ligand mapping helper functions",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#issuecomment-5278881153"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7g-gJV",
-      "metadata": {
-        "created_at": "2026-08-13T10:25:06Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-13T10:25:06Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABJZwCgw",
-        "source_node_id": "PRRC_kwDOHD_0tM7g-gJV",
-        "thread_node_id": "PRRT_kwDOHD_0tM6YpgxF",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-13T10:25:06Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM79dR0-",
-        "number": 826,
-        "title": "Ligand mapping helper functions",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3774480981"
     },
     {
       "credits": [
@@ -3082,7 +3051,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABOqiPLw",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7g-gJV",
+      "metadata": {
+        "created_at": "2026-08-13T10:25:06Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-13T10:25:06Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABJZwCgw",
+        "source_node_id": "PRRC_kwDOHD_0tM7g-gJV",
+        "thread_node_id": "PRRT_kwDOHD_0tM6YpgxF",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-13T10:25:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM79dR0-",
+        "number": 826,
+        "title": "Ligand mapping helper functions",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3774480981"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABOqiPLw",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABOqiPLw"
       },
@@ -3095,39 +3095,8 @@
         "title": "Ligand mapping helper functions",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#issuecomment-5279092527"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7g_GJB",
-      "metadata": {
-        "created_at": "2026-08-13T10:44:20Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-13T10:44:20Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABJZ7E7A",
-        "source_node_id": "PRRC_kwDOHD_0tM7g_GJB",
-        "thread_node_id": "PRRT_kwDOHD_0tM6YpgxF",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-13T10:44:20Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM79dR0-",
-        "number": 826,
-        "title": "Ligand mapping helper functions",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3774636609"
     },
     {
       "credits": [
@@ -3153,6 +3122,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#pullrequestreview-4926129388"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7g_GJB",
+      "metadata": {
+        "created_at": "2026-08-13T10:44:20Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-13T10:44:20Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABJZ7E7A",
+        "source_node_id": "PRRC_kwDOHD_0tM7g_GJB",
+        "thread_node_id": "PRRT_kwDOHD_0tM6YpgxF",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-13T10:44:20Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM79dR0-",
+        "number": 826,
+        "title": "Ligand mapping helper functions",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/826"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/826#discussion_r3774636609"
     },
     {
       "credits": [
@@ -3244,7 +3244,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABO-RAhw",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABO-RAhw",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABO-RAhw"
       },
@@ -3257,39 +3257,8 @@
         "title": "make file storage create directory upon instantiation",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/827"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/827#issuecomment-5299781767"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7i6QOm",
-      "metadata": {
-        "created_at": "2026-08-18T18:42:09Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-08-18T18:42:19Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABJ-lN2A",
-        "source_node_id": "PRRC_kwDOHD_0tM7i6QOm",
-        "thread_node_id": "PRRT_kwDOHD_0tM6aONTp",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-18T18:42:19Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3806921638"
     },
     {
       "credits": [
@@ -3319,23 +3288,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7jN4tA",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7i6QOm",
       "metadata": {
-        "created_at": "2026-08-19T10:15:29Z",
+        "created_at": "2026-08-18T18:42:09Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-08-19T10:15:30Z",
+        "published_at": "2026-08-18T18:42:19Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKEunlQ",
-        "source_node_id": "PRRC_kwDOHD_0tM7jN4tA",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABJ-lN2A",
+        "source_node_id": "PRRC_kwDOHD_0tM7i6QOm",
         "thread_node_id": "PRRT_kwDOHD_0tM6aONTp",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-19T10:15:30Z",
+      "occurred_at": "2026-08-18T18:42:19Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
@@ -3344,8 +3313,8 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3812068160"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3806921638"
     },
     {
       "credits": [
@@ -3379,19 +3348,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7jOrxU",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7jN4tA",
       "metadata": {
-        "created_at": "2026-08-19T10:47:30Z",
-        "outdated": true,
+        "created_at": "2026-08-19T10:15:29Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-08-19T10:47:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKE-LSQ",
-        "source_node_id": "PRRC_kwDOHD_0tM7jOrxU",
-        "thread_node_id": "PRRT_kwDOHD_0tM6W9G2t",
+        "published_at": "2026-08-19T10:15:30Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKEunlQ",
+        "source_node_id": "PRRC_kwDOHD_0tM7jN4tA",
+        "thread_node_id": "PRRT_kwDOHD_0tM6aONTp",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-19T10:47:30Z",
+      "occurred_at": "2026-08-19T10:15:30Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
@@ -3400,8 +3369,8 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3812277332"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3812068160"
     },
     {
       "credits": [
@@ -3435,7 +3404,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABPl1CPg",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7jOrxU",
+      "metadata": {
+        "created_at": "2026-08-19T10:47:30Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-19T10:47:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKE-LSQ",
+        "source_node_id": "PRRC_kwDOHD_0tM7jOrxU",
+        "thread_node_id": "PRRT_kwDOHD_0tM6W9G2t",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-19T10:47:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3812277332"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABPl1CPg",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABPl1CPg"
       },
@@ -3448,39 +3448,8 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#issuecomment-5341266494"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7jPU8z",
-      "metadata": {
-        "created_at": "2026-08-19T11:13:49Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-19T11:13:49Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFK--g",
-        "source_node_id": "PRRC_kwDOHD_0tM7jPU8z",
-        "thread_node_id": "PRRT_kwDOHD_0tM6W83SK",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-19T11:13:49Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3812446003"
     },
     {
       "credits": [
@@ -3510,11 +3479,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7jPU8z",
+      "metadata": {
+        "created_at": "2026-08-19T11:13:49Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-19T11:13:49Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFK--g",
+        "source_node_id": "PRRC_kwDOHD_0tM7jPU8z",
+        "thread_node_id": "PRRT_kwDOHD_0tM6W83SK",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-19T11:13:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3812446003"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABPl-TDQ",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABPl-TDQ",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABPl-TDQ"
       },
@@ -3527,39 +3527,8 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#issuecomment-5341418253"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7jRCID",
-      "metadata": {
-        "created_at": "2026-08-19T12:23:44Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-08-19T12:23:44Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFsXxg",
-        "source_node_id": "PRRC_kwDOHD_0tM7jRCID",
-        "thread_node_id": "PRRT_kwDOHD_0tM6aONTp",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-19T12:23:44Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3812893187"
     },
     {
       "credits": [
@@ -3589,33 +3558,33 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjYyNDU3MTc=",
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7jfiBx",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7jRCID",
       "metadata": {
-        "created_at": "2026-08-19T21:02:45Z",
+        "created_at": "2026-08-19T12:23:44Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-08-19T21:02:50Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKKKw8g",
-        "source_node_id": "PRRC_kwDOHD_0tM7jfiBx",
-        "thread_node_id": "PRRT_kwDOHD_0tM6anOlG",
+        "published_at": "2026-08-19T12:23:44Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFsXxg",
+        "source_node_id": "PRRC_kwDOHD_0tM7jRCID",
+        "thread_node_id": "PRRT_kwDOHD_0tM6aONTp",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-19T21:02:50Z",
+      "occurred_at": "2026-08-19T12:23:44Z",
       "subject": {
-        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM7_XArx",
-        "number": 827,
-        "title": "make file storage create directory upon instantiation",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/827"
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/827#discussion_r3816693873"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3812893187"
     },
     {
       "credits": [
@@ -3645,23 +3614,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
+          "actor_key": "MDQ6VXNlcjYyNDU3MTc=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7jiNYZ",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7jfiBx",
       "metadata": {
-        "created_at": "2026-08-19T23:07:13Z",
+        "created_at": "2026-08-19T21:02:45Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-08-19T23:07:13Z",
+        "published_at": "2026-08-19T21:02:50Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKK8whg",
-        "source_node_id": "PRRC_kwDOHD_0tM7jiNYZ",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKKKw8g",
+        "source_node_id": "PRRC_kwDOHD_0tM7jfiBx",
         "thread_node_id": "PRRT_kwDOHD_0tM6anOlG",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-19T23:07:13Z",
+      "occurred_at": "2026-08-19T21:02:50Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMxOTc0NDk1",
         "kind": "pull_request",
@@ -3670,8 +3639,8 @@
         "title": "make file storage create directory upon instantiation",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/827"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/827#discussion_r3817395737"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/827#discussion_r3816693873"
     },
     {
       "credits": [
@@ -3701,250 +3670,33 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjMxOTc0NDk1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7j0UTT",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7jiNYZ",
       "metadata": {
-        "created_at": "2026-08-20T13:49:42Z",
+        "created_at": "2026-08-19T23:07:13Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-08-20T13:49:48Z",
+        "published_at": "2026-08-19T23:07:13Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
-        "source_node_id": "PRRC_kwDOHD_0tM7j0UTT",
-        "thread_node_id": "PRRT_kwDOHD_0tM6a1LTr",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKK8whg",
+        "source_node_id": "PRRC_kwDOHD_0tM7jiNYZ",
+        "thread_node_id": "PRRT_kwDOHD_0tM6anOlG",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-20T13:49:48Z",
+      "occurred_at": "2026-08-19T23:07:13Z",
       "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "author_key": "MDQ6VXNlcjMxOTc0NDk1",
         "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+        "node_id": "PR_kwDOHD_0tM7_XArx",
+        "number": 827,
+        "title": "make file storage create directory upon instantiation",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/827"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3822142675"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7jRFkE",
-      "metadata": {
-        "created_at": "2026-08-19T12:25:49Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-08-20T13:49:48Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
-        "source_node_id": "PRRC_kwDOHD_0tM7jRFkE",
-        "thread_node_id": "PRRT_kwDOHD_0tM6adgMD",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-20T13:49:48Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3812907268"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7jz-OC",
-      "metadata": {
-        "created_at": "2026-08-20T13:38:03Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-08-20T13:49:48Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
-        "source_node_id": "PRRC_kwDOHD_0tM7jz-OC",
-        "thread_node_id": "PRRT_kwDOHD_0tM6a08UX",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-20T13:49:48Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3822052226"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7jz3Mu",
-      "metadata": {
-        "created_at": "2026-08-20T13:34:16Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-20T13:49:48Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
-        "source_node_id": "PRRC_kwDOHD_0tM7jz3Mu",
-        "thread_node_id": "PRRT_kwDOHD_0tM6a03jI",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-20T13:49:48Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3822023470"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7jz5Q0",
-      "metadata": {
-        "created_at": "2026-08-20T13:35:24Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-20T13:49:48Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
-        "source_node_id": "PRRC_kwDOHD_0tM7jz5Q0",
-        "thread_node_id": "PRRT_kwDOHD_0tM6a048i",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-20T13:49:48Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3822031924"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7jz5v4",
-      "metadata": {
-        "created_at": "2026-08-20T13:35:40Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-20T13:49:48Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
-        "source_node_id": "PRRC_kwDOHD_0tM7jz5v4",
-        "thread_node_id": "PRRT_kwDOHD_0tM6a05RF",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-20T13:49:48Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3822033912"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7jzr7o",
-      "metadata": {
-        "created_at": "2026-08-20T13:28:30Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-20T13:49:48Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
-        "source_node_id": "PRRC_kwDOHD_0tM7jzr7o",
-        "thread_node_id": "PRRT_kwDOHD_0tM6a0v_z",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-20T13:49:48Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3821977320"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7jzzMI",
-      "metadata": {
-        "created_at": "2026-08-20T13:32:23Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-08-20T13:49:48Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
-        "source_node_id": "PRRC_kwDOHD_0tM7jzzMI",
-        "thread_node_id": "PRRT_kwDOHD_0tM6a0064",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-20T13:49:48Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3822007048"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/827#discussion_r3817395737"
     },
     {
       "credits": [
@@ -3974,23 +3726,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7j4voP",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7j0UTT",
       "metadata": {
-        "created_at": "2026-08-20T16:10:11Z",
-        "outdated": true,
+        "created_at": "2026-08-20T13:49:42Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-08-20T16:10:11Z",
+        "published_at": "2026-08-20T13:49:48Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKSAVVg",
-        "source_node_id": "PRRC_kwDOHD_0tM7j4voP",
-        "thread_node_id": "PRRT_kwDOHD_0tM6a0v_z",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
+        "source_node_id": "PRRC_kwDOHD_0tM7j0UTT",
+        "thread_node_id": "PRRT_kwDOHD_0tM6a1LTr",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-20T16:10:11Z",
+      "occurred_at": "2026-08-20T13:49:48Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
@@ -3999,8 +3751,225 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3823303183"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3822142675"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7jRFkE",
+      "metadata": {
+        "created_at": "2026-08-19T12:25:49Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-08-20T13:49:48Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
+        "source_node_id": "PRRC_kwDOHD_0tM7jRFkE",
+        "thread_node_id": "PRRT_kwDOHD_0tM6adgMD",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-20T13:49:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3812907268"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7jz-OC",
+      "metadata": {
+        "created_at": "2026-08-20T13:38:03Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-08-20T13:49:48Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
+        "source_node_id": "PRRC_kwDOHD_0tM7jz-OC",
+        "thread_node_id": "PRRT_kwDOHD_0tM6a08UX",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-20T13:49:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3822052226"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7jz3Mu",
+      "metadata": {
+        "created_at": "2026-08-20T13:34:16Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-20T13:49:48Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
+        "source_node_id": "PRRC_kwDOHD_0tM7jz3Mu",
+        "thread_node_id": "PRRT_kwDOHD_0tM6a03jI",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-20T13:49:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3822023470"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7jz5Q0",
+      "metadata": {
+        "created_at": "2026-08-20T13:35:24Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-20T13:49:48Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
+        "source_node_id": "PRRC_kwDOHD_0tM7jz5Q0",
+        "thread_node_id": "PRRT_kwDOHD_0tM6a048i",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-20T13:49:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3822031924"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7jz5v4",
+      "metadata": {
+        "created_at": "2026-08-20T13:35:40Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-20T13:49:48Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
+        "source_node_id": "PRRC_kwDOHD_0tM7jz5v4",
+        "thread_node_id": "PRRT_kwDOHD_0tM6a05RF",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-20T13:49:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3822033912"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7jzr7o",
+      "metadata": {
+        "created_at": "2026-08-20T13:28:30Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-20T13:49:48Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
+        "source_node_id": "PRRC_kwDOHD_0tM7jzr7o",
+        "thread_node_id": "PRRT_kwDOHD_0tM6a0v_z",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-20T13:49:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3821977320"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7jzzMI",
+      "metadata": {
+        "created_at": "2026-08-20T13:32:23Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-08-20T13:49:48Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKFtZgw",
+        "source_node_id": "PRRC_kwDOHD_0tM7jzzMI",
+        "thread_node_id": "PRRT_kwDOHD_0tM6a0064",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-20T13:49:48Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3822007048"
     },
     {
       "credits": [
@@ -4034,19 +4003,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7j4w2r",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7j4voP",
       "metadata": {
-        "created_at": "2026-08-20T16:10:52Z",
+        "created_at": "2026-08-20T16:10:11Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-08-20T16:10:52Z",
+        "published_at": "2026-08-20T16:10:11Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKSAtzg",
-        "source_node_id": "PRRC_kwDOHD_0tM7j4w2r",
-        "thread_node_id": "PRRT_kwDOHD_0tM6a03jI",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKSAVVg",
+        "source_node_id": "PRRC_kwDOHD_0tM7j4voP",
+        "thread_node_id": "PRRT_kwDOHD_0tM6a0v_z",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-20T16:10:52Z",
+      "occurred_at": "2026-08-20T16:10:11Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
@@ -4055,8 +4024,8 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3823308203"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3823303183"
     },
     {
       "credits": [
@@ -4090,19 +4059,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7j4xaY",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7j4w2r",
       "metadata": {
-        "created_at": "2026-08-20T16:11:10Z",
+        "created_at": "2026-08-20T16:10:52Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-08-20T16:11:10Z",
+        "published_at": "2026-08-20T16:10:52Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKSA4CA",
-        "source_node_id": "PRRC_kwDOHD_0tM7j4xaY",
-        "thread_node_id": "PRRT_kwDOHD_0tM6a05RF",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKSAtzg",
+        "source_node_id": "PRRC_kwDOHD_0tM7j4w2r",
+        "thread_node_id": "PRRT_kwDOHD_0tM6a03jI",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-20T16:11:10Z",
+      "occurred_at": "2026-08-20T16:10:52Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
@@ -4111,8 +4080,8 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3823310488"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3823308203"
     },
     {
       "credits": [
@@ -4146,19 +4115,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7j4y_y",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7j4xaY",
       "metadata": {
-        "created_at": "2026-08-20T16:12:03Z",
-        "outdated": false,
+        "created_at": "2026-08-20T16:11:10Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2026-08-20T16:12:04Z",
+        "published_at": "2026-08-20T16:11:10Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKSBVsw",
-        "source_node_id": "PRRC_kwDOHD_0tM7j4y_y",
-        "thread_node_id": "PRRT_kwDOHD_0tM6a08UX",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKSA4CA",
+        "source_node_id": "PRRC_kwDOHD_0tM7j4xaY",
+        "thread_node_id": "PRRT_kwDOHD_0tM6a05RF",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-20T16:12:04Z",
+      "occurred_at": "2026-08-20T16:11:10Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
@@ -4167,8 +4136,8 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3823316978"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3823310488"
     },
     {
       "credits": [
@@ -4202,19 +4171,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7j41lL",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7j4y_y",
       "metadata": {
-        "created_at": "2026-08-20T16:13:33Z",
+        "created_at": "2026-08-20T16:12:03Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-08-20T16:13:33Z",
+        "published_at": "2026-08-20T16:12:04Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKSCGJw",
-        "source_node_id": "PRRC_kwDOHD_0tM7j41lL",
-        "thread_node_id": "PRRT_kwDOHD_0tM6a1LTr",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKSBVsw",
+        "source_node_id": "PRRC_kwDOHD_0tM7j4y_y",
+        "thread_node_id": "PRRT_kwDOHD_0tM6a08UX",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-20T16:13:33Z",
+      "occurred_at": "2026-08-20T16:12:04Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
@@ -4223,8 +4192,8 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3823327563"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3823316978"
     },
     {
       "credits": [
@@ -4258,7 +4227,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABP2Ymsw",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7j41lL",
+      "metadata": {
+        "created_at": "2026-08-20T16:13:33Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-08-20T16:13:33Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKSCGJw",
+        "source_node_id": "PRRC_kwDOHD_0tM7j41lL",
+        "thread_node_id": "PRRT_kwDOHD_0tM6a1LTr",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-20T16:13:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3823327563"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABP2Ymsw",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABP2Ymsw"
       },
@@ -4271,7 +4271,7 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#issuecomment-5358626483"
     },
     {
@@ -4385,37 +4385,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7kT4EM",
-      "metadata": {
-        "created_at": "2026-08-21T13:07:13Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-08-21T13:07:14Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKaLnNw",
-        "source_node_id": "PRRC_kwDOHD_0tM7kT4EM",
-        "thread_node_id": "PRRT_kwDOHD_0tM6a08UX",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-08-21T13:07:14Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM76oiGG",
-        "number": 821,
-        "title": "Add missing residue validation to `ProteinComponent`",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3830415628"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOHD_0tM8AAAABKaLnNw",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM8AAAABKaLnNw",
@@ -4441,19 +4410,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM7kT48j",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7kT4EM",
       "metadata": {
-        "created_at": "2026-08-21T13:07:49Z",
+        "created_at": "2026-08-21T13:07:13Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2026-08-21T13:07:49Z",
+        "published_at": "2026-08-21T13:07:14Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM8AAAABKaL4IA",
-        "source_node_id": "PRRC_kwDOHD_0tM7kT48j",
-        "thread_node_id": "PRRT_kwDOHD_0tM6adgMD",
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKaLnNw",
+        "source_node_id": "PRRC_kwDOHD_0tM7kT4EM",
+        "thread_node_id": "PRRT_kwDOHD_0tM6a08UX",
         "timestamp_fallback": false
       },
-      "occurred_at": "2026-08-21T13:07:49Z",
+      "occurred_at": "2026-08-21T13:07:14Z",
       "subject": {
         "author_key": "MDQ6VXNlcjMwMjU5NDE0",
         "kind": "pull_request",
@@ -4462,8 +4431,8 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3830419235"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3830415628"
     },
     {
       "credits": [
@@ -4497,7 +4466,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABQBatRQ",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM7kT48j",
+      "metadata": {
+        "created_at": "2026-08-21T13:07:49Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-08-21T13:07:49Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM8AAAABKaL4IA",
+        "source_node_id": "PRRC_kwDOHD_0tM7kT48j",
+        "thread_node_id": "PRRT_kwDOHD_0tM6adgMD",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-08-21T13:07:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjMwMjU5NDE0",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM76oiGG",
+        "number": 821,
+        "title": "Add missing residue validation to `ProteinComponent`",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#discussion_r3830419235"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjMwMjU5NDE0",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABQBatRQ",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABQBatRQ"
       },
@@ -4510,7 +4510,7 @@
         "title": "Add missing residue validation to `ProteinComponent`",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/821"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/821#issuecomment-5370195269"
     },
     {
@@ -4543,7 +4543,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABQCe4Aw",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABQCe4Aw",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABQCe4Aw"
       },
@@ -4556,7 +4556,7 @@
         "title": "Allow for parents in filestorage root_dir creation",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/829"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/829#issuecomment-5371312131"
     },
     {
@@ -4655,7 +4655,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABQDO0Ig",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABQDO0Ig",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABQDO0Ig"
       },
@@ -4668,7 +4668,7 @@
         "title": "Allow for parents in filestorage root_dir creation",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/829"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/829#issuecomment-5372097570"
     },
     {
@@ -4701,7 +4701,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABRFyUQg",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABRFyUQg",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABRFyUQg"
       },
@@ -4714,7 +4714,7 @@
         "title": "Fix archive version parsing",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/830"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/830#issuecomment-5441885250"
     },
     {
@@ -4749,7 +4749,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABRHGkOQ",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABRHGkOQ",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABRHGkOQ"
       },
@@ -4762,7 +4762,7 @@
         "title": "Fix archive version parsing",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/830"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/830#issuecomment-5443265593"
     },
     {
@@ -4795,7 +4795,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABRQXuug",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABRQXuug",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABRQXuug"
       },
@@ -4808,7 +4808,7 @@
         "title": "Update the default `samll_molecule_forcefield` setting",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/831"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/831#issuecomment-5452983994"
     },
     {
@@ -4818,7 +4818,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM8AAAABRRIOJg",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM8AAAABRRIOJg",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM8AAAABRRIOJg"
       },
@@ -4831,7 +4831,7 @@
         "title": "Update the default `samll_molecule_forcefield` setting",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/831"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/831#issuecomment-5453778470"
     },
     {
@@ -5072,7 +5072,7 @@
       "url": "https://github.com/beitom"
     },
     {
-      "classification": "unresolved_git",
+      "classification": "unlinked_git",
       "database_id": null,
       "display_name": null,
       "git_email": "noreply@github.com",
@@ -5085,7 +5085,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T06:13:38.132558Z",
+      "as_of": "2026-10-20T01:24:08.630229Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -5097,52 +5097,52 @@
     },
     "default_branch": "main",
     "default_branch_head": "a9aeae4f86f1b3a34ef0732277777bc3a45d9035",
+    "is_partial": false,
     "month": "2026-08",
     "month_end": "2026-09-01T00:00:00Z",
     "month_start": "2026-08-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "finished_at": "2026-10-20T01:25:47.982688Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
-        "started_at": "2026-10-18T06:13:38.132558Z"
+        "run_id": "675c3133-967f-4dac-85d8-f8537a7072ae",
+        "started_at": "2026-10-20T01:24:08.630229Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "finished_at": "2026-10-20T01:25:47.982688Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
-        "started_at": "2026-10-18T06:13:38.132558Z"
+        "run_id": "675c3133-967f-4dac-85d8-f8537a7072ae",
+        "started_at": "2026-10-20T01:24:08.630229Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "finished_at": "2026-10-20T01:25:47.982688Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
-        "started_at": "2026-10-18T06:13:38.132558Z"
+        "run_id": "675c3133-967f-4dac-85d8-f8537a7072ae",
+        "started_at": "2026-10-20T01:24:08.630229Z"
       }
     },
     "repository": {
@@ -5152,15 +5152,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "finished_at": "2026-10-20T01:25:47.982688Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
-        "started_at": "2026-10-18T06:13:38.132558Z"
+        "run_id": "675c3133-967f-4dac-85d8-f8537a7072ae",
+        "started_at": "2026-10-20T01:24:08.630229Z"
       },
       "history_start_month": "2022-03",
       "node_id": "R_kgDOHD_0tA",
@@ -5176,11 +5176,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 13,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 13,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDM6Qm90NDE4OTgyODI=": {
         "commit": 0,
@@ -5188,11 +5188,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 7,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 7,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDM6Qm90NjY4NTMxMTM=": {
         "commit": 3,
@@ -5200,11 +5200,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjEyNDYwMTI1": {
         "commit": 2,
@@ -5212,11 +5212,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 3,
-        "pr_inline_review_comment": 24,
+        "pr_discussion_comment": 3,
         "pr_merged": 3,
         "pr_opened": 2,
-        "pr_review": 19
+        "pr_review": 19,
+        "pr_review_comment": 24
       },
       "MDQ6VXNlcjMwMjU5NDE0": {
         "commit": 4,
@@ -5224,11 +5224,11 @@
         "issue_comment": 0,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 10,
-        "pr_inline_review_comment": 14,
+        "pr_discussion_comment": 10,
         "pr_merged": 1,
         "pr_opened": 4,
-        "pr_review": 15
+        "pr_review": 15,
+        "pr_review_comment": 14
       },
       "MDQ6VXNlcjMxOTc0NDk1": {
         "commit": 7,
@@ -5236,11 +5236,11 @@
         "issue_comment": 5,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 8,
-        "pr_inline_review_comment": 8,
+        "pr_discussion_comment": 8,
         "pr_merged": 9,
         "pr_opened": 9,
-        "pr_review": 8
+        "pr_review": 8,
+        "pr_review_comment": 8
       },
       "MDQ6VXNlcjYyNDU3MTc=": {
         "commit": 0,
@@ -5248,11 +5248,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 1,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 2
+        "pr_review": 2,
+        "pr_review_comment": 1
       },
       "MDQ6VXNlcjc5MzUzODI=": {
         "commit": 0,
@@ -5260,11 +5260,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 1,
+        "pr_discussion_comment": 1,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 1
+        "pr_review": 1,
+        "pr_review_comment": 1
       },
       "MDQ6VXNlcjcwODUxNjQ=": {
         "commit": 0,
@@ -5272,79 +5272,79 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 1
+        "pr_review": 1,
+        "pr_review_comment": 0
       }
     },
     "distinct_actors": {
       "bot": 3,
       "human": 6,
       "total": 9,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 1,
         "human": 3,
         "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 1,
         "total": 1,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 1,
         "total": 1,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 1,
         "total": 1,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 2,
         "human": 4,
         "total": 6,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 5,
-        "total": 5,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 6,
         "total": 6,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 5,
+        "total": 5,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -5353,11 +5353,11 @@
       "issue_comment": 5,
       "issue_opened": 1,
       "issue_reopened": 0,
-      "pr_conversation_comment": 42,
-      "pr_inline_review_comment": 48,
+      "pr_discussion_comment": 42,
       "pr_merged": 13,
       "pr_opened": 15,
-      "pr_review": 46
+      "pr_review": 46,
+      "pr_review_comment": 48
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -5365,11 +5365,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

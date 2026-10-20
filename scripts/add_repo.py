@@ -36,7 +36,7 @@ def main(argv=None) -> int:
         directory.mkdir(parents=True, exist_ok=True)
         subprocess.run(
             [
-                sys.executable, "-m", "repo_history", "backfill", args.repository,
+                sys.executable, "-m", "repo_history", "collect", args.repository,
                 "--output-directory", str(directory),
             ],
             check=True,

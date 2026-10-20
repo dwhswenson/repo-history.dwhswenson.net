@@ -1,4 +1,4 @@
-"""Rebuild configured combined reports from deployed repository manifests."""
+"""Rebuild configured combined reports from deployed repository summaries."""
 
 import subprocess
 import sys
@@ -27,16 +27,16 @@ def refresh_combos(site: Path = SITE, config: Path = CONFIG) -> None:
             directory = site / repo
             if not directory.resolve().is_relative_to(site.resolve()):
                 raise ValueError(f"{directory}: repository must remain inside site/")
-            for filename in ("manifest.json", "index.html"):
+            for filename in ("summary.json", "index.html"):
                 if not (directory / filename).is_file():
                     raise ValueError(f"{directory}: deployed repository requires {filename}")
     for combo in combos:
         directory = site / "combos" / combo.slug
         subprocess.run(
             [
-                sys.executable, "-m", "repo_history", "combine-manifests",
-                *(str(site / repo / "manifest.json") for repo in combo.repos),
-                "--output", str(directory / "manifest.json"),
+                sys.executable, "-m", "repo_history", "combine",
+                *(str(site / repo / "summary.json") for repo in combo.repos),
+                "--output", str(directory / "summary.json"),
                 "--display-name", combo.display_name,
             ],
             check=True,

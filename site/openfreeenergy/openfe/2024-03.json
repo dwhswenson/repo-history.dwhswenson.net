@@ -191,37 +191,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Z65jU",
-      "metadata": {
-        "created_at": "2024-03-01T07:47:07Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-01T07:47:12Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5x4C6w",
-        "source_node_id": "PRRC_kwDOGuqVzM5Z65jU",
-        "thread_node_id": "PRRT_kwDOGuqVzM45ckdP",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-01T07:47:12Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExNzY1OTgy",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5nT2ws",
-        "number": 733,
-        "title": "debug script for people to test openmm",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/733"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/733#discussion_r1508612308"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5x4C6w",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5x4C6w",
@@ -247,29 +216,29 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Z651Z",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Z65jU",
       "metadata": {
-        "created_at": "2024-03-01T07:48:29Z",
-        "outdated": true,
+        "created_at": "2024-03-01T07:47:07Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-03-01T07:49:46Z",
+        "published_at": "2024-03-01T07:47:12Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5x4DWY",
-        "source_node_id": "PRRC_kwDOGuqVzM5Z651Z",
-        "thread_node_id": "PRRT_kwDOGuqVzM45ckpk",
+        "review_node_id": "PRR_kwDOGuqVzM5x4C6w",
+        "source_node_id": "PRRC_kwDOGuqVzM5Z65jU",
+        "thread_node_id": "PRRT_kwDOGuqVzM45ckdP",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-01T07:49:46Z",
+      "occurred_at": "2024-03-01T07:47:12Z",
       "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
         "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5nGUGm",
-        "number": 731,
-        "title": "Add an MD tutorial",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/731"
+        "node_id": "PR_kwDOGuqVzM5nT2ws",
+        "number": 733,
+        "title": "debug script for people to test openmm",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/733"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/731#discussion_r1508613465"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/733#discussion_r1508612308"
     },
     {
       "credits": [
@@ -303,19 +272,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Z66hw",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Z651Z",
       "metadata": {
-        "created_at": "2024-03-01T07:51:58Z",
-        "outdated": false,
+        "created_at": "2024-03-01T07:48:29Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-01T07:51:58Z",
+        "published_at": "2024-03-01T07:49:46Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5x4EaG",
-        "source_node_id": "PRRC_kwDOGuqVzM5Z66hw",
-        "thread_node_id": "PRRT_kwDOGuqVzM45clH8",
+        "review_node_id": "PRR_kwDOGuqVzM5x4DWY",
+        "source_node_id": "PRRC_kwDOGuqVzM5Z651Z",
+        "thread_node_id": "PRRT_kwDOGuqVzM45ckpk",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-01T07:51:58Z",
+      "occurred_at": "2024-03-01T07:49:46Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -324,8 +293,8 @@
         "title": "Add an MD tutorial",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/731"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/731#discussion_r1508616304"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/731#discussion_r1508613465"
     },
     {
       "credits": [
@@ -351,6 +320,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/731#pullrequestreview-1910523526"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Z66hw",
+      "metadata": {
+        "created_at": "2024-03-01T07:51:58Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-01T07:51:58Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5x4EaG",
+        "source_node_id": "PRRC_kwDOGuqVzM5Z66hw",
+        "thread_node_id": "PRRT_kwDOGuqVzM45clH8",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-01T07:51:58Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5nGUGm",
+        "number": 731,
+        "title": "Add an MD tutorial",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/731"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/731#discussion_r1508616304"
     },
     {
       "credits": [
@@ -392,7 +392,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM51lOLF",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM51lOLF",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM51lOLF"
       },
@@ -405,7 +405,7 @@
         "title": "[WIP] Do an MD pre-equilibration for AFE simulations",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/614"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/614#issuecomment-1972691653"
     },
     {
@@ -496,7 +496,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Z69KB",
+      "id": "pr_review:PRR_kwDOGuqVzM5x4IWV",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5x4IWV",
+        "state": "COMMENTED",
+        "submitted_at": "2024-03-01T08:03:55Z"
+      },
+      "occurred_at": "2024-03-01T08:03:55Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5mx-En",
+        "number": 722,
+        "title": "Un-vendor `toolkit_registry_manager`",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/722"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/722#pullrequestreview-1910539669"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Z69KB",
       "metadata": {
         "created_at": "2024-03-01T08:03:55Z",
         "outdated": false,
@@ -517,33 +542,8 @@
         "title": "Un-vendor `toolkit_registry_manager`",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/722"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/722#discussion_r1508627073"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM5x4IWV",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM5x4IWV",
-        "state": "COMMENTED",
-        "submitted_at": "2024-03-01T08:03:55Z"
-      },
-      "occurred_at": "2024-03-01T08:03:55Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5mx-En",
-        "number": 722,
-        "title": "Un-vendor `toolkit_registry_manager`",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/722"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/722#pullrequestreview-1910539669"
     },
     {
       "credits": [
@@ -640,7 +640,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM51lvEb",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM51lvEb",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM51lvEb"
       },
@@ -653,7 +653,7 @@
         "title": "Add warnings & docs for forward and reverse analysis getters",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/749"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/749#issuecomment-1972826395"
     },
     {
@@ -663,7 +663,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM51lx2l",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM51lx2l",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM51lx2l"
       },
@@ -676,7 +676,7 @@
         "title": "Add warnings & docs for forward and reverse analysis getters",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/749"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/749#issuecomment-1972837797"
     },
     {
@@ -805,7 +805,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM51mxtR",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM51mxtR",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM51mxtR"
       },
@@ -818,7 +818,7 @@
         "title": "Fix ahfe integration tests - missing restraints lamdas",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/750"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/750#issuecomment-1973099345"
     },
     {
@@ -851,37 +851,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Z8Sqs",
-      "metadata": {
-        "created_at": "2024-03-01T13:16:58Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-01T13:16:58Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5x6VtO",
-        "source_node_id": "PRRC_kwDOGuqVzM5Z8Sqs",
-        "thread_node_id": "PRRT_kwDOGuqVzM45cm37",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-01T13:16:58Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5mx-En",
-        "number": 722,
-        "title": "Un-vendor `toolkit_registry_manager`",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/722"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/722#discussion_r1508977324"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5x6VtO",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5x6VtO",
@@ -903,23 +872,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Z87GZ",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Z8Sqs",
       "metadata": {
-        "created_at": "2024-03-01T15:14:15Z",
+        "created_at": "2024-03-01T13:16:58Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-03-01T15:14:15Z",
+        "published_at": "2024-03-01T13:16:58Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5x7Zap",
-        "source_node_id": "PRRC_kwDOGuqVzM5Z87GZ",
+        "review_node_id": "PRR_kwDOGuqVzM5x6VtO",
+        "source_node_id": "PRRC_kwDOGuqVzM5Z8Sqs",
         "thread_node_id": "PRRT_kwDOGuqVzM45cm37",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-01T15:14:15Z",
+      "occurred_at": "2024-03-01T13:16:58Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -928,8 +897,8 @@
         "title": "Un-vendor `toolkit_registry_manager`",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/722"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/722#discussion_r1509142937"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/722#discussion_r1508977324"
     },
     {
       "credits": [
@@ -959,23 +928,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Z8_MZ",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Z87GZ",
       "metadata": {
-        "created_at": "2024-03-01T15:28:33Z",
+        "created_at": "2024-03-01T15:14:15Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-03-01T15:28:33Z",
+        "published_at": "2024-03-01T15:14:15Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5x7fry",
-        "source_node_id": "PRRC_kwDOGuqVzM5Z8_MZ",
+        "review_node_id": "PRR_kwDOGuqVzM5x7Zap",
+        "source_node_id": "PRRC_kwDOGuqVzM5Z87GZ",
         "thread_node_id": "PRRT_kwDOGuqVzM45cm37",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-01T15:28:33Z",
+      "occurred_at": "2024-03-01T15:14:15Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -984,8 +953,8 @@
         "title": "Un-vendor `toolkit_registry_manager`",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/722"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/722#discussion_r1509159705"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/722#discussion_r1509142937"
     },
     {
       "credits": [
@@ -1011,6 +980,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/722#pullrequestreview-1911421682"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Z8_MZ",
+      "metadata": {
+        "created_at": "2024-03-01T15:28:33Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-01T15:28:33Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5x7fry",
+        "source_node_id": "PRRC_kwDOGuqVzM5Z8_MZ",
+        "thread_node_id": "PRRT_kwDOGuqVzM45cm37",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-01T15:28:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5mx-En",
+        "number": 722,
+        "title": "Un-vendor `toolkit_registry_manager`",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/722"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/722#discussion_r1509159705"
     },
     {
       "credits": [
@@ -1051,7 +1051,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Z9ZBk",
+      "id": "pr_review:PRR_kwDOGuqVzM5x8MIO",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5x8MIO",
+        "state": "COMMENTED",
+        "submitted_at": "2024-03-01T16:57:31Z"
+      },
+      "occurred_at": "2024-03-01T16:57:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5nGUGm",
+        "number": 731,
+        "title": "Add an MD tutorial",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/731"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/731#pullrequestreview-1911603726"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Z9ZBk",
       "metadata": {
         "created_at": "2024-03-01T16:57:31Z",
         "outdated": false,
@@ -1072,33 +1097,8 @@
         "title": "Add an MD tutorial",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/731"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/731#discussion_r1509265508"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM5x8MIO",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM5x8MIO",
-        "state": "COMMENTED",
-        "submitted_at": "2024-03-01T16:57:31Z"
-      },
-      "occurred_at": "2024-03-01T16:57:31Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5nGUGm",
-        "number": 731,
-        "title": "Add an MD tutorial",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/731"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/731#pullrequestreview-1911603726"
     },
     {
       "credits": [
@@ -1479,7 +1479,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM51zSIM",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM51zSIM",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM51zSIM"
       },
@@ -1492,7 +1492,7 @@
         "title": "Compute selection: deviceIndex & enforce 1 thread in vacuum",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/752"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/752#issuecomment-1976377868"
     },
     {
@@ -1502,7 +1502,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM51zW94",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM51zW94",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM51zW94"
       },
@@ -1515,7 +1515,7 @@
         "title": "Compute selection: deviceIndex & enforce 1 thread in vacuum",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/752"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/752#issuecomment-1976397688"
     },
     {
@@ -1548,7 +1548,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM51zjV7",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM51zjV7",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM51zjV7"
       },
@@ -1561,7 +1561,7 @@
         "title": "Pymbar duecredit",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/753"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/753#issuecomment-1976448379"
     },
     {
@@ -1649,7 +1649,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM512EJ4",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM512EJ4",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM512EJ4"
       },
@@ -1662,7 +1662,7 @@
         "title": "Add `NonTransformation` to top level `__init__.py`",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/754"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/754#issuecomment-1977107064"
     },
     {
@@ -1672,7 +1672,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM512IXP",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM512IXP",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM512IXP"
       },
@@ -1685,7 +1685,7 @@
         "title": "Add `NonTransformation` to top level `__init__.py`",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/754"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/754#issuecomment-1977124303"
     },
     {
@@ -1837,7 +1837,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM519Dez",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM519Dez",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM519Dez"
       },
@@ -1850,7 +1850,7 @@
         "title": "docs: update badge on front page",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/755"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/755#issuecomment-1978939315"
     },
     {
@@ -2113,7 +2113,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM52EQ3A",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM52EQ3A",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM52EQ3A"
       },
@@ -2126,7 +2126,7 @@
         "title": "Docs userguide",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#issuecomment-1980829120"
     },
     {
@@ -2214,7 +2214,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM52EePV",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM52EePV",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM52EePV"
       },
@@ -2227,7 +2227,7 @@
         "title": "Just don't install espaloma charge",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/763"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/763#issuecomment-1980883925"
     },
     {
@@ -2292,7 +2292,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM52E6mP",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM52E6mP",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM52E6mP"
       },
@@ -2305,7 +2305,7 @@
         "title": "Change changelog title name",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/764"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/764#issuecomment-1981000079"
     },
     {
@@ -2708,7 +2708,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM52QOD9",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM52QOD9",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM52QOD9"
       },
@@ -2721,7 +2721,7 @@
         "title": "Fixing API settings things",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/766"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/766#issuecomment-1983963389"
     },
     {
@@ -2912,7 +2912,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM52QYbA",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM52QYbA",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM52QYbA"
       },
@@ -2925,39 +2925,8 @@
         "title": "Change changelog title name",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/764"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/764#issuecomment-1984005824"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5aZDom",
-      "metadata": {
-        "created_at": "2024-03-07T16:59:13Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-07T16:59:13Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5ynwZ3",
-        "source_node_id": "PRRC_kwDOGuqVzM5aZDom",
-        "thread_node_id": "PRRT_kwDOGuqVzM45v7Ng",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-07T16:59:13Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5o2KFh",
-        "number": 764,
-        "title": "Change changelog title name",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/764"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/764#discussion_r1516517926"
     },
     {
       "credits": [
@@ -2991,19 +2960,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5aZD2g",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5aZDom",
       "metadata": {
-        "created_at": "2024-03-07T16:59:50Z",
+        "created_at": "2024-03-07T16:59:13Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-07T16:59:50Z",
+        "published_at": "2024-03-07T16:59:13Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5ynwvR",
-        "source_node_id": "PRRC_kwDOGuqVzM5aZD2g",
+        "review_node_id": "PRR_kwDOGuqVzM5ynwZ3",
+        "source_node_id": "PRRC_kwDOGuqVzM5aZDom",
         "thread_node_id": "PRRT_kwDOGuqVzM45v7Ng",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-07T16:59:50Z",
+      "occurred_at": "2024-03-07T16:59:13Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -3012,8 +2981,8 @@
         "title": "Change changelog title name",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/764"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/764#discussion_r1516518816"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/764#discussion_r1516517926"
     },
     {
       "credits": [
@@ -3039,6 +3008,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/764#pullrequestreview-1923025873"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5aZD2g",
+      "metadata": {
+        "created_at": "2024-03-07T16:59:50Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-07T16:59:50Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5ynwvR",
+        "source_node_id": "PRRC_kwDOGuqVzM5aZD2g",
+        "thread_node_id": "PRRT_kwDOGuqVzM45v7Ng",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-07T16:59:50Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5o2KFh",
+        "number": 764,
+        "title": "Change changelog title name",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/764"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/764#discussion_r1516518816"
     },
     {
       "credits": [
@@ -3134,7 +3134,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM52QenF",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM52QenF",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM52QenF"
       },
@@ -3147,7 +3147,7 @@
         "title": "Fix Issue 683",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/767"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/767#issuecomment-1984031173"
     },
     {
@@ -3295,7 +3295,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM52Q8aS",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM52Q8aS",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM52Q8aS"
       },
@@ -3308,7 +3308,7 @@
         "title": "Change changelog title name",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/764"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/764#issuecomment-1984153234"
     },
     {
@@ -3492,7 +3492,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM52RAfl",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM52RAfl",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM52RAfl"
       },
@@ -3505,7 +3505,7 @@
         "title": "docs: update badge on front page",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/755"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/755#issuecomment-1984169957"
     },
     {
@@ -4047,7 +4047,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM52XdeC",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM52XdeC",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM52XdeC"
       },
@@ -4060,7 +4060,7 @@
         "title": "Cli protocol settings via yaml input",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/770"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/770#issuecomment-1985861506"
     },
     {
@@ -4070,7 +4070,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM52Xghs",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM52Xghs",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM52Xghs"
       },
@@ -4083,7 +4083,7 @@
         "title": "Cli protocol settings via yaml input",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/770"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/770#issuecomment-1985874028"
     },
     {
@@ -4212,7 +4212,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM52YkX5",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM52YkX5",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM52YkX5"
       },
@@ -4225,225 +4225,8 @@
         "title": "Fixing API settings things",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/766"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/766#issuecomment-1986151929"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5aj7Lb",
-      "metadata": {
-        "created_at": "2024-03-11T09:15:13Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-11T09:42:16Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
-        "source_node_id": "PRRC_kwDOGuqVzM5aj7Lb",
-        "thread_node_id": "PRRT_kwDOGuqVzM453Az9",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-11T09:42:16Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5o1hYc",
-        "number": 760,
-        "title": "Docs userguide",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519366875"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5akAV8",
-      "metadata": {
-        "created_at": "2024-03-11T09:26:46Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-11T09:42:16Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
-        "source_node_id": "PRRC_kwDOGuqVzM5akAV8",
-        "thread_node_id": "PRRT_kwDOGuqVzM453ES7",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-11T09:42:16Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5o1hYc",
-        "number": 760,
-        "title": "Docs userguide",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519388028"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5akBF8",
-      "metadata": {
-        "created_at": "2024-03-11T09:28:33Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-11T09:42:16Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
-        "source_node_id": "PRRC_kwDOGuqVzM5akBF8",
-        "thread_node_id": "PRRT_kwDOGuqVzM453Ewa",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-11T09:42:16Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5o1hYc",
-        "number": 760,
-        "title": "Docs userguide",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519391100"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5akEqx",
-      "metadata": {
-        "created_at": "2024-03-11T09:36:53Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-11T09:42:16Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
-        "source_node_id": "PRRC_kwDOGuqVzM5akEqx",
-        "thread_node_id": "PRRT_kwDOGuqVzM453G-t",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-11T09:42:16Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5o1hYc",
-        "number": 760,
-        "title": "Docs userguide",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519405745"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5akFk3",
-      "metadata": {
-        "created_at": "2024-03-11T09:39:07Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-11T09:42:16Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
-        "source_node_id": "PRRC_kwDOGuqVzM5akFk3",
-        "thread_node_id": "PRRT_kwDOGuqVzM453HkN",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-11T09:42:16Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5o1hYc",
-        "number": 760,
-        "title": "Docs userguide",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519409463"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5akGCs",
-      "metadata": {
-        "created_at": "2024-03-11T09:40:12Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-11T09:42:16Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
-        "source_node_id": "PRRC_kwDOGuqVzM5akGCs",
-        "thread_node_id": "PRRT_kwDOGuqVzM453Az9",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-11T09:42:16Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5o1hYc",
-        "number": 760,
-        "title": "Docs userguide",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519411372"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5akGob",
-      "metadata": {
-        "created_at": "2024-03-11T09:41:31Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-11T09:42:16Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
-        "source_node_id": "PRRC_kwDOGuqVzM5akGob",
-        "thread_node_id": "PRRT_kwDOGuqVzM453IPt",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-11T09:42:16Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5o1hYc",
-        "number": 760,
-        "title": "Docs userguide",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519413787"
     },
     {
       "credits": [
@@ -4469,6 +4252,223 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#pullrequestreview-1927294621"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5aj7Lb",
+      "metadata": {
+        "created_at": "2024-03-11T09:15:13Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-11T09:42:16Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
+        "source_node_id": "PRRC_kwDOGuqVzM5aj7Lb",
+        "thread_node_id": "PRRT_kwDOGuqVzM453Az9",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-11T09:42:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5o1hYc",
+        "number": 760,
+        "title": "Docs userguide",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519366875"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5akAV8",
+      "metadata": {
+        "created_at": "2024-03-11T09:26:46Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-11T09:42:16Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
+        "source_node_id": "PRRC_kwDOGuqVzM5akAV8",
+        "thread_node_id": "PRRT_kwDOGuqVzM453ES7",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-11T09:42:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5o1hYc",
+        "number": 760,
+        "title": "Docs userguide",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519388028"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5akBF8",
+      "metadata": {
+        "created_at": "2024-03-11T09:28:33Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-11T09:42:16Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
+        "source_node_id": "PRRC_kwDOGuqVzM5akBF8",
+        "thread_node_id": "PRRT_kwDOGuqVzM453Ewa",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-11T09:42:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5o1hYc",
+        "number": 760,
+        "title": "Docs userguide",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519391100"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5akEqx",
+      "metadata": {
+        "created_at": "2024-03-11T09:36:53Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-11T09:42:16Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
+        "source_node_id": "PRRC_kwDOGuqVzM5akEqx",
+        "thread_node_id": "PRRT_kwDOGuqVzM453G-t",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-11T09:42:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5o1hYc",
+        "number": 760,
+        "title": "Docs userguide",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519405745"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5akFk3",
+      "metadata": {
+        "created_at": "2024-03-11T09:39:07Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-11T09:42:16Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
+        "source_node_id": "PRRC_kwDOGuqVzM5akFk3",
+        "thread_node_id": "PRRT_kwDOGuqVzM453HkN",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-11T09:42:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5o1hYc",
+        "number": 760,
+        "title": "Docs userguide",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519409463"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5akGCs",
+      "metadata": {
+        "created_at": "2024-03-11T09:40:12Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-11T09:42:16Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
+        "source_node_id": "PRRC_kwDOGuqVzM5akGCs",
+        "thread_node_id": "PRRT_kwDOGuqVzM453Az9",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-11T09:42:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5o1hYc",
+        "number": 760,
+        "title": "Docs userguide",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519411372"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5akGob",
+      "metadata": {
+        "created_at": "2024-03-11T09:41:31Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-11T09:42:16Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5y4C6d",
+        "source_node_id": "PRRC_kwDOGuqVzM5akGob",
+        "thread_node_id": "PRRT_kwDOGuqVzM453IPt",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-11T09:42:16Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5o1hYc",
+        "number": 760,
+        "title": "Docs userguide",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519413787"
     },
     {
       "credits": [
@@ -5181,7 +5181,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5amFL-",
+      "id": "pr_review:PRR_kwDOGuqVzM5y7brZ",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5y7brZ",
+        "state": "COMMENTED",
+        "submitted_at": "2024-03-11T15:37:13Z"
+      },
+      "occurred_at": "2024-03-11T15:37:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5o1hYc",
+        "number": 760,
+        "title": "Docs userguide",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#pullrequestreview-1928182489"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5amFL-",
       "metadata": {
         "created_at": "2024-03-11T15:37:13Z",
         "outdated": true,
@@ -5202,33 +5227,8 @@
         "title": "Docs userguide",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1519932158"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM5y7brZ",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM5y7brZ",
-        "state": "COMMENTED",
-        "submitted_at": "2024-03-11T15:37:13Z"
-      },
-      "occurred_at": "2024-03-11T15:37:13Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5o1hYc",
-        "number": 760,
-        "title": "Docs userguide",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#pullrequestreview-1928182489"
     },
     {
       "credits": [
@@ -6140,7 +6140,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM53xrLd",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM53xrLd",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM53xrLd"
       },
@@ -6153,7 +6153,7 @@
         "title": "Checkpoint itnterval",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/773"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/773#issuecomment-2009510621"
     },
     {
@@ -6186,7 +6186,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5bUTX5",
+      "id": "pr_review:PRR_kwDOGuqVzM50KM0P",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM50KM0P",
+        "state": "APPROVED",
+        "submitted_at": "2024-03-20T13:07:08Z"
+      },
+      "occurred_at": "2024-03-20T13:07:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qN1AT",
+        "number": 773,
+        "title": "Checkpoint itnterval",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/773"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/773#pullrequestreview-1948830991"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5bUTX5",
       "metadata": {
         "created_at": "2024-03-20T13:07:03Z",
         "outdated": false,
@@ -6207,33 +6232,8 @@
         "title": "Checkpoint itnterval",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/773"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/773#discussion_r1532048889"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM50KM0P",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM50KM0P",
-        "state": "APPROVED",
-        "submitted_at": "2024-03-20T13:07:08Z"
-      },
-      "occurred_at": "2024-03-20T13:07:08Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qN1AT",
-        "number": 773,
-        "title": "Checkpoint itnterval",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/773"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/773#pullrequestreview-1948830991"
     },
     {
       "credits": [
@@ -6378,7 +6378,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM53yR1U",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM53yR1U",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM53yR1U"
       },
@@ -6391,7 +6391,7 @@
         "title": "Some docstring fixes",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/775"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/775#issuecomment-2009668948"
     },
     {
@@ -6434,7 +6434,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5bcOQn",
+      "id": "pr_review:PRR_kwDOGuqVzM50YYzw",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM50YYzw",
+        "state": "COMMENTED",
+        "submitted_at": "2024-03-21T15:18:33Z"
+      },
+      "occurred_at": "2024-03-21T15:18:33Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExNzY1OTgy",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5nT2ws",
+        "number": 733,
+        "title": "debug script for people to test openmm",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/733"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/733#pullrequestreview-1952550128"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5bcOQn",
       "metadata": {
         "created_at": "2024-03-21T15:18:32Z",
         "outdated": true,
@@ -6455,33 +6480,8 @@
         "title": "debug script for people to test openmm",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/733"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/733#discussion_r1534125095"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM50YYzw",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM50YYzw",
-        "state": "COMMENTED",
-        "submitted_at": "2024-03-21T15:18:33Z"
-      },
-      "occurred_at": "2024-03-21T15:18:33Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExNzY1OTgy",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5nT2ws",
-        "number": 733,
-        "title": "debug script for people to test openmm",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/733"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/733#pullrequestreview-1952550128"
     },
     {
       "credits": [
@@ -6728,7 +6728,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54ZjG9",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54ZjG9",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54ZjG9"
       },
@@ -6741,39 +6741,8 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#issuecomment-2019963325"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5buekU",
-      "metadata": {
-        "created_at": "2024-03-26T09:53:12Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-26T09:54:01Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM500Svd",
-        "source_node_id": "PRRC_kwDOGuqVzM5buekU",
-        "thread_node_id": "PRRT_kwDOGuqVzM46mYT6",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-26T09:54:01Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qw3c7",
-        "number": 776,
-        "title": "Add protocol details (hybrid topology, etc) to docs ",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1538910484"
     },
     {
       "credits": [
@@ -6803,23 +6772,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5buf4E",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5buekU",
       "metadata": {
-        "created_at": "2024-03-26T09:56:53Z",
+        "created_at": "2024-03-26T09:53:12Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-26T09:56:53Z",
+        "published_at": "2024-03-26T09:54:01Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM500U0Z",
-        "source_node_id": "PRRC_kwDOGuqVzM5buf4E",
+        "review_node_id": "PRR_kwDOGuqVzM500Svd",
+        "source_node_id": "PRRC_kwDOGuqVzM5buekU",
         "thread_node_id": "PRRT_kwDOGuqVzM46mYT6",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-26T09:56:53Z",
+      "occurred_at": "2024-03-26T09:54:01Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -6828,8 +6797,8 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1538915844"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1538910484"
     },
     {
       "credits": [
@@ -6855,6 +6824,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#pullrequestreview-1959873817"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5buf4E",
+      "metadata": {
+        "created_at": "2024-03-26T09:56:53Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-26T09:56:53Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM500U0Z",
+        "source_node_id": "PRRC_kwDOGuqVzM5buf4E",
+        "thread_node_id": "PRRT_kwDOGuqVzM46mYT6",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-26T09:56:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qw3c7",
+        "number": 776,
+        "title": "Add protocol details (hybrid topology, etc) to docs ",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1538915844"
     },
     {
       "credits": [
@@ -7026,7 +7026,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5bug1h",
+      "id": "pr_review:PRR_kwDOGuqVzM500Wfq",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM500Wfq",
+        "state": "APPROVED",
+        "submitted_at": "2024-03-26T10:27:38Z"
+      },
+      "occurred_at": "2024-03-26T10:27:38Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5o1hYc",
+        "number": 760,
+        "title": "Docs userguide",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#pullrequestreview-1959880682"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5bug1h",
       "metadata": {
         "created_at": "2024-03-26T09:59:24Z",
         "outdated": false,
@@ -7047,33 +7072,8 @@
         "title": "Docs userguide",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1538919777"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM500Wfq",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM500Wfq",
-        "state": "APPROVED",
-        "submitted_at": "2024-03-26T10:27:38Z"
-      },
-      "occurred_at": "2024-03-26T10:27:38Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5o1hYc",
-        "number": 760,
-        "title": "Docs userguide",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#pullrequestreview-1959880682"
     },
     {
       "credits": [
@@ -7179,37 +7179,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5buz_U",
-      "metadata": {
-        "created_at": "2024-03-26T10:50:30Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-26T10:50:30Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM50004r",
-        "source_node_id": "PRRC_kwDOGuqVzM5buz_U",
-        "thread_node_id": "PRRT_kwDOGuqVzM46mZyJ",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-26T10:50:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5o1hYc",
-        "number": 760,
-        "title": "Docs userguide",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1538998228"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM50004r",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM50004r",
@@ -7231,33 +7200,33 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5bu19s",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5buz_U",
       "metadata": {
-        "created_at": "2024-03-26T10:56:25Z",
-        "outdated": true,
+        "created_at": "2024-03-26T10:50:30Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-03-26T10:56:25Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5004F2",
-        "source_node_id": "PRRC_kwDOGuqVzM5bu19s",
-        "thread_node_id": "PRRT_kwDOGuqVzM46mYT6",
+        "published_at": "2024-03-26T10:50:30Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM50004r",
+        "source_node_id": "PRRC_kwDOGuqVzM5buz_U",
+        "thread_node_id": "PRRT_kwDOGuqVzM46mZyJ",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-26T10:56:25Z",
+      "occurred_at": "2024-03-26T10:50:30Z",
       "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
         "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qw3c7",
-        "number": 776,
-        "title": "Add protocol details (hybrid topology, etc) to docs ",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
+        "node_id": "PR_kwDOGuqVzM5o1hYc",
+        "number": 760,
+        "title": "Docs userguide",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/760"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1539006316"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/760#discussion_r1538998228"
     },
     {
       "credits": [
@@ -7283,6 +7252,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#pullrequestreview-1960018294"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5bu19s",
+      "metadata": {
+        "created_at": "2024-03-26T10:56:25Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-26T10:56:25Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5004F2",
+        "source_node_id": "PRRC_kwDOGuqVzM5bu19s",
+        "thread_node_id": "PRRT_kwDOGuqVzM46mYT6",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-26T10:56:25Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qw3c7",
+        "number": 776,
+        "title": "Add protocol details (hybrid topology, etc) to docs ",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1539006316"
     },
     {
       "credits": [
@@ -7575,7 +7575,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54cT1P",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54cT1P",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54cT1P"
       },
@@ -7588,7 +7588,7 @@
         "title": "Update fetch results",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/779"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/779#issuecomment-2020687183"
     },
     {
@@ -7621,7 +7621,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54cYwI",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54cYwI",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54cYwI"
       },
@@ -7634,7 +7634,7 @@
         "title": "Update fetch results",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/779"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/779#issuecomment-2020707336"
     },
     {
@@ -7644,7 +7644,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54cdek",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54cdek",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54cdek"
       },
@@ -7657,7 +7657,7 @@
         "title": "docs ligand networks",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/780"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/780#issuecomment-2020726692"
     },
     {
@@ -7667,7 +7667,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54d4BG",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54d4BG",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54d4BG"
       },
@@ -7680,70 +7680,8 @@
         "title": "Update fetch results",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/779"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/779#issuecomment-2021097542"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5byef8",
-      "metadata": {
-        "created_at": "2024-03-26T19:14:27Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-26T19:17:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM506f0f",
-        "source_node_id": "PRRC_kwDOGuqVzM5byef8",
-        "thread_node_id": "PRRT_kwDOGuqVzM46o1Od",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-26T19:17:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qzmDn",
-        "number": 779,
-        "title": "Update fetch results",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/779"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/779#discussion_r1539958780"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5byejL",
-      "metadata": {
-        "created_at": "2024-03-26T19:14:38Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-26T19:17:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM506f0f",
-        "source_node_id": "PRRC_kwDOGuqVzM5byejL",
-        "thread_node_id": "PRRT_kwDOGuqVzM46o1QY",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-26T19:17:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qzmDn",
-        "number": 779,
-        "title": "Update fetch results",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/779"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/779#discussion_r1539958987"
     },
     {
       "credits": [
@@ -7773,11 +7711,73 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5byef8",
+      "metadata": {
+        "created_at": "2024-03-26T19:14:27Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-26T19:17:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM506f0f",
+        "source_node_id": "PRRC_kwDOGuqVzM5byef8",
+        "thread_node_id": "PRRT_kwDOGuqVzM46o1Od",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-26T19:17:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qzmDn",
+        "number": 779,
+        "title": "Update fetch results",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/779"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/779#discussion_r1539958780"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExNzY1OTgy",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5byejL",
+      "metadata": {
+        "created_at": "2024-03-26T19:14:38Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-26T19:17:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM506f0f",
+        "source_node_id": "PRRC_kwDOGuqVzM5byejL",
+        "thread_node_id": "PRRT_kwDOGuqVzM46o1QY",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-26T19:17:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qzmDn",
+        "number": 779,
+        "title": "Update fetch results",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/779"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/779#discussion_r1539958987"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54e8AY",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54e8AY",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54e8AY"
       },
@@ -7790,7 +7790,7 @@
         "title": "update LomapAtomMapper default settings to established best practices",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/730"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/730#issuecomment-2021376024"
     },
     {
@@ -7920,7 +7920,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54go_j",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54go_j",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54go_j"
       },
@@ -7933,7 +7933,7 @@
         "title": "update LomapAtomMapper default settings to established best practices",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/730"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/730#issuecomment-2021822435"
     },
     {
@@ -7943,7 +7943,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54iUl3",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54iUl3",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54iUl3"
       },
@@ -7956,132 +7956,8 @@
         "title": "update LomapAtomMapper default settings to established best practices",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/730"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/730#issuecomment-2022263159"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b1X28",
-      "metadata": {
-        "created_at": "2024-03-27T09:11:21Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-27T09:15:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM50_Iny",
-        "source_node_id": "PRRC_kwDOGuqVzM5b1X28",
-        "thread_node_id": "PRRT_kwDOGuqVzM46qroq",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-27T09:15:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qzpdt",
-        "number": 780,
-        "title": "docs ligand networks",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/780"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/780#discussion_r1540718012"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b1Xg6",
-      "metadata": {
-        "created_at": "2024-03-27T09:10:22Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-27T09:15:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM50_Iny",
-        "source_node_id": "PRRC_kwDOGuqVzM5b1Xg6",
-        "thread_node_id": "PRRT_kwDOGuqVzM46qrZ7",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-27T09:15:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qzpdt",
-        "number": 780,
-        "title": "docs ligand networks",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/780"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/780#discussion_r1540716602"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b1ZEU",
-      "metadata": {
-        "created_at": "2024-03-27T09:14:39Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-27T09:15:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM50_Iny",
-        "source_node_id": "PRRC_kwDOGuqVzM5b1ZEU",
-        "thread_node_id": "PRRT_kwDOGuqVzM46qsc9",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-27T09:15:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qzpdt",
-        "number": 780,
-        "title": "docs ligand networks",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/780"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/780#discussion_r1540722964"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b1ZP0",
-      "metadata": {
-        "created_at": "2024-03-27T09:15:13Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-27T09:15:23Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM50_Iny",
-        "source_node_id": "PRRC_kwDOGuqVzM5b1ZP0",
-        "thread_node_id": "PRRT_kwDOGuqVzM46qskd",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-27T09:15:23Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qzpdt",
-        "number": 780,
-        "title": "docs ligand networks",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/780"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/780#discussion_r1540723700"
     },
     {
       "credits": [
@@ -8107,6 +7983,130 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/780#pullrequestreview-1962707442"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b1X28",
+      "metadata": {
+        "created_at": "2024-03-27T09:11:21Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-27T09:15:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM50_Iny",
+        "source_node_id": "PRRC_kwDOGuqVzM5b1X28",
+        "thread_node_id": "PRRT_kwDOGuqVzM46qroq",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-27T09:15:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qzpdt",
+        "number": 780,
+        "title": "docs ligand networks",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/780"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/780#discussion_r1540718012"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b1Xg6",
+      "metadata": {
+        "created_at": "2024-03-27T09:10:22Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-27T09:15:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM50_Iny",
+        "source_node_id": "PRRC_kwDOGuqVzM5b1Xg6",
+        "thread_node_id": "PRRT_kwDOGuqVzM46qrZ7",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-27T09:15:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qzpdt",
+        "number": 780,
+        "title": "docs ligand networks",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/780"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/780#discussion_r1540716602"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b1ZEU",
+      "metadata": {
+        "created_at": "2024-03-27T09:14:39Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-27T09:15:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM50_Iny",
+        "source_node_id": "PRRC_kwDOGuqVzM5b1ZEU",
+        "thread_node_id": "PRRT_kwDOGuqVzM46qsc9",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-27T09:15:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qzpdt",
+        "number": 780,
+        "title": "docs ligand networks",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/780"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/780#discussion_r1540722964"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b1ZP0",
+      "metadata": {
+        "created_at": "2024-03-27T09:15:13Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-27T09:15:23Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM50_Iny",
+        "source_node_id": "PRRC_kwDOGuqVzM5b1ZP0",
+        "thread_node_id": "PRRT_kwDOGuqVzM46qskd",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-27T09:15:23Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qzpdt",
+        "number": 780,
+        "title": "docs ligand networks",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/780"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/780#discussion_r1540723700"
     },
     {
       "credits": [
@@ -8171,37 +8171,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b2EiN",
-      "metadata": {
-        "created_at": "2024-03-27T11:09:12Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-27T11:09:12Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM51AP8J",
-        "source_node_id": "PRRC_kwDOGuqVzM5b2EiN",
-        "thread_node_id": "PRRT_kwDOGuqVzM46rIXM",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-27T11:09:12Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qw3c7",
-        "number": 776,
-        "title": "Add protocol details (hybrid topology, etc) to docs ",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1540901005"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM51AP8J",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM51AP8J",
@@ -8227,19 +8196,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b2Ms-",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b2EiN",
       "metadata": {
-        "created_at": "2024-03-27T11:30:28Z",
+        "created_at": "2024-03-27T11:09:12Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-27T11:31:39Z",
+        "published_at": "2024-03-27T11:09:12Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM51AcQl",
-        "source_node_id": "PRRC_kwDOGuqVzM5b2Ms-",
-        "thread_node_id": "PRRT_kwDOGuqVzM46rNqu",
+        "review_node_id": "PRR_kwDOGuqVzM51AP8J",
+        "source_node_id": "PRRC_kwDOGuqVzM5b2EiN",
+        "thread_node_id": "PRRT_kwDOGuqVzM46rIXM",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-27T11:31:39Z",
+      "occurred_at": "2024-03-27T11:09:12Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -8248,8 +8217,8 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1540934462"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1540901005"
     },
     {
       "credits": [
@@ -8283,19 +8252,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b2OUS",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b2Ms-",
       "metadata": {
-        "created_at": "2024-03-27T11:34:49Z",
+        "created_at": "2024-03-27T11:30:28Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-27T11:37:56Z",
+        "published_at": "2024-03-27T11:31:39Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM51Ae2x",
-        "source_node_id": "PRRC_kwDOGuqVzM5b2OUS",
-        "thread_node_id": "PRRT_kwDOGuqVzM46rOr3",
+        "review_node_id": "PRR_kwDOGuqVzM51AcQl",
+        "source_node_id": "PRRC_kwDOGuqVzM5b2Ms-",
+        "thread_node_id": "PRRT_kwDOGuqVzM46rNqu",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-27T11:37:56Z",
+      "occurred_at": "2024-03-27T11:31:39Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -8304,70 +8273,8 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1540941074"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b2Oi8",
-      "metadata": {
-        "created_at": "2024-03-27T11:35:37Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-27T11:37:56Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM51Ae2x",
-        "source_node_id": "PRRC_kwDOGuqVzM5b2Oi8",
-        "thread_node_id": "PRRT_kwDOGuqVzM46rO1h",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-27T11:37:56Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qw3c7",
-        "number": 776,
-        "title": "Add protocol details (hybrid topology, etc) to docs ",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1540942012"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b2PNa",
-      "metadata": {
-        "created_at": "2024-03-27T11:37:20Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-27T11:37:56Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM51Ae2x",
-        "source_node_id": "PRRC_kwDOGuqVzM5b2PNa",
-        "thread_node_id": "PRRT_kwDOGuqVzM46rPQD",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-27T11:37:56Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qw3c7",
-        "number": 776,
-        "title": "Add protocol details (hybrid topology, etc) to docs ",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1540944730"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1540934462"
     },
     {
       "credits": [
@@ -8393,6 +8300,99 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#pullrequestreview-1963060657"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b2OUS",
+      "metadata": {
+        "created_at": "2024-03-27T11:34:49Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-27T11:37:56Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM51Ae2x",
+        "source_node_id": "PRRC_kwDOGuqVzM5b2OUS",
+        "thread_node_id": "PRRT_kwDOGuqVzM46rOr3",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-27T11:37:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qw3c7",
+        "number": 776,
+        "title": "Add protocol details (hybrid topology, etc) to docs ",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1540941074"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b2Oi8",
+      "metadata": {
+        "created_at": "2024-03-27T11:35:37Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-27T11:37:56Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM51Ae2x",
+        "source_node_id": "PRRC_kwDOGuqVzM5b2Oi8",
+        "thread_node_id": "PRRT_kwDOGuqVzM46rO1h",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-27T11:37:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qw3c7",
+        "number": 776,
+        "title": "Add protocol details (hybrid topology, etc) to docs ",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1540942012"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b2PNa",
+      "metadata": {
+        "created_at": "2024-03-27T11:37:20Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-27T11:37:56Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM51Ae2x",
+        "source_node_id": "PRRC_kwDOGuqVzM5b2PNa",
+        "thread_node_id": "PRRT_kwDOGuqVzM46rPQD",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-27T11:37:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qw3c7",
+        "number": 776,
+        "title": "Add protocol details (hybrid topology, etc) to docs ",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1540944730"
     },
     {
       "credits": [
@@ -8456,7 +8456,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54jqvP",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54jqvP",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54jqvP"
       },
@@ -8469,7 +8469,7 @@
         "title": "Clean up tutorials",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/782"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/782#issuecomment-2022616015"
     },
     {
@@ -8806,7 +8806,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54kqP6",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54kqP6",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54kqP6"
       },
@@ -8819,7 +8819,7 @@
         "title": "docs: working with individual results page",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/783"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/783#issuecomment-2022876154"
     },
     {
@@ -9022,7 +9022,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54lG8P",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54lG8P",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54lG8P"
       },
@@ -9035,7 +9035,7 @@
         "title": "Add an MD tutorial",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/731"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/731#issuecomment-2022993679"
     },
     {
@@ -9045,7 +9045,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54lM5P",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54lM5P",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54lM5P"
       },
@@ -9058,7 +9058,7 @@
         "title": "update LomapAtomMapper default settings to established best practices",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/730"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/730#issuecomment-2023018063"
     },
     {
@@ -9794,7 +9794,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b8-pk",
+      "id": "pr_review:PRR_kwDOGuqVzM51K4Fz",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM51K4Fz",
+        "state": "CHANGES_REQUESTED",
+        "submitted_at": "2024-03-28T12:27:00Z"
+      },
+      "occurred_at": "2024-03-28T12:27:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qw3c7",
+        "number": 776,
+        "title": "Add protocol details (hybrid topology, etc) to docs ",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#pullrequestreview-1965785459"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b8-pk",
       "metadata": {
         "created_at": "2024-03-28T11:00:25Z",
         "outdated": true,
@@ -9815,7 +9840,7 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1542711908"
     },
     {
@@ -9825,7 +9850,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b89e3",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b89e3",
       "metadata": {
         "created_at": "2024-03-28T10:56:35Z",
         "outdated": true,
@@ -9846,7 +9871,7 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1542707127"
     },
     {
@@ -9856,7 +9881,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b89zu",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b89zu",
       "metadata": {
         "created_at": "2024-03-28T10:57:32Z",
         "outdated": true,
@@ -9877,7 +9902,7 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1542708462"
     },
     {
@@ -9887,7 +9912,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b8_0r",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b8_0r",
       "metadata": {
         "created_at": "2024-03-28T11:04:58Z",
         "outdated": true,
@@ -9908,7 +9933,7 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1542716715"
     },
     {
@@ -9918,7 +9943,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b8_fs",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b8_fs",
       "metadata": {
         "created_at": "2024-03-28T11:03:39Z",
         "outdated": true,
@@ -9939,7 +9964,7 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1542715372"
     },
     {
@@ -9949,7 +9974,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b9bwd",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b9bwd",
       "metadata": {
         "created_at": "2024-03-28T12:11:41Z",
         "outdated": true,
@@ -9970,7 +9995,7 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1542831133"
     },
     {
@@ -9980,7 +10005,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b9d1c",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b9d1c",
       "metadata": {
         "created_at": "2024-03-28T12:13:44Z",
         "outdated": true,
@@ -10001,7 +10026,7 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1542839644"
     },
     {
@@ -10011,7 +10036,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b9er6",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b9er6",
       "metadata": {
         "created_at": "2024-03-28T12:14:41Z",
         "outdated": true,
@@ -10032,7 +10057,7 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1542843130"
     },
     {
@@ -10042,7 +10067,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b9fcC",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b9fcC",
       "metadata": {
         "created_at": "2024-03-28T12:15:24Z",
         "outdated": true,
@@ -10063,7 +10088,7 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1542846210"
     },
     {
@@ -10073,7 +10098,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b9gu8",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b9gu8",
       "metadata": {
         "created_at": "2024-03-28T12:17:10Z",
         "outdated": true,
@@ -10094,7 +10119,7 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1542851516"
     },
     {
@@ -10104,7 +10129,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b9hmp",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b9hmp",
       "metadata": {
         "created_at": "2024-03-28T12:18:41Z",
         "outdated": true,
@@ -10125,7 +10150,7 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1542855081"
     },
     {
@@ -10135,7 +10160,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b9k6r",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b9k6r",
       "metadata": {
         "created_at": "2024-03-28T12:26:16Z",
         "outdated": true,
@@ -10156,33 +10181,8 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1542868651"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM51K4Fz",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM51K4Fz",
-        "state": "CHANGES_REQUESTED",
-        "submitted_at": "2024-03-28T12:27:00Z"
-      },
-      "occurred_at": "2024-03-28T12:27:00Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qw3c7",
-        "number": 776,
-        "title": "Add protocol details (hybrid topology, etc) to docs ",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#pullrequestreview-1965785459"
     },
     {
       "credits": [
@@ -10256,7 +10256,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54tQBk",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54tQBk",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54tQBk"
       },
@@ -10269,7 +10269,7 @@
         "title": "docs: working with individual results page",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/783"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/783#issuecomment-2025128036"
     },
     {
@@ -10279,7 +10279,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM54tTvx",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM54tTvx",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM54tTvx"
       },
@@ -10292,7 +10292,7 @@
         "title": "docs: working with individual results page",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/783"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/783#issuecomment-2025143281"
     },
     {
@@ -10526,7 +10526,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5b-MrE",
+      "id": "pr_review:PRR_kwDOGuqVzM51M362",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM51M362",
+        "state": "COMMENTED",
+        "submitted_at": "2024-03-28T13:58:46Z"
+      },
+      "occurred_at": "2024-03-28T13:58:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qw3c7",
+        "number": 776,
+        "title": "Add protocol details (hybrid topology, etc) to docs ",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#pullrequestreview-1966309046"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5b-MrE",
       "metadata": {
         "created_at": "2024-03-28T13:58:46Z",
         "outdated": true,
@@ -10547,33 +10572,8 @@
         "title": "Add protocol details (hybrid topology, etc) to docs ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#discussion_r1543031492"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM51M362",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM51M362",
-        "state": "COMMENTED",
-        "submitted_at": "2024-03-28T13:58:46Z"
-      },
-      "occurred_at": "2024-03-28T13:58:46Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qw3c7",
-        "number": 776,
-        "title": "Add protocol details (hybrid topology, etc) to docs ",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/776"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/776#pullrequestreview-1966309046"
     },
     {
       "credits": [
@@ -10646,7 +10646,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5cBTNN",
+      "id": "pr_review:PRR_kwDOGuqVzM51RlIu",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM51RlIu",
+        "state": "COMMENTED",
+        "submitted_at": "2024-03-28T23:38:59Z"
+      },
+      "occurred_at": "2024-03-28T23:38:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5qzpdt",
+        "number": 780,
+        "title": "docs ligand networks",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/780"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/780#pullrequestreview-1967542830"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5cBTNN",
       "metadata": {
         "created_at": "2024-03-28T23:38:59Z",
         "outdated": true,
@@ -10667,33 +10692,8 @@
         "title": "docs ligand networks",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/780"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/780#discussion_r1543844685"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDI4MDA1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM51RlIu",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM51RlIu",
-        "state": "COMMENTED",
-        "submitted_at": "2024-03-28T23:38:59Z"
-      },
-      "occurred_at": "2024-03-28T23:38:59Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDI4MDA1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5qzpdt",
-        "number": 780,
-        "title": "docs ligand networks",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/780"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/780#pullrequestreview-1967542830"
     }
   ],
   "actors": [
@@ -10852,7 +10852,7 @@
       "url": "https://github.com/richardjgowers"
     },
     {
-      "classification": "unresolved_git",
+      "classification": "unlinked_git",
       "database_id": null,
       "display_name": null,
       "git_email": "noreply@github.com",
@@ -10865,7 +10865,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T06:04:25.762902Z",
+      "as_of": "2026-10-20T01:27:33.215442Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -10876,53 +10876,53 @@
       ]
     },
     "default_branch": "main",
-    "default_branch_head": "6495313a58148e30ad92e7f6f601f7222f9547a9",
+    "default_branch_head": "82c7ce04f5fcbeeb8c9349f9832b185254446aed",
+    "is_partial": false,
     "month": "2024-03",
     "month_end": "2024-04-01T00:00:00Z",
     "month_start": "2024-03-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:08:49.596788Z",
+        "finished_at": "2026-10-20T01:32:50.569946Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "eeead485-c0e1-4891-b58c-d4f1585028cd",
-        "started_at": "2026-10-18T06:04:25.762902Z"
+        "run_id": "aeef0710-b1db-4a39-9848-f03e32dc4b44",
+        "started_at": "2026-10-20T01:27:33.215442Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:08:49.596788Z",
+        "finished_at": "2026-10-20T01:32:50.569946Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "eeead485-c0e1-4891-b58c-d4f1585028cd",
-        "started_at": "2026-10-18T06:04:25.762902Z"
+        "run_id": "aeef0710-b1db-4a39-9848-f03e32dc4b44",
+        "started_at": "2026-10-20T01:27:33.215442Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:08:49.596788Z",
+        "finished_at": "2026-10-20T01:32:50.569946Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "eeead485-c0e1-4891-b58c-d4f1585028cd",
-        "started_at": "2026-10-18T06:04:25.762902Z"
+        "run_id": "aeef0710-b1db-4a39-9848-f03e32dc4b44",
+        "started_at": "2026-10-20T01:27:33.215442Z"
       }
     },
     "repository": {
@@ -10932,15 +10932,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:08:49.596788Z",
+        "finished_at": "2026-10-20T01:32:50.569946Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "eeead485-c0e1-4891-b58c-d4f1585028cd",
-        "started_at": "2026-10-18T06:04:25.762902Z"
+        "run_id": "aeef0710-b1db-4a39-9848-f03e32dc4b44",
+        "started_at": "2026-10-20T01:27:33.215442Z"
       },
       "history_start_month": "2022-01",
       "node_id": "R_kgDOGuqVzA",
@@ -10956,11 +10956,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 20,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 20,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjExNzY1OTgy": {
         "commit": 7,
@@ -10968,11 +10968,11 @@
         "issue_comment": 5,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 4,
-        "pr_inline_review_comment": 4,
+        "pr_discussion_comment": 4,
         "pr_merged": 2,
         "pr_opened": 1,
-        "pr_review": 4
+        "pr_review": 4,
+        "pr_review_comment": 4
       },
       "MDQ6VXNlcjEyNDI4MDA1": {
         "commit": 0,
@@ -10980,11 +10980,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 1,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 2
+        "pr_review": 2,
+        "pr_review_comment": 1
       },
       "MDQ6VXNlcjEyNDYwMTI1": {
         "commit": 65,
@@ -10992,11 +10992,11 @@
         "issue_comment": 10,
         "issue_opened": 20,
         "issue_reopened": 2,
-        "pr_conversation_comment": 4,
-        "pr_inline_review_comment": 32,
+        "pr_discussion_comment": 4,
         "pr_merged": 5,
         "pr_opened": 11,
-        "pr_review": 17
+        "pr_review": 17,
+        "pr_review_comment": 32
       },
       "MDQ6VXNlcjI0NzM2NTA3": {
         "commit": 0,
@@ -11004,11 +11004,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 4,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 4,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjM4NTYyOTk3": {
         "commit": 0,
@@ -11016,11 +11016,11 @@
         "issue_comment": 4,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjQzNzY1NjM4": {
         "commit": 41,
@@ -11028,11 +11028,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 3,
+        "pr_discussion_comment": 1,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 5
+        "pr_review": 5,
+        "pr_review_comment": 3
       },
       "MDQ6VXNlcjc5MzUzODI=": {
         "commit": 0,
@@ -11040,11 +11040,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 3,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 3
+        "pr_review": 3,
+        "pr_review_comment": 3
       },
       "MDQ6VXNlcjg0MjA0NDY=": {
         "commit": 0,
@@ -11052,11 +11052,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjkyNDk1NDM=": {
         "commit": 26,
@@ -11064,79 +11064,79 @@
         "issue_comment": 13,
         "issue_opened": 4,
         "issue_reopened": 0,
-        "pr_conversation_comment": 4,
-        "pr_inline_review_comment": 7,
+        "pr_discussion_comment": 4,
         "pr_merged": 8,
         "pr_opened": 5,
-        "pr_review": 10
+        "pr_review": 10,
+        "pr_review_comment": 7
       }
     },
     "distinct_actors": {
       "bot": 1,
       "human": 9,
       "total": 10,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 0,
         "human": 4,
         "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 6,
         "total": 6,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 1,
         "total": 1,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 1,
         "human": 5,
         "total": 6,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 6,
-        "total": 6,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 0,
         "human": 5,
         "total": 5,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 6,
         "total": 6,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 6,
+        "total": 6,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -11145,11 +11145,11 @@
       "issue_comment": 34,
       "issue_opened": 25,
       "issue_reopened": 2,
-      "pr_conversation_comment": 37,
-      "pr_inline_review_comment": 50,
+      "pr_discussion_comment": 37,
       "pr_merged": 15,
       "pr_opened": 19,
-      "pr_review": 41
+      "pr_review": 41,
+      "pr_review_comment": 50
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -11157,11 +11157,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

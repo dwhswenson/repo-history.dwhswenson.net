@@ -30,37 +30,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5VxhgM",
-      "metadata": {
-        "created_at": "2024-01-01T15:20:36Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-01T15:20:36Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5rRyXU",
-        "source_node_id": "PRRC_kwDOGuqVzM5VxhgM",
-        "thread_node_id": "PRRT_kwDOGuqVzM42vUaT",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-01T15:20:36Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5iSoKs",
-        "number": 666,
-        "title": "consequences of gufe #260 change",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/666"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/666#discussion_r1439045644"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5rRyXU",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5rRyXU",
@@ -86,7 +55,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5vqVlg",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5VxhgM",
+      "metadata": {
+        "created_at": "2024-01-01T15:20:36Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-01-01T15:20:36Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5rRyXU",
+        "source_node_id": "PRRC_kwDOGuqVzM5VxhgM",
+        "thread_node_id": "PRRT_kwDOGuqVzM42vUaT",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-01T15:20:36Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5iSoKs",
+        "number": 666,
+        "title": "consequences of gufe #260 change",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/666"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/666#discussion_r1439045644"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5vqVlg",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5vqVlg"
       },
@@ -99,7 +99,7 @@
         "title": "consequences of gufe #260 change",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/666"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/666#issuecomment-1873369440"
     },
     {
@@ -132,7 +132,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5vqlVS",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5vqlVS",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5vqlVS"
       },
@@ -145,7 +145,7 @@
         "title": "Properly set the cutoff distance in HTF nonbonded forces",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/675"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/675#issuecomment-1873433938"
     },
     {
@@ -155,7 +155,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5vqmBg",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5vqmBg",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5vqmBg"
       },
@@ -168,7 +168,7 @@
         "title": "Properly set the cutoff distance in HTF nonbonded forces",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/675"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/675#issuecomment-1873436768"
     },
     {
@@ -178,7 +178,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5vsgDQ",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5vsgDQ",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5vsgDQ"
       },
@@ -191,7 +191,7 @@
         "title": "Properly set the cutoff distance in HTF nonbonded forces",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/675"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/675#issuecomment-1873936592"
     },
     {
@@ -281,7 +281,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5vvPuP",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5vvPuP",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5vvPuP"
       },
@@ -294,7 +294,7 @@
         "title": "Set cache to expire after a day",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/676"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/676#issuecomment-1874656143"
     },
     {
@@ -304,7 +304,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5vyMUX",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5vyMUX",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5vyMUX"
       },
@@ -317,7 +317,7 @@
         "title": "Set cache to expire after a day",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/676"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/676#issuecomment-1875428631"
     },
     {
@@ -499,7 +499,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5v6hJa",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5v6hJa",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5v6hJa"
       },
@@ -512,7 +512,7 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#issuecomment-1877611098"
     },
     {
@@ -522,7 +522,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5v8H9b",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5v8H9b",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5v8H9b"
       },
@@ -535,7 +535,7 @@
         "title": "Update README.md",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/674"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/674#issuecomment-1878032219"
     },
     {
@@ -568,7 +568,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5v8LaY",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5v8LaY",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5v8LaY"
       },
@@ -581,7 +581,7 @@
         "title": "Expand water virtual site tests",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/680"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#issuecomment-1878046360"
     },
     {
@@ -638,7 +638,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5v8M0U",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5v8M0U",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5v8M0U"
       },
@@ -651,7 +651,7 @@
         "title": "Expand water virtual site tests",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/680"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#issuecomment-1878052116"
     },
     {
@@ -661,7 +661,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5v9LdK",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5v9LdK",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5v9LdK"
       },
@@ -674,70 +674,8 @@
         "title": "Expand water virtual site tests",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/680"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#issuecomment-1878308682"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5V_W1d",
-      "metadata": {
-        "created_at": "2024-01-05T09:39:46Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-05T09:45:06Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5rn7oG",
-        "source_node_id": "PRRC_kwDOGuqVzM5V_W1d",
-        "thread_node_id": "PRRT_kwDOGuqVzM429BO8",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-05T09:45:06Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jRoaE",
-        "number": 680,
-        "title": "Expand water virtual site tests",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/680"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#discussion_r1442671965"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5V_WtN",
-      "metadata": {
-        "created_at": "2024-01-05T09:39:06Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-05T09:45:06Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5rn7oG",
-        "source_node_id": "PRRC_kwDOGuqVzM5V_WtN",
-        "thread_node_id": "PRRT_kwDOGuqVzM429BJT",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-05T09:45:06Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jRoaE",
-        "number": 680,
-        "title": "Expand water virtual site tests",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/680"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#discussion_r1442671437"
     },
     {
       "credits": [
@@ -767,23 +705,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5V_jtH",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5V_W1d",
       "metadata": {
-        "created_at": "2024-01-05T10:39:39Z",
+        "created_at": "2024-01-05T09:39:46Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-05T10:39:39Z",
+        "published_at": "2024-01-05T09:45:06Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5roQ6A",
-        "source_node_id": "PRRC_kwDOGuqVzM5V_jtH",
+        "review_node_id": "PRR_kwDOGuqVzM5rn7oG",
+        "source_node_id": "PRRC_kwDOGuqVzM5V_W1d",
         "thread_node_id": "PRRT_kwDOGuqVzM429BO8",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-05T10:39:39Z",
+      "occurred_at": "2024-01-05T09:45:06Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -792,8 +730,39 @@
         "title": "Expand water virtual site tests",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/680"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#discussion_r1442724679"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#discussion_r1442671965"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5V_WtN",
+      "metadata": {
+        "created_at": "2024-01-05T09:39:06Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-01-05T09:45:06Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5rn7oG",
+        "source_node_id": "PRRC_kwDOGuqVzM5V_WtN",
+        "thread_node_id": "PRRT_kwDOGuqVzM429BJT",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-05T09:45:06Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jRoaE",
+        "number": 680,
+        "title": "Expand water virtual site tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/680"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#discussion_r1442671437"
     },
     {
       "credits": [
@@ -827,19 +796,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5V_kXs",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5V_jtH",
       "metadata": {
-        "created_at": "2024-01-05T10:42:51Z",
+        "created_at": "2024-01-05T10:39:39Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-05T10:42:51Z",
+        "published_at": "2024-01-05T10:39:39Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5roR9b",
-        "source_node_id": "PRRC_kwDOGuqVzM5V_kXs",
-        "thread_node_id": "PRRT_kwDOGuqVzM429BJT",
+        "review_node_id": "PRR_kwDOGuqVzM5roQ6A",
+        "source_node_id": "PRRC_kwDOGuqVzM5V_jtH",
+        "thread_node_id": "PRRT_kwDOGuqVzM429BO8",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-05T10:42:51Z",
+      "occurred_at": "2024-01-05T10:39:39Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -848,8 +817,8 @@
         "title": "Expand water virtual site tests",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/680"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#discussion_r1442727404"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#discussion_r1442724679"
     },
     {
       "credits": [
@@ -879,23 +848,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5V_uZX",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5V_kXs",
       "metadata": {
-        "created_at": "2024-01-05T11:30:54Z",
+        "created_at": "2024-01-05T10:42:51Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-05T11:30:54Z",
+        "published_at": "2024-01-05T10:42:51Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5rohwg",
-        "source_node_id": "PRRC_kwDOGuqVzM5V_uZX",
-        "thread_node_id": "PRRT_kwDOGuqVzM429BO8",
+        "review_node_id": "PRR_kwDOGuqVzM5roR9b",
+        "source_node_id": "PRRC_kwDOGuqVzM5V_kXs",
+        "thread_node_id": "PRRT_kwDOGuqVzM429BJT",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-05T11:30:54Z",
+      "occurred_at": "2024-01-05T10:42:51Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
@@ -904,8 +873,8 @@
         "title": "Expand water virtual site tests",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/680"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#discussion_r1442768471"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#discussion_r1442727404"
     },
     {
       "credits": [
@@ -935,33 +904,33 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WAVCy",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5V_uZX",
       "metadata": {
-        "created_at": "2024-01-05T14:04:26Z",
-        "outdated": false,
+        "created_at": "2024-01-05T11:30:54Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-05T14:04:26Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5rpcWD",
-        "source_node_id": "PRRC_kwDOGuqVzM5WAVCy",
-        "thread_node_id": "PRRT_kwDOGuqVzM429pMb",
+        "published_at": "2024-01-05T11:30:54Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5rohwg",
+        "source_node_id": "PRRC_kwDOGuqVzM5V_uZX",
+        "thread_node_id": "PRRT_kwDOGuqVzM429BO8",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-05T14:04:26Z",
+      "occurred_at": "2024-01-05T11:30:54Z",
       "subject": {
         "author_key": "MDQ6VXNlcjEyNDYwMTI1",
         "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jBBpQ",
-        "number": 675,
-        "title": "Properly set the cutoff distance in HTF nonbonded forces",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/675"
+        "node_id": "PR_kwDOGuqVzM5jRoaE",
+        "number": 680,
+        "title": "Expand water virtual site tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/680"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/675#discussion_r1442926770"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#discussion_r1442768471"
     },
     {
       "credits": [
@@ -987,6 +956,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/675#pullrequestreview-1806026115"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WAVCy",
+      "metadata": {
+        "created_at": "2024-01-05T14:04:26Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-01-05T14:04:26Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5rpcWD",
+        "source_node_id": "PRRC_kwDOGuqVzM5WAVCy",
+        "thread_node_id": "PRRT_kwDOGuqVzM429pMb",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-05T14:04:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jBBpQ",
+        "number": 675,
+        "title": "Properly set the cutoff distance in HTF nonbonded forces",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/675"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/675#discussion_r1442926770"
     },
     {
       "credits": [
@@ -1073,7 +1073,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5wGL4j",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5wGL4j",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5wGL4j"
       },
@@ -1086,7 +1086,7 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#issuecomment-1880669731"
     },
     {
@@ -1160,37 +1160,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WGncn",
-      "metadata": {
-        "created_at": "2024-01-08T12:48:43Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-01-08T12:48:44Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5r05D9",
-        "source_node_id": "PRRC_kwDOGuqVzM5WGncn",
-        "thread_node_id": "PRRT_kwDOGuqVzM43B3kw",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-08T12:48:44Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jdLKb",
-        "number": 681,
-        "title": "Adding LambdaSettings object for AFE",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1444575015"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5r05D9",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5r05D9",
@@ -1216,19 +1185,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WGodp",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WGncn",
       "metadata": {
-        "created_at": "2024-01-08T12:51:08Z",
+        "created_at": "2024-01-08T12:48:43Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-01-08T12:51:08Z",
+        "published_at": "2024-01-08T12:48:44Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5r06MM",
-        "source_node_id": "PRRC_kwDOGuqVzM5WGodp",
+        "review_node_id": "PRR_kwDOGuqVzM5r05D9",
+        "source_node_id": "PRRC_kwDOGuqVzM5WGncn",
         "thread_node_id": "PRRT_kwDOGuqVzM43B3kw",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-08T12:51:08Z",
+      "occurred_at": "2024-01-08T12:48:44Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -1237,8 +1206,8 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1444579177"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1444575015"
     },
     {
       "credits": [
@@ -1264,6 +1233,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#pullrequestreview-1809031948"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WGodp",
+      "metadata": {
+        "created_at": "2024-01-08T12:51:08Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-01-08T12:51:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5r06MM",
+        "source_node_id": "PRRC_kwDOGuqVzM5WGodp",
+        "thread_node_id": "PRRT_kwDOGuqVzM43B3kw",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-08T12:51:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jdLKb",
+        "number": 681,
+        "title": "Adding LambdaSettings object for AFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1444579177"
     },
     {
       "credits": [
@@ -1373,37 +1373,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WMh2d",
-      "metadata": {
-        "created_at": "2024-01-09T14:02:53Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-01-09T14:02:53Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5r9OVL",
-        "source_node_id": "PRRC_kwDOGuqVzM5WMh2d",
-        "thread_node_id": "PRRT_kwDOGuqVzM43B3kw",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-09T14:02:53Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jdLKb",
-        "number": 681,
-        "title": "Adding LambdaSettings object for AFE",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1446124957"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5r9OVL",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5r9OVL",
@@ -1429,19 +1398,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WMikC",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WMh2d",
       "metadata": {
-        "created_at": "2024-01-09T14:04:30Z",
-        "outdated": true,
+        "created_at": "2024-01-09T14:02:53Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-01-09T14:04:30Z",
+        "published_at": "2024-01-09T14:02:53Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5r9Ppy",
-        "source_node_id": "PRRC_kwDOGuqVzM5WMikC",
-        "thread_node_id": "PRRT_kwDOGuqVzM43Fk12",
+        "review_node_id": "PRR_kwDOGuqVzM5r9OVL",
+        "source_node_id": "PRRC_kwDOGuqVzM5WMh2d",
+        "thread_node_id": "PRRT_kwDOGuqVzM43B3kw",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-09T14:04:30Z",
+      "occurred_at": "2024-01-09T14:02:53Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -1450,8 +1419,8 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1446127874"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1446124957"
     },
     {
       "credits": [
@@ -1485,19 +1454,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WMjQM",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WMikC",
       "metadata": {
-        "created_at": "2024-01-09T14:06:14Z",
-        "outdated": false,
+        "created_at": "2024-01-09T14:04:30Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-09T14:06:15Z",
+        "published_at": "2024-01-09T14:04:30Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5r9QvL",
-        "source_node_id": "PRRC_kwDOGuqVzM5WMjQM",
-        "thread_node_id": "PRRT_kwDOGuqVzM43FlQJ",
+        "review_node_id": "PRR_kwDOGuqVzM5r9Ppy",
+        "source_node_id": "PRRC_kwDOGuqVzM5WMikC",
+        "thread_node_id": "PRRT_kwDOGuqVzM43Fk12",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-09T14:06:15Z",
+      "occurred_at": "2024-01-09T14:04:30Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -1506,8 +1475,8 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1446130700"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1446127874"
     },
     {
       "credits": [
@@ -1541,19 +1510,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WMjS6",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WMjQM",
       "metadata": {
-        "created_at": "2024-01-09T14:06:23Z",
-        "outdated": true,
+        "created_at": "2024-01-09T14:06:14Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-01-09T14:06:24Z",
+        "published_at": "2024-01-09T14:06:15Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5r9QzY",
-        "source_node_id": "PRRC_kwDOGuqVzM5WMjS6",
-        "thread_node_id": "PRRT_kwDOGuqVzM43FlR2",
+        "review_node_id": "PRR_kwDOGuqVzM5r9QvL",
+        "source_node_id": "PRRC_kwDOGuqVzM5WMjQM",
+        "thread_node_id": "PRRT_kwDOGuqVzM43FlQJ",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-09T14:06:24Z",
+      "occurred_at": "2024-01-09T14:06:15Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -1562,8 +1531,8 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1446130874"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1446130700"
     },
     {
       "credits": [
@@ -1597,19 +1566,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WMjfM",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WMjS6",
       "metadata": {
-        "created_at": "2024-01-09T14:07:03Z",
-        "outdated": false,
+        "created_at": "2024-01-09T14:06:23Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-09T14:07:03Z",
+        "published_at": "2024-01-09T14:06:24Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5r9RIN",
-        "source_node_id": "PRRC_kwDOGuqVzM5WMjfM",
-        "thread_node_id": "PRRT_kwDOGuqVzM43FlZc",
+        "review_node_id": "PRR_kwDOGuqVzM5r9QzY",
+        "source_node_id": "PRRC_kwDOGuqVzM5WMjS6",
+        "thread_node_id": "PRRT_kwDOGuqVzM43FlR2",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-09T14:07:03Z",
+      "occurred_at": "2024-01-09T14:06:24Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -1618,8 +1587,8 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1446131660"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1446130874"
     },
     {
       "credits": [
@@ -1645,6 +1614,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#pullrequestreview-1811223053"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WMjfM",
+      "metadata": {
+        "created_at": "2024-01-09T14:07:03Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-01-09T14:07:03Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5r9RIN",
+        "source_node_id": "PRRC_kwDOGuqVzM5WMjfM",
+        "thread_node_id": "PRRT_kwDOGuqVzM43FlZc",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-09T14:07:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jdLKb",
+        "number": 681,
+        "title": "Adding LambdaSettings object for AFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1446131660"
     },
     {
       "credits": [
@@ -1676,7 +1676,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WOMUr",
+      "id": "pr_review:PRR_kwDOGuqVzM5r_8-N",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5r_8-N",
+        "state": "DISMISSED",
+        "submitted_at": "2024-01-09T21:24:04Z"
+      },
+      "occurred_at": "2024-01-09T21:24:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5iSoKs",
+        "number": 666,
+        "title": "consequences of gufe #260 change",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/666"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/666#pullrequestreview-1811926925"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WOMUr",
       "metadata": {
         "created_at": "2024-01-09T20:23:22Z",
         "outdated": true,
@@ -1697,33 +1722,8 @@
         "title": "consequences of gufe #260 change",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/666"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/666#discussion_r1446561067"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM5r_8-N",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM5r_8-N",
-        "state": "DISMISSED",
-        "submitted_at": "2024-01-09T21:24:04Z"
-      },
-      "occurred_at": "2024-01-09T21:24:04Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5iSoKs",
-        "number": 666,
-        "title": "consequences of gufe #260 change",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/666"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/666#pullrequestreview-1811926925"
     },
     {
       "credits": [
@@ -1755,7 +1755,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WTm-K",
+      "id": "pr_review:PRR_kwDOGuqVzM5sImpF",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5sImpF",
+        "state": "COMMENTED",
+        "submitted_at": "2024-01-10T22:16:45Z"
+      },
+      "occurred_at": "2024-01-10T22:16:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jQGW_",
+        "number": 679,
+        "title": "[wip] Storage manager update",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#pullrequestreview-1814194757"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WTm-K",
       "metadata": {
         "created_at": "2024-01-10T21:17:06Z",
         "outdated": true,
@@ -1776,7 +1801,7 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1447980938"
     },
     {
@@ -1786,7 +1811,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WTm87",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WTm87",
       "metadata": {
         "created_at": "2024-01-10T21:17:01Z",
         "outdated": true,
@@ -1807,7 +1832,7 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1447980859"
     },
     {
@@ -1817,7 +1842,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WTnHV",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WTnHV",
       "metadata": {
         "created_at": "2024-01-10T21:17:47Z",
         "outdated": false,
@@ -1838,7 +1863,7 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1447981525"
     },
     {
@@ -1848,7 +1873,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WTo6k",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WTo6k",
       "metadata": {
         "created_at": "2024-01-10T21:25:45Z",
         "outdated": true,
@@ -1869,7 +1894,7 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1447988900"
     },
     {
@@ -1879,7 +1904,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WTouc",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WTouc",
       "metadata": {
         "created_at": "2024-01-10T21:24:56Z",
         "outdated": false,
@@ -1900,7 +1925,7 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1447988124"
     },
     {
@@ -1910,7 +1935,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WToyT",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WToyT",
       "metadata": {
         "created_at": "2024-01-10T21:25:08Z",
         "outdated": true,
@@ -1931,7 +1956,7 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1447988371"
     },
     {
@@ -1941,7 +1966,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WTozb",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WTozb",
       "metadata": {
         "created_at": "2024-01-10T21:25:12Z",
         "outdated": true,
@@ -1962,7 +1987,7 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1447988443"
     },
     {
@@ -1972,7 +1997,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WTzQ5",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WTzQ5",
       "metadata": {
         "created_at": "2024-01-10T21:57:01Z",
         "outdated": true,
@@ -1993,7 +2018,7 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1448031289"
     },
     {
@@ -2003,7 +2028,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WTzn5",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WTzn5",
       "metadata": {
         "created_at": "2024-01-10T21:58:50Z",
         "outdated": false,
@@ -2024,33 +2049,8 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1448032761"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM5sImpF",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM5sImpF",
-        "state": "COMMENTED",
-        "submitted_at": "2024-01-10T22:16:45Z"
-      },
-      "occurred_at": "2024-01-10T22:16:45Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jQGW_",
-        "number": 679,
-        "title": "[wip] Storage manager update",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#pullrequestreview-1814194757"
     },
     {
       "credits": [
@@ -2155,37 +2155,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WVWrq",
-      "metadata": {
-        "created_at": "2024-01-11T07:54:33Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-01-11T07:54:33Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5sLRGd",
-        "source_node_id": "PRRC_kwDOGuqVzM5WVWrq",
-        "thread_node_id": "PRRT_kwDOGuqVzM43FlQJ",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-11T07:54:33Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jdLKb",
-        "number": 681,
-        "title": "Adding LambdaSettings object for AFE",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1448438506"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5sLRGd",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5sLRGd",
@@ -2211,19 +2180,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WVcFH",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WVWrq",
       "metadata": {
-        "created_at": "2024-01-11T08:15:37Z",
+        "created_at": "2024-01-11T07:54:33Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-01-11T08:15:37Z",
+        "published_at": "2024-01-11T07:54:33Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5sLapS",
-        "source_node_id": "PRRC_kwDOGuqVzM5WVcFH",
-        "thread_node_id": "PRRT_kwDOGuqVzM43FlZc",
+        "review_node_id": "PRR_kwDOGuqVzM5sLRGd",
+        "source_node_id": "PRRC_kwDOGuqVzM5WVWrq",
+        "thread_node_id": "PRRT_kwDOGuqVzM43FlQJ",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-11T08:15:37Z",
+      "occurred_at": "2024-01-11T07:54:33Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -2232,8 +2201,8 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1448460615"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1448438506"
     },
     {
       "credits": [
@@ -2259,6 +2228,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#pullrequestreview-1814932050"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WVcFH",
+      "metadata": {
+        "created_at": "2024-01-11T08:15:37Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-01-11T08:15:37Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5sLapS",
+        "source_node_id": "PRRC_kwDOGuqVzM5WVcFH",
+        "thread_node_id": "PRRT_kwDOGuqVzM43FlZc",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-11T08:15:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jdLKb",
+        "number": 681,
+        "title": "Adding LambdaSettings object for AFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1448460615"
     },
     {
       "credits": [
@@ -2331,37 +2331,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WWGAe",
-      "metadata": {
-        "created_at": "2024-01-11T10:29:24Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-11T10:29:24Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5sMcyp",
-        "source_node_id": "PRRC_kwDOGuqVzM5WWGAe",
-        "thread_node_id": "PRRT_kwDOGuqVzM43KDxH",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-11T10:29:24Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jQGW_",
-        "number": 679,
-        "title": "[wip] Storage manager update",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1448632350"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5sMcyp",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5sMcyp",
@@ -2387,19 +2356,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WWHP8",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WWGAe",
       "metadata": {
-        "created_at": "2024-01-11T10:33:03Z",
+        "created_at": "2024-01-11T10:29:24Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-11T10:33:03Z",
+        "published_at": "2024-01-11T10:29:24Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5sMeoN",
-        "source_node_id": "PRRC_kwDOGuqVzM5WWHP8",
-        "thread_node_id": "PRRT_kwDOGuqVzM43KE-0",
+        "review_node_id": "PRR_kwDOGuqVzM5sMcyp",
+        "source_node_id": "PRRC_kwDOGuqVzM5WWGAe",
+        "thread_node_id": "PRRT_kwDOGuqVzM43KDxH",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-11T10:33:03Z",
+      "occurred_at": "2024-01-11T10:29:24Z",
       "subject": {
         "author_key": "MDQ6VXNlcjkyNDk1NDM=",
         "kind": "pull_request",
@@ -2408,8 +2377,8 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1448637436"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1448632350"
     },
     {
       "credits": [
@@ -2443,19 +2412,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WWHhU",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WWHP8",
       "metadata": {
-        "created_at": "2024-01-11T10:33:43Z",
+        "created_at": "2024-01-11T10:33:03Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-11T10:33:43Z",
+        "published_at": "2024-01-11T10:33:03Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5sMe6_",
-        "source_node_id": "PRRC_kwDOGuqVzM5WWHhU",
-        "thread_node_id": "PRRT_kwDOGuqVzM43KL0u",
+        "review_node_id": "PRR_kwDOGuqVzM5sMeoN",
+        "source_node_id": "PRRC_kwDOGuqVzM5WWHP8",
+        "thread_node_id": "PRRT_kwDOGuqVzM43KE-0",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-11T10:33:43Z",
+      "occurred_at": "2024-01-11T10:33:03Z",
       "subject": {
         "author_key": "MDQ6VXNlcjkyNDk1NDM=",
         "kind": "pull_request",
@@ -2464,8 +2433,8 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1448638548"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1448637436"
     },
     {
       "credits": [
@@ -2499,19 +2468,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WWHsd",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WWHhU",
       "metadata": {
-        "created_at": "2024-01-11T10:34:17Z",
+        "created_at": "2024-01-11T10:33:43Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-11T10:34:18Z",
+        "published_at": "2024-01-11T10:33:43Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5sMfLb",
-        "source_node_id": "PRRC_kwDOGuqVzM5WWHsd",
+        "review_node_id": "PRR_kwDOGuqVzM5sMe6_",
+        "source_node_id": "PRRC_kwDOGuqVzM5WWHhU",
         "thread_node_id": "PRRT_kwDOGuqVzM43KL0u",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-11T10:34:18Z",
+      "occurred_at": "2024-01-11T10:33:43Z",
       "subject": {
         "author_key": "MDQ6VXNlcjkyNDk1NDM=",
         "kind": "pull_request",
@@ -2520,8 +2489,8 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1448639261"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1448638548"
     },
     {
       "credits": [
@@ -2547,6 +2516,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#pullrequestreview-1815212763"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WWHsd",
+      "metadata": {
+        "created_at": "2024-01-11T10:34:17Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-01-11T10:34:18Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5sMfLb",
+        "source_node_id": "PRRC_kwDOGuqVzM5WWHsd",
+        "thread_node_id": "PRRT_kwDOGuqVzM43KL0u",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-11T10:34:18Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jQGW_",
+        "number": 679,
+        "title": "[wip] Storage manager update",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1448639261"
     },
     {
       "credits": [
@@ -2610,7 +2610,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5wel9d",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5wel9d",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5wel9d"
       },
@@ -2623,7 +2623,7 @@
         "title": "Remove flatten torsions from HTF",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/684"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/684#issuecomment-1887067997"
     },
     {
@@ -2681,37 +2681,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WWzI6",
-      "metadata": {
-        "created_at": "2024-01-11T12:50:31Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-11T12:50:31Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5sNmYj",
-        "source_node_id": "PRRC_kwDOGuqVzM5WWzI6",
-        "thread_node_id": "PRRT_kwDOGuqVzM43MG6B",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-11T12:50:31Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jdLKb",
-        "number": 681,
-        "title": "Adding LambdaSettings object for AFE",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1448817210"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5sNmYj",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5sNmYj",
@@ -2737,7 +2706,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5weygl",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WWzI6",
+      "metadata": {
+        "created_at": "2024-01-11T12:50:31Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-01-11T12:50:31Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5sNmYj",
+        "source_node_id": "PRRC_kwDOGuqVzM5WWzI6",
+        "thread_node_id": "PRRT_kwDOGuqVzM43MG6B",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-11T12:50:31Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jdLKb",
+        "number": 681,
+        "title": "Adding LambdaSettings object for AFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1448817210"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5weygl",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5weygl"
       },
@@ -2750,7 +2750,7 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#issuecomment-1887119397"
     },
     {
@@ -2792,37 +2792,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WW62H",
-      "metadata": {
-        "created_at": "2024-01-11T13:13:04Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-01-11T13:13:04Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5sNyOp",
-        "source_node_id": "PRRC_kwDOGuqVzM5WW62H",
-        "thread_node_id": "PRRT_kwDOGuqVzM43FlZc",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-11T13:13:04Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jdLKb",
-        "number": 681,
-        "title": "Adding LambdaSettings object for AFE",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1448848775"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5sNyOp",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5sNyOp",
@@ -2844,11 +2813,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WW62H",
+      "metadata": {
+        "created_at": "2024-01-11T13:13:04Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-01-11T13:13:04Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5sNyOp",
+        "source_node_id": "PRRC_kwDOGuqVzM5WW62H",
+        "thread_node_id": "PRRT_kwDOGuqVzM43FlZc",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-11T13:13:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jdLKb",
+        "number": 681,
+        "title": "Adding LambdaSettings object for AFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1448848775"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5we3gF",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5we3gF",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5we3gF"
       },
@@ -2861,7 +2861,7 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#issuecomment-1887139845"
     },
     {
@@ -2903,7 +2903,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5wfCBv",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5wfCBv",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5wfCBv"
       },
@@ -2916,7 +2916,7 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#issuecomment-1887182959"
     },
     {
@@ -2958,7 +2958,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WXEg8",
+      "id": "pr_review:PRR_kwDOGuqVzM5sOC7E",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5sOC7E",
+        "state": "COMMENTED",
+        "submitted_at": "2024-01-11T13:45:19Z"
+      },
+      "occurred_at": "2024-01-11T13:45:19Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jdLKb",
+        "number": 681,
+        "title": "Adding LambdaSettings object for AFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#pullrequestreview-1815621316"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WXEg8",
       "metadata": {
         "created_at": "2024-01-11T13:45:19Z",
         "outdated": true,
@@ -2979,33 +3004,8 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1448888380"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM5sOC7E",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM5sOC7E",
-        "state": "COMMENTED",
-        "submitted_at": "2024-01-11T13:45:19Z"
-      },
-      "occurred_at": "2024-01-11T13:45:19Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jdLKb",
-        "number": 681,
-        "title": "Adding LambdaSettings object for AFE",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#pullrequestreview-1815621316"
     },
     {
       "credits": [
@@ -3046,7 +3046,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5wfGAa",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5wfGAa",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5wfGAa"
       },
@@ -3059,7 +3059,7 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#issuecomment-1887199258"
     },
     {
@@ -3101,7 +3101,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WXWs4",
+      "id": "pr_review:PRR_kwDOGuqVzM5sOjrn",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5sOjrn",
+        "state": "COMMENTED",
+        "submitted_at": "2024-01-11T14:40:04Z"
+      },
+      "occurred_at": "2024-01-11T14:40:04Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jdLKb",
+        "number": 681,
+        "title": "Adding LambdaSettings object for AFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#pullrequestreview-1815755495"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WXWs4",
       "metadata": {
         "created_at": "2024-01-11T14:40:04Z",
         "outdated": true,
@@ -3122,33 +3147,8 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1448962872"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM5sOjrn",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM5sOjrn",
-        "state": "COMMENTED",
-        "submitted_at": "2024-01-11T14:40:04Z"
-      },
-      "occurred_at": "2024-01-11T14:40:04Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jdLKb",
-        "number": 681,
-        "title": "Adding LambdaSettings object for AFE",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#pullrequestreview-1815755495"
     },
     {
       "credits": [
@@ -3375,37 +3375,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WdLNL",
-      "metadata": {
-        "created_at": "2024-01-12T13:59:46Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-12T13:59:46Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5sYWih",
-        "source_node_id": "PRRC_kwDOGuqVzM5WdLNL",
-        "thread_node_id": "PRRT_kwDOGuqVzM43Mdfs",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-12T13:59:46Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jdLKb",
-        "number": 681,
-        "title": "Adding LambdaSettings object for AFE",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1450488651"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5sYWih",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5sYWih",
@@ -3427,23 +3396,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WeAWU",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WdLNL",
       "metadata": {
-        "created_at": "2024-01-12T16:57:40Z",
+        "created_at": "2024-01-12T13:59:46Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-12T16:57:40Z",
+        "published_at": "2024-01-12T13:59:46Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5sZtix",
-        "source_node_id": "PRRC_kwDOGuqVzM5WeAWU",
+        "review_node_id": "PRR_kwDOGuqVzM5sYWih",
+        "source_node_id": "PRRC_kwDOGuqVzM5WdLNL",
         "thread_node_id": "PRRT_kwDOGuqVzM43Mdfs",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-12T16:57:40Z",
+      "occurred_at": "2024-01-12T13:59:46Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -3452,8 +3421,8 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1450706324"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1450488651"
     },
     {
       "credits": [
@@ -3479,6 +3448,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#pullrequestreview-1818679473"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WeAWU",
+      "metadata": {
+        "created_at": "2024-01-12T16:57:40Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-01-12T16:57:40Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5sZtix",
+        "source_node_id": "PRRC_kwDOGuqVzM5WeAWU",
+        "thread_node_id": "PRRT_kwDOGuqVzM43Mdfs",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-12T16:57:40Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jdLKb",
+        "number": 681,
+        "title": "Adding LambdaSettings object for AFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1450706324"
     },
     {
       "credits": [
@@ -3519,37 +3519,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Wjf-5",
-      "metadata": {
-        "created_at": "2024-01-15T09:50:46Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-15T09:50:46Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5sjzZc",
-        "source_node_id": "PRRC_kwDOGuqVzM5Wjf-5",
-        "thread_node_id": "PRRT_kwDOGuqVzM43Mdfs",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-15T09:50:46Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jdLKb",
-        "number": 681,
-        "title": "Adding LambdaSettings object for AFE",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1452146617"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5sjzZc",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5sjzZc",
@@ -3571,33 +3540,33 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WkouB",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Wjf-5",
       "metadata": {
-        "created_at": "2024-01-15T14:28:22Z",
-        "outdated": false,
+        "created_at": "2024-01-15T09:50:46Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-15T14:28:22Z",
+        "published_at": "2024-01-15T09:50:46Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5slmRJ",
-        "source_node_id": "PRRC_kwDOGuqVzM5WkouB",
-        "thread_node_id": "PRRT_kwDOGuqVzM43KD3J",
+        "review_node_id": "PRR_kwDOGuqVzM5sjzZc",
+        "source_node_id": "PRRC_kwDOGuqVzM5Wjf-5",
+        "thread_node_id": "PRRT_kwDOGuqVzM43Mdfs",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-15T14:28:22Z",
+      "occurred_at": "2024-01-15T09:50:46Z",
       "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jQGW_",
-        "number": 679,
-        "title": "[wip] Storage manager update",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
+        "node_id": "PR_kwDOGuqVzM5jdLKb",
+        "number": 681,
+        "title": "Adding LambdaSettings object for AFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1452444545"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1452146617"
     },
     {
       "credits": [
@@ -3631,19 +3600,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Wko_l",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WkouB",
       "metadata": {
-        "created_at": "2024-01-15T14:29:26Z",
+        "created_at": "2024-01-15T14:28:22Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-01-15T14:29:26Z",
+        "published_at": "2024-01-15T14:28:22Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5slmvy",
-        "source_node_id": "PRRC_kwDOGuqVzM5Wko_l",
-        "thread_node_id": "PRRT_kwDOGuqVzM43KE3i",
+        "review_node_id": "PRR_kwDOGuqVzM5slmRJ",
+        "source_node_id": "PRRC_kwDOGuqVzM5WkouB",
+        "thread_node_id": "PRRT_kwDOGuqVzM43KD3J",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-15T14:29:26Z",
+      "occurred_at": "2024-01-15T14:28:22Z",
       "subject": {
         "author_key": "MDQ6VXNlcjkyNDk1NDM=",
         "kind": "pull_request",
@@ -3652,8 +3621,8 @@
         "title": "[wip] Storage manager update",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1452445669"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1452444545"
     },
     {
       "credits": [
@@ -3679,6 +3648,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#pullrequestreview-1821797362"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Wko_l",
+      "metadata": {
+        "created_at": "2024-01-15T14:29:26Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-01-15T14:29:26Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5slmvy",
+        "source_node_id": "PRRC_kwDOGuqVzM5Wko_l",
+        "thread_node_id": "PRRT_kwDOGuqVzM43KE3i",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-15T14:29:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jQGW_",
+        "number": 679,
+        "title": "[wip] Storage manager update",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/679"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/679#discussion_r1452445669"
     },
     {
       "credits": [
@@ -3751,7 +3751,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Wl9r5",
+      "id": "pr_review:PRR_kwDOGuqVzM5snpas",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5snpas",
+        "state": "COMMENTED",
+        "submitted_at": "2024-01-15T23:09:35Z"
+      },
+      "occurred_at": "2024-01-15T23:09:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jRoaE",
+        "number": 680,
+        "title": "Expand water virtual site tests",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/680"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#pullrequestreview-1822332588"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Wl9r5",
       "metadata": {
         "created_at": "2024-01-15T23:09:35Z",
         "outdated": true,
@@ -3772,33 +3797,8 @@
         "title": "Expand water virtual site tests",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/680"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#discussion_r1452792569"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM5snpas",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM5snpas",
-        "state": "COMMENTED",
-        "submitted_at": "2024-01-15T23:09:35Z"
-      },
-      "occurred_at": "2024-01-15T23:09:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jRoaE",
-        "number": 680,
-        "title": "Expand water virtual site tests",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/680"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/680#pullrequestreview-1822332588"
     },
     {
       "credits": [
@@ -3864,7 +3864,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5w02BO",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5w02BO",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5w02BO"
       },
@@ -3877,7 +3877,7 @@
         "title": "[WIP] Add flaky markers to flaky tests on macOS GitHub actions runners",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/509"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/509#issuecomment-1892900942"
     },
     {
@@ -3887,7 +3887,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5w02F9",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5w02F9",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5w02F9"
       },
@@ -3900,7 +3900,7 @@
         "title": "[WIP] quickrun result error inspection command",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/492"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/492#issuecomment-1892901245"
     },
     {
@@ -4062,7 +4062,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5w5KHg",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5w5KHg",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5w5KHg"
       },
@@ -4075,7 +4075,7 @@
         "title": "Add cookbook entry for user charges",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/687"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/687#issuecomment-1894031840"
     },
     {
@@ -4108,7 +4108,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5w5iZY",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5w5iZY",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5w5iZY"
       },
@@ -4121,39 +4121,8 @@
         "title": "Fix RTD flyout version selector ",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/688"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/688#issuecomment-1894131288"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5WwaSx",
-      "metadata": {
-        "created_at": "2024-01-17T13:13:37Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-01-17T13:13:37Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5s6e1L",
-        "source_node_id": "PRRC_kwDOGuqVzM5WwaSx",
-        "thread_node_id": "PRRT_kwDOGuqVzM43B3kw",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-17T13:13:37Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jdLKb",
-        "number": 681,
-        "title": "Adding LambdaSettings object for AFE",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1455531185"
     },
     {
       "credits": [
@@ -4179,6 +4148,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#pullrequestreview-1827269963"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5WwaSx",
+      "metadata": {
+        "created_at": "2024-01-17T13:13:37Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-01-17T13:13:37Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5s6e1L",
+        "source_node_id": "PRRC_kwDOGuqVzM5WwaSx",
+        "thread_node_id": "PRRT_kwDOGuqVzM43B3kw",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-17T13:13:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jdLKb",
+        "number": 681,
+        "title": "Adding LambdaSettings object for AFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1455531185"
     },
     {
       "credits": [
@@ -4242,7 +4242,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5xBAAm",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5xBAAm",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5xBAAm"
       },
@@ -4255,7 +4255,7 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#issuecomment-1896087590"
     },
     {
@@ -4329,37 +4329,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W2ZBk",
-      "metadata": {
-        "created_at": "2024-01-18T08:38:18Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-18T08:38:19Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5tBlxM",
-        "source_node_id": "PRRC_kwDOGuqVzM5W2ZBk",
-        "thread_node_id": "PRRT_kwDOGuqVzM43frmr",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-18T08:38:19Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5kU-_c",
-        "number": 689,
-        "title": "Renaming and moving some of the protocol settings",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1457098852"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5tBlxM",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5tBlxM",
@@ -4385,19 +4354,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W2aK2",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W2ZBk",
       "metadata": {
-        "created_at": "2024-01-18T08:42:08Z",
-        "outdated": false,
+        "created_at": "2024-01-18T08:38:18Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-18T08:42:08Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5tBni8",
-        "source_node_id": "PRRC_kwDOGuqVzM5W2aK2",
-        "thread_node_id": "PRRT_kwDOGuqVzM43fsYY",
+        "published_at": "2024-01-18T08:38:19Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5tBlxM",
+        "source_node_id": "PRRC_kwDOGuqVzM5W2ZBk",
+        "thread_node_id": "PRRT_kwDOGuqVzM43frmr",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-18T08:42:08Z",
+      "occurred_at": "2024-01-18T08:38:19Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -4406,8 +4375,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1457103542"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1457098852"
     },
     {
       "credits": [
@@ -4433,6 +4402,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#pullrequestreview-1829140668"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W2aK2",
+      "metadata": {
+        "created_at": "2024-01-18T08:42:08Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-01-18T08:42:08Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5tBni8",
+        "source_node_id": "PRRC_kwDOGuqVzM5W2aK2",
+        "thread_node_id": "PRRT_kwDOGuqVzM43fsYY",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-18T08:42:08Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5kU-_c",
+        "number": 689,
+        "title": "Renaming and moving some of the protocol settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1457103542"
     },
     {
       "credits": [
@@ -4569,37 +4569,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W8roH",
-      "metadata": {
-        "created_at": "2024-01-19T10:28:18Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-19T10:28:18Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5tM6Y8",
-        "source_node_id": "PRRC_kwDOGuqVzM5W8roH",
-        "thread_node_id": "PRRT_kwDOGuqVzM43josE",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-19T10:28:18Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5kU-_c",
-        "number": 689,
-        "title": "Renaming and moving some of the protocol settings",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458747911"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5tM6Y8",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5tM6Y8",
@@ -4625,19 +4594,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W8sFE",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W8roH",
       "metadata": {
-        "created_at": "2024-01-19T10:29:09Z",
+        "created_at": "2024-01-19T10:28:18Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-19T10:29:10Z",
+        "published_at": "2024-01-19T10:28:18Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5tM7Dy",
-        "source_node_id": "PRRC_kwDOGuqVzM5W8sFE",
-        "thread_node_id": "PRRT_kwDOGuqVzM43jo7l",
+        "review_node_id": "PRR_kwDOGuqVzM5tM6Y8",
+        "source_node_id": "PRRC_kwDOGuqVzM5W8roH",
+        "thread_node_id": "PRRT_kwDOGuqVzM43josE",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-19T10:29:10Z",
+      "occurred_at": "2024-01-19T10:28:18Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -4646,8 +4615,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458749764"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458747911"
     },
     {
       "credits": [
@@ -4681,19 +4650,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W8sWE",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W8sFE",
       "metadata": {
-        "created_at": "2024-01-19T10:29:53Z",
-        "outdated": false,
+        "created_at": "2024-01-19T10:29:09Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-19T10:29:53Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5tM7V9",
-        "source_node_id": "PRRC_kwDOGuqVzM5W8sWE",
-        "thread_node_id": "PRRT_kwDOGuqVzM43jpGZ",
+        "published_at": "2024-01-19T10:29:10Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5tM7Dy",
+        "source_node_id": "PRRC_kwDOGuqVzM5W8sFE",
+        "thread_node_id": "PRRT_kwDOGuqVzM43jo7l",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-19T10:29:53Z",
+      "occurred_at": "2024-01-19T10:29:10Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -4702,8 +4671,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458750852"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458749764"
     },
     {
       "credits": [
@@ -4737,19 +4706,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W8tDo",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W8sWE",
       "metadata": {
-        "created_at": "2024-01-19T10:31:19Z",
-        "outdated": true,
+        "created_at": "2024-01-19T10:29:53Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-01-19T10:31:20Z",
+        "published_at": "2024-01-19T10:29:53Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5tM8Pu",
-        "source_node_id": "PRRC_kwDOGuqVzM5W8tDo",
-        "thread_node_id": "PRRT_kwDOGuqVzM43jpgB",
+        "review_node_id": "PRR_kwDOGuqVzM5tM7V9",
+        "source_node_id": "PRRC_kwDOGuqVzM5W8sWE",
+        "thread_node_id": "PRRT_kwDOGuqVzM43jpGZ",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-19T10:31:20Z",
+      "occurred_at": "2024-01-19T10:29:53Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -4758,8 +4727,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458753768"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458750852"
     },
     {
       "credits": [
@@ -4793,19 +4762,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W8tcl",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W8tDo",
       "metadata": {
-        "created_at": "2024-01-19T10:32:27Z",
+        "created_at": "2024-01-19T10:31:19Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-19T10:32:27Z",
+        "published_at": "2024-01-19T10:31:20Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5tM8sd",
-        "source_node_id": "PRRC_kwDOGuqVzM5W8tcl",
+        "review_node_id": "PRR_kwDOGuqVzM5tM8Pu",
+        "source_node_id": "PRRC_kwDOGuqVzM5W8tDo",
         "thread_node_id": "PRRT_kwDOGuqVzM43jpgB",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-19T10:32:27Z",
+      "occurred_at": "2024-01-19T10:31:20Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -4814,8 +4783,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458755365"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458753768"
     },
     {
       "credits": [
@@ -4849,19 +4818,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W8t3p",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W8tcl",
       "metadata": {
-        "created_at": "2024-01-19T10:33:27Z",
+        "created_at": "2024-01-19T10:32:27Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-19T10:33:27Z",
+        "published_at": "2024-01-19T10:32:27Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5tM9OK",
-        "source_node_id": "PRRC_kwDOGuqVzM5W8t3p",
-        "thread_node_id": "PRRT_kwDOGuqVzM43jp_7",
+        "review_node_id": "PRR_kwDOGuqVzM5tM8sd",
+        "source_node_id": "PRRC_kwDOGuqVzM5W8tcl",
+        "thread_node_id": "PRRT_kwDOGuqVzM43jpgB",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-19T10:33:27Z",
+      "occurred_at": "2024-01-19T10:32:27Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -4870,8 +4839,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458757097"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458755365"
     },
     {
       "credits": [
@@ -4905,19 +4874,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W8uK4",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W8t3p",
       "metadata": {
-        "created_at": "2024-01-19T10:34:17Z",
-        "outdated": false,
+        "created_at": "2024-01-19T10:33:27Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-19T10:34:17Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5tM9kI",
-        "source_node_id": "PRRC_kwDOGuqVzM5W8uK4",
-        "thread_node_id": "PRRT_kwDOGuqVzM43jqLD",
+        "published_at": "2024-01-19T10:33:27Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5tM9OK",
+        "source_node_id": "PRRC_kwDOGuqVzM5W8t3p",
+        "thread_node_id": "PRRT_kwDOGuqVzM43jp_7",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-19T10:34:17Z",
+      "occurred_at": "2024-01-19T10:33:27Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -4926,8 +4895,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458758328"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458757097"
     },
     {
       "credits": [
@@ -4957,23 +4926,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W8ufV",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W8uK4",
       "metadata": {
-        "created_at": "2024-01-19T10:35:03Z",
+        "created_at": "2024-01-19T10:34:17Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-01-19T10:35:03Z",
+        "published_at": "2024-01-19T10:34:17Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5tM93z",
-        "source_node_id": "PRRC_kwDOGuqVzM5W8ufV",
+        "review_node_id": "PRR_kwDOGuqVzM5tM9kI",
+        "source_node_id": "PRRC_kwDOGuqVzM5W8uK4",
         "thread_node_id": "PRRT_kwDOGuqVzM43jqLD",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-19T10:35:03Z",
+      "occurred_at": "2024-01-19T10:34:17Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -4982,8 +4951,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458759637"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458758328"
     },
     {
       "credits": [
@@ -5009,6 +4978,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#pullrequestreview-1832115699"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W8ufV",
+      "metadata": {
+        "created_at": "2024-01-19T10:35:03Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-01-19T10:35:03Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5tM93z",
+        "source_node_id": "PRRC_kwDOGuqVzM5W8ufV",
+        "thread_node_id": "PRRT_kwDOGuqVzM43jqLD",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-19T10:35:03Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5kU-_c",
+        "number": 689,
+        "title": "Renaming and moving some of the protocol settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458759637"
     },
     {
       "credits": [
@@ -5098,7 +5098,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5xQq5C",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5xQq5C",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5xQq5C"
       },
@@ -5111,7 +5111,7 @@
         "title": "Move load_molecules from CLI to core openfe",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/392"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/392#issuecomment-1900195394"
     },
     {
@@ -5121,7 +5121,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5xQ6Pc",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5xQ6Pc",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5xQ6Pc"
       },
@@ -5134,39 +5134,8 @@
         "title": "[DNM] Proposed path for handling Settings schema changes for a protocol",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/445"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/445#issuecomment-1900258268"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W9GNc",
-      "metadata": {
-        "created_at": "2024-01-19T11:37:37Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-19T11:40:39Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5tNeGP",
-        "source_node_id": "PRRC_kwDOGuqVzM5W9GNc",
-        "thread_node_id": "PRRT_kwDOGuqVzM43j4Ry",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-19T11:40:39Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5iSoKs",
-        "number": 666,
-        "title": "consequences of gufe #260 change",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/666"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/666#discussion_r1458856796"
     },
     {
       "credits": [
@@ -5192,6 +5161,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/666#pullrequestreview-1832247695"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W9GNc",
+      "metadata": {
+        "created_at": "2024-01-19T11:37:37Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-01-19T11:40:39Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5tNeGP",
+        "source_node_id": "PRRC_kwDOGuqVzM5W9GNc",
+        "thread_node_id": "PRRT_kwDOGuqVzM43j4Ry",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-19T11:40:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5iSoKs",
+        "number": 666,
+        "title": "consequences of gufe #260 change",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/666"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/666#discussion_r1458856796"
     },
     {
       "credits": [
@@ -5363,7 +5363,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5xRCIp",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5xRCIp",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5xRCIp"
       },
@@ -5376,7 +5376,7 @@
         "title": "[WIP] Add flaky markers to flaky tests on macOS GitHub actions runners",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/509"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/509#issuecomment-1900290601"
     },
     {
@@ -5475,7 +5475,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5xRMJl",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5xRMJl",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5xRMJl"
       },
@@ -5488,39 +5488,8 @@
         "title": "consequences of gufe #260 change",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/666"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/666#issuecomment-1900331621"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W9Y_U",
-      "metadata": {
-        "created_at": "2024-01-19T12:31:49Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-19T12:31:49Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5tOFn2",
-        "source_node_id": "PRRC_kwDOGuqVzM5W9Y_U",
-        "thread_node_id": "PRRT_kwDOGuqVzM43kDb2",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-19T12:31:49Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5kU-_c",
-        "number": 689,
-        "title": "Renaming and moving some of the protocol settings",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458933716"
     },
     {
       "credits": [
@@ -5554,19 +5523,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W9Z2t",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W9Y_U",
       "metadata": {
-        "created_at": "2024-01-19T12:34:42Z",
+        "created_at": "2024-01-19T12:31:49Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-19T12:34:42Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5tOHmE",
-        "source_node_id": "PRRC_kwDOGuqVzM5W9Z2t",
-        "thread_node_id": "PRRT_kwDOGuqVzM43josE",
+        "published_at": "2024-01-19T12:31:49Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5tOFn2",
+        "source_node_id": "PRRC_kwDOGuqVzM5W9Y_U",
+        "thread_node_id": "PRRT_kwDOGuqVzM43kDb2",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-19T12:34:42Z",
+      "occurred_at": "2024-01-19T12:31:49Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -5575,8 +5544,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458937261"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458933716"
     },
     {
       "credits": [
@@ -5602,6 +5571,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#pullrequestreview-1832417668"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W9Z2t",
+      "metadata": {
+        "created_at": "2024-01-19T12:34:42Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-01-19T12:34:42Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5tOHmE",
+        "source_node_id": "PRRC_kwDOGuqVzM5W9Z2t",
+        "thread_node_id": "PRRT_kwDOGuqVzM43josE",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-19T12:34:42Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5kU-_c",
+        "number": 689,
+        "title": "Renaming and moving some of the protocol settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458937261"
     },
     {
       "credits": [
@@ -5706,7 +5706,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5W9gEW",
+      "id": "pr_review:PRR_kwDOGuqVzM5tOV3V",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5tOV3V",
+        "state": "COMMENTED",
+        "submitted_at": "2024-01-19T12:53:53Z"
+      },
+      "occurred_at": "2024-01-19T12:53:53Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5kU-_c",
+        "number": 689,
+        "title": "Renaming and moving some of the protocol settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#pullrequestreview-1832476117"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5W9gEW",
       "metadata": {
         "created_at": "2024-01-19T12:53:53Z",
         "outdated": false,
@@ -5727,33 +5752,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1458962710"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM5tOV3V",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM5tOV3V",
-        "state": "COMMENTED",
-        "submitted_at": "2024-01-19T12:53:53Z"
-      },
-      "occurred_at": "2024-01-19T12:53:53Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5kU-_c",
-        "number": 689,
-        "title": "Renaming and moving some of the protocol settings",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#pullrequestreview-1832476117"
     },
     {
       "credits": [
@@ -6539,7 +6539,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5XJPVw",
+      "id": "pr_review:PRR_kwDOGuqVzM5tesEY",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5tesEY",
+        "state": "COMMENTED",
+        "submitted_at": "2024-01-22T15:38:52Z"
+      },
+      "occurred_at": "2024-01-22T15:38:52Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5iSoKs",
+        "number": 666,
+        "title": "consequences of gufe #260 change",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/666"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/666#pullrequestreview-1836761368"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5XJPVw",
       "metadata": {
         "created_at": "2024-01-22T15:36:02Z",
         "outdated": true,
@@ -6560,33 +6585,8 @@
         "title": "consequences of gufe #260 change",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/666"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/666#discussion_r1462039920"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM5tesEY",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM5tesEY",
-        "state": "COMMENTED",
-        "submitted_at": "2024-01-22T15:38:52Z"
-      },
-      "occurred_at": "2024-01-22T15:38:52Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5iSoKs",
-        "number": 666,
-        "title": "consequences of gufe #260 change",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/666"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/666#pullrequestreview-1836761368"
     },
     {
       "credits": [
@@ -6641,37 +6641,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5XOPU-",
-      "metadata": {
-        "created_at": "2024-01-23T14:18:06Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-23T14:18:06Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5tm3kW",
-        "source_node_id": "PRRC_kwDOGuqVzM5XOPU-",
-        "thread_node_id": "PRRT_kwDOGuqVzM43ucmy",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-23T14:18:06Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5kU-_c",
-        "number": 689,
-        "title": "Renaming and moving some of the protocol settings",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1463350590"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5tm3kW",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5tm3kW",
@@ -6693,23 +6662,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5XO8Q2",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5XOPU-",
       "metadata": {
-        "created_at": "2024-01-23T16:12:05Z",
+        "created_at": "2024-01-23T14:18:06Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-23T16:12:05Z",
+        "published_at": "2024-01-23T14:18:06Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5toENu",
-        "source_node_id": "PRRC_kwDOGuqVzM5XO8Q2",
+        "review_node_id": "PRR_kwDOGuqVzM5tm3kW",
+        "source_node_id": "PRRC_kwDOGuqVzM5XOPU-",
         "thread_node_id": "PRRT_kwDOGuqVzM43ucmy",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-23T16:12:05Z",
+      "occurred_at": "2024-01-23T14:18:06Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -6718,8 +6687,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1463534646"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1463350590"
     },
     {
       "credits": [
@@ -6745,6 +6714,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#pullrequestreview-1839219566"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5XO8Q2",
+      "metadata": {
+        "created_at": "2024-01-23T16:12:05Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-01-23T16:12:05Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5toENu",
+        "source_node_id": "PRRC_kwDOGuqVzM5XO8Q2",
+        "thread_node_id": "PRRT_kwDOGuqVzM43ucmy",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-23T16:12:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5kU-_c",
+        "number": 689,
+        "title": "Renaming and moving some of the protocol settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1463534646"
     },
     {
       "credits": [
@@ -6945,37 +6945,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5XY6a8",
-      "metadata": {
-        "created_at": "2024-01-25T10:19:17Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-25T10:19:17Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5t3xbG",
-        "source_node_id": "PRRC_kwDOGuqVzM5XY6a8",
-        "thread_node_id": "PRRT_kwDOGuqVzM431IZl",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-25T10:19:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5kU-_c",
-        "number": 689,
-        "title": "Renaming and moving some of the protocol settings",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1466148540"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5t3xbG",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5t3xbG",
@@ -7001,19 +6970,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5XY7HN",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5XY6a8",
       "metadata": {
-        "created_at": "2024-01-25T10:21:30Z",
+        "created_at": "2024-01-25T10:19:17Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-25T10:21:30Z",
+        "published_at": "2024-01-25T10:19:17Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5t3yl6",
-        "source_node_id": "PRRC_kwDOGuqVzM5XY7HN",
-        "thread_node_id": "PRRT_kwDOGuqVzM431I1t",
+        "review_node_id": "PRR_kwDOGuqVzM5t3xbG",
+        "source_node_id": "PRRC_kwDOGuqVzM5XY6a8",
+        "thread_node_id": "PRRT_kwDOGuqVzM431IZl",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-25T10:21:30Z",
+      "occurred_at": "2024-01-25T10:19:17Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -7022,8 +6991,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1466151373"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1466148540"
     },
     {
       "credits": [
@@ -7057,19 +7026,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5XY7UZ",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5XY7HN",
       "metadata": {
-        "created_at": "2024-01-25T10:22:09Z",
+        "created_at": "2024-01-25T10:21:30Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-25T10:22:09Z",
+        "published_at": "2024-01-25T10:21:30Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5t3y57",
-        "source_node_id": "PRRC_kwDOGuqVzM5XY7UZ",
+        "review_node_id": "PRR_kwDOGuqVzM5t3yl6",
+        "source_node_id": "PRRC_kwDOGuqVzM5XY7HN",
         "thread_node_id": "PRRT_kwDOGuqVzM431I1t",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-25T10:22:09Z",
+      "occurred_at": "2024-01-25T10:21:30Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -7078,8 +7047,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1466152217"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1466151373"
     },
     {
       "credits": [
@@ -7105,6 +7074,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#pullrequestreview-1843342971"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5XY7UZ",
+      "metadata": {
+        "created_at": "2024-01-25T10:22:09Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-01-25T10:22:09Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5t3y57",
+        "source_node_id": "PRRC_kwDOGuqVzM5XY7UZ",
+        "thread_node_id": "PRRT_kwDOGuqVzM431I1t",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-25T10:22:09Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5kU-_c",
+        "number": 689,
+        "title": "Renaming and moving some of the protocol settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1466152217"
     },
     {
       "credits": [
@@ -7168,7 +7168,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5x1qHu",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5x1qHu",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5x1qHu"
       },
@@ -7181,7 +7181,7 @@
         "title": "Tokenizable atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/690"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/690#issuecomment-1909891566"
     },
     {
@@ -7223,37 +7223,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5XZlNR",
-      "metadata": {
-        "created_at": "2024-01-25T12:49:26Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-25T12:49:26Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5t47qi",
-        "source_node_id": "PRRC_kwDOGuqVzM5XZlNR",
-        "thread_node_id": "PRRT_kwDOGuqVzM431I1t",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-25T12:49:26Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5kU-_c",
-        "number": 689,
-        "title": "Renaming and moving some of the protocol settings",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1466323793"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOGuqVzM5t47qi",
       "metadata": {
         "source_node_id": "PRR_kwDOGuqVzM5t47qi",
@@ -7279,19 +7248,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5XZllv",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5XZlNR",
       "metadata": {
-        "created_at": "2024-01-25T12:50:57Z",
+        "created_at": "2024-01-25T12:49:26Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-01-25T12:50:57Z",
+        "published_at": "2024-01-25T12:49:26Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOGuqVzM5t48Rc",
-        "source_node_id": "PRRC_kwDOGuqVzM5XZllv",
-        "thread_node_id": "PRRT_kwDOGuqVzM431IZl",
+        "review_node_id": "PRR_kwDOGuqVzM5t47qi",
+        "source_node_id": "PRRC_kwDOGuqVzM5XZlNR",
+        "thread_node_id": "PRRT_kwDOGuqVzM431I1t",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-01-25T12:50:57Z",
+      "occurred_at": "2024-01-25T12:49:26Z",
       "subject": {
         "author_key": "MDQ6VXNlcjQzNzY1NjM4",
         "kind": "pull_request",
@@ -7300,8 +7269,8 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1466325359"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1466323793"
     },
     {
       "credits": [
@@ -7327,6 +7296,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#pullrequestreview-1843643484"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5XZllv",
+      "metadata": {
+        "created_at": "2024-01-25T12:50:57Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-01-25T12:50:57Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOGuqVzM5t48Rc",
+        "source_node_id": "PRRC_kwDOGuqVzM5XZllv",
+        "thread_node_id": "PRRT_kwDOGuqVzM431IZl",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-25T12:50:57Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5kU-_c",
+        "number": 689,
+        "title": "Renaming and moving some of the protocol settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1466325359"
     },
     {
       "credits": [
@@ -7422,7 +7422,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5x4GvR",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5x4GvR",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5x4GvR"
       },
@@ -7435,7 +7435,7 @@
         "title": "Add devtools for json results generation + replace old ones",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/691"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/691#issuecomment-1910533073"
     },
     {
@@ -7503,7 +7503,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5x4W8x",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5x4W8x",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5x4W8x"
       },
@@ -7516,7 +7516,7 @@
         "title": "Tokenizable atom mappers",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/690"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/690#issuecomment-1910599473"
     },
     {
@@ -7887,7 +7887,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5x-zhV",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5x-zhV",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5x-zhV"
       },
@@ -7900,7 +7900,7 @@
         "title": "Renaming and moving some of the protocol settings",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#issuecomment-1912289365"
     },
     {
@@ -7942,7 +7942,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5x_h6h",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5x_h6h",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5x_h6h"
       },
@@ -7955,7 +7955,7 @@
         "title": "Add devtools for json results generation + replace old ones",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/691"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/691#issuecomment-1912479393"
     },
     {
@@ -8189,7 +8189,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5yIfYE",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5yIfYE",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5yIfYE"
       },
@@ -8202,7 +8202,7 @@
         "title": "[DNM] Test settings migrations",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/693"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/693#issuecomment-1914828292"
     },
     {
@@ -8395,7 +8395,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5yNYmq",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5yNYmq",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5yNYmq"
       },
@@ -8408,39 +8408,8 @@
         "title": "[DNM] Test settings migrations",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/693"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/693#issuecomment-1916111274"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Xqg7w",
-      "metadata": {
-        "created_at": "2024-01-30T08:28:21Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-01-30T08:28:21Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5uTF8w",
-        "source_node_id": "PRRC_kwDOGuqVzM5Xqg7w",
-        "thread_node_id": "PRRT_kwDOGuqVzM43frmr",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-30T08:28:21Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5kU-_c",
-        "number": 689,
-        "title": "Renaming and moving some of the protocol settings",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1470762736"
     },
     {
       "credits": [
@@ -8466,6 +8435,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#pullrequestreview-1850498864"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Xqg7w",
+      "metadata": {
+        "created_at": "2024-01-30T08:28:21Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-01-30T08:28:21Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5uTF8w",
+        "source_node_id": "PRRC_kwDOGuqVzM5Xqg7w",
+        "thread_node_id": "PRRT_kwDOGuqVzM43frmr",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-30T08:28:21Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5kU-_c",
+        "number": 689,
+        "title": "Renaming and moving some of the protocol settings",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/689"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/689#discussion_r1470762736"
     },
     {
       "credits": [
@@ -8604,7 +8604,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5XrfiB",
+      "id": "pr_review:PRR_kwDOGuqVzM5uUl-s",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5uUl-s",
+        "state": "CHANGES_REQUESTED",
+        "submitted_at": "2024-01-30T11:48:12Z"
+      },
+      "occurred_at": "2024-01-30T11:48:12Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jdLKb",
+        "number": 681,
+        "title": "Adding LambdaSettings object for AFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#pullrequestreview-1850892204"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5XrfiB",
       "metadata": {
         "created_at": "2024-01-30T11:03:07Z",
         "outdated": true,
@@ -8625,7 +8650,7 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1471019137"
     },
     {
@@ -8635,7 +8660,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5XrgeD",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5XrgeD",
       "metadata": {
         "created_at": "2024-01-30T11:05:40Z",
         "outdated": true,
@@ -8656,7 +8681,7 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1471022979"
     },
     {
@@ -8666,7 +8691,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5XriGv",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5XriGv",
       "metadata": {
         "created_at": "2024-01-30T11:10:29Z",
         "outdated": false,
@@ -8687,7 +8712,7 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1471029679"
     },
     {
@@ -8697,7 +8722,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Xrq5b",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Xrq5b",
       "metadata": {
         "created_at": "2024-01-30T11:41:25Z",
         "outdated": true,
@@ -8718,7 +8743,7 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1471065691"
     },
     {
@@ -8728,7 +8753,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5Xrrjz",
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5Xrrjz",
       "metadata": {
         "created_at": "2024-01-30T11:44:07Z",
         "outdated": true,
@@ -8749,33 +8774,8 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1471068403"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM5uUl-s",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM5uUl-s",
-        "state": "CHANGES_REQUESTED",
-        "submitted_at": "2024-01-30T11:48:12Z"
-      },
-      "occurred_at": "2024-01-30T11:48:12Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jdLKb",
-        "number": 681,
-        "title": "Adding LambdaSettings object for AFE",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#pullrequestreview-1850892204"
     },
     {
       "credits": [
@@ -8807,7 +8807,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOGuqVzM5yP_pa",
+      "id": "pr_discussion_comment:IC_kwDOGuqVzM5yP_pa",
       "metadata": {
         "source_node_id": "IC_kwDOGuqVzM5yP_pa"
       },
@@ -8820,39 +8820,8 @@
         "title": "Solvation settings prep",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/695"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/695#issuecomment-1916795482"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5XsD9b",
-      "metadata": {
-        "created_at": "2024-01-30T13:01:11Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-01-30T13:01:11Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOGuqVzM5uVufs",
-        "source_node_id": "PRRC_kwDOGuqVzM5XsD9b",
-        "thread_node_id": "PRRT_kwDOGuqVzM44Be27",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-01-30T13:01:11Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5lcw1e",
-        "number": 695,
-        "title": "Solvation settings prep",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/695"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/695#discussion_r1471168347"
     },
     {
       "credits": [
@@ -8878,6 +8847,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/695#pullrequestreview-1851189228"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5XsD9b",
+      "metadata": {
+        "created_at": "2024-01-30T13:01:11Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-01-30T13:01:11Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOGuqVzM5uVufs",
+        "source_node_id": "PRRC_kwDOGuqVzM5XsD9b",
+        "thread_node_id": "PRRT_kwDOGuqVzM44Be27",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-01-30T13:01:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjEyNDYwMTI1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5lcw1e",
+        "number": 695,
+        "title": "Solvation settings prep",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/695"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/695#discussion_r1471168347"
     },
     {
       "credits": [
@@ -9047,7 +9047,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOGuqVzM5XsNYC",
+      "id": "pr_review:PRR_kwDOGuqVzM5uWBgR",
+      "metadata": {
+        "source_node_id": "PRR_kwDOGuqVzM5uWBgR",
+        "state": "COMMENTED",
+        "submitted_at": "2024-01-30T13:26:59Z"
+      },
+      "occurred_at": "2024-01-30T13:26:59Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOGuqVzM5jdLKb",
+        "number": 681,
+        "title": "Adding LambdaSettings object for AFE",
+        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#pullrequestreview-1851267089"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOGuqVzM5XsNYC",
       "metadata": {
         "created_at": "2024-01-30T13:26:59Z",
         "outdated": true,
@@ -9068,33 +9093,8 @@
         "title": "Adding LambdaSettings object for AFE",
         "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#discussion_r1471206914"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjQzNzY1NjM4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOGuqVzM5uWBgR",
-      "metadata": {
-        "source_node_id": "PRR_kwDOGuqVzM5uWBgR",
-        "state": "COMMENTED",
-        "submitted_at": "2024-01-30T13:26:59Z"
-      },
-      "occurred_at": "2024-01-30T13:26:59Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjQzNzY1NjM4",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOGuqVzM5jdLKb",
-        "number": 681,
-        "title": "Adding LambdaSettings object for AFE",
-        "url": "https://github.com/OpenFreeEnergy/openfe/pull/681"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/OpenFreeEnergy/openfe/pull/681#pullrequestreview-1851267089"
     },
     {
       "credits": [
@@ -9729,7 +9729,7 @@
       "url": "https://github.com/amin-sagar"
     },
     {
-      "classification": "unresolved_git",
+      "classification": "unlinked_git",
       "database_id": null,
       "display_name": null,
       "git_email": "noreply@github.com",
@@ -9742,7 +9742,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T06:04:25.762902Z",
+      "as_of": "2026-10-20T01:27:33.215442Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -9753,53 +9753,53 @@
       ]
     },
     "default_branch": "main",
-    "default_branch_head": "6495313a58148e30ad92e7f6f601f7222f9547a9",
+    "default_branch_head": "82c7ce04f5fcbeeb8c9349f9832b185254446aed",
+    "is_partial": false,
     "month": "2024-01",
     "month_end": "2024-02-01T00:00:00Z",
     "month_start": "2024-01-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:08:49.596788Z",
+        "finished_at": "2026-10-20T01:32:50.569946Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "eeead485-c0e1-4891-b58c-d4f1585028cd",
-        "started_at": "2026-10-18T06:04:25.762902Z"
+        "run_id": "aeef0710-b1db-4a39-9848-f03e32dc4b44",
+        "started_at": "2026-10-20T01:27:33.215442Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:08:49.596788Z",
+        "finished_at": "2026-10-20T01:32:50.569946Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "eeead485-c0e1-4891-b58c-d4f1585028cd",
-        "started_at": "2026-10-18T06:04:25.762902Z"
+        "run_id": "aeef0710-b1db-4a39-9848-f03e32dc4b44",
+        "started_at": "2026-10-20T01:27:33.215442Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:08:49.596788Z",
+        "finished_at": "2026-10-20T01:32:50.569946Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "eeead485-c0e1-4891-b58c-d4f1585028cd",
-        "started_at": "2026-10-18T06:04:25.762902Z"
+        "run_id": "aeef0710-b1db-4a39-9848-f03e32dc4b44",
+        "started_at": "2026-10-20T01:27:33.215442Z"
       }
     },
     "repository": {
@@ -9809,15 +9809,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:08:49.596788Z",
+        "finished_at": "2026-10-20T01:32:50.569946Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "eeead485-c0e1-4891-b58c-d4f1585028cd",
-        "started_at": "2026-10-18T06:04:25.762902Z"
+        "run_id": "aeef0710-b1db-4a39-9848-f03e32dc4b44",
+        "started_at": "2026-10-20T01:27:33.215442Z"
       },
       "history_start_month": "2022-01",
       "node_id": "R_kgDOGuqVzA",
@@ -9833,11 +9833,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 7,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 7,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjExNzY1OTgy": {
         "commit": 1,
@@ -9845,11 +9845,11 @@
         "issue_comment": 0,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 2,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjEyNDI4MDA1": {
         "commit": 0,
@@ -9857,11 +9857,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjEyNDYwMTI1": {
         "commit": 35,
@@ -9869,11 +9869,11 @@
         "issue_comment": 5,
         "issue_opened": 5,
         "issue_reopened": 0,
-        "pr_conversation_comment": 9,
-        "pr_inline_review_comment": 18,
+        "pr_discussion_comment": 9,
         "pr_merged": 4,
         "pr_opened": 7,
-        "pr_review": 17
+        "pr_review": 17,
+        "pr_review_comment": 18
       },
       "MDQ6VXNlcjI0NzM2NTA3": {
         "commit": 0,
@@ -9881,11 +9881,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 10,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 10,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjQzNzY1NjM4": {
         "commit": 50,
@@ -9893,11 +9893,11 @@
         "issue_comment": 7,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 17,
+        "pr_discussion_comment": 1,
         "pr_merged": 0,
         "pr_opened": 2,
-        "pr_review": 18
+        "pr_review": 18,
+        "pr_review_comment": 17
       },
       "MDQ6VXNlcjcxMzIyNTc=": {
         "commit": 0,
@@ -9905,11 +9905,11 @@
         "issue_comment": 1,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjgxNzg1NDY=": {
         "commit": 1,
@@ -9917,11 +9917,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 2,
-        "pr_inline_review_comment": 10,
+        "pr_discussion_comment": 2,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 3
+        "pr_review": 3,
+        "pr_review_comment": 10
       },
       "MDQ6VXNlcjkyNDk1NDM=": {
         "commit": 11,
@@ -9929,11 +9929,11 @@
         "issue_comment": 10,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 5,
-        "pr_inline_review_comment": 26,
+        "pr_discussion_comment": 5,
         "pr_merged": 5,
         "pr_opened": 3,
-        "pr_review": 31
+        "pr_review": 31,
+        "pr_review_comment": 26
       },
       "U_kgDOBijHpg": {
         "commit": 0,
@@ -9941,11 +9941,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "U_kgDOBxY-6Q": {
         "commit": 0,
@@ -9953,79 +9953,79 @@
         "issue_comment": 1,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       }
     },
     "distinct_actors": {
       "bot": 1,
       "human": 10,
       "total": 11,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 0,
         "human": 5,
         "total": 5,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 6,
         "total": 6,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 4,
         "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 1,
         "human": 5,
         "total": 6,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 4,
-        "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 0,
         "human": 5,
         "total": 5,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 4,
         "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 4,
+        "total": 4,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -10034,11 +10034,11 @@
       "issue_comment": 25,
       "issue_opened": 8,
       "issue_reopened": 0,
-      "pr_conversation_comment": 34,
-      "pr_inline_review_comment": 71,
+      "pr_discussion_comment": 34,
       "pr_merged": 9,
       "pr_opened": 15,
-      "pr_review": 69
+      "pr_review": 69,
+      "pr_review_comment": 71
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -10046,11 +10046,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

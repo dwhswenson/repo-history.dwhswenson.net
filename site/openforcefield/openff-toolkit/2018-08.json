@@ -3,7 +3,7 @@
   "actors": [],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T06:18:49.797655Z",
+      "as_of": "2026-10-20T01:37:15.275657Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -15,52 +15,52 @@
     },
     "default_branch": "main",
     "default_branch_head": "ef074d58a2e7b03625aae7cd3aff87a8ee46c38b",
+    "is_partial": false,
     "month": "2018-08",
     "month_end": "2018-09-01T00:00:00Z",
     "month_start": "2018-08-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       }
     },
     "repository": {
@@ -70,15 +70,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "history_start_month": "2016-06",
       "node_id": "MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==",
@@ -92,68 +92,68 @@
       "bot": 0,
       "human": 0,
       "total": 0,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 0,
-        "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 0,
+        "total": 0,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -162,11 +162,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -174,11 +174,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

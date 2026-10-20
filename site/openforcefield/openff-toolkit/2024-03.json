@@ -490,7 +490,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M52PUKd",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M52PUKd",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M52PUKd"
       },
@@ -503,7 +503,7 @@
         "title": "Move writer/reader formats into base class",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1833"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1833#issuecomment-1983726237"
     },
     {
@@ -536,7 +536,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M52QDuQ",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M52QDuQ",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M52QDuQ"
       },
@@ -549,7 +549,7 @@
         "title": "Add supported charge methods to API",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1834"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#issuecomment-1983921040"
     },
     {
@@ -582,7 +582,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M52YaTF",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M52YaTF",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M52YaTF"
       },
@@ -595,7 +595,7 @@
         "title": "Use RDKit built without stubs",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1835"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1835#issuecomment-1986110661"
     },
     {
@@ -835,7 +835,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M529Pk-",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M529Pk-",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M529Pk-"
       },
@@ -848,7 +848,7 @@
         "title": "Use new-ish NumPy random",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1836"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1836#issuecomment-1995766078"
     },
     {
@@ -881,37 +881,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5a5eRu",
-      "metadata": {
-        "created_at": "2024-03-14T14:49:35Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-14T14:49:35Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M5zc1mO",
-        "source_node_id": "PRRC_kwDOBS3A-M5a5eRu",
-        "thread_node_id": "PRRT_kwDOBS3A-M46EgVa",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-14T14:49:35Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5podkC",
-        "number": 1837,
-        "title": "Decouple vdW and virtual site parameters",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1837"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1837#discussion_r1525015662"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOBS3A-M5zc1mO",
       "metadata": {
         "source_node_id": "PRR_kwDOBS3A-M5zc1mO",
@@ -933,11 +902,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5a5eRu",
+      "metadata": {
+        "created_at": "2024-03-14T14:49:35Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-14T14:49:35Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M5zc1mO",
+        "source_node_id": "PRRC_kwDOBS3A-M5a5eRu",
+        "thread_node_id": "PRRT_kwDOBS3A-M46EgVa",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-14T14:49:35Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5podkC",
+        "number": 1837,
+        "title": "Decouple vdW and virtual site parameters",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1837"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1837#discussion_r1525015662"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDM6Qm90MjI0Mjk2OTU=",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M53EqSV",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M53EqSV",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M53EqSV"
       },
@@ -950,7 +950,7 @@
         "title": "Decouple vdW and virtual site parameters",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1837"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1837#issuecomment-1997710485"
     },
     {
@@ -983,7 +983,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M53cdYE",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M53cdYE",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M53cdYE"
       },
@@ -996,39 +996,8 @@
         "title": "Fix typo in/update workflow",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1838"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#issuecomment-2003949060"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bHSIV",
-      "metadata": {
-        "created_at": "2024-03-18T14:06:50Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-18T14:06:50Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M5z0rgy",
-        "source_node_id": "PRRC_kwDOBS3A-M5bHSIV",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Nezc",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-18T14:06:50Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5p8Wvn",
-        "number": 1838,
-        "title": "Fix typo in/update workflow",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1838"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#discussion_r1528635925"
     },
     {
       "credits": [
@@ -1062,19 +1031,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bHSR0",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bHSIV",
       "metadata": {
-        "created_at": "2024-03-18T14:07:00Z",
+        "created_at": "2024-03-18T14:06:50Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-03-18T14:07:00Z",
+        "published_at": "2024-03-18T14:06:50Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M5z0rtj",
-        "source_node_id": "PRRC_kwDOBS3A-M5bHSR0",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Ne5l",
+        "review_node_id": "PRR_kwDOBS3A-M5z0rgy",
+        "source_node_id": "PRRC_kwDOBS3A-M5bHSIV",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Nezc",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-18T14:07:00Z",
+      "occurred_at": "2024-03-18T14:06:50Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -1083,8 +1052,8 @@
         "title": "Fix typo in/update workflow",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1838"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#discussion_r1528636532"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#discussion_r1528635925"
     },
     {
       "credits": [
@@ -1114,23 +1083,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bIKwH",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bHSR0",
       "metadata": {
-        "created_at": "2024-03-18T16:19:36Z",
+        "created_at": "2024-03-18T14:07:00Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-03-18T16:19:36Z",
+        "published_at": "2024-03-18T14:07:00Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M5z2KmY",
-        "source_node_id": "PRRC_kwDOBS3A-M5bIKwH",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Nezc",
+        "review_node_id": "PRR_kwDOBS3A-M5z0rtj",
+        "source_node_id": "PRRC_kwDOBS3A-M5bHSR0",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Ne5l",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-18T16:19:36Z",
+      "occurred_at": "2024-03-18T14:07:00Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -1139,8 +1108,8 @@
         "title": "Fix typo in/update workflow",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1838"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#discussion_r1528867847"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#discussion_r1528636532"
     },
     {
       "credits": [
@@ -1170,23 +1139,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bINqn",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bIKwH",
       "metadata": {
-        "created_at": "2024-03-18T16:27:37Z",
+        "created_at": "2024-03-18T16:19:36Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-03-18T16:27:37Z",
+        "published_at": "2024-03-18T16:19:36Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M5z2PcQ",
-        "source_node_id": "PRRC_kwDOBS3A-M5bINqn",
+        "review_node_id": "PRR_kwDOBS3A-M5z2KmY",
+        "source_node_id": "PRRC_kwDOBS3A-M5bIKwH",
         "thread_node_id": "PRRT_kwDOBS3A-M46Nezc",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-18T16:27:37Z",
+      "occurred_at": "2024-03-18T16:19:36Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -1195,8 +1164,8 @@
         "title": "Fix typo in/update workflow",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1838"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#discussion_r1528879783"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#discussion_r1528867847"
     },
     {
       "credits": [
@@ -1230,6 +1199,37 @@
           "role": "author"
         }
       ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bINqn",
+      "metadata": {
+        "created_at": "2024-03-18T16:27:37Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-18T16:27:37Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M5z2PcQ",
+        "source_node_id": "PRRC_kwDOBS3A-M5bINqn",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Nezc",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-18T16:27:37Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5p8Wvn",
+        "number": 1838,
+        "title": "Fix typo in/update workflow",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1838"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#discussion_r1528879783"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
       "id": "pr_opened:PR_kwDOBS3A-M5p96vY",
       "metadata": {
         "source_node_id": "PR_kwDOBS3A-M5p96vY"
@@ -1245,37 +1245,6 @@
       },
       "type": "pr_opened",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1839"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bIQrc",
-      "metadata": {
-        "created_at": "2024-03-18T16:35:47Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-18T16:35:47Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M5z2URc",
-        "source_node_id": "PRRC_kwDOBS3A-M5bIQrc",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Nezc",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-18T16:35:47Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5p8Wvn",
-        "number": 1838,
-        "title": "Fix typo in/update workflow",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1838"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#discussion_r1528892124"
     },
     {
       "credits": [
@@ -1301,6 +1270,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#pullrequestreview-1943618652"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bIQrc",
+      "metadata": {
+        "created_at": "2024-03-18T16:35:47Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-18T16:35:47Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M5z2URc",
+        "source_node_id": "PRRC_kwDOBS3A-M5bIQrc",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Nezc",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-18T16:35:47Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5p8Wvn",
+        "number": 1838,
+        "title": "Fix typo in/update workflow",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1838"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#discussion_r1528892124"
     },
     {
       "credits": [
@@ -1334,7 +1334,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M53eSFA",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M53eSFA",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M53eSFA"
       },
@@ -1347,7 +1347,7 @@
         "title": "Fix typo in/update workflow",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1838"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#issuecomment-2004427072"
     },
     {
@@ -1357,7 +1357,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M53eS1d",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M53eS1d",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M53eS1d"
       },
@@ -1370,7 +1370,7 @@
         "title": "Fix typo in/update workflow",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1838"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1838#issuecomment-2004430173"
     },
     {
@@ -1491,7 +1491,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M53qpNg",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M53qpNg",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M53qpNg"
       },
@@ -1504,7 +1504,7 @@
         "title": "Switch from NEP 29 to SPEC 0",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1840"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1840#issuecomment-2007667552"
     },
     {
@@ -1631,7 +1631,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bYZHo",
+      "id": "pr_review:PRR_kwDOBS3A-M50Q1v8",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M50Q1v8",
+        "state": "CHANGES_REQUESTED",
+        "submitted_at": "2024-03-21T01:55:49Z"
+      },
+      "occurred_at": "2024-03-21T01:55:49Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5o_Jm7",
+        "number": 1834,
+        "title": "Add supported charge methods to API",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1834"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#pullrequestreview-1950571516"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bYZHo",
       "metadata": {
         "created_at": "2024-03-21T01:16:10Z",
         "outdated": false,
@@ -1652,7 +1677,7 @@
         "title": "Add supported charge methods to API",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1834"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#discussion_r1533121000"
     },
     {
@@ -1662,7 +1687,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bYd-Q",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bYd-Q",
       "metadata": {
         "created_at": "2024-03-21T01:49:43Z",
         "outdated": false,
@@ -1683,7 +1708,7 @@
         "title": "Add supported charge methods to API",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1834"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#discussion_r1533140880"
     },
     {
@@ -1693,7 +1718,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bYeXp",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bYeXp",
       "metadata": {
         "created_at": "2024-03-21T01:52:46Z",
         "outdated": false,
@@ -1714,7 +1739,7 @@
         "title": "Add supported charge methods to API",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1834"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#discussion_r1533142505"
     },
     {
@@ -1724,7 +1749,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bYefA",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bYefA",
       "metadata": {
         "created_at": "2024-03-21T01:53:47Z",
         "outdated": false,
@@ -1745,33 +1770,8 @@
         "title": "Add supported charge methods to API",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1834"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#discussion_r1533142976"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOBS3A-M50Q1v8",
-      "metadata": {
-        "source_node_id": "PRR_kwDOBS3A-M50Q1v8",
-        "state": "CHANGES_REQUESTED",
-        "submitted_at": "2024-03-21T01:55:49Z"
-      },
-      "occurred_at": "2024-03-21T01:55:49Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5o_Jm7",
-        "number": 1834,
-        "title": "Add supported charge methods to API",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1834"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#pullrequestreview-1950571516"
     },
     {
       "credits": [
@@ -1885,719 +1885,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bY2nG",
-      "metadata": {
-        "created_at": "2024-03-21T04:45:41Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bY2nG",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Yf1-",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533241798"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bY3bZ",
-      "metadata": {
-        "created_at": "2024-03-21T04:50:46Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bY3bZ",
-        "thread_node_id": "PRRT_kwDOBS3A-M46YgXf",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533245145"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bY4CO",
-      "metadata": {
-        "created_at": "2024-03-21T04:55:12Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bY4CO",
-        "thread_node_id": "PRRT_kwDOBS3A-M46YgxN",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533247630"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZD-2",
-      "metadata": {
-        "created_at": "2024-03-21T06:14:31Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZD-2",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Yowv",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533296566"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZEU1",
-      "metadata": {
-        "created_at": "2024-03-21T06:16:44Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZEU1",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Yo_e",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533297973"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZF8D",
-      "metadata": {
-        "created_at": "2024-03-21T06:26:06Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZF8D",
-        "thread_node_id": "PRRT_kwDOBS3A-M46YqDB",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533304579"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZIs7",
-      "metadata": {
-        "created_at": "2024-03-21T06:41:31Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZIs7",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Yr53",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533315899"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZIyN",
-      "metadata": {
-        "created_at": "2024-03-21T06:42:01Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZIyN",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Yr9X",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533316237"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZJYq",
-      "metadata": {
-        "created_at": "2024-03-21T06:45:20Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZJYq",
-        "thread_node_id": "PRRT_kwDOBS3A-M46YsW7",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533318698"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZKWW",
-      "metadata": {
-        "created_at": "2024-03-21T06:50:32Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZKWW",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Ys-1",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533322646"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZKc-",
-      "metadata": {
-        "created_at": "2024-03-21T06:51:01Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZKc-",
-        "thread_node_id": "PRRT_kwDOBS3A-M46YtDY",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533323070"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZc1Y",
-      "metadata": {
-        "created_at": "2024-03-21T08:07:42Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZc1Y",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Y5Ea",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533398360"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZcNi",
-      "metadata": {
-        "created_at": "2024-03-21T08:05:31Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZcNi",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Y4rF",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533395810"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZgl6",
-      "metadata": {
-        "created_at": "2024-03-21T08:20:46Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZgl6",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Y7f2",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533413754"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZkut",
-      "metadata": {
-        "created_at": "2024-03-21T08:34:59Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZkut",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Y-LK",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533430701"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZmtC",
-      "metadata": {
-        "created_at": "2024-03-21T08:41:55Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZmtC",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Y_a3",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533438786"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZnxf",
-      "metadata": {
-        "created_at": "2024-03-21T08:45:24Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZnxf",
-        "thread_node_id": "PRRT_kwDOBS3A-M46ZAHi",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533443167"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZoja",
-      "metadata": {
-        "created_at": "2024-03-21T08:48:00Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZoja",
-        "thread_node_id": "PRRT_kwDOBS3A-M46ZAnl",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533446362"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZp-4",
-      "metadata": {
-        "created_at": "2024-03-21T08:52:05Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZp-4",
-        "thread_node_id": "PRRT_kwDOBS3A-M46ZBey",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533452216"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZq2e",
-      "metadata": {
-        "created_at": "2024-03-21T08:54:54Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZq2e",
-        "thread_node_id": "PRRT_kwDOBS3A-M46ZCCb",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533455774"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZrKg",
-      "metadata": {
-        "created_at": "2024-03-21T08:55:53Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZrKg",
-        "thread_node_id": "PRRT_kwDOBS3A-M46ZCPR",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533457056"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZsQz",
-      "metadata": {
-        "created_at": "2024-03-21T08:59:12Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZsQz",
-        "thread_node_id": "PRRT_kwDOBS3A-M46ZC8c",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533461555"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bZtd-",
-      "metadata": {
-        "created_at": "2024-03-21T09:02:54Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T09:08:30Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
-        "source_node_id": "PRRC_kwDOBS3A-M5bZtd-",
-        "thread_node_id": "PRRT_kwDOBS3A-M46ZDtb",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T09:08:30Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533466494"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOBS3A-M50RhTf",
       "metadata": {
         "source_node_id": "PRR_kwDOBS3A-M50RhTf",
@@ -2619,23 +1906,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bdGv-",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bY2nG",
       "metadata": {
-        "created_at": "2024-03-21T17:38:43Z",
+        "created_at": "2024-03-21T04:45:41Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T17:38:43Z",
+        "published_at": "2024-03-21T09:08:30Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50aA3q",
-        "source_node_id": "PRRC_kwDOBS3A-M5bdGv-",
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bY2nG",
         "thread_node_id": "PRRT_kwDOBS3A-M46Yf1-",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T17:38:43Z",
+      "occurred_at": "2024-03-21T09:08:30Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -2644,8 +1931,690 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534356478"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533241798"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bY3bZ",
+      "metadata": {
+        "created_at": "2024-03-21T04:50:46Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bY3bZ",
+        "thread_node_id": "PRRT_kwDOBS3A-M46YgXf",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533245145"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bY4CO",
+      "metadata": {
+        "created_at": "2024-03-21T04:55:12Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bY4CO",
+        "thread_node_id": "PRRT_kwDOBS3A-M46YgxN",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533247630"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZD-2",
+      "metadata": {
+        "created_at": "2024-03-21T06:14:31Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZD-2",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Yowv",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533296566"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZEU1",
+      "metadata": {
+        "created_at": "2024-03-21T06:16:44Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZEU1",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Yo_e",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533297973"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZF8D",
+      "metadata": {
+        "created_at": "2024-03-21T06:26:06Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZF8D",
+        "thread_node_id": "PRRT_kwDOBS3A-M46YqDB",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533304579"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZIs7",
+      "metadata": {
+        "created_at": "2024-03-21T06:41:31Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZIs7",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Yr53",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533315899"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZIyN",
+      "metadata": {
+        "created_at": "2024-03-21T06:42:01Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZIyN",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Yr9X",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533316237"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZJYq",
+      "metadata": {
+        "created_at": "2024-03-21T06:45:20Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZJYq",
+        "thread_node_id": "PRRT_kwDOBS3A-M46YsW7",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533318698"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZKWW",
+      "metadata": {
+        "created_at": "2024-03-21T06:50:32Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZKWW",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Ys-1",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533322646"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZKc-",
+      "metadata": {
+        "created_at": "2024-03-21T06:51:01Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZKc-",
+        "thread_node_id": "PRRT_kwDOBS3A-M46YtDY",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533323070"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZc1Y",
+      "metadata": {
+        "created_at": "2024-03-21T08:07:42Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZc1Y",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Y5Ea",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533398360"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZcNi",
+      "metadata": {
+        "created_at": "2024-03-21T08:05:31Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZcNi",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Y4rF",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533395810"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZgl6",
+      "metadata": {
+        "created_at": "2024-03-21T08:20:46Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZgl6",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Y7f2",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533413754"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZkut",
+      "metadata": {
+        "created_at": "2024-03-21T08:34:59Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZkut",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Y-LK",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533430701"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZmtC",
+      "metadata": {
+        "created_at": "2024-03-21T08:41:55Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZmtC",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Y_a3",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533438786"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZnxf",
+      "metadata": {
+        "created_at": "2024-03-21T08:45:24Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZnxf",
+        "thread_node_id": "PRRT_kwDOBS3A-M46ZAHi",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533443167"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZoja",
+      "metadata": {
+        "created_at": "2024-03-21T08:48:00Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZoja",
+        "thread_node_id": "PRRT_kwDOBS3A-M46ZAnl",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533446362"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZp-4",
+      "metadata": {
+        "created_at": "2024-03-21T08:52:05Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZp-4",
+        "thread_node_id": "PRRT_kwDOBS3A-M46ZBey",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533452216"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZq2e",
+      "metadata": {
+        "created_at": "2024-03-21T08:54:54Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZq2e",
+        "thread_node_id": "PRRT_kwDOBS3A-M46ZCCb",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533455774"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZrKg",
+      "metadata": {
+        "created_at": "2024-03-21T08:55:53Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZrKg",
+        "thread_node_id": "PRRT_kwDOBS3A-M46ZCPR",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533457056"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZsQz",
+      "metadata": {
+        "created_at": "2024-03-21T08:59:12Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZsQz",
+        "thread_node_id": "PRRT_kwDOBS3A-M46ZC8c",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533461555"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjI4NTkwNzQ4",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bZtd-",
+      "metadata": {
+        "created_at": "2024-03-21T09:02:54Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T09:08:30Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50RhTf",
+        "source_node_id": "PRRC_kwDOBS3A-M5bZtd-",
+        "thread_node_id": "PRRT_kwDOBS3A-M46ZDtb",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T09:08:30Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1533466494"
     },
     {
       "credits": [
@@ -2679,19 +2648,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bdKhB",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bdGv-",
       "metadata": {
-        "created_at": "2024-03-21T17:49:49Z",
-        "outdated": true,
+        "created_at": "2024-03-21T17:38:43Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T17:49:49Z",
+        "published_at": "2024-03-21T17:38:43Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50aJGm",
-        "source_node_id": "PRRC_kwDOBS3A-M5bdKhB",
-        "thread_node_id": "PRRT_kwDOBS3A-M46YgXf",
+        "review_node_id": "PRR_kwDOBS3A-M50aA3q",
+        "source_node_id": "PRRC_kwDOBS3A-M5bdGv-",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Yf1-",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T17:49:49Z",
+      "occurred_at": "2024-03-21T17:38:43Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -2700,8 +2669,8 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534371905"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534356478"
     },
     {
       "credits": [
@@ -2735,19 +2704,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bdMWI",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bdKhB",
       "metadata": {
-        "created_at": "2024-03-21T17:54:03Z",
+        "created_at": "2024-03-21T17:49:49Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T17:54:03Z",
+        "published_at": "2024-03-21T17:49:49Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50aLMI",
-        "source_node_id": "PRRC_kwDOBS3A-M5bdMWI",
-        "thread_node_id": "PRRT_kwDOBS3A-M46YgxN",
+        "review_node_id": "PRR_kwDOBS3A-M50aJGm",
+        "source_node_id": "PRRC_kwDOBS3A-M5bdKhB",
+        "thread_node_id": "PRRT_kwDOBS3A-M46YgXf",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T17:54:03Z",
+      "occurred_at": "2024-03-21T17:49:49Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -2756,8 +2725,8 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534379400"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534371905"
     },
     {
       "credits": [
@@ -2791,19 +2760,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bdN5C",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bdMWI",
       "metadata": {
-        "created_at": "2024-03-21T17:56:45Z",
+        "created_at": "2024-03-21T17:54:03Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T17:56:45Z",
+        "published_at": "2024-03-21T17:54:03Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50aM0Y",
-        "source_node_id": "PRRC_kwDOBS3A-M5bdN5C",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Yowv",
+        "review_node_id": "PRR_kwDOBS3A-M50aLMI",
+        "source_node_id": "PRRC_kwDOBS3A-M5bdMWI",
+        "thread_node_id": "PRRT_kwDOBS3A-M46YgxN",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T17:56:45Z",
+      "occurred_at": "2024-03-21T17:54:03Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -2812,8 +2781,8 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534385730"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534379400"
     },
     {
       "credits": [
@@ -2847,19 +2816,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bdR3g",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bdN5C",
       "metadata": {
-        "created_at": "2024-03-21T18:06:16Z",
+        "created_at": "2024-03-21T17:56:45Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T18:06:16Z",
+        "published_at": "2024-03-21T17:56:45Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50aRsT",
-        "source_node_id": "PRRC_kwDOBS3A-M5bdR3g",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Ys-1",
+        "review_node_id": "PRR_kwDOBS3A-M50aM0Y",
+        "source_node_id": "PRRC_kwDOBS3A-M5bdN5C",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Yowv",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T18:06:16Z",
+      "occurred_at": "2024-03-21T17:56:45Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -2868,8 +2837,8 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534402016"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534385730"
     },
     {
       "credits": [
@@ -2903,19 +2872,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bdSnD",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bdR3g",
       "metadata": {
-        "created_at": "2024-03-21T18:08:20Z",
+        "created_at": "2024-03-21T18:06:16Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T18:08:20Z",
+        "published_at": "2024-03-21T18:06:16Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50aSr8",
-        "source_node_id": "PRRC_kwDOBS3A-M5bdSnD",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Yr53",
+        "review_node_id": "PRR_kwDOBS3A-M50aRsT",
+        "source_node_id": "PRRC_kwDOBS3A-M5bdR3g",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Ys-1",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T18:08:20Z",
+      "occurred_at": "2024-03-21T18:06:16Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -2924,8 +2893,8 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534405059"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534402016"
     },
     {
       "credits": [
@@ -2959,19 +2928,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bdTGp",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bdSnD",
       "metadata": {
-        "created_at": "2024-03-21T18:09:24Z",
+        "created_at": "2024-03-21T18:08:20Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T18:09:24Z",
+        "published_at": "2024-03-21T18:08:20Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50aTR8",
-        "source_node_id": "PRRC_kwDOBS3A-M5bdTGp",
-        "thread_node_id": "PRRT_kwDOBS3A-M46ZAnl",
+        "review_node_id": "PRR_kwDOBS3A-M50aSr8",
+        "source_node_id": "PRRC_kwDOBS3A-M5bdSnD",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Yr53",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T18:09:24Z",
+      "occurred_at": "2024-03-21T18:08:20Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -2980,8 +2949,8 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534407081"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534405059"
     },
     {
       "credits": [
@@ -3015,19 +2984,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bdTse",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bdTGp",
       "metadata": {
-        "created_at": "2024-03-21T18:10:52Z",
-        "outdated": false,
+        "created_at": "2024-03-21T18:09:24Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T18:10:52Z",
+        "published_at": "2024-03-21T18:09:24Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50aUAJ",
-        "source_node_id": "PRRC_kwDOBS3A-M5bdTse",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Y5Ea",
+        "review_node_id": "PRR_kwDOBS3A-M50aTR8",
+        "source_node_id": "PRRC_kwDOBS3A-M5bdTGp",
+        "thread_node_id": "PRRT_kwDOBS3A-M46ZAnl",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T18:10:52Z",
+      "occurred_at": "2024-03-21T18:09:24Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3036,8 +3005,8 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534409502"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534407081"
     },
     {
       "credits": [
@@ -3071,19 +3040,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bdZ1d",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bdTse",
       "metadata": {
-        "created_at": "2024-03-21T18:27:26Z",
+        "created_at": "2024-03-21T18:10:52Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T18:27:26Z",
+        "published_at": "2024-03-21T18:10:52Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50abie",
-        "source_node_id": "PRRC_kwDOBS3A-M5bdZ1d",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Y-LK",
+        "review_node_id": "PRR_kwDOBS3A-M50aUAJ",
+        "source_node_id": "PRRC_kwDOBS3A-M5bdTse",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Y5Ea",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T18:27:26Z",
+      "occurred_at": "2024-03-21T18:10:52Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3092,8 +3061,8 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534434653"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534409502"
     },
     {
       "credits": [
@@ -3127,6 +3096,37 @@
           "role": "author"
         }
       ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bdZ1d",
+      "metadata": {
+        "created_at": "2024-03-21T18:27:26Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T18:27:26Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50abie",
+        "source_node_id": "PRRC_kwDOBS3A-M5bdZ1d",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Y-LK",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T18:27:26Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534434653"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
       "id": "issue_opened:I_kwDOBS3A-M6DLwGg",
       "metadata": {
         "source_node_id": "I_kwDOBS3A-M6DLwGg"
@@ -3142,37 +3142,6 @@
       },
       "type": "issue_opened",
       "url": "https://github.com/openforcefield/openff-toolkit/issues/1843"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bdc3z",
-      "metadata": {
-        "created_at": "2024-03-21T18:35:26Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T18:35:26Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M50afLm",
-        "source_node_id": "PRRC_kwDOBS3A-M5bdc3z",
-        "thread_node_id": "PRRT_kwDOBS3A-M46ZBey",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T18:35:26Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5ieT79",
-        "number": 1798,
-        "title": "Annotate most everything",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534447091"
     },
     {
       "credits": [
@@ -3206,19 +3175,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bdfxz",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bdc3z",
       "metadata": {
-        "created_at": "2024-03-21T18:41:35Z",
+        "created_at": "2024-03-21T18:35:26Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T18:41:35Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50ailE",
-        "source_node_id": "PRRC_kwDOBS3A-M5bdfxz",
-        "thread_node_id": "PRRT_kwDOBS3A-M46ZC8c",
+        "published_at": "2024-03-21T18:35:26Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M50afLm",
+        "source_node_id": "PRRC_kwDOBS3A-M5bdc3z",
+        "thread_node_id": "PRRT_kwDOBS3A-M46ZBey",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T18:41:35Z",
+      "occurred_at": "2024-03-21T18:35:26Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3227,8 +3196,8 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534458995"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534447091"
     },
     {
       "credits": [
@@ -3262,19 +3231,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bdpGg",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bdfxz",
       "metadata": {
-        "created_at": "2024-03-21T19:03:16Z",
-        "outdated": false,
+        "created_at": "2024-03-21T18:41:35Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T19:03:16Z",
+        "published_at": "2024-03-21T18:41:35Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50at2y",
-        "source_node_id": "PRRC_kwDOBS3A-M5bdpGg",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Y4rF",
+        "review_node_id": "PRR_kwDOBS3A-M50ailE",
+        "source_node_id": "PRRC_kwDOBS3A-M5bdfxz",
+        "thread_node_id": "PRRT_kwDOBS3A-M46ZC8c",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T19:03:16Z",
+      "occurred_at": "2024-03-21T18:41:35Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3283,8 +3252,8 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534497184"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534458995"
     },
     {
       "credits": [
@@ -3318,19 +3287,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bd50G",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bdpGg",
       "metadata": {
-        "created_at": "2024-03-21T19:45:01Z",
+        "created_at": "2024-03-21T19:03:16Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T19:45:01Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M50bDFC",
-        "source_node_id": "PRRC_kwDOBS3A-M5bd50G",
-        "thread_node_id": "PRRT_kwDOBS3A-M46Y_a3",
+        "published_at": "2024-03-21T19:03:16Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50at2y",
+        "source_node_id": "PRRC_kwDOBS3A-M5bdpGg",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Y4rF",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T19:45:01Z",
+      "occurred_at": "2024-03-21T19:03:16Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3339,8 +3308,8 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534565638"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534497184"
     },
     {
       "credits": [
@@ -3374,19 +3343,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bd6RB",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bd50G",
       "metadata": {
-        "created_at": "2024-03-21T19:46:33Z",
-        "outdated": true,
+        "created_at": "2024-03-21T19:45:01Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T19:46:33Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOBS3A-M50bDxM",
-        "source_node_id": "PRRC_kwDOBS3A-M5bd6RB",
-        "thread_node_id": "PRRT_kwDOBS3A-M46ZDtb",
+        "published_at": "2024-03-21T19:45:01Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M50bDFC",
+        "source_node_id": "PRRC_kwDOBS3A-M5bd50G",
+        "thread_node_id": "PRRT_kwDOBS3A-M46Y_a3",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T19:46:33Z",
+      "occurred_at": "2024-03-21T19:45:01Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3395,8 +3364,8 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534567489"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534565638"
     },
     {
       "credits": [
@@ -3430,19 +3399,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bd6hc",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bd6RB",
       "metadata": {
-        "created_at": "2024-03-21T19:47:41Z",
-        "outdated": false,
+        "created_at": "2024-03-21T19:46:33Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T19:47:41Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M50bEMl",
-        "source_node_id": "PRRC_kwDOBS3A-M5bd6hc",
-        "thread_node_id": "PRRT_kwDOBS3A-M46YqDB",
+        "published_at": "2024-03-21T19:46:33Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOBS3A-M50bDxM",
+        "source_node_id": "PRRC_kwDOBS3A-M5bd6RB",
+        "thread_node_id": "PRRT_kwDOBS3A-M46ZDtb",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T19:47:41Z",
+      "occurred_at": "2024-03-21T19:46:33Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3451,8 +3420,8 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534568540"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534567489"
     },
     {
       "credits": [
@@ -3486,7 +3455,38 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M54BfHr",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bd6hc",
+      "metadata": {
+        "created_at": "2024-03-21T19:47:41Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T19:47:41Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M50bEMl",
+        "source_node_id": "PRRC_kwDOBS3A-M5bd6hc",
+        "thread_node_id": "PRRT_kwDOBS3A-M46YqDB",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T19:47:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5ieT79",
+        "number": 1798,
+        "title": "Annotate most everything",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#discussion_r1534568540"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M54BfHr",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M54BfHr"
       },
@@ -3499,7 +3499,7 @@
         "title": "Annotate most everything",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1798"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1798#issuecomment-2013655531"
     },
     {
@@ -3593,37 +3593,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5beRja",
-      "metadata": {
-        "created_at": "2024-03-21T20:50:17Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2024-03-21T20:50:17Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M50bm_B",
-        "source_node_id": "PRRC_kwDOBS3A-M5beRja",
-        "thread_node_id": "PRRT_kwDOBS3A-M46YP0t",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2024-03-21T20:50:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5o_Jm7",
-        "number": 1834,
-        "title": "Add supported charge methods to API",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1834"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#discussion_r1534662874"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOBS3A-M50bm_B",
       "metadata": {
         "source_node_id": "PRR_kwDOBS3A-M50bm_B",
@@ -3649,19 +3618,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bedVf",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5beRja",
       "metadata": {
-        "created_at": "2024-03-21T21:32:27Z",
+        "created_at": "2024-03-21T20:50:17Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2024-03-21T21:32:27Z",
+        "published_at": "2024-03-21T20:50:17Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M50b5aA",
-        "source_node_id": "PRRC_kwDOBS3A-M5bedVf",
+        "review_node_id": "PRR_kwDOBS3A-M50bm_B",
+        "source_node_id": "PRRC_kwDOBS3A-M5beRja",
         "thread_node_id": "PRRT_kwDOBS3A-M46YP0t",
         "timestamp_fallback": false
       },
-      "occurred_at": "2024-03-21T21:32:27Z",
+      "occurred_at": "2024-03-21T20:50:17Z",
       "subject": {
         "author_key": "MDQ6VXNlcjc5MzUzODI=",
         "kind": "pull_request",
@@ -3670,8 +3639,8 @@
         "title": "Add supported charge methods to API",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1834"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#discussion_r1534711135"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#discussion_r1534662874"
     },
     {
       "credits": [
@@ -3697,6 +3666,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#pullrequestreview-1953470080"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bedVf",
+      "metadata": {
+        "created_at": "2024-03-21T21:32:27Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2024-03-21T21:32:27Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M50b5aA",
+        "source_node_id": "PRRC_kwDOBS3A-M5bedVf",
+        "thread_node_id": "PRRT_kwDOBS3A-M46YP0t",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2024-03-21T21:32:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5o_Jm7",
+        "number": 1834,
+        "title": "Add supported charge methods to API",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1834"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#discussion_r1534711135"
     },
     {
       "credits": [
@@ -3730,7 +3730,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M5bhw0Y",
+      "id": "pr_review:PRR_kwDOBS3A-M50g-HC",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M50g-HC",
+        "state": "COMMENTED",
+        "submitted_at": "2024-03-22T13:32:56Z"
+      },
+      "occurred_at": "2024-03-22T13:32:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M5o_Jm7",
+        "number": 1834,
+        "title": "Add supported charge methods to API",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/1834"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#pullrequestreview-1954800066"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M5bhw0Y",
       "metadata": {
         "created_at": "2024-03-22T13:32:56Z",
         "outdated": false,
@@ -3751,33 +3776,8 @@
         "title": "Add supported charge methods to API",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1834"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#discussion_r1535577368"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjc5MzUzODI=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOBS3A-M50g-HC",
-      "metadata": {
-        "source_node_id": "PRR_kwDOBS3A-M50g-HC",
-        "state": "COMMENTED",
-        "submitted_at": "2024-03-22T13:32:56Z"
-      },
-      "occurred_at": "2024-03-22T13:32:56Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M5o_Jm7",
-        "number": 1834,
-        "title": "Add supported charge methods to API",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/1834"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/1834#pullrequestreview-1954800066"
     },
     {
       "credits": [
@@ -3888,7 +3888,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M54IzIg",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M54IzIg",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M54IzIg"
       },
@@ -3901,7 +3901,7 @@
         "title": "Remove a Binder link",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1844"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1844#issuecomment-2015572512"
     },
     {
@@ -3934,7 +3934,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M54TVnt",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M54TVnt",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M54TVnt"
       },
@@ -3947,7 +3947,7 @@
         "title": "Update `convert_all_strings_to_quantity` docstring",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1845"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1845#issuecomment-2018335213"
     },
     {
@@ -4003,7 +4003,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M54WYVA",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M54WYVA",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M54WYVA"
       },
@@ -4016,7 +4016,7 @@
         "title": "Resolve #1842 by setting OMP_NUM_THREADS=2 in toolkit showcase",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1846"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1846#issuecomment-2019132736"
     },
     {
@@ -4026,7 +4026,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M54Wl6J",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M54Wl6J",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M54Wl6J"
       },
@@ -4039,7 +4039,7 @@
         "title": "Resolve #1842 by setting OMP_NUM_THREADS=2 in toolkit showcase",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1846"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1846#issuecomment-2019188361"
     },
     {
@@ -4182,7 +4182,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M542EXI",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M542EXI",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M542EXI"
       },
@@ -4195,7 +4195,7 @@
         "title": "Resolve #1842 by setting OMP_NUM_THREADS=2 in toolkit showcase",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1846"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1846#issuecomment-2027439560"
     },
     {
@@ -4205,7 +4205,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M542R-o",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M542R-o",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M542R-o"
       },
@@ -4218,7 +4218,7 @@
         "title": "Resolve #1842 by setting OMP_NUM_THREADS=2 in toolkit showcase",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1846"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1846#issuecomment-2027495336"
     },
     {
@@ -4274,7 +4274,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M543Dja",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M543Dja",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M543Dja"
       },
@@ -4287,7 +4287,7 @@
         "title": "Add \"how are charges assigned?\" section to FAQ",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1849"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1849#issuecomment-2027698394"
     },
     {
@@ -4297,7 +4297,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M543T_k",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M543T_k",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M543T_k"
       },
@@ -4310,7 +4310,7 @@
         "title": "Resolve #1842 by setting OMP_NUM_THREADS=2 in toolkit showcase",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1846"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1846#issuecomment-2027765732"
     },
     {
@@ -4427,7 +4427,7 @@
       "url": "https://github.com/mattwthompson"
     },
     {
-      "classification": "unresolved_git",
+      "classification": "unlinked_git",
       "database_id": null,
       "display_name": null,
       "git_email": "noreply@github.com",
@@ -4440,7 +4440,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T06:18:49.797655Z",
+      "as_of": "2026-10-20T01:37:15.275657Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -4452,52 +4452,52 @@
     },
     "default_branch": "main",
     "default_branch_head": "ef074d58a2e7b03625aae7cd3aff87a8ee46c38b",
+    "is_partial": false,
     "month": "2024-03",
     "month_end": "2024-04-01T00:00:00Z",
     "month_start": "2024-03-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       }
     },
     "repository": {
@@ -4507,15 +4507,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "history_start_month": "2016-06",
       "node_id": "MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==",
@@ -4531,11 +4531,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 11,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 11,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDM6Qm90NDE5OTM5NzQ=": {
         "commit": 0,
@@ -4543,11 +4543,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 1,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjE2MzI5MTc1": {
         "commit": 1,
@@ -4555,11 +4555,11 @@
         "issue_comment": 4,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 4,
-        "pr_inline_review_comment": 5,
+        "pr_discussion_comment": 4,
         "pr_merged": 3,
         "pr_opened": 1,
-        "pr_review": 9
+        "pr_review": 9,
+        "pr_review_comment": 5
       },
       "MDQ6VXNlcjEyNDYwMTI1": {
         "commit": 0,
@@ -4567,11 +4567,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjI4NTkwNzQ4": {
         "commit": 1,
@@ -4579,11 +4579,11 @@
         "issue_comment": 2,
         "issue_opened": 4,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 23,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 1
+        "pr_review": 1,
+        "pr_review_comment": 23
       },
       "MDQ6VXNlcjMxMTE1MTAx": {
         "commit": 0,
@@ -4591,11 +4591,11 @@
         "issue_comment": 2,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjQzNzk3ODY=": {
         "commit": 0,
@@ -4603,11 +4603,11 @@
         "issue_comment": 7,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjc5MzUzODI=": {
         "commit": 8,
@@ -4615,79 +4615,79 @@
         "issue_comment": 6,
         "issue_opened": 5,
         "issue_reopened": 0,
-        "pr_conversation_comment": 2,
-        "pr_inline_review_comment": 23,
+        "pr_discussion_comment": 2,
         "pr_merged": 4,
         "pr_opened": 11,
-        "pr_review": 23
+        "pr_review": 23,
+        "pr_review_comment": 23
       }
     },
     "distinct_actors": {
       "bot": 2,
       "human": 6,
       "total": 8,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 6,
         "total": 6,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 2,
         "human": 2,
         "total": 4,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 3,
-        "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -4696,11 +4696,11 @@
       "issue_comment": 22,
       "issue_opened": 10,
       "issue_reopened": 0,
-      "pr_conversation_comment": 18,
-      "pr_inline_review_comment": 51,
+      "pr_discussion_comment": 18,
       "pr_merged": 7,
       "pr_opened": 12,
-      "pr_review": 33
+      "pr_review": 33,
+      "pr_review_comment": 51
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -4708,11 +4708,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

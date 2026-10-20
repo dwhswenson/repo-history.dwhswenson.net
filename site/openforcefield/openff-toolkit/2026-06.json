@@ -7,7 +7,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABEeIZrA",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABEeIZrA",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABEeIZrA"
       },
@@ -20,7 +20,7 @@
         "title": "Do not use AmberTools in examples",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2186"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2186#issuecomment-4594997676"
     },
     {
@@ -53,7 +53,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABEeP9lw",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABEeP9lw",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABEeP9lw"
       },
@@ -66,7 +66,7 @@
         "title": "Use Pixi to manage examples",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2190"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2190#issuecomment-4595121559"
     },
     {
@@ -231,7 +231,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABExLGQw",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABExLGQw",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABExLGQw"
       },
@@ -244,7 +244,7 @@
         "title": "Bump Mypy",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2181"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2181#issuecomment-4614964803"
     },
     {
@@ -461,7 +461,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M7JOtGy",
+      "id": "pr_review:PRR_kwDOBS3A-M8AAAABCWy3iA",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M8AAAABCWy3iA",
+        "state": "COMMENTED",
+        "submitted_at": "2026-06-08T20:32:27Z"
+      },
+      "occurred_at": "2026-06-08T20:32:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7jS6m3",
+        "number": 2194,
+        "title": "Add support for N-terminal, protonated, disulfide-bonded cysteine",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2194"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2194#pullrequestreview-4453087112"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M7JOtGy",
       "metadata": {
         "created_at": "2026-06-08T20:14:32Z",
         "outdated": false,
@@ -482,33 +507,8 @@
         "title": "Add support for N-terminal, protonated, disulfide-bonded cysteine",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2194"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2194#discussion_r3376075186"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOBS3A-M8AAAABCWy3iA",
-      "metadata": {
-        "source_node_id": "PRR_kwDOBS3A-M8AAAABCWy3iA",
-        "state": "COMMENTED",
-        "submitted_at": "2026-06-08T20:32:27Z"
-      },
-      "occurred_at": "2026-06-08T20:32:27Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc2Nzk5Njc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M7jS6m3",
-        "number": 2194,
-        "title": "Add support for N-terminal, protonated, disulfide-bonded cysteine",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/2194"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/2194#pullrequestreview-4453087112"
     },
     {
       "credits": [
@@ -564,7 +564,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFVun2g",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFVun2g",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFVun2g"
       },
@@ -577,7 +577,7 @@
         "title": "Add support for N-terminal, protonated, disulfide-bonded cysteine",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2194"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2194#issuecomment-4653295578"
     },
     {
@@ -587,7 +587,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFVxwQg",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFVxwQg",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFVxwQg"
       },
@@ -600,39 +600,8 @@
         "title": "Add support for N-terminal, protonated, disulfide-bonded cysteine (branch form of #2194)",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2195"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2195#issuecomment-4653346882"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M7JQ3eT",
-      "metadata": {
-        "created_at": "2026-06-08T22:09:04Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2026-06-08T22:33:46Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M8AAAABCXcfHg",
-        "source_node_id": "PRRC_kwDOBS3A-M7JQ3eT",
-        "thread_node_id": "PRRT_kwDOBS3A-M6H-d4b",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-06-08T22:33:46Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M7kFi48",
-        "number": 2195,
-        "title": "Add support for N-terminal, protonated, disulfide-bonded cysteine (branch form of #2194)",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/2195"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/2195#discussion_r3376641939"
     },
     {
       "credits": [
@@ -658,6 +627,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2195#pullrequestreview-4453768990"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M7JQ3eT",
+      "metadata": {
+        "created_at": "2026-06-08T22:09:04Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2026-06-08T22:33:46Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M8AAAABCXcfHg",
+        "source_node_id": "PRRC_kwDOBS3A-M7JQ3eT",
+        "thread_node_id": "PRRT_kwDOBS3A-M6H-d4b",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-06-08T22:33:46Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjE2MzI5MTc1",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7kFi48",
+        "number": 2195,
+        "title": "Add support for N-terminal, protonated, disulfide-bonded cysteine (branch form of #2194)",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2195"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2195#discussion_r3376641939"
     },
     {
       "credits": [
@@ -969,7 +969,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFnqNQg",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFnqNQg",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFnqNQg"
       },
@@ -982,7 +982,7 @@
         "title": "Test Python 3.14",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2193#issuecomment-4672097602"
     },
     {
@@ -992,7 +992,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFod44Q",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFod44Q",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFod44Q"
       },
@@ -1005,7 +1005,7 @@
         "title": "Test Python 3.14",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2193#issuecomment-4672944353"
     },
     {
@@ -1015,7 +1015,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFosn3Q",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFosn3Q",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFosn3Q"
       },
@@ -1028,7 +1028,7 @@
         "title": "Test Python 3.14",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2193#issuecomment-4673185757"
     },
     {
@@ -1254,7 +1254,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFw4cyw",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFw4cyw",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFw4cyw"
       },
@@ -1267,7 +1267,7 @@
         "title": "Test Python 3.14",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2193#issuecomment-4681768139"
     },
     {
@@ -1277,7 +1277,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFxTSUw",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFxTSUw",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFxTSUw"
       },
@@ -1290,7 +1290,7 @@
         "title": "Test Python 3.14",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2193#issuecomment-4682207827"
     },
     {
@@ -1300,7 +1300,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFxcXCQ",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFxcXCQ",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFxcXCQ"
       },
@@ -1313,7 +1313,7 @@
         "title": "Test Python 3.14",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2193#issuecomment-4682356489"
     },
     {
@@ -1369,7 +1369,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFypj7w",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFypj7w",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFypj7w"
       },
@@ -1382,7 +1382,7 @@
         "title": "Test Python 3.14",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2193#issuecomment-4683621359"
     },
     {
@@ -1392,7 +1392,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFyp2mQ",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFyp2mQ",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFyp2mQ"
       },
@@ -1405,7 +1405,7 @@
         "title": "Test Python 3.14",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2193#issuecomment-4683626137"
     },
     {
@@ -1415,7 +1415,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFzAi8g",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFzAi8g",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFzAi8g"
       },
@@ -1428,7 +1428,7 @@
         "title": "Test Python 3.14",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2193#issuecomment-4683997938"
     },
     {
@@ -1438,7 +1438,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFzBWoQ",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFzBWoQ",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFzBWoQ"
       },
@@ -1451,7 +1451,7 @@
         "title": "Test Python 3.14",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2193#issuecomment-4684011169"
     },
     {
@@ -1507,7 +1507,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFz2Rew",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFz2Rew",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFz2Rew"
       },
@@ -1520,7 +1520,7 @@
         "title": "Test Python 3.14",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2193#issuecomment-4684878203"
     },
     {
@@ -1530,7 +1530,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABFz35xw",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABFz35xw",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABFz35xw"
       },
@@ -1543,7 +1543,7 @@
         "title": "Test Python 3.14",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2193#issuecomment-4684904903"
     },
     {
@@ -1553,7 +1553,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABF0jH5Q",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABF0jH5Q",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABF0jH5Q"
       },
@@ -1566,7 +1566,7 @@
         "title": "Test Python 3.14",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2193#issuecomment-4685613029"
     },
     {
@@ -1701,7 +1701,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABF8tw5g",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABF8tw5g",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABF8tw5g"
       },
@@ -1714,7 +1714,7 @@
         "title": "[DNM] Allow \"experimental-auto\" idivf",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1823"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1823#issuecomment-4694175974"
     },
     {
@@ -1747,7 +1747,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABF8vbAA",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABF8vbAA",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABF8vbAA"
       },
@@ -1760,39 +1760,8 @@
         "title": "Un-down-pin numpy in testing envs",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2199"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2199#issuecomment-4694203136"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M7K_Gxu",
-      "metadata": {
-        "created_at": "2026-06-12T18:44:24Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2026-06-12T18:45:22Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOBS3A-M8AAAABC4Ydaw",
-        "source_node_id": "PRRC_kwDOBS3A-M7K_Gxu",
-        "thread_node_id": "PRRT_kwDOBS3A-M6JOJ07",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2026-06-12T18:45:22Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M7F-iJa",
-        "number": 2156,
-        "title": "Fix `ForceField.label_molecules` docstring",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/2156"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/2156#discussion_r3405540462"
     },
     {
       "credits": [
@@ -1818,6 +1787,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2156#pullrequestreview-4488306027"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M7K_Gxu",
+      "metadata": {
+        "created_at": "2026-06-12T18:44:24Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2026-06-12T18:45:22Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOBS3A-M8AAAABC4Ydaw",
+        "source_node_id": "PRRC_kwDOBS3A-M7K_Gxu",
+        "thread_node_id": "PRRT_kwDOBS3A-M6JOJ07",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2026-06-12T18:45:22Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7F-iJa",
+        "number": 2156,
+        "title": "Fix `ForceField.label_molecules` docstring",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2156"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2156#discussion_r3405540462"
     },
     {
       "credits": [
@@ -1849,7 +1849,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M7K_SsI",
+      "id": "pr_review:PRR_kwDOBS3A-M8AAAABC4b_HA",
+      "metadata": {
+        "source_node_id": "PRR_kwDOBS3A-M8AAAABC4b_HA",
+        "state": "APPROVED",
+        "submitted_at": "2026-06-12T19:20:45Z"
+      },
+      "occurred_at": "2026-06-12T19:20:45Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjc5MzUzODI=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOBS3A-M7QldPv",
+        "number": 2170,
+        "title": "Fix pytest config, warnings",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/2170"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/2170#pullrequestreview-4488363804"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M7K_SsI",
       "metadata": {
         "created_at": "2026-06-12T18:54:12Z",
         "outdated": false,
@@ -1870,7 +1895,7 @@
         "title": "Fix pytest config, warnings",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2170"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2170#discussion_r3405589256"
     },
     {
@@ -1880,7 +1905,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M7K_Wm0",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M7K_Wm0",
       "metadata": {
         "created_at": "2026-06-12T18:57:09Z",
         "outdated": true,
@@ -1901,7 +1926,7 @@
         "title": "Fix pytest config, warnings",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2170"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2170#discussion_r3405605300"
     },
     {
@@ -1911,7 +1936,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOBS3A-M7K_b9f",
+      "id": "pr_review_comment:PRRC_kwDOBS3A-M7K_b9f",
       "metadata": {
         "created_at": "2026-06-12T19:01:26Z",
         "outdated": false,
@@ -1932,33 +1957,8 @@
         "title": "Fix pytest config, warnings",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2170"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2170#discussion_r3405627231"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjE2MzI5MTc1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:PRR_kwDOBS3A-M8AAAABC4b_HA",
-      "metadata": {
-        "source_node_id": "PRR_kwDOBS3A-M8AAAABC4b_HA",
-        "state": "APPROVED",
-        "submitted_at": "2026-06-12T19:20:45Z"
-      },
-      "occurred_at": "2026-06-12T19:20:45Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjc5MzUzODI=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOBS3A-M7QldPv",
-        "number": 2170,
-        "title": "Fix pytest config, warnings",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/2170"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/2170#pullrequestreview-4488363804"
     },
     {
       "credits": [
@@ -2038,7 +2038,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABF-B6qw",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABF-B6qw",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABF-B6qw"
       },
@@ -2051,7 +2051,7 @@
         "title": "Fix pytest config, warnings",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2170"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2170#issuecomment-4695554731"
     },
     {
@@ -2317,7 +2317,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABGLM7lg",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABGLM7lg",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABGLM7lg"
       },
@@ -2330,7 +2330,7 @@
         "title": "Switch to `setuptools-scm`",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2201"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2201#issuecomment-4709366678"
     },
     {
@@ -2411,7 +2411,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABGO6hGg",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABGO6hGg",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABGO6hGg"
       },
@@ -2424,7 +2424,7 @@
         "title": "Add AshGC to `Molecule.assign_partial_charges` docstring",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2185"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2185#issuecomment-4713259290"
     },
     {
@@ -2539,7 +2539,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABGZd4Bg",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABGZd4Bg",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABGZd4Bg"
       },
@@ -2552,7 +2552,7 @@
         "title": "Switch to `setuptools-scm`",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2201"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2201#issuecomment-4724324358"
     },
     {
@@ -2641,7 +2641,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABGr4hkQ",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABGr4hkQ",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABGr4hkQ"
       },
@@ -2654,7 +2654,7 @@
         "title": "Update examples dependencies",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2203"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2203#issuecomment-4743635345"
     },
     {
@@ -2814,7 +2814,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABG1tSlg",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABG1tSlg",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABG1tSlg"
       },
@@ -2827,7 +2827,7 @@
         "title": "Fall back through toolkits for InChI conversion methods",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2202"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2202#issuecomment-4753937046"
     },
     {
@@ -3045,7 +3045,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOBS3A-M8AAAABIL0YyA",
+      "id": "pr_discussion_comment:IC_kwDOBS3A-M8AAAABIL0YyA",
       "metadata": {
         "source_node_id": "IC_kwDOBS3A-M8AAAABIL0YyA"
       },
@@ -3058,7 +3058,7 @@
         "title": "Add code of conduct",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/2210"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/2210#issuecomment-4844230856"
     }
   ],
@@ -3229,7 +3229,7 @@
       "url": "https://github.com/mattwthompson"
     },
     {
-      "classification": "unresolved_git",
+      "classification": "unlinked_git",
       "database_id": null,
       "display_name": null,
       "git_email": "noreply@github.com",
@@ -3242,7 +3242,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T06:18:49.797655Z",
+      "as_of": "2026-10-20T01:37:15.275657Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -3254,52 +3254,52 @@
     },
     "default_branch": "main",
     "default_branch_head": "ef074d58a2e7b03625aae7cd3aff87a8ee46c38b",
+    "is_partial": false,
     "month": "2026-06",
     "month_end": "2026-07-01T00:00:00Z",
     "month_start": "2026-06-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       }
     },
     "repository": {
@@ -3309,15 +3309,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "history_start_month": "2016-06",
       "node_id": "MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==",
@@ -3333,11 +3333,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDM6Qm90MjI0Mjk2OTU=": {
         "commit": 0,
@@ -3345,11 +3345,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 5,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 5,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDM6Qm90NDE5OTM5NzQ=": {
         "commit": 0,
@@ -3357,11 +3357,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 3,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 3,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDM6Qm90NDk2OTkzMzM=": {
         "commit": 2,
@@ -3369,11 +3369,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 2,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDM6Qm90NjY4NTMxMTM=": {
         "commit": 1,
@@ -3381,11 +3381,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjE0MDIyMzIw": {
         "commit": 0,
@@ -3393,11 +3393,11 @@
         "issue_comment": 1,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjE2MTY2MDI=": {
         "commit": 0,
@@ -3405,11 +3405,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjE2MzI5MTc1": {
         "commit": 5,
@@ -3417,11 +3417,11 @@
         "issue_comment": 15,
         "issue_opened": 2,
         "issue_reopened": 0,
-        "pr_conversation_comment": 4,
-        "pr_inline_review_comment": 6,
+        "pr_discussion_comment": 4,
         "pr_merged": 4,
         "pr_opened": 2,
-        "pr_review": 5
+        "pr_review": 5,
+        "pr_review_comment": 6
       },
       "MDQ6VXNlcjExNzY1OTgy": {
         "commit": 0,
@@ -3429,11 +3429,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 6,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 6,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjEzMDI5ODM5": {
         "commit": 0,
@@ -3441,11 +3441,11 @@
         "issue_comment": 3,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjIzOTc5NzQ=": {
         "commit": 0,
@@ -3453,11 +3453,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjMwNjA5Njk2": {
         "commit": 0,
@@ -3465,11 +3465,11 @@
         "issue_comment": 0,
         "issue_opened": 2,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjMzNTU4NDM=": {
         "commit": 0,
@@ -3477,11 +3477,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 2,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjc2Nzk5Njc1": {
         "commit": 1,
@@ -3489,11 +3489,11 @@
         "issue_comment": 2,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 1,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjc5MzUzODI=": {
         "commit": 3,
@@ -3501,79 +3501,79 @@
         "issue_comment": 11,
         "issue_opened": 3,
         "issue_reopened": 0,
-        "pr_conversation_comment": 8,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 8,
         "pr_merged": 5,
         "pr_opened": 3,
-        "pr_review": 4
+        "pr_review": 4,
+        "pr_review_comment": 0
       }
     },
     "distinct_actors": {
       "bot": 5,
       "human": 10,
       "total": 15,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 3,
         "human": 3,
         "total": 6,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 7,
         "total": 7,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 5,
         "total": 5,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 2,
         "human": 4,
         "total": 6,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 1,
-        "total": 1,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 1,
         "human": 6,
         "total": 7,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 2,
         "total": 2,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 1,
+        "total": 1,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -3582,11 +3582,11 @@
       "issue_comment": 34,
       "issue_opened": 9,
       "issue_reopened": 0,
-      "pr_conversation_comment": 27,
-      "pr_inline_review_comment": 6,
+      "pr_discussion_comment": 27,
       "pr_merged": 9,
       "pr_opened": 12,
-      "pr_review": 9
+      "pr_review": 9,
+      "pr_review_comment": 6
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -3594,11 +3594,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

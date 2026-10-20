@@ -48,24 +48,24 @@ def refresh_index(site: Path = SITE, config: Path = CONFIG) -> Path:
     original = index.read_text(encoding="utf-8")
 
     repositories = []
-    for manifest in site.glob("*/*/manifest.json"):
-        if manifest.relative_to(site).parts[0] == "combos":
+    for summary in site.glob("*/*/summary.json"):
+        if summary.relative_to(site).parts[0] == "combos":
             continue
-        if not (manifest.parent / "index.html").is_file():
+        if not (summary.parent / "index.html").is_file():
             continue
-        data = json.loads(manifest.read_text(encoding="utf-8"))
+        data = json.loads(summary.read_text(encoding="utf-8"))
         name = (
             data["display_name"]
             if "display_name" in data
             else data["repository"]["full_name"]
         )
-        path = manifest.parent.relative_to(site).as_posix()
+        path = summary.parent.relative_to(site).as_posix()
         repositories.append((name, f"./{quote(path, safe='/')}/"))
 
     combinations = []
     for combo in combos:
         directory = site / "combos" / combo.slug
-        if all((directory / name).is_file() for name in ("manifest.json", "index.html")):
+        if all((directory / name).is_file() for name in ("summary.json", "index.html")):
             combinations.append((combo.index_display, f"./combos/{combo.slug}/"))
     updated = replace_section(
         original, START, END,

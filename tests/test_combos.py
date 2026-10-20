@@ -66,6 +66,43 @@ class ComboConfigTests(unittest.TestCase):
                 self.load(text)
 
 
+class AddRepoTests(unittest.TestCase):
+    def test_collect_then_summarize_uses_default_summary_output(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            site = Path(temporary)
+            directory = site / "owner/repo"
+            with patch.object(add_repo, "SITE", site), \
+                 patch.object(add_repo.subprocess, "run") as command, \
+                 patch.object(add_repo, "write_social_card") as card, \
+                 patch.object(add_repo, "refresh_index") as refresh:
+                self.assertEqual(add_repo.main(["owner/repo"]), 0)
+            self.assertEqual(command.call_count, 2)
+            self.assertEqual(command.call_args_list[0].args[0], [
+                sys.executable, "-m", "repo_history", "collect", "owner/repo",
+                "--output-directory", str(directory),
+            ])
+            self.assertEqual(command.call_args_list[1].args[0], [
+                sys.executable, "-m", "repo_history", "summarize",
+                "--input-directory", str(directory),
+            ])
+            self.assertTrue(all(call.kwargs == {"check": True} for call in command.call_args_list))
+            card.assert_called_once_with("owner/repo", directory)
+            refresh.assert_called_once_with(site)
+            self.assertIn('summary="./summary.json"', (directory / "index.html").read_text())
+
+    def test_failed_collection_stops_before_summarization_and_presentation(self):
+        with tempfile.TemporaryDirectory() as temporary, \
+             patch.object(add_repo, "SITE", Path(temporary)), \
+             patch.object(add_repo.subprocess, "run", side_effect=subprocess.CalledProcessError(2, [])) as command, \
+             patch.object(add_repo, "write_social_card") as card, \
+             patch.object(add_repo, "refresh_index") as refresh:
+            self.assertEqual(add_repo.main(["owner/repo"]), 2)
+            command.assert_called_once()
+            card.assert_not_called()
+            refresh.assert_not_called()
+            self.assertFalse((Path(temporary) / "owner/repo/index.html").exists())
+
+
 class RefreshCombosTests(unittest.TestCase):
     def setUp(self):
         temporary = tempfile.TemporaryDirectory()
@@ -80,7 +117,7 @@ class RefreshCombosTests(unittest.TestCase):
         for repo in ("first/one", "second/two"):
             directory = self.site / repo
             directory.mkdir(parents=True)
-            (directory / "manifest.json").write_text("{}")
+            (directory / "summary.json").write_text("{}")
             (directory / "index.html").write_text("repository")
         self.output = self.site / "combos/across-orgs"
 
@@ -88,14 +125,14 @@ class RefreshCombosTests(unittest.TestCase):
         def combine(command, *, check):
             self.assertTrue(check)
             self.assertEqual(command, [
-                sys.executable, "-m", "repo_history", "combine-manifests",
-                str(self.site / "first/one/manifest.json"),
-                str(self.site / "second/two/manifest.json"),
-                "--output", str(self.output / "manifest.json"),
+                sys.executable, "-m", "repo_history", "combine",
+                str(self.site / "first/one/summary.json"),
+                str(self.site / "second/two/summary.json"),
+                "--output", str(self.output / "summary.json"),
                 "--display-name", "Across orgs",
             ])
             self.output.mkdir(parents=True)
-            (self.output / "manifest.json").write_text("{}")
+            (self.output / "summary.json").write_text("{}")
 
         with patch.object(script.subprocess, "run", side_effect=combine), \
              patch.object(script, "write_social_card") as card, \
@@ -119,8 +156,8 @@ class RefreshCombosTests(unittest.TestCase):
         command.assert_not_called()
         self.assertFalse(self.output.exists())
 
-    def test_missing_page_or_manifest_is_an_error(self):
-        for filename in ("index.html", "manifest.json"):
+    def test_missing_page_or_summary_is_an_error(self):
+        for filename in ("index.html", "summary.json"):
             path = self.site / "first/one" / filename
             original = path.read_text()
             path.unlink()
@@ -135,7 +172,7 @@ class RefreshCombosTests(unittest.TestCase):
         self.output.mkdir(parents=True)
         index = self.output / "index.html"
         index.write_text("previous page")
-        error = subprocess.CalledProcessError(2, ["combine-manifests"])
+        error = subprocess.CalledProcessError(2, ["combine"])
         with patch.object(script.subprocess, "run", side_effect=error), \
              patch.object(script, "write_social_card") as card, \
              patch.object(script, "refresh_index") as refresh:
@@ -160,7 +197,8 @@ class ReportPresentationTests(unittest.TestCase):
         self.assertIn("<title>Tools &amp; &quot;friends&quot; · Repository history</title>", output)
         self.assertIn('href="https://repo-history.dwhswenson.net/combos/tools-friends/"', output)
         self.assertIn('content="Tools &amp; &quot;friends&quot; · Repository history"', output)
-        self.assertIn('manifest="./manifest.json"', output)
+        self.assertIn('summary="./summary.json"', output)
+        self.assertIn('metrics="commits github-activities total-contributors"', output)
         self.assertIn('src="/assets/repo-history-viz.mjs"', output)
 
     def test_individual_repository_page_still_uses_repository_url(self):
@@ -168,18 +206,47 @@ class ReportPresentationTests(unittest.TestCase):
         self.assertIn("<title>owner/repo · Repository history</title>", output)
         self.assertIn("https://repo-history.dwhswenson.net/owner/repo/", output)
 
-    def test_refresh_uses_manifest_title_and_preserves_page_body(self):
+    def test_social_card_filters_and_partial_month(self):
+        summary = {
+            "actors": {"human": "human", "git": "unlinked_git", "bot": "bot"},
+            "months": [{
+                "metadata": {"month": "2024-01", "is_partial": True},
+                "summaries": {
+                    "repository_counts": {"commit": 10},
+                    "actor_counts": {
+                        "human": {"commit": 3, "pr_discussion_comment": 2},
+                        "git": {"commit": 2, "pr_review_comment": 1},
+                        "bot": {"commit": 5, "issue": 100},
+                    },
+                    "unattributed_by_type": {"commit": 20, "issue": 4},
+                },
+            }],
+        }
+        # Contributors are deduplicated across months; bots and commits do not
+        # increase the GitHub activity total, while unattributed activity does.
+        self.assertEqual(social_cards.contribution_totals(summary), (7, 2))
+        summary["months"].append(summary["months"][0])
+        self.assertEqual(social_cards.contribution_totals(summary), (14, 2))
+        summary["months"].pop()
+        with tempfile.TemporaryDirectory() as temporary:
+            directory = Path(temporary)
+            (directory / "summary.json").write_text(json.dumps(summary))
+            with patch.object(social_cards.ImageDraw.ImageDraw, "text", autospec=True) as draw_text:
+                social_cards.write_social_card("owner/repo", directory)
+            self.assertIn("Latest month is partial", [call.args[2] for call in draw_text.call_args_list])
+
+    def test_refresh_uses_summary_title_and_preserves_page_body(self):
         with tempfile.TemporaryDirectory() as temporary:
             site = Path(temporary)
             directory = site / "combos/tools-friends"
             directory.mkdir(parents=True)
-            # Small synthetic manifest exercises real multi-repository card rendering.
-            manifest = {
+            # Small synthetic summary exercises real multi-repository card rendering.
+            summary = {
                 "display_name": "Tools & friends",
                 "repositories": [{"full_name": "one/repo"}, {"full_name": "two/repo"}],
                 "actors": {"shared": "human"},
                 "months": [{
-                    "metadata": {"month": "2024-01", "ongoing": False},
+                    "metadata": {"month": "2024-01", "is_partial": False},
                     "summaries": {
                         "repository_counts": {"commit": 5},
                         "actor_counts": {"shared": {"commit": 5, "issue": 2}},
@@ -187,7 +254,7 @@ class ReportPresentationTests(unittest.TestCase):
                     },
                 }],
             }
-            (directory / "manifest.json").write_text(json.dumps(manifest))
+            (directory / "summary.json").write_text(json.dumps(summary))
             index = directory / "index.html"
             index.write_text(page("Tools & friends", "combos/tools-friends"))
             body = index.read_text().split("  <body>")[1]
@@ -196,7 +263,7 @@ class ReportPresentationTests(unittest.TestCase):
             drawn = [call.args[2] for call in draw_text.call_args_list]
             self.assertIn("Tools & friends", drawn)
             self.assertIn("COMBINED REPOSITORIES", drawn)
-            self.assertIn("3 GitHub activities  /  1 total contributors", drawn)
+            self.assertIn("3 GitHub activity  /  1 total contributors", drawn)
             with Image.open(directory / "social-card.png") as card:
                 self.assertEqual(card.size, (1200, 630))
             output = index.read_text()

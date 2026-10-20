@@ -53,7 +53,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM5dxnUE",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM5dxnUE",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM5dxnUE"
       },
@@ -66,7 +66,7 @@
         "title": "Gufetok annotations",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/197"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/197#issuecomment-1573287172"
     },
     {
@@ -122,7 +122,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM5dx--A",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM5dx--A",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM5dx--A"
       },
@@ -135,70 +135,8 @@
         "title": "nontetrahedral SmallMoleculeComponent",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/202"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/202#issuecomment-1573384064"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5IXhkg",
-      "metadata": {
-        "created_at": "2023-06-02T09:11:27Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2023-06-02T09:11:56Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5W14Y_",
-        "source_node_id": "PRRC_kwDOHD_0tM5IXhkg",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uRsWm",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2023-06-02T09:11:56Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5R07QN",
-        "number": 200,
-        "title": "Docs: Overview of gufe",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/200"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/200#discussion_r1214126368"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5IXhrH",
-      "metadata": {
-        "created_at": "2023-06-02T09:11:52Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2023-06-02T09:11:56Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5W14Y_",
-        "source_node_id": "PRRC_kwDOHD_0tM5IXhrH",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uRsal",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2023-06-02T09:11:56Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5R07QN",
-        "number": 200,
-        "title": "Docs: Overview of gufe",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/200"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/200#discussion_r1214126791"
     },
     {
       "credits": [
@@ -224,6 +162,68 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/200#pullrequestreview-1456965183"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5IXhkg",
+      "metadata": {
+        "created_at": "2023-06-02T09:11:27Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2023-06-02T09:11:56Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM5W14Y_",
+        "source_node_id": "PRRC_kwDOHD_0tM5IXhkg",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uRsWm",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-06-02T09:11:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5R07QN",
+        "number": 200,
+        "title": "Docs: Overview of gufe",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/200"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/200#discussion_r1214126368"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5IXhrH",
+      "metadata": {
+        "created_at": "2023-06-02T09:11:52Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2023-06-02T09:11:56Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM5W14Y_",
+        "source_node_id": "PRRC_kwDOHD_0tM5IXhrH",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uRsal",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-06-02T09:11:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5R07QN",
+        "number": 200,
+        "title": "Docs: Overview of gufe",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/200"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/200#discussion_r1214126791"
     },
     {
       "credits": [
@@ -278,7 +278,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM5d0i-_",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM5d0i-_",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM5d0i-_"
       },
@@ -291,7 +291,7 @@
         "title": "PathLike wrapper/cache for ExternalStorage",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#issuecomment-1574055871"
     },
     {
@@ -301,7 +301,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM5eJ-3E",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM5eJ-3E",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM5eJ-3E"
       },
@@ -314,7 +314,7 @@
         "title": "PathLike wrapper/cache for ExternalStorage",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#issuecomment-1579675076"
     },
     {
@@ -441,7 +441,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM5eV14r",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM5eV14r",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM5eV14r"
       },
@@ -454,39 +454,8 @@
         "title": "Issue 192 execute dag restarts",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/203"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#issuecomment-1582784043"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5I6Peu",
-      "metadata": {
-        "created_at": "2023-06-08T15:39:14Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2023-06-08T15:39:28Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM5Xoh-G",
-        "source_node_id": "PRRC_kwDOHD_0tM5I6Peu",
-        "thread_node_id": "PRRT_kwDOHD_0tM4unwPt",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2023-06-08T15:39:28Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5Sh-qP",
-        "number": 203,
-        "title": "Issue 192 execute dag restarts",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/203"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1223227310"
     },
     {
       "credits": [
@@ -516,23 +485,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5I6VvU",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5I6Peu",
       "metadata": {
-        "created_at": "2023-06-08T15:58:19Z",
+        "created_at": "2023-06-08T15:39:14Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2023-06-08T15:58:19Z",
+        "published_at": "2023-06-08T15:39:28Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM5XosmB",
-        "source_node_id": "PRRC_kwDOHD_0tM5I6VvU",
+        "review_node_id": "PRR_kwDOHD_0tM5Xoh-G",
+        "source_node_id": "PRRC_kwDOHD_0tM5I6Peu",
         "thread_node_id": "PRRT_kwDOHD_0tM4unwPt",
         "timestamp_fallback": false
       },
-      "occurred_at": "2023-06-08T15:58:19Z",
+      "occurred_at": "2023-06-08T15:39:28Z",
       "subject": {
         "author_key": "MDQ6VXNlcjkyNDk1NDM=",
         "kind": "pull_request",
@@ -541,8 +510,8 @@
         "title": "Issue 192 execute dag restarts",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/203"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1223252948"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1223227310"
     },
     {
       "credits": [
@@ -572,23 +541,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5I6WeE",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5I6VvU",
       "metadata": {
-        "created_at": "2023-06-08T15:59:56Z",
+        "created_at": "2023-06-08T15:58:19Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2023-06-08T15:59:56Z",
+        "published_at": "2023-06-08T15:58:19Z",
         "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM5XouDq",
-        "source_node_id": "PRRC_kwDOHD_0tM5I6WeE",
+        "review_node_id": "PRR_kwDOHD_0tM5XosmB",
+        "source_node_id": "PRRC_kwDOHD_0tM5I6VvU",
         "thread_node_id": "PRRT_kwDOHD_0tM4unwPt",
         "timestamp_fallback": false
       },
-      "occurred_at": "2023-06-08T15:59:56Z",
+      "occurred_at": "2023-06-08T15:58:19Z",
       "subject": {
         "author_key": "MDQ6VXNlcjkyNDk1NDM=",
         "kind": "pull_request",
@@ -597,8 +566,8 @@
         "title": "Issue 192 execute dag restarts",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/203"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1223255940"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1223252948"
     },
     {
       "credits": [
@@ -624,6 +593,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#pullrequestreview-1470292202"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5I6WeE",
+      "metadata": {
+        "created_at": "2023-06-08T15:59:56Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2023-06-08T15:59:56Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM5XouDq",
+        "source_node_id": "PRRC_kwDOHD_0tM5I6WeE",
+        "thread_node_id": "PRRT_kwDOHD_0tM4unwPt",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-06-08T15:59:56Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5Sh-qP",
+        "number": 203,
+        "title": "Issue 192 execute dag restarts",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/203"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1223255940"
     },
     {
       "credits": [
@@ -655,7 +655,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM5eXsYf",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM5eXsYf",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM5eXsYf"
       },
@@ -668,39 +668,8 @@
         "title": "LigandNetwork.to_*_alchemical_network",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/204"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/204#issuecomment-1583269407"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5I-cSO",
-      "metadata": {
-        "created_at": "2023-06-09T13:41:22Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2023-06-09T13:44:00Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM5Xvrlc",
-        "source_node_id": "PRRC_kwDOHD_0tM5I-cSO",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uqYEt",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2023-06-09T13:44:00Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5SjgjO",
-        "number": 204,
-        "title": "LigandNetwork.to_*_alchemical_network",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/204"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/204#discussion_r1224328334"
     },
     {
       "credits": [
@@ -726,6 +695,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/204#pullrequestreview-1472117084"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5I-cSO",
+      "metadata": {
+        "created_at": "2023-06-09T13:41:22Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2023-06-09T13:44:00Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM5Xvrlc",
+        "source_node_id": "PRRC_kwDOHD_0tM5I-cSO",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uqYEt",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-06-09T13:44:00Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5SjgjO",
+        "number": 204,
+        "title": "LigandNetwork.to_*_alchemical_network",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/204"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/204#discussion_r1224328334"
     },
     {
       "credits": [
@@ -790,37 +790,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5I-2Yw",
-      "metadata": {
-        "created_at": "2023-06-09T15:09:49Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2023-06-09T15:09:49Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM5Xwr20",
-        "source_node_id": "PRRC_kwDOHD_0tM5I-2Yw",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uqYEt",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2023-06-09T15:09:49Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5SjgjO",
-        "number": 204,
-        "title": "LigandNetwork.to_*_alchemical_network",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/204"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/204#discussion_r1224435248"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOHD_0tM5Xwr20",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM5Xwr20",
@@ -842,64 +811,33 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5I--My",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5I-2Yw",
       "metadata": {
-        "created_at": "2023-06-09T15:39:15Z",
+        "created_at": "2023-06-09T15:09:49Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2023-06-09T15:39:27Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5XworT",
-        "source_node_id": "PRRC_kwDOHD_0tM5I--My",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uqs6Q",
+        "published_at": "2023-06-09T15:09:49Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM5Xwr20",
+        "source_node_id": "PRRC_kwDOHD_0tM5I-2Yw",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uqYEt",
         "timestamp_fallback": false
       },
-      "occurred_at": "2023-06-09T15:39:27Z",
+      "occurred_at": "2023-06-09T15:09:49Z",
       "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
         "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5Sh-qP",
-        "number": 203,
-        "title": "Issue 192 execute dag restarts",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/203"
+        "node_id": "PR_kwDOHD_0tM5SjgjO",
+        "number": 204,
+        "title": "LigandNetwork.to_*_alchemical_network",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/204"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1224467250"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5I-1MG",
-      "metadata": {
-        "created_at": "2023-06-09T15:04:54Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2023-06-09T15:39:27Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5XworT",
-        "source_node_id": "PRRC_kwDOHD_0tM5I-1MG",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uqneB",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2023-06-09T15:39:27Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5Sh-qP",
-        "number": 203,
-        "title": "Issue 192 execute dag restarts",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/203"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1224430342"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/204#discussion_r1224435248"
     },
     {
       "credits": [
@@ -929,23 +867,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5I_SFl",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5I--My",
       "metadata": {
-        "created_at": "2023-06-09T16:59:49Z",
+        "created_at": "2023-06-09T15:39:15Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2023-06-09T16:59:49Z",
+        "published_at": "2023-06-09T15:39:27Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5XxxxN",
-        "source_node_id": "PRRC_kwDOHD_0tM5I_SFl",
+        "review_node_id": "PRR_kwDOHD_0tM5XworT",
+        "source_node_id": "PRRC_kwDOHD_0tM5I--My",
         "thread_node_id": "PRRT_kwDOHD_0tM4uqs6Q",
         "timestamp_fallback": false
       },
-      "occurred_at": "2023-06-09T16:59:49Z",
+      "occurred_at": "2023-06-09T15:39:27Z",
       "subject": {
         "author_key": "MDQ6VXNlcjkyNDk1NDM=",
         "kind": "pull_request",
@@ -954,8 +892,39 @@
         "title": "Issue 192 execute dag restarts",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/203"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1224548709"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1224467250"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjEyNDYwMTI1",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5I-1MG",
+      "metadata": {
+        "created_at": "2023-06-09T15:04:54Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2023-06-09T15:39:27Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM5XworT",
+        "source_node_id": "PRRC_kwDOHD_0tM5I-1MG",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uqneB",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-06-09T15:39:27Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5Sh-qP",
+        "number": 203,
+        "title": "Issue 192 execute dag restarts",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/203"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1224430342"
     },
     {
       "credits": [
@@ -989,19 +958,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5I_SKD",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5I_SFl",
       "metadata": {
-        "created_at": "2023-06-09T17:00:11Z",
+        "created_at": "2023-06-09T16:59:49Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2023-06-09T17:00:11Z",
+        "published_at": "2023-06-09T16:59:49Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5Xxx9n",
-        "source_node_id": "PRRC_kwDOHD_0tM5I_SKD",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uqneB",
+        "review_node_id": "PRR_kwDOHD_0tM5XxxxN",
+        "source_node_id": "PRRC_kwDOHD_0tM5I_SFl",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uqs6Q",
         "timestamp_fallback": false
       },
-      "occurred_at": "2023-06-09T17:00:11Z",
+      "occurred_at": "2023-06-09T16:59:49Z",
       "subject": {
         "author_key": "MDQ6VXNlcjkyNDk1NDM=",
         "kind": "pull_request",
@@ -1010,8 +979,8 @@
         "title": "Issue 192 execute dag restarts",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/203"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1224548995"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1224548709"
     },
     {
       "credits": [
@@ -1037,6 +1006,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#pullrequestreview-1472667495"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5I_SKD",
+      "metadata": {
+        "created_at": "2023-06-09T17:00:11Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2023-06-09T17:00:11Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM5Xxx9n",
+        "source_node_id": "PRRC_kwDOHD_0tM5I_SKD",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uqneB",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-06-09T17:00:11Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjkyNDk1NDM=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5Sh-qP",
+        "number": 203,
+        "title": "Issue 192 execute dag restarts",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/203"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/203#discussion_r1224548995"
     },
     {
       "credits": [
@@ -1190,130 +1190,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5JFt_F",
-      "metadata": {
-        "created_at": "2023-06-12T07:55:26Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2023-06-12T08:01:39Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5Xw_HA",
-        "source_node_id": "PRRC_kwDOHD_0tM5JFt_F",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uu_Cm",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2023-06-12T08:01:39Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5POgVO",
-        "number": 186,
-        "title": "PathLike wrapper/cache for ExternalStorage",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1226235845"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5JFuKJ",
-      "metadata": {
-        "created_at": "2023-06-12T07:56:03Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2023-06-12T08:01:39Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM5Xw_HA",
-        "source_node_id": "PRRC_kwDOHD_0tM5JFuKJ",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uu_KL",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2023-06-12T08:01:39Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5POgVO",
-        "number": 186,
-        "title": "PathLike wrapper/cache for ExternalStorage",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1226236553"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5JFvk8",
-      "metadata": {
-        "created_at": "2023-06-12T08:01:01Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2023-06-12T08:01:39Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5Xw_HA",
-        "source_node_id": "PRRC_kwDOHD_0tM5JFvk8",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uvAD7",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2023-06-12T08:01:39Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5POgVO",
-        "number": 186,
-        "title": "PathLike wrapper/cache for ExternalStorage",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1226242364"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5JFvw9",
-      "metadata": {
-        "created_at": "2023-06-12T08:01:35Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2023-06-12T08:01:39Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM5Xw_HA",
-        "source_node_id": "PRRC_kwDOHD_0tM5JFvw9",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uvAL8",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2023-06-12T08:01:39Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5POgVO",
-        "number": 186,
-        "title": "PathLike wrapper/cache for ExternalStorage",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1226243133"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOHD_0tM5Xw_HA",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM5Xw_HA",
@@ -1335,33 +1211,126 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5JIuzg",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5JFt_F",
       "metadata": {
-        "created_at": "2023-06-12T17:37:11Z",
-        "outdated": false,
+        "created_at": "2023-06-12T07:55:26Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2023-06-12T17:37:11Z",
+        "published_at": "2023-06-12T08:01:39Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5X8fek",
-        "source_node_id": "PRRC_kwDOHD_0tM5JIuzg",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uRsWm",
+        "review_node_id": "PRR_kwDOHD_0tM5Xw_HA",
+        "source_node_id": "PRRC_kwDOHD_0tM5JFt_F",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uu_Cm",
         "timestamp_fallback": false
       },
-      "occurred_at": "2023-06-12T17:37:11Z",
+      "occurred_at": "2023-06-12T08:01:39Z",
       "subject": {
         "author_key": "MDQ6VXNlcjgxNzg1NDY=",
         "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5R07QN",
-        "number": 200,
-        "title": "Docs: Overview of gufe",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/200"
+        "node_id": "PR_kwDOHD_0tM5POgVO",
+        "number": 186,
+        "title": "PathLike wrapper/cache for ExternalStorage",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/200#discussion_r1227025632"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1226235845"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5JFuKJ",
+      "metadata": {
+        "created_at": "2023-06-12T07:56:03Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2023-06-12T08:01:39Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM5Xw_HA",
+        "source_node_id": "PRRC_kwDOHD_0tM5JFuKJ",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uu_KL",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-06-12T08:01:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5POgVO",
+        "number": 186,
+        "title": "PathLike wrapper/cache for ExternalStorage",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1226236553"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5JFvk8",
+      "metadata": {
+        "created_at": "2023-06-12T08:01:01Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2023-06-12T08:01:39Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM5Xw_HA",
+        "source_node_id": "PRRC_kwDOHD_0tM5JFvk8",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uvAD7",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-06-12T08:01:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5POgVO",
+        "number": 186,
+        "title": "PathLike wrapper/cache for ExternalStorage",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1226242364"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5JFvw9",
+      "metadata": {
+        "created_at": "2023-06-12T08:01:35Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2023-06-12T08:01:39Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM5Xw_HA",
+        "source_node_id": "PRRC_kwDOHD_0tM5JFvw9",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uvAL8",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-06-12T08:01:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5POgVO",
+        "number": 186,
+        "title": "PathLike wrapper/cache for ExternalStorage",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1226243133"
     },
     {
       "credits": [
@@ -1395,19 +1364,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5JIu0P",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5JIuzg",
       "metadata": {
-        "created_at": "2023-06-12T17:37:14Z",
+        "created_at": "2023-06-12T17:37:11Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2023-06-12T17:37:14Z",
+        "published_at": "2023-06-12T17:37:11Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5X8fgj",
-        "source_node_id": "PRRC_kwDOHD_0tM5JIu0P",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uRsal",
+        "review_node_id": "PRR_kwDOHD_0tM5X8fek",
+        "source_node_id": "PRRC_kwDOHD_0tM5JIuzg",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uRsWm",
         "timestamp_fallback": false
       },
-      "occurred_at": "2023-06-12T17:37:14Z",
+      "occurred_at": "2023-06-12T17:37:11Z",
       "subject": {
         "author_key": "MDQ6VXNlcjgxNzg1NDY=",
         "kind": "pull_request",
@@ -1416,8 +1385,8 @@
         "title": "Docs: Overview of gufe",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/200"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/200#discussion_r1227025679"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/200#discussion_r1227025632"
     },
     {
       "credits": [
@@ -1451,29 +1420,29 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5JIwOs",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5JIu0P",
       "metadata": {
-        "created_at": "2023-06-12T17:43:09Z",
-        "outdated": true,
+        "created_at": "2023-06-12T17:37:14Z",
+        "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2023-06-12T17:43:09Z",
+        "published_at": "2023-06-12T17:37:14Z",
         "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5X8hpN",
-        "source_node_id": "PRRC_kwDOHD_0tM5JIwOs",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uu_Cm",
+        "review_node_id": "PRR_kwDOHD_0tM5X8fgj",
+        "source_node_id": "PRRC_kwDOHD_0tM5JIu0P",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uRsal",
         "timestamp_fallback": false
       },
-      "occurred_at": "2023-06-12T17:43:09Z",
+      "occurred_at": "2023-06-12T17:37:14Z",
       "subject": {
         "author_key": "MDQ6VXNlcjgxNzg1NDY=",
         "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5POgVO",
-        "number": 186,
-        "title": "PathLike wrapper/cache for ExternalStorage",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
+        "node_id": "PR_kwDOHD_0tM5R07QN",
+        "number": 200,
+        "title": "Docs: Overview of gufe",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/200"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1227031468"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/200#discussion_r1227025679"
     },
     {
       "credits": [
@@ -1507,19 +1476,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5JIwQZ",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5JIwOs",
       "metadata": {
-        "created_at": "2023-06-12T17:43:17Z",
+        "created_at": "2023-06-12T17:43:09Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2023-06-12T17:43:17Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM5X8hr9",
-        "source_node_id": "PRRC_kwDOHD_0tM5JIwQZ",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uu_KL",
+        "published_at": "2023-06-12T17:43:09Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM5X8hpN",
+        "source_node_id": "PRRC_kwDOHD_0tM5JIwOs",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uu_Cm",
         "timestamp_fallback": false
       },
-      "occurred_at": "2023-06-12T17:43:17Z",
+      "occurred_at": "2023-06-12T17:43:09Z",
       "subject": {
         "author_key": "MDQ6VXNlcjgxNzg1NDY=",
         "kind": "pull_request",
@@ -1528,8 +1497,8 @@
         "title": "PathLike wrapper/cache for ExternalStorage",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1227031577"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1227031468"
     },
     {
       "credits": [
@@ -1563,19 +1532,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5JIwTt",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5JIwQZ",
       "metadata": {
-        "created_at": "2023-06-12T17:43:28Z",
+        "created_at": "2023-06-12T17:43:17Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2023-06-12T17:43:28Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5X8hwE",
-        "source_node_id": "PRRC_kwDOHD_0tM5JIwTt",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uvAD7",
+        "published_at": "2023-06-12T17:43:17Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM5X8hr9",
+        "source_node_id": "PRRC_kwDOHD_0tM5JIwQZ",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uu_KL",
         "timestamp_fallback": false
       },
-      "occurred_at": "2023-06-12T17:43:28Z",
+      "occurred_at": "2023-06-12T17:43:17Z",
       "subject": {
         "author_key": "MDQ6VXNlcjgxNzg1NDY=",
         "kind": "pull_request",
@@ -1584,8 +1553,8 @@
         "title": "PathLike wrapper/cache for ExternalStorage",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1227031789"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1227031577"
     },
     {
       "credits": [
@@ -1619,19 +1588,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5JIwVH",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5JIwTt",
       "metadata": {
-        "created_at": "2023-06-12T17:43:34Z",
-        "outdated": false,
+        "created_at": "2023-06-12T17:43:28Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2023-06-12T17:43:34Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM5X8hyE",
-        "source_node_id": "PRRC_kwDOHD_0tM5JIwVH",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uvAL8",
+        "published_at": "2023-06-12T17:43:28Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM5X8hwE",
+        "source_node_id": "PRRC_kwDOHD_0tM5JIwTt",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uvAD7",
         "timestamp_fallback": false
       },
-      "occurred_at": "2023-06-12T17:43:34Z",
+      "occurred_at": "2023-06-12T17:43:28Z",
       "subject": {
         "author_key": "MDQ6VXNlcjgxNzg1NDY=",
         "kind": "pull_request",
@@ -1640,8 +1609,8 @@
         "title": "PathLike wrapper/cache for ExternalStorage",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1227031879"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1227031789"
     },
     {
       "credits": [
@@ -1667,6 +1636,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#pullrequestreview-1475484804"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5JIwVH",
+      "metadata": {
+        "created_at": "2023-06-12T17:43:34Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2023-06-12T17:43:34Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM5X8hyE",
+        "source_node_id": "PRRC_kwDOHD_0tM5JIwVH",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uvAL8",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-06-12T17:43:34Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5POgVO",
+        "number": 186,
+        "title": "PathLike wrapper/cache for ExternalStorage",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1227031879"
     },
     {
       "credits": [
@@ -1802,37 +1802,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5Jb1wh",
-      "metadata": {
-        "created_at": "2023-06-16T09:48:14Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2023-06-16T09:48:15Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM5YZpv4",
-        "source_node_id": "PRRC_kwDOHD_0tM5Jb1wh",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uu_KL",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2023-06-16T09:48:15Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5POgVO",
-        "number": 186,
-        "title": "PathLike wrapper/cache for ExternalStorage",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1232034849"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOHD_0tM5YZpv4",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM5YZpv4",
@@ -1858,19 +1827,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5Jb13k",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5Jb1wh",
       "metadata": {
-        "created_at": "2023-06-16T09:48:41Z",
+        "created_at": "2023-06-16T09:48:14Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2023-06-16T09:48:41Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5YZp79",
-        "source_node_id": "PRRC_kwDOHD_0tM5Jb13k",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uvAD7",
+        "published_at": "2023-06-16T09:48:15Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM5YZpv4",
+        "source_node_id": "PRRC_kwDOHD_0tM5Jb1wh",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uu_KL",
         "timestamp_fallback": false
       },
-      "occurred_at": "2023-06-16T09:48:41Z",
+      "occurred_at": "2023-06-16T09:48:15Z",
       "subject": {
         "author_key": "MDQ6VXNlcjgxNzg1NDY=",
         "kind": "pull_request",
@@ -1879,8 +1848,8 @@
         "title": "PathLike wrapper/cache for ExternalStorage",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1232035300"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1232034849"
     },
     {
       "credits": [
@@ -1906,6 +1875,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#pullrequestreview-1483120381"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjkyNDk1NDM=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5Jb13k",
+      "metadata": {
+        "created_at": "2023-06-16T09:48:41Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2023-06-16T09:48:41Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM5YZp79",
+        "source_node_id": "PRRC_kwDOHD_0tM5Jb13k",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uvAD7",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-06-16T09:48:41Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5POgVO",
+        "number": 186,
+        "title": "PathLike wrapper/cache for ExternalStorage",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1232035300"
     },
     {
       "credits": [
@@ -1937,7 +1937,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM5fPTQM",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM5fPTQM",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM5fPTQM"
       },
@@ -1950,7 +1950,7 @@
         "title": "Pin openff-units, pint to avoid typing issues",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/206"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/206#issuecomment-1597846540"
     },
     {
@@ -2087,37 +2087,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5J1rAt",
-      "metadata": {
-        "created_at": "2023-06-22T17:02:55Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2023-06-22T17:02:55Z",
-        "resolved": true,
-        "review_node_id": "PRR_kwDOHD_0tM5ZB19I",
-        "source_node_id": "PRRC_kwDOHD_0tM5J1rAt",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uu_KL",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2023-06-22T17:02:55Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
-        "kind": "pull_request",
-        "node_id": "PR_kwDOHD_0tM5POgVO",
-        "number": 186,
-        "title": "PathLike wrapper/cache for ExternalStorage",
-        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1238806573"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:PRR_kwDOHD_0tM5ZB19I",
       "metadata": {
         "source_node_id": "PRR_kwDOHD_0tM5ZB19I",
@@ -2143,19 +2112,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:PRRC_kwDOHD_0tM5J1rEp",
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5J1rAt",
       "metadata": {
-        "created_at": "2023-06-22T17:03:10Z",
+        "created_at": "2023-06-22T17:02:55Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2023-06-22T17:03:10Z",
-        "resolved": false,
-        "review_node_id": "PRR_kwDOHD_0tM5ZB2H1",
-        "source_node_id": "PRRC_kwDOHD_0tM5J1rEp",
-        "thread_node_id": "PRRT_kwDOHD_0tM4uvAD7",
+        "published_at": "2023-06-22T17:02:55Z",
+        "resolved": true,
+        "review_node_id": "PRR_kwDOHD_0tM5ZB19I",
+        "source_node_id": "PRRC_kwDOHD_0tM5J1rAt",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uu_KL",
         "timestamp_fallback": false
       },
-      "occurred_at": "2023-06-22T17:03:10Z",
+      "occurred_at": "2023-06-22T17:02:55Z",
       "subject": {
         "author_key": "MDQ6VXNlcjgxNzg1NDY=",
         "kind": "pull_request",
@@ -2164,8 +2133,8 @@
         "title": "PathLike wrapper/cache for ExternalStorage",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1238806825"
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1238806573"
     },
     {
       "credits": [
@@ -2195,11 +2164,42 @@
     {
       "credits": [
         {
+          "actor_key": "MDQ6VXNlcjgxNzg1NDY=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:PRRC_kwDOHD_0tM5J1rEp",
+      "metadata": {
+        "created_at": "2023-06-22T17:03:10Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2023-06-22T17:03:10Z",
+        "resolved": false,
+        "review_node_id": "PRR_kwDOHD_0tM5ZB2H1",
+        "source_node_id": "PRRC_kwDOHD_0tM5J1rEp",
+        "thread_node_id": "PRRT_kwDOHD_0tM4uvAD7",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2023-06-22T17:03:10Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjgxNzg1NDY=",
+        "kind": "pull_request",
+        "node_id": "PR_kwDOHD_0tM5POgVO",
+        "number": 186,
+        "title": "PathLike wrapper/cache for ExternalStorage",
+        "url": "https://github.com/OpenFreeEnergy/gufe/pull/186"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/OpenFreeEnergy/gufe/pull/186#discussion_r1238806825"
+    },
+    {
+      "credits": [
+        {
           "actor_key": "MDQ6VXNlcjEzMjY4MTE=",
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM5gNSGo",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM5gNSGo",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM5gNSGo"
       },
@@ -2212,7 +2212,7 @@
         "title": "Issue 168 basic telemetry",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/193"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/193#issuecomment-1614094760"
     },
     {
@@ -2270,7 +2270,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:IC_kwDOHD_0tM5gQTu2",
+      "id": "pr_discussion_comment:IC_kwDOHD_0tM5gQTu2",
       "metadata": {
         "source_node_id": "IC_kwDOHD_0tM5gQTu2"
       },
@@ -2283,7 +2283,7 @@
         "title": "Makes start_time, end_time optional args for ProtocolUnitResult",
         "url": "https://github.com/OpenFreeEnergy/gufe/pull/208"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/OpenFreeEnergy/gufe/pull/208#issuecomment-1614887862"
     },
     {
@@ -2499,7 +2499,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T06:13:38.132558Z",
+      "as_of": "2026-10-20T01:24:08.630229Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -2511,52 +2511,52 @@
     },
     "default_branch": "main",
     "default_branch_head": "a9aeae4f86f1b3a34ef0732277777bc3a45d9035",
+    "is_partial": false,
     "month": "2023-06",
     "month_end": "2023-07-01T00:00:00Z",
     "month_start": "2023-06-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "finished_at": "2026-10-20T01:25:47.982688Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
-        "started_at": "2026-10-18T06:13:38.132558Z"
+        "run_id": "675c3133-967f-4dac-85d8-f8537a7072ae",
+        "started_at": "2026-10-20T01:24:08.630229Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "finished_at": "2026-10-20T01:25:47.982688Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
-        "started_at": "2026-10-18T06:13:38.132558Z"
+        "run_id": "675c3133-967f-4dac-85d8-f8537a7072ae",
+        "started_at": "2026-10-20T01:24:08.630229Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "finished_at": "2026-10-20T01:25:47.982688Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
-        "started_at": "2026-10-18T06:13:38.132558Z"
+        "run_id": "675c3133-967f-4dac-85d8-f8537a7072ae",
+        "started_at": "2026-10-20T01:24:08.630229Z"
       }
     },
     "repository": {
@@ -2566,15 +2566,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:15:22.406652Z",
+        "finished_at": "2026-10-20T01:25:47.982688Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "54e61b6a-23c7-49e3-8250-92fb3acad6e4",
-        "started_at": "2026-10-18T06:13:38.132558Z"
+        "run_id": "675c3133-967f-4dac-85d8-f8537a7072ae",
+        "started_at": "2026-10-20T01:24:08.630229Z"
       },
       "history_start_month": "2022-03",
       "node_id": "R_kgDOHD_0tA",
@@ -2590,11 +2590,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 5,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 5,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjExNzY1OTgy": {
         "commit": 0,
@@ -2602,11 +2602,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjEyNDYwMTI1": {
         "commit": 0,
@@ -2614,11 +2614,11 @@
         "issue_comment": 2,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 4,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 3
+        "pr_review": 3,
+        "pr_review_comment": 4
       },
       "MDQ6VXNlcjEzMjY4MTE=": {
         "commit": 2,
@@ -2626,11 +2626,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 2,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 2,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjI0NTgxMDAz": {
         "commit": 0,
@@ -2638,11 +2638,11 @@
         "issue_comment": 0,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjc3MTgwOTg=": {
         "commit": 0,
@@ -2650,11 +2650,11 @@
         "issue_comment": 1,
         "issue_opened": 1,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjgxNzg1NDY=": {
         "commit": 2,
@@ -2662,11 +2662,11 @@
         "issue_comment": 1,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 9,
+        "pr_discussion_comment": 1,
         "pr_merged": 0,
         "pr_opened": 2,
-        "pr_review": 11
+        "pr_review": 11,
+        "pr_review_comment": 9
       },
       "MDQ6VXNlcjkyNDk1NDM=": {
         "commit": 5,
@@ -2674,79 +2674,79 @@
         "issue_comment": 3,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 12,
+        "pr_discussion_comment": 1,
         "pr_merged": 5,
         "pr_opened": 2,
-        "pr_review": 11
+        "pr_review": 11,
+        "pr_review_comment": 12
       }
     },
     "distinct_actors": {
       "bot": 1,
       "human": 7,
       "total": 8,
-      "unresolved_git": 0
+      "unlinked_git": 0
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_closed": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 6,
         "total": 6,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 1,
         "human": 3,
         "total": 4,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 3,
-        "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 1,
         "total": 1,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -2755,11 +2755,11 @@
       "issue_comment": 9,
       "issue_opened": 3,
       "issue_reopened": 0,
-      "pr_conversation_comment": 9,
-      "pr_inline_review_comment": 25,
+      "pr_discussion_comment": 9,
       "pr_merged": 5,
       "pr_opened": 5,
-      "pr_review": 25
+      "pr_review": 25,
+      "pr_review_comment": 25
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -2767,11 +2767,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

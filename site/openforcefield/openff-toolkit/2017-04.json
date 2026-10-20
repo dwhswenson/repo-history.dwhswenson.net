@@ -1613,7 +1613,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MDk1MTgxMw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MDk1MTgxMw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MDk1MTgxMw=="
       },
@@ -1626,7 +1626,7 @@
         "title": "Reorganize repo",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1#issuecomment-290951813"
     },
     {
@@ -1764,7 +1764,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MDk1ODY5Mg==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MDk1ODY5Mg==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MDk1ODY5Mg=="
       },
@@ -1777,7 +1777,7 @@
         "title": "Reorganize repo",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1#issuecomment-290958692"
     },
     {
@@ -1941,7 +1941,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MDk1OTgwMg==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MDk1OTgwMg==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MDk1OTgwMg=="
       },
@@ -1954,7 +1954,7 @@
         "title": "Reorganize repo",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/1"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/1#issuecomment-290959802"
     },
     {
@@ -2171,7 +2171,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDEwOTMxMTU3Mw==",
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzA0MDY1MzI=",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzA0MDY1MzI=",
+        "state": "COMMENTED",
+        "submitted_at": "2017-04-02T15:25:13Z"
+      },
+      "occurred_at": "2017-04-02T15:25:13Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTEzODEwNzQ2",
+        "number": 4,
+        "title": "[WIP] update examples and readmes ",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/4"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/4#pullrequestreview-30406532"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDEwOTMxMTU3Mw==",
       "metadata": {
         "created_at": "2017-04-02T15:25:13Z",
         "outdated": false,
@@ -2192,33 +2217,8 @@
         "title": "[WIP] update examples and readmes ",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/4"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/4#discussion_r109311573"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjM2NTYwODg=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzA0MDY1MzI=",
-      "metadata": {
-        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzA0MDY1MzI=",
-        "state": "COMMENTED",
-        "submitted_at": "2017-04-02T15:25:13Z"
-      },
-      "occurred_at": "2017-04-02T15:25:13Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTEzODEwNzQ2",
-        "number": 4,
-        "title": "[WIP] update examples and readmes ",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/4"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/4#pullrequestreview-30406532"
     },
     {
       "credits": [
@@ -2706,7 +2706,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MTI2MTY0Mw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MTI2MTY0Mw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MTI2MTY0Mw=="
       },
@@ -2719,7 +2719,7 @@
         "title": "[WIP] update examples and readmes ",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/4"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/4#issuecomment-291261643"
     },
     {
@@ -3031,7 +3031,32 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMDA0OTQ5Mg==",
+      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzExOTMzMzY=",
+      "metadata": {
+        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzExOTMzMzY=",
+        "state": "CHANGES_REQUESTED",
+        "submitted_at": "2017-04-05T23:20:39Z"
+      },
+      "occurred_at": "2017-04-05T23:20:39Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0NDkxNTcy",
+        "number": 9,
+        "title": "Replace SMIRFF with SMIRNOFF throughout",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/9"
+      },
+      "type": "pr_review",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/9#pullrequestreview-31193336"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExOTY4NTQx",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMDA0OTQ5Mg==",
       "metadata": {
         "created_at": "2017-04-05T23:20:11Z",
         "outdated": false,
@@ -3052,33 +3077,8 @@
         "title": "Replace SMIRFF with SMIRNOFF throughout",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/9"
       },
-      "type": "pr_inline_review_comment",
+      "type": "pr_review_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/9#discussion_r110049492"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjExOTY4NTQx",
-          "role": "author"
-        }
-      ],
-      "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzExOTMzMzY=",
-      "metadata": {
-        "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzExOTMzMzY=",
-        "state": "CHANGES_REQUESTED",
-        "submitted_at": "2017-04-05T23:20:39Z"
-      },
-      "occurred_at": "2017-04-05T23:20:39Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjcxMzIyNTc=",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0NDkxNTcy",
-        "number": 9,
-        "title": "Replace SMIRFF with SMIRNOFF throughout",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/9"
-      },
-      "type": "pr_review",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/9#pullrequestreview-31193336"
     },
     {
       "credits": [
@@ -3176,7 +3176,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MjAzMjAzOA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MjAzMjAzOA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MjAzMjAzOA=="
       },
@@ -3189,7 +3189,7 @@
         "title": "Replace SMIRFF with SMIRNOFF throughout",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/9"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/9#issuecomment-292032038"
     },
     {
@@ -3632,7 +3632,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MjA3MDI4NQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MjA3MDI4NQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MjA3MDI4NQ=="
       },
@@ -3645,7 +3645,7 @@
         "title": "Move in latest forcefield from smarty, update SMIRFF to SMIRNOFF",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/10"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/10#issuecomment-292070285"
     },
     {
@@ -3655,7 +3655,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MjA3MDM2OQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MjA3MDM2OQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MjA3MDM2OQ=="
       },
@@ -3668,7 +3668,7 @@
         "title": "Move in latest forcefield from smarty, update SMIRFF to SMIRNOFF",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/10"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/10#issuecomment-292070369"
     },
     {
@@ -3790,7 +3790,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MjA3MTg3OA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MjA3MTg3OA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MjA3MTg3OA=="
       },
@@ -3803,7 +3803,7 @@
         "title": "Example for generating complex with SMIRNOFF/AMBER FF.",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/11"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/11#issuecomment-292071878"
     },
     {
@@ -3813,7 +3813,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MjA3MjAwMw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MjA3MjAwMw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MjA3MjAwMw=="
       },
@@ -3826,7 +3826,7 @@
         "title": "Example for generating complex with SMIRNOFF/AMBER FF.",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/11"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/11#issuecomment-292072003"
     },
     {
@@ -3836,7 +3836,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MjA3NDMyNg==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MjA3NDMyNg==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MjA3NDMyNg=="
       },
@@ -3849,7 +3849,7 @@
         "title": "Move in latest forcefield from smarty, update SMIRFF to SMIRNOFF",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/10"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/10#issuecomment-292074326"
     },
     {
@@ -3859,7 +3859,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MjA3NDc2MA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MjA3NDc2MA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MjA3NDc2MA=="
       },
@@ -3872,7 +3872,7 @@
         "title": "Move in latest forcefield from smarty, update SMIRFF to SMIRNOFF",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/10"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/10#issuecomment-292074760"
     },
     {
@@ -3946,7 +3946,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MjIwNjAyOQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MjIwNjAyOQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MjIwNjAyOQ=="
       },
@@ -3959,7 +3959,7 @@
         "title": "Move in latest forcefield from smarty, update SMIRFF to SMIRNOFF",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/10"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/10#issuecomment-292206029"
     },
     {
@@ -4015,7 +4015,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MjIyMTc2MA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MjIyMTc2MA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MjIyMTc2MA=="
       },
@@ -4028,7 +4028,7 @@
         "title": "Example for generating complex with SMIRNOFF/AMBER FF.",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/11"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/11#issuecomment-292221760"
     },
     {
@@ -4166,7 +4166,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MjIzMDA4OQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MjIzMDA4OQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MjIzMDA4OQ=="
       },
@@ -4179,7 +4179,7 @@
         "title": "Example for generating complex with SMIRNOFF/AMBER FF.",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/11"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/11#issuecomment-292230089"
     },
     {
@@ -4525,7 +4525,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5MzA5MzE1Mw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5MzA5MzE1Mw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5MzA5MzE1Mw=="
       },
@@ -4538,7 +4538,7 @@
         "title": "Fix typo in SMIRNOFF format",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/15"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/15#issuecomment-293093153"
     },
     {
@@ -5088,7 +5088,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5NDIxNjAyMQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5NDIxNjAyMQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5NDIxNjAyMQ=="
       },
@@ -5101,7 +5101,7 @@
         "title": "Remove archival files which are not useful",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/18"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/18#issuecomment-294216021"
     },
     {
@@ -5311,7 +5311,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5NDI2NDgxMA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5NDI2NDgxMA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5NDI2NDgxMA=="
       },
@@ -5324,7 +5324,7 @@
         "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/7#issuecomment-294264810"
     },
     {
@@ -6153,7 +6153,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5NTUwMTI0MA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5NTUwMTI0MA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5NTUwMTI0MA=="
       },
@@ -6166,7 +6166,7 @@
         "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/7#issuecomment-295501240"
     },
     {
@@ -6292,502 +6292,6 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2MzU2NA==",
-      "metadata": {
-        "created_at": "2017-04-21T19:46:48Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2MzU2NA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MTY6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112763564"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDAwNg==",
-      "metadata": {
-        "created_at": "2017-04-21T19:49:45Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDAwNg==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MTg6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764006"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDAzOQ==",
-      "metadata": {
-        "created_at": "2017-04-21T19:49:59Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDAzOQ==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MTg6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764039"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDE2Ng==",
-      "metadata": {
-        "created_at": "2017-04-21T19:50:45Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDE2Ng==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MTg6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764166"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDMxMQ==",
-      "metadata": {
-        "created_at": "2017-04-21T19:51:44Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDMxMQ==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MjM6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764311"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDQ0MA==",
-      "metadata": {
-        "created_at": "2017-04-21T19:52:33Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDQ0MA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1Mjg6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764440"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDk2NQ==",
-      "metadata": {
-        "created_at": "2017-04-21T19:55:37Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDk2NQ==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MzI6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764965"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDkwOQ==",
-      "metadata": {
-        "created_at": "2017-04-21T19:55:08Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDkwOQ==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MzI6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764909"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NTE4OA==",
-      "metadata": {
-        "created_at": "2017-04-21T19:57:03Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NTE4OA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MzY6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112765188"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NTI5Nw==",
-      "metadata": {
-        "created_at": "2017-04-21T19:57:56Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NTI5Nw==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1Mzg6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112765297"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NTQ2Mg==",
-      "metadata": {
-        "created_at": "2017-04-21T19:58:50Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NTQ2Mg==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NDI6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112765462"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NjA3MQ==",
-      "metadata": {
-        "created_at": "2017-04-21T20:03:24Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NjA3MQ==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NDY6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112766071"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NjQwNQ==",
-      "metadata": {
-        "created_at": "2017-04-21T20:05:19Z",
-        "outdated": true,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NjQwNQ==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NDY6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112766405"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NzIyMQ==",
-      "metadata": {
-        "created_at": "2017-04-21T20:10:31Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NzIyMQ==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NDk6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112767221"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NzM3OA==",
-      "metadata": {
-        "created_at": "2017-04-21T20:11:30Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NzM3OA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NDk6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112767378"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NzUyNg==",
-      "metadata": {
-        "created_at": "2017-04-21T20:12:26Z",
-        "outdated": false,
-        "publication_confirmed": true,
-        "published_at": "2017-04-21T20:15:17Z",
-        "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NzUyNg==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NTM6djI=",
-        "timestamp_fallback": false
-      },
-      "occurred_at": "2017-04-21T20:15:17Z",
-      "subject": {
-        "author_key": "MDQ6VXNlcjExOTY4NTQx",
-        "kind": "pull_request",
-        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
-        "number": 7,
-        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
-        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
-      },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112767526"
-    },
-    {
-      "credits": [
-        {
-          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
-          "role": "author"
-        }
-      ],
       "id": "pr_review:MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
       "metadata": {
         "source_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
@@ -6809,23 +6313,23 @@
     {
       "credits": [
         {
-          "actor_key": "MDQ6VXNlcjExOTY4NTQx",
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMzAxOTcyNw==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2MzU2NA==",
       "metadata": {
-        "created_at": "2017-04-24T18:21:05Z",
+        "created_at": "2017-04-21T19:46:48Z",
         "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2017-04-24T18:21:05Z",
+        "published_at": "2017-04-21T20:15:17Z",
         "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQzNzc3NTM=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMzAxOTcyNw==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MzY6djI=",
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2MzU2NA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MTY6djI=",
         "timestamp_fallback": false
       },
-      "occurred_at": "2017-04-24T18:21:05Z",
+      "occurred_at": "2017-04-21T20:15:17Z",
       "subject": {
         "author_key": "MDQ6VXNlcjExOTY4NTQx",
         "kind": "pull_request",
@@ -6834,8 +6338,473 @@
         "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r113019727"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112763564"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDAwNg==",
+      "metadata": {
+        "created_at": "2017-04-21T19:49:45Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDAwNg==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MTg6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764006"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDAzOQ==",
+      "metadata": {
+        "created_at": "2017-04-21T19:49:59Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDAzOQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MTg6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764039"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDE2Ng==",
+      "metadata": {
+        "created_at": "2017-04-21T19:50:45Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDE2Ng==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MTg6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764166"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDMxMQ==",
+      "metadata": {
+        "created_at": "2017-04-21T19:51:44Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDMxMQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MjM6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764311"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDQ0MA==",
+      "metadata": {
+        "created_at": "2017-04-21T19:52:33Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDQ0MA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1Mjg6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764440"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDk2NQ==",
+      "metadata": {
+        "created_at": "2017-04-21T19:55:37Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDk2NQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MzI6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764965"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDkwOQ==",
+      "metadata": {
+        "created_at": "2017-04-21T19:55:08Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NDkwOQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MzI6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112764909"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NTE4OA==",
+      "metadata": {
+        "created_at": "2017-04-21T19:57:03Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NTE4OA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MzY6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112765188"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NTI5Nw==",
+      "metadata": {
+        "created_at": "2017-04-21T19:57:56Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NTI5Nw==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1Mzg6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112765297"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NTQ2Mg==",
+      "metadata": {
+        "created_at": "2017-04-21T19:58:50Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NTQ2Mg==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NDI6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112765462"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NjA3MQ==",
+      "metadata": {
+        "created_at": "2017-04-21T20:03:24Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NjA3MQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NDY6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112766071"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NjQwNQ==",
+      "metadata": {
+        "created_at": "2017-04-21T20:05:19Z",
+        "outdated": true,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NjQwNQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NDY6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112766405"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NzIyMQ==",
+      "metadata": {
+        "created_at": "2017-04-21T20:10:31Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NzIyMQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NDk6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112767221"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NzM3OA==",
+      "metadata": {
+        "created_at": "2017-04-21T20:11:30Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NzM3OA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NDk6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112767378"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjcxMzIyNTc=",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NzUyNg==",
+      "metadata": {
+        "created_at": "2017-04-21T20:12:26Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2017-04-21T20:15:17Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQxMDg3MTI=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMjc2NzUyNg==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NTM6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-21T20:15:17Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r112767526"
     },
     {
       "credits": [
@@ -6869,19 +6838,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMzAyMDg0MQ==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMzAxOTcyNw==",
       "metadata": {
-        "created_at": "2017-04-24T18:25:35Z",
-        "outdated": false,
+        "created_at": "2017-04-24T18:21:05Z",
+        "outdated": true,
         "publication_confirmed": true,
-        "published_at": "2017-04-24T18:25:35Z",
+        "published_at": "2017-04-24T18:21:05Z",
         "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQzNzg4ODY=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMzAyMDg0MQ==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1Mzg6djI=",
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQzNzc3NTM=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMzAxOTcyNw==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1MzY6djI=",
         "timestamp_fallback": false
       },
-      "occurred_at": "2017-04-24T18:25:35Z",
+      "occurred_at": "2017-04-24T18:21:05Z",
       "subject": {
         "author_key": "MDQ6VXNlcjExOTY4NTQx",
         "kind": "pull_request",
@@ -6890,8 +6859,8 @@
         "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r113020841"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r113019727"
     },
     {
       "credits": [
@@ -6925,19 +6894,19 @@
           "role": "author"
         }
       ],
-      "id": "pr_inline_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMzAyMjQyNA==",
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMzAyMDg0MQ==",
       "metadata": {
-        "created_at": "2017-04-24T18:32:05Z",
+        "created_at": "2017-04-24T18:25:35Z",
         "outdated": false,
         "publication_confirmed": true,
-        "published_at": "2017-04-24T18:32:05Z",
+        "published_at": "2017-04-24T18:25:35Z",
         "resolved": false,
-        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQzODA2MzQ=",
-        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMzAyMjQyNA==",
-        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NDk6djI=",
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQzNzg4ODY=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMzAyMDg0MQ==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1Mzg6djI=",
         "timestamp_fallback": false
       },
-      "occurred_at": "2017-04-24T18:32:05Z",
+      "occurred_at": "2017-04-24T18:25:35Z",
       "subject": {
         "author_key": "MDQ6VXNlcjExOTY4NTQx",
         "kind": "pull_request",
@@ -6946,8 +6915,8 @@
         "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
       },
-      "type": "pr_inline_review_comment",
-      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r113022424"
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r113020841"
     },
     {
       "credits": [
@@ -6973,6 +6942,37 @@
       },
       "type": "pr_review",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/7#pullrequestreview-34380634"
+    },
+    {
+      "credits": [
+        {
+          "actor_key": "MDQ6VXNlcjExOTY4NTQx",
+          "role": "author"
+        }
+      ],
+      "id": "pr_review_comment:MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMzAyMjQyNA==",
+      "metadata": {
+        "created_at": "2017-04-24T18:32:05Z",
+        "outdated": false,
+        "publication_confirmed": true,
+        "published_at": "2017-04-24T18:32:05Z",
+        "resolved": false,
+        "review_node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3MzQzODA2MzQ=",
+        "source_node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDExMzAyMjQyNA==",
+        "thread_node_id": "MDIzOlB1bGxSZXF1ZXN0UmV2aWV3VGhyZWFkNjkzMTU1NDk6djI=",
+        "timestamp_fallback": false
+      },
+      "occurred_at": "2017-04-24T18:32:05Z",
+      "subject": {
+        "author_key": "MDQ6VXNlcjExOTY4NTQx",
+        "kind": "pull_request",
+        "node_id": "MDExOlB1bGxSZXF1ZXN0MTE0MDEzOTQ0",
+        "number": 7,
+        "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
+        "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
+      },
+      "type": "pr_review_comment",
+      "url": "https://github.com/openforcefield/openff-toolkit/pull/7#discussion_r113022424"
     },
     {
       "credits": [
@@ -7045,7 +7045,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5Njc4ODU4Mg==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5Njc4ODU4Mg==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5Njc4ODU4Mg=="
       },
@@ -7058,7 +7058,7 @@
         "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/7#issuecomment-296788582"
     },
     {
@@ -7132,7 +7132,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5NjgwMzkyMw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5NjgwMzkyMw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5NjgwMzkyMw=="
       },
@@ -7145,7 +7145,7 @@
         "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/7#issuecomment-296803923"
     },
     {
@@ -7219,7 +7219,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5NjgzNzcxMA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5NjgzNzcxMA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5NjgzNzcxMA=="
       },
@@ -7232,7 +7232,7 @@
         "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/7#issuecomment-296837710"
     },
     {
@@ -7242,7 +7242,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5Njg0MDM2Nw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5Njg0MDM2Nw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5Njg0MDM2Nw=="
       },
@@ -7255,7 +7255,7 @@
         "title": "Fix to environment SMIRKS parsing and update README and detailed examples with environment",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/7"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/7#issuecomment-296840367"
     },
     {
@@ -7895,7 +7895,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5ODA3OTQ3Ng==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5ODA3OTQ3Ng==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5ODA3OTQ3Ng=="
       },
@@ -7908,7 +7908,7 @@
         "title": "Fixing loadFile for forcefield with files in data directory",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/23"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/23#issuecomment-298079476"
     },
     {
@@ -7964,7 +7964,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5ODA4NDU4MQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5ODA4NDU4MQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5ODA4NDU4MQ=="
       },
@@ -7977,7 +7977,7 @@
         "title": "Fixing loadFile for forcefield with files in data directory",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/23"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/23#issuecomment-298084581"
     },
     {
@@ -7987,7 +7987,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5ODA4NDgzNw==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5ODA4NDgzNw==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5ODA4NDgzNw=="
       },
@@ -8000,7 +8000,7 @@
         "title": "Fixing loadFile for forcefield with files in data directory",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/23"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/23#issuecomment-298084837"
     },
     {
@@ -8127,7 +8127,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5ODA4ODk2MA==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5ODA4ODk2MA==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5ODA4ODk2MA=="
       },
@@ -8140,7 +8140,7 @@
         "title": "Fixing loadFile for forcefield with files in data directory",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/23"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/23#issuecomment-298088960"
     },
     {
@@ -8150,7 +8150,7 @@
           "role": "author"
         }
       ],
-      "id": "pr_conversation_comment:MDEyOklzc3VlQ29tbWVudDI5ODA4OTc1MQ==",
+      "id": "pr_discussion_comment:MDEyOklzc3VlQ29tbWVudDI5ODA4OTc1MQ==",
       "metadata": {
         "source_node_id": "MDEyOklzc3VlQ29tbWVudDI5ODA4OTc1MQ=="
       },
@@ -8163,7 +8163,7 @@
         "title": "Fixing loadFile for forcefield with files in data directory",
         "url": "https://github.com/openforcefield/openff-toolkit/pull/23"
       },
-      "type": "pr_conversation_comment",
+      "type": "pr_discussion_comment",
       "url": "https://github.com/openforcefield/openff-toolkit/pull/23#issuecomment-298089751"
     },
     {
@@ -9403,7 +9403,7 @@
       "url": "https://github.com/davidlmobley"
     },
     {
-      "classification": "unresolved_git",
+      "classification": "unlinked_git",
       "database_id": null,
       "display_name": null,
       "git_email": "noreply@github.com",
@@ -9414,7 +9414,7 @@
       "url": null
     },
     {
-      "classification": "unresolved_git",
+      "classification": "unlinked_git",
       "database_id": null,
       "display_name": null,
       "git_email": "bannanc@Davids-iMac.local",
@@ -9425,7 +9425,7 @@
       "url": null
     },
     {
-      "classification": "unresolved_git",
+      "classification": "unlinked_git",
       "database_id": null,
       "display_name": null,
       "git_email": "Limn1@uci.edu",
@@ -9438,7 +9438,7 @@
   ],
   "metadata": {
     "coverage": {
-      "as_of": "2026-10-18T06:18:49.797655Z",
+      "as_of": "2026-10-20T01:37:15.275657Z",
       "limitations": [
         "Unlinked Git identities are estimates based on email or name; account matches and bot status are not inferred.",
         "Commit dates do not establish when commits reached the default branch. Removed commits, force-pushes, rebases, and default-branch changes can revise historical results.",
@@ -9450,52 +9450,52 @@
     },
     "default_branch": "main",
     "default_branch_head": "ef074d58a2e7b03625aae7cd3aff87a8ee46c38b",
+    "is_partial": false,
     "month": "2017-04",
     "month_end": "2017-05-01T00:00:00Z",
     "month_start": "2017-04-01T00:00:00Z",
-    "ongoing": false,
     "provenance": {
       "created_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "last_rebuilt_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "last_updated_by": {
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       }
     },
     "repository": {
@@ -9505,15 +9505,15 @@
         "collection_since": null,
         "collection_until": null,
         "collector_version": "0.1.0",
-        "command": "backfill",
+        "command": "collect",
         "commit_history": "full",
-        "finished_at": "2026-10-18T06:23:19.790419Z",
+        "finished_at": "2026-10-20T01:42:31.382152Z",
         "mode": "rebuild",
         "parent_discovery": "full",
         "requested_end_month": "2026-10",
         "requested_start_month": null,
-        "run_id": "08f4fc38-e78d-4e05-bab4-42a1a5d30d9c",
-        "started_at": "2026-10-18T06:18:49.797655Z"
+        "run_id": "93f24df4-933f-4327-91f3-25799cb97f97",
+        "started_at": "2026-10-20T01:37:15.275657Z"
       },
       "history_start_month": "2016-06",
       "node_id": "MDEwOlJlcG9zaXRvcnk4Njg4NDYwMA==",
@@ -9529,11 +9529,11 @@
         "issue_comment": 5,
         "issue_opened": 2,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjExOTY4NTQx": {
         "commit": 42,
@@ -9541,11 +9541,11 @@
         "issue_comment": 14,
         "issue_opened": 6,
         "issue_reopened": 0,
-        "pr_conversation_comment": 9,
-        "pr_inline_review_comment": 4,
+        "pr_discussion_comment": 9,
         "pr_merged": 1,
         "pr_opened": 4,
-        "pr_review": 5
+        "pr_review": 5,
+        "pr_review_comment": 4
       },
       "MDQ6VXNlcjExOTg1Nzc2": {
         "commit": 0,
@@ -9553,11 +9553,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 1,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 1,
         "pr_merged": 0,
         "pr_opened": 1,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjM2NTYwODg=": {
         "commit": 68,
@@ -9565,11 +9565,11 @@
         "issue_comment": 20,
         "issue_opened": 5,
         "issue_reopened": 0,
-        "pr_conversation_comment": 5,
-        "pr_inline_review_comment": 1,
+        "pr_discussion_comment": 5,
         "pr_merged": 2,
         "pr_opened": 3,
-        "pr_review": 1
+        "pr_review": 1,
+        "pr_review_comment": 1
       },
       "MDQ6VXNlcjc3NTA5NjM=": {
         "commit": 0,
@@ -9577,11 +9577,11 @@
         "issue_comment": 3,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "MDQ6VXNlcjcxMzIyNTc=": {
         "commit": 42,
@@ -9589,11 +9589,11 @@
         "issue_comment": 32,
         "issue_opened": 6,
         "issue_reopened": 0,
-        "pr_conversation_comment": 12,
-        "pr_inline_review_comment": 16,
+        "pr_discussion_comment": 12,
         "pr_merged": 7,
         "pr_opened": 3,
-        "pr_review": 4
+        "pr_review": 4,
+        "pr_review_comment": 16
       },
       "git:email:7096c2053462486bcb6900aa9649e756688679843e96bbd9e89cd14368d80cdc": {
         "commit": 2,
@@ -9601,11 +9601,11 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       },
       "git:email:cc85109eb8f801fa1c8318e9c8fa079d48fbbe0cc5336e49ef8ed1169abae6c0": {
         "commit": 2,
@@ -9613,79 +9613,79 @@
         "issue_comment": 0,
         "issue_opened": 0,
         "issue_reopened": 0,
-        "pr_conversation_comment": 0,
-        "pr_inline_review_comment": 0,
+        "pr_discussion_comment": 0,
         "pr_merged": 0,
         "pr_opened": 0,
-        "pr_review": 0
+        "pr_review": 0,
+        "pr_review_comment": 0
       }
     },
     "distinct_actors": {
       "bot": 0,
       "human": 6,
       "total": 8,
-      "unresolved_git": 2
+      "unlinked_git": 2
     },
     "distinct_actors_by_type": {
       "commit": {
         "bot": 0,
         "human": 3,
         "total": 5,
-        "unresolved_git": 2
+        "unlinked_git": 2
       },
       "issue_closed": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_comment": {
         "bot": 0,
         "human": 5,
         "total": 5,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_opened": {
         "bot": 0,
         "human": 4,
         "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "issue_reopened": {
         "bot": 0,
         "human": 0,
         "total": 0,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
-      "pr_conversation_comment": {
+      "pr_discussion_comment": {
         "bot": 0,
         "human": 4,
         "total": 4,
-        "unresolved_git": 0
-      },
-      "pr_inline_review_comment": {
-        "bot": 0,
-        "human": 3,
-        "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_merged": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_opened": {
         "bot": 0,
         "human": 4,
         "total": 4,
-        "unresolved_git": 0
+        "unlinked_git": 0
       },
       "pr_review": {
         "bot": 0,
         "human": 3,
         "total": 3,
-        "unresolved_git": 0
+        "unlinked_git": 0
+      },
+      "pr_review_comment": {
+        "bot": 0,
+        "human": 3,
+        "total": 3,
+        "unlinked_git": 0
       }
     },
     "repository_counts": {
@@ -9694,11 +9694,11 @@
       "issue_comment": 74,
       "issue_opened": 19,
       "issue_reopened": 0,
-      "pr_conversation_comment": 27,
-      "pr_inline_review_comment": 21,
+      "pr_discussion_comment": 27,
       "pr_merged": 10,
       "pr_opened": 11,
-      "pr_review": 10
+      "pr_review": 10,
+      "pr_review_comment": 21
     },
     "unattributed_by_type": {
       "commit": 0,
@@ -9706,11 +9706,11 @@
       "issue_comment": 0,
       "issue_opened": 0,
       "issue_reopened": 0,
-      "pr_conversation_comment": 0,
-      "pr_inline_review_comment": 0,
+      "pr_discussion_comment": 0,
       "pr_merged": 0,
       "pr_opened": 0,
-      "pr_review": 0
+      "pr_review": 0,
+      "pr_review_comment": 0
     },
     "unattributed_total": 0
   }

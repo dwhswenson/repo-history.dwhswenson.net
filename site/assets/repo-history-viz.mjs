@@ -5384,7 +5384,7 @@ var e = Object.create, t = Object.defineProperty, n = Object.getOwnPropertyDescr
 					format: "uuid"
 				},
 				command: { enum: [
-					"backfill",
+					"collect",
 					"update",
 					"collect_history",
 					"collect_month",
@@ -5518,7 +5518,10 @@ var e = Object.create, t = Object.defineProperty, n = Object.getOwnPropertyDescr
 					format: "date-time",
 					pattern: "Z$"
 				},
-				ongoing: { type: "boolean" },
+				is_partial: {
+					type: "boolean",
+					description: "True when coverage.as_of precedes month_end; a snapshot through collection time, not a collection failure."
+				},
 				provenance: {
 					type: "object",
 					properties: {
@@ -5568,7 +5571,7 @@ var e = Object.create, t = Object.defineProperty, n = Object.getOwnPropertyDescr
 				"month",
 				"month_start",
 				"month_end",
-				"ongoing",
+				"is_partial",
 				"provenance",
 				"coverage",
 				"default_branch",
@@ -5593,13 +5596,16 @@ var e = Object.create, t = Object.defineProperty, n = Object.getOwnPropertyDescr
 					format: "date-time",
 					pattern: "Z$"
 				},
-				ongoing: { type: "boolean" }
+				is_partial: {
+					type: "boolean",
+					description: "True when any included source report has partial month coverage."
+				}
 			},
 			required: [
 				"month",
 				"month_start",
 				"month_end",
-				"ongoing"
+				"is_partial"
 			],
 			additionalProperties: !1
 		},
@@ -5641,12 +5647,12 @@ var e = Object.create, t = Object.defineProperty, n = Object.getOwnPropertyDescr
 					minimum: 0,
 					maximum: 9007199254740991
 				},
-				pr_conversation_comment: {
+				pr_discussion_comment: {
 					type: "integer",
 					minimum: 0,
 					maximum: 9007199254740991
 				},
-				pr_inline_review_comment: {
+				pr_review_comment: {
 					type: "integer",
 					minimum: 0,
 					maximum: 9007199254740991
@@ -5665,8 +5671,8 @@ var e = Object.create, t = Object.defineProperty, n = Object.getOwnPropertyDescr
 				"issue_closed",
 				"issue_reopened",
 				"issue_comment",
-				"pr_conversation_comment",
-				"pr_inline_review_comment",
+				"pr_discussion_comment",
+				"pr_review_comment",
 				"pr_review"
 			],
 			additionalProperties: !1
@@ -5689,7 +5695,7 @@ var e = Object.create, t = Object.defineProperty, n = Object.getOwnPropertyDescr
 					minimum: 0,
 					maximum: 9007199254740991
 				},
-				unresolved_git: {
+				unlinked_git: {
 					type: "integer",
 					minimum: 0,
 					maximum: 9007199254740991
@@ -5699,7 +5705,7 @@ var e = Object.create, t = Object.defineProperty, n = Object.getOwnPropertyDescr
 				"total",
 				"human",
 				"bot",
-				"unresolved_git"
+				"unlinked_git"
 			],
 			additionalProperties: !1
 		},
@@ -5726,8 +5732,8 @@ var e = Object.create, t = Object.defineProperty, n = Object.getOwnPropertyDescr
 						issue_closed: { $ref: "urn:repo-history-tracking:common:1#/$defs/population" },
 						issue_reopened: { $ref: "urn:repo-history-tracking:common:1#/$defs/population" },
 						issue_comment: { $ref: "urn:repo-history-tracking:common:1#/$defs/population" },
-						pr_conversation_comment: { $ref: "urn:repo-history-tracking:common:1#/$defs/population" },
-						pr_inline_review_comment: { $ref: "urn:repo-history-tracking:common:1#/$defs/population" },
+						pr_discussion_comment: { $ref: "urn:repo-history-tracking:common:1#/$defs/population" },
+						pr_review_comment: { $ref: "urn:repo-history-tracking:common:1#/$defs/population" },
 						pr_review: { $ref: "urn:repo-history-tracking:common:1#/$defs/population" }
 					},
 					required: [
@@ -5738,8 +5744,8 @@ var e = Object.create, t = Object.defineProperty, n = Object.getOwnPropertyDescr
 						"issue_closed",
 						"issue_reopened",
 						"issue_comment",
-						"pr_conversation_comment",
-						"pr_inline_review_comment",
+						"pr_discussion_comment",
+						"pr_review_comment",
 						"pr_review"
 					],
 					additionalProperties: !1
@@ -5763,7 +5769,7 @@ var e = Object.create, t = Object.defineProperty, n = Object.getOwnPropertyDescr
 	}
 }, ar = {
 	$schema: "https://json-schema.org/draft/2020-12/schema",
-	$id: "urn:repo-history-tracking:viz-manifest:1",
+	$id: "urn:repo-history-tracking:viz-summary:1",
 	type: "object",
 	properties: {
 		schema_version: { const: "1" },
@@ -5785,7 +5791,7 @@ var e = Object.create, t = Object.defineProperty, n = Object.getOwnPropertyDescr
 			additionalProperties: { enum: [
 				"human",
 				"bot",
-				"unresolved_git"
+				"unlinked_git"
 			] }
 		},
 		months: {
@@ -5835,9 +5841,9 @@ var e = Object.create, t = Object.defineProperty, n = Object.getOwnPropertyDescr
 	pr_opened: "Pull requests opened",
 	pr_merged: "Pull requests merged",
 	issue_comment: "Issue comments",
-	pr_conversation_comment: "PR conversation comments",
+	pr_discussion_comment: "PR discussion comments",
 	pr_review: "PR reviews",
-	pr_inline_review_comment: "Inline review comments"
+	pr_review_comment: "PR review comments"
 }, lr = Object.keys(cr), ur = new or.default({
 	allErrors: !0,
 	strict: !1,
@@ -5858,8 +5864,8 @@ function pr(e) {
 	} catch {
 		return t("invalid JSON.");
 	}
-	if (typeof n == "object" && n && ("files" in n || "activities" in n)) return t("Load a summary manifest generated with repo-history summarize --input-directory REPORTS.");
-	if (!dr(n)) return t(`invalid v1 visualization manifest — ${dr.errors?.slice(0, 3).map((e) => `${e.instancePath || "/"} ${e.message}`).join("; ")}`);
+	if (typeof n == "object" && n && ("files" in n || "activities" in n)) return t("Load a history summary generated with repo-history summarize --input-directory REPORTS.");
+	if (!dr(n)) return t(`invalid v1 visualization summary — ${dr.errors?.slice(0, 3).map((e) => `${e.instancePath || "/"} ${e.message}`).join("; ")}`);
 	let r = /* @__PURE__ */ new Set(), i = /* @__PURE__ */ new Set(), a = /* @__PURE__ */ new Map(), o = (e, t) => {
 		if (e === t) return !0;
 		if (!e || !t || typeof e != "object" || typeof t != "object") return !1;
@@ -5883,7 +5889,7 @@ function pr(e) {
 		total: e.length,
 		human: e.filter((e) => n.actors[e] === "human").length,
 		bot: e.filter((e) => n.actors[e] === "bot").length,
-		unresolved_git: e.filter((e) => n.actors[e] === "unresolved_git").length
+		unlinked_git: e.filter((e) => n.actors[e] === "unlinked_git").length
 	}), m = (e, t) => Object.keys(t).every((n) => e[n] === t[n]), h = (e) => {
 		let r = Object.entries(e.actor_counts);
 		for (let [e, a] of r) Object.hasOwn(n.actors, e) || t(`unknown actor ${e}.`), Object.values(a).some((e) => e > 0) || t(`actor ${e} has no participation.`), i.add(e);
@@ -5914,7 +5920,7 @@ function pr(e) {
 			for (let e of Object.values(_)) l(e);
 			(Date.parse(_.created_by.started_at) > Date.parse(_.last_rebuilt_by.started_at) || Date.parse(_.last_rebuilt_by.started_at) > Date.parse(_.last_updated_by.started_at)) && t("invalid provenance chronology."), (_.created_by.mode !== "rebuild" || _.last_rebuilt_by.mode !== "rebuild" || _.last_updated_by.mode === "rebuild" && !o(_.last_updated_by, _.last_rebuilt_by)) && t("invalid rebuild provenance.");
 			let v = Date.parse(e.coverage.as_of);
-			(v < Date.parse(e.month_start) || v < Date.parse(_.last_updated_by.started_at) || v > Date.parse(_.last_updated_by.finished_at)) && t("invalid coverage observation time."), e.ongoing !== v < Date.parse(e.month_end) && t("ongoing must reflect coverage as_of."), e.default_branch === null != (e.default_branch_head === null) && t("branch and head must both be present or null."), e.repository.history_start_month && e.month < e.repository.history_start_month && Object.values(r.summaries.repository_counts).some((e) => e > 0) && t("activity precedes established history start."), h(r.summaries);
+			(v < Date.parse(e.month_start) || v < Date.parse(_.last_updated_by.started_at) || v > Date.parse(_.last_updated_by.finished_at)) && t("invalid coverage observation time."), e.is_partial !== v < Date.parse(e.month_end) && t("is_partial must reflect coverage as_of."), e.default_branch === null != (e.default_branch_head === null) && t("branch and head must both be present or null."), e.repository.history_start_month && e.month < e.repository.history_start_month && Object.values(r.summaries.repository_counts).some((e) => e > 0) && t("activity precedes established history start."), h(r.summaries);
 			for (let e of lr) a[e] += r.summaries.repository_counts[e], s[e] += r.summaries.unattributed_by_type[e];
 			for (let [e, t] of Object.entries(r.summaries.actor_counts)) {
 				p.has(e) || p.set(e, Object.fromEntries(lr.map((e) => [e, 0])));
@@ -5922,7 +5928,7 @@ function pr(e) {
 			}
 		}
 		if (d.size > 1) for (let e of d.values()) !i.has(e.node_id) && (!e.history_start_month || n.month >= e.history_start_month) && t(`missing report for ${e.node_id} in ${n.month}.`);
-		n.ongoing !== e.source_reports.some((e) => e.metadata.ongoing) && t("ongoing disagrees with sources."), h(e.summaries), (!o(e.summaries.repository_counts, a) || !o(e.summaries.unattributed_by_type, s) || !o(e.summaries.actor_counts, Object.fromEntries(p))) && t("aggregate summary disagrees with source reports.");
+		n.is_partial !== e.source_reports.some((e) => e.metadata.is_partial) && t("is_partial disagrees with sources."), h(e.summaries), (!o(e.summaries.repository_counts, a) || !o(e.summaries.unattributed_by_type, s) || !o(e.summaries.actor_counts, Object.fromEntries(p))) && t("aggregate summary disagrees with source reports.");
 	}
 	if (d.size > 1) {
 		let e = [...r].sort();
@@ -5936,14 +5942,14 @@ function pr(e) {
 }
 async function mr(e, t, n = fetch, r) {
 	let i = new URL(e, t);
-	if (!["http:", "https:"].includes(i.protocol)) throw Error("Use an HTTP or HTTPS manifest URL.");
+	if (!["http:", "https:"].includes(i.protocol)) throw Error("Use an HTTP or HTTPS summary URL.");
 	let a = await n(i.href, {
 		credentials: "omit",
 		...r ? { signal: r } : {}
 	});
-	if (!a.ok) throw Error(`Manifest: HTTP ${a.status}.`);
+	if (!a.ok) throw Error(`History summary: HTTP ${a.status}.`);
 	return pr({
-		name: "Manifest",
+		name: "History summary",
 		text: await a.text()
 	});
 }
@@ -5970,7 +5976,7 @@ function hr(e, t) {
 				a.push(t), e.forEach((e) => e.values.push(null));
 				continue;
 			}
-			n.metadata.ongoing && o.push(t);
+			n.metadata.is_partial && o.push(t);
 			let s = n.summaries.repository_counts;
 			i.issues += s.issue_opened + s.issue_reopened - s.issue_closed, i.prs += s.pr_opened - s.pr_merged, e.forEach((e) => e.values.push(i[e.key]));
 		}
@@ -5983,7 +5989,7 @@ function hr(e, t) {
 	}
 	let i = t.metric === "total-contributors", a = i ? lr : t.metric === "commits" ? ["commit"] : t.metric === "github-activities" ? t.types.filter((e) => e !== "commit") : t.types, o = i ? ["combined"] : [...a, ...t.combined && t.metric !== "commits" && a.length ? ["combined"] : []], s = o.map((e) => ({
 		key: e,
-		label: e === "combined" ? i ? "Total contributors" : "Selected types combined" : cr[e],
+		label: e === "combined" ? i ? "Total contributors" : "Combined total" : cr[e],
 		values: []
 	})), c = new Map(o.map((e) => [e, 0])), l = new Map(o.map((e) => [e, /* @__PURE__ */ new Set()])), u = [], d = [];
 	for (let f of n) {
@@ -5993,10 +5999,10 @@ function hr(e, t) {
 			for (let e of s) e.values.push(null);
 			continue;
 		}
-		n.metadata.ongoing && d.push(f);
+		n.metadata.is_partial && d.push(f);
 		let p = new Map(o.map((e) => [e, 0])), m = new Map(o.map((e) => [e, /* @__PURE__ */ new Set()]));
 		for (let r of a) {
-			let a = i ? ["combined"] : t.combined && t.metric !== "commits" ? [r, "combined"] : [r], o = Object.entries(n.summaries.actor_counts).filter(([n, i]) => i[r] > 0 && t.classifications.includes(e.actors[n])), s = t.metric === "github-activities" ? o.reduce((e, [, t]) => e + t[r], 0) + (t.classifications.includes("unresolved_git") ? n.summaries.unattributed_by_type[r] : 0) : n.summaries.repository_counts[r];
+			let a = i ? ["combined"] : t.combined && t.metric !== "commits" ? [r, "combined"] : [r], o = Object.entries(n.summaries.actor_counts).filter(([n, i]) => i[r] > 0 && t.classifications.includes(e.actors[n])), s = t.metric === "github-activities" ? o.reduce((e, [, t]) => e + t[r], 0) + (t.classifications.includes("unlinked_git") ? n.summaries.unattributed_by_type[r] : 0) : n.summaries.repository_counts[r];
 			for (let e of a) {
 				p.set(e, p.get(e) + s);
 				for (let [t] of o) m.get(e).add(t);
@@ -12828,7 +12834,7 @@ function of(e, t, n) {
 				let t = e.key === "combined" ? "#172554" : e.key === "issues" ? "#0072b2" : e.key === "prs" ? "#d55e00" : af[lr.indexOf(e.key)];
 				return {
 					type: i && e.key === "combined" ? "line" : void 0,
-					stack: i ? e.key === "combined" ? "total" : "contribution-types" : void 0,
+					stack: i ? e.key === "combined" ? "total" : "activity-types" : void 0,
 					label: e.label,
 					data: e.values,
 					borderColor: t,
@@ -12896,8 +12902,8 @@ function of(e, t, n) {
 //#region src/viewer.ts
 var sf = {
 	commits: "Commits",
-	"github-activities": "GitHub Activities",
-	contributors: "Contributors by type",
+	"github-activities": "GitHub activity",
+	"contributors-by-type": "Contributors by type",
 	"total-contributors": "Total contributors",
 	balance: "Issue / PR balance"
 };
@@ -12909,30 +12915,30 @@ function cf(e, t) {
   <main>
     <p id="configuration-error" class="error card" role="alert" hidden></p>
     <section class="loader card" aria-labelledby="load-heading">
-      <div><h2 id="load-heading">Load your manifest</h2><p>Explore monthly GitHub activity across a selected set of repositories.</p></div>
+      <div><h2 id="load-heading">Load your summary</h2><p>Explore monthly GitHub activity across a selected set of repositories.</p></div>
       <div class="load-options">
-        <label class="file-button">Choose manifest JSON<input id="files" type="file" accept=".json,application/json" aria-label="Choose manifest JSON"></label>
+        <label class="file-button">Choose summary JSON<input id="files" type="file" accept=".json,application/json" aria-label="Choose summary JSON"></label>
         <span class="or">or</span>
-        <form id="manifest-form"><label for="manifest">Hosted manifest URL</label><div class="url-row"><input id="manifest" type="text" placeholder="https://example.org/reports/manifest.json" required><button id="load-url" type="submit">Load URL</button></div></form>
+        <form id="summary-form"><label for="summary">Hosted summary URL</label><div class="url-row"><input id="summary" type="text" placeholder="https://example.org/reports/summary.json" required><button id="load-url" type="submit">Load URL</button></div></form>
       </div>
       <p id="load-status" role="status" aria-live="polite">Local files are processed in your browser.</p>
       <p id="load-error" class="error" role="alert" hidden></p>
     </section>
-    <section id="empty" class="empty card"><div class="empty-icon" aria-hidden="true">▥</div><h2>A clearer view of repository activity</h2><p>Choose a manifest file or load a hosted manifest to compare contributions and discover how your contributor community grows.</p><div class="empty-tags"><span>Monthly activity</span><span>Cumulative trends</span><span>Unique contributors</span></div></section>
+    <section id="empty" class="empty card"><div class="empty-icon" aria-hidden="true">▥</div><h2>A clearer view of repository activity</h2><p>Choose a summary file or load a hosted summary to compare contributions and discover how your contributor community grows.</p><div class="empty-tags"><span>Monthly activity</span><span>Cumulative trends</span><span>Unique contributors</span></div></section>
     <section id="dashboard" hidden>
       <div class="repository-heading"><div><p class="eyebrow">REPOSITORY HISTORY</p><h2 id="repository-name"></h2></div><p id="report-summary"></p></div>
       <div class="workspace">
         <aside class="controls card" aria-label="Chart controls">
           <fieldset id="month-controls"><legend>Month range</legend><div class="month-range-values"><label for="start">From<output id="start-label" for="start"></output></label><label for="end">Through<output id="end-label" for="end"></output></label></div><div id="month-range" class="month-range"><div class="month-range-track" aria-hidden="true"><span id="month-selection"></span></div><input id="start" type="range" min="0" max="0" step="1" value="0"><input id="end" type="range" min="0" max="0" step="1" value="0"></div><button id="reset-range" class="text-button" type="button">All available months</button></fieldset>
-          <fieldset><legend><label for="metric">Measure</label></legend><select id="metric"></select></fieldset>
-          <fieldset><legend>Chart</legend><div class="segmented"><label><input type="radio" name="mode" value="monthly" checked><span>Monthly</span></label><label><input type="radio" name="mode" value="cumulative"><span>Cumulative</span></label></div></fieldset>
-          <fieldset id="contribution-types"><legend>Contribution types</legend><div class="selection-actions"><button id="select-all" class="text-button" type="button">Select all</button><button id="select-none" class="text-button" type="button">Clear</button></div><div class="type-list">${lr.map((e, t) => `<label><input type="checkbox" name="activity" value="${e}" checked><span class="swatch" style="background:${af[t]}"></span>${cr[e]}</label>`).join("")}</div><label class="combined"><input id="combined" type="checkbox">Show selected types combined</label></fieldset>
+          <fieldset><legend><label for="metric">Metric</label></legend><select id="metric"></select></fieldset>
+          <fieldset><legend>Aggregation</legend><div class="segmented"><label><input type="radio" name="mode" value="monthly" checked><span>Monthly</span></label><label><input type="radio" name="mode" value="cumulative"><span>Cumulative</span></label></div></fieldset>
+          <fieldset id="activity-types"><legend>Activity types</legend><div class="selection-actions"><button id="select-all" class="text-button" type="button">Select all</button><button id="select-none" class="text-button" type="button">Clear</button></div><div class="type-list">${lr.map((e, t) => `<label><input type="checkbox" name="activity" value="${e}" checked><span class="swatch" style="background:${af[t]}"></span>${cr[e]}</label>`).join("")}</div><label class="combined"><input id="combined" type="checkbox">Show combined total</label></fieldset>
           <fieldset id="balance-types" hidden><legend>Show balance for</legend><label><input type="checkbox" name="balance-type" value="issues" checked>Issues</label><label><input type="checkbox" name="balance-type" value="prs" checked>Pull requests</label></fieldset>
-          <fieldset id="classifications" hidden><legend id="classification-legend">Contributor identities</legend><label><input type="checkbox" name="classification" value="human" checked>Human GitHub accounts</label><label><input type="checkbox" name="classification" value="unresolved_git" checked><span id="undetermined-label">Unresolved Git identities</span></label><label><input type="checkbox" name="classification" value="bot">Known bots</label></fieldset>
+          <fieldset id="classifications" hidden><legend id="classification-legend">Contributor identities</legend><label><input type="checkbox" name="classification" value="human" checked>Human GitHub accounts</label><label><input type="checkbox" name="classification" value="unlinked_git" checked><span id="unknown-actors-label">Unlinked Git identities</span></label><label><input type="checkbox" name="classification" value="bot">Known bots</label></fieldset>
         </aside>
         <div class="results">
-          <section class="chart-card card" aria-labelledby="chart-title"><div class="chart-heading"><div><p class="eyebrow" id="chart-subtitle"></p><h2 id="chart-title"></h2></div><div class="chart-downloads"><button id="download-chart" class="text-button" type="button">Download PNG</button><button id="download-data" class="text-button" type="button">Download Data (CSV)</button></div></div><p id="chart-note" class="chart-note"></p><p id="warnings" class="warning" role="status" hidden></p><p id="no-series" class="warning" hidden>Select at least one contribution type to draw a chart.</p><div class="chart-wrap"><canvas id="chart" role="img" aria-label="Repository activity chart. Exact values are available through Download Data (CSV)."></canvas></div></section>
-          <details id="repository-details" class="card coverage-card" hidden><summary>Included repositories</summary><ul id="repository-list"></ul></details><details class="card coverage-card"><summary>About these counts and report coverage</summary><p>GitHub activity counts follow the actor filters, excluding known bots by default. Undetermined includes events with missing actors. Commit counts include all recorded commits. Contributor counts include only credited identities matching your filters. Contextual subject authors do not receive credit.</p><p>Unresolved Git identities are estimates and may represent the same person as another identity. A known account is tracked by its stable actor key, even if its login changes. Cumulative contributors are a union of identities, not a sum of monthly totals.</p><p>Missing reports are gaps, not zero activity. Cumulative charts resume from the last observed total and cover loaded months only. Ongoing months are partial snapshots.</p><ul id="coverage-list"></ul></details>
+          <section class="chart-card card" aria-labelledby="chart-title"><div class="chart-heading"><div><p class="eyebrow" id="chart-subtitle"></p><h2 id="chart-title"></h2></div><div class="chart-downloads"><button id="download-chart" class="text-button" type="button">Download PNG</button><button id="download-data" class="text-button" type="button">Download Data (CSV)</button></div></div><p id="chart-note" class="chart-note"></p><p id="warnings" class="warning" role="status" hidden></p><p id="no-series" class="warning" hidden>Select at least one activity type to draw a chart.</p><div class="chart-wrap"><canvas id="chart" role="img" aria-label="Repository activity chart. Exact values are available through Download Data (CSV)."></canvas></div></section>
+          <details id="repository-details" class="card coverage-card" hidden><summary>Included repositories</summary><ul id="repository-list"></ul></details><details class="card coverage-card"><summary>About these counts and report coverage</summary><p>GitHub activity counts follow the actor filters, excluding known bots by default. Events with missing performers are counted under Unknown actors. Commit counts include all recorded commits. Contributor counts include only credited identities matching your filters. Contextual subject authors do not receive credit.</p><p>Unlinked Git identities are estimates and may represent the same person as another identity. A known account is tracked by its stable actor key, even if its login changes. Cumulative contributors are a union of identities, not a sum of monthly totals.</p><p>Missing reports are gaps, not zero activity. Cumulative charts resume from the last observed total and cover loaded months only. Partial months contain data only through their collection snapshot.</p><ul id="coverage-list"></ul></details>
         </div>
       </div>
     </section>
@@ -12945,7 +12951,7 @@ function cf(e, t) {
 		metric: "github-activities",
 		mode: "monthly",
 		types: [...lr],
-		classifications: ["human", "unresolved_git"],
+		classifications: ["human", "unlinked_git"],
 		combined: !1,
 		start: "",
 		end: ""
@@ -12955,7 +12961,7 @@ function cf(e, t) {
 		n.textContent = t, n.hidden = !t;
 	}
 	function y(e) {
-		let n = e?.trim().split(/\s+/).filter(Boolean) ?? [], r = n.filter((e) => !Object.hasOwn(sf, e)), a = n.length ? r.length ? `Unknown measures: ${r.join(", ")}. Supported measures: ${Object.keys(sf).join(", ")}.` : "" : "Set the \"measures\" attribute to explicitly enable at least one measure.";
+		let n = e?.trim().split(/\s+/).filter(Boolean) ?? [], r = n.filter((e) => !Object.hasOwn(sf, e)), a = n.length ? r.length ? `Unknown metrics: ${r.join(", ")}. Supported metrics: ${Object.keys(sf).join(", ")}.` : "" : "Set the \"metrics\" attribute to explicitly enable at least one metric.";
 		l = a ? [] : [...new Set(n)];
 		let o = i("metric"), s = o.value;
 		o.replaceChildren(...l.map((e) => new Option(sf[e], e))), l.includes(s) && (o.value = s), v("configuration-error", a), T(), a && t("repo-history-error", { message: a });
@@ -12979,7 +12985,7 @@ function cf(e, t) {
 	async function S(e) {
 		x();
 		let n = m;
-		h = new AbortController(), a.disabled = !0, i("load-url").disabled = !0, v("load-error", ""), v("load-status", "Loading and validating manifest…");
+		h = new AbortController(), a.disabled = !0, i("load-url").disabled = !0, v("load-error", ""), v("load-status", "Loading and validating summary…");
 		try {
 			let r = await e(h.signal);
 			if (n !== m) return;
@@ -12994,14 +13000,14 @@ function cf(e, t) {
 			});
 		} catch (e) {
 			if (n !== m) return;
-			let r = e instanceof Error ? e.message : "Unable to load manifest.";
-			throw v("load-error", r), v("load-status", u.length ? "The previous dataset is still available." : "Unable to load manifest."), t("repo-history-error", { message: r }), e;
+			let r = e instanceof Error ? e.message : "Unable to load summary.";
+			throw v("load-error", r), v("load-status", u.length ? "The previous dataset is still available." : "Unable to load summary."), t("repo-history-error", { message: r }), e;
 		} finally {
 			n === m && (h = void 0, a.disabled = !1, a.value = "", i("load-url").disabled = !1);
 		}
 	}
 	function C(t) {
-		return i("manifest").value = t, S((n) => mr(t, e.host.baseURI, fetch, n));
+		return i("summary").value = t, S((n) => mr(t, e.host.baseURI, fetch, n));
 	}
 	a.addEventListener("change", () => {
 		let e = a.files?.[0];
@@ -13009,8 +13015,8 @@ function cf(e, t) {
 			name: e.name,
 			text: await e.text()
 		})).catch(() => {});
-	}), i("manifest-form").addEventListener("submit", (e) => {
-		e.preventDefault(), C(i("manifest").value.trim()).catch(() => {});
+	}), i("summary-form").addEventListener("submit", (e) => {
+		e.preventDefault(), C(i("summary").value.trim()).catch(() => {});
 	});
 	function w(t) {
 		return [...e.querySelectorAll(`input[name="${t}"]:checked`)].map((e) => e.value);
@@ -13021,12 +13027,12 @@ function cf(e, t) {
 			return;
 		}
 		c.metric = i("metric").value, c.mode = w("mode")[0], c.types = w("activity"), c.classifications = w("classification"), c.combined = i("combined").checked;
-		let t = c.metric === "total-contributors", n = c.metric === "balance", r = c.metric === "contributors" || t;
+		let t = c.metric === "total-contributors", n = c.metric === "balance", r = c.metric === "contributors-by-type" || t;
 		c.balanceTypes = w("balance-type");
 		let a = e.querySelector("input[name=\"mode\"][value=\"monthly\"]");
 		a.disabled = n, n && (e.querySelector("input[name=\"mode\"][value=\"cumulative\"]").checked = !0, c.mode = "cumulative");
 		let f = c.metric === "github-activities";
-		i("classifications").hidden = !(r || f), i("classification-legend").textContent = f ? "Activity actors" : "Contributor identities", i("undetermined-label").textContent = f ? "Undetermined" : "Unresolved Git identities", i("balance-types").hidden = !n, i("contribution-types").hidden = t || n || c.metric === "commits";
+		i("classifications").hidden = !(r || f), i("classification-legend").textContent = f ? "Activity actors" : "Contributor identities", i("unknown-actors-label").textContent = f ? "Unknown actors" : "Unlinked Git identities", i("balance-types").hidden = !n, i("activity-types").hidden = t || n || c.metric === "commits";
 		let m = e.querySelector("input[name=\"activity\"][value=\"commit\"]");
 		m.closest("label").hidden = c.metric === "github-activities", c.start = p[o.valueAsNumber], c.end = p[s.valueAsNumber];
 		for (let [e, t, n] of [[
@@ -13053,16 +13059,16 @@ function cf(e, t) {
 			activities: "activity",
 			commits: "commits",
 			"github-activities": "GitHub activity",
-			contributors: "contributors by type",
+			"contributors-by-type": "contributors by type",
 			"total-contributors": "contributors",
 			balance: "issue / PR balance"
 		}[c.metric];
-		i("chart-title").textContent = `${x ? "Cumulative" : "Monthly"} ${S}`, i("chart-subtitle").textContent = n ? "OPENING AND CLOSING" : r ? "COMMUNITY PARTICIPATION" : "CONTRIBUTION VOLUME", i("chart-note").textContent = n ? "Net change from zero at the selected start month, not the repository’s total open items. Issues: opened + reopened − closed. PRs: opened − merged; reports omit PR closes without merging and PR reopens. Negative values are possible." : t ? `${x ? "Unique credited identities across all contribution types since the selected start month." : "Unique credited identities active across all contribution types in each month."} This includes everyone from commits to comments. Each identity counts once, even when contributing in multiple types.` : r ? `${x ? "Unique credited identities since the selected start month." : "Side-by-side bars show unique credited identities per contribution type in each month."} Combined counts deduplicate across selected types.` : c.metric === "commits" ? `${x ? "Running commit totals starting at the selected month." : "Recorded commits in each month."} Each commit counts once, including co-authored commits.` : `${x ? "Running event totals starting at the selected month." : "Stacked bars show recorded events in each month across selected types."} GitHub activity excludes commits and follows the actor filters.`, i("no-series").textContent = n ? "Select Issues, Pull requests, or both to draw a chart." : "Select at least one contribution type to draw a chart.";
+		i("chart-title").textContent = `${x ? "Cumulative" : "Monthly"} ${S}`, i("chart-subtitle").textContent = n ? "OPENING AND CLOSING" : r ? "COMMUNITY PARTICIPATION" : "CONTRIBUTION VOLUME", i("chart-note").textContent = n ? "Net change from zero at the selected start month, not the repository’s total open items. Issues: opened + reopened − closed. PRs: opened − merged; reports omit PR closes without merging and PR reopens. Negative values are possible." : t ? `${x ? "Unique credited identities across all activity types since the selected start month." : "Unique credited identities active across all activity types in each month."} This includes everyone from commits to comments. Each identity counts once, even when contributing in multiple types.` : r ? `${x ? "Unique credited identities since the selected start month." : "Side-by-side bars show unique credited identities per activity type in each month."} Combined counts deduplicate across selected types.` : c.metric === "commits" ? `${x ? "Running commit totals starting at the selected month." : "Recorded commits in each month."} Each commit counts once, including co-authored commits.` : `${x ? "Running event totals starting at the selected month." : "Stacked bars show recorded events in each month across selected types."} GitHub activity excludes commits and follows the actor filters.`, i("no-series").textContent = n ? "Select Issues, Pull requests, or both to draw a chart." : "Select at least one activity type to draw a chart.";
 		let C = [];
 		b.missing.length && C.push(`Missing reports: ${b.missing.join(", ")}. ${x ? "Cumulative totals cover loaded months only." : "Gaps indicate unknown activity."}`);
 		for (let e of b.partial) {
 			let t = u.find((t) => t.metadata.month === e).source_reports;
-			for (let { metadata: e } of t.filter((e) => e.metadata.ongoing)) {
+			for (let { metadata: e } of t.filter((e) => e.metadata.is_partial)) {
 				let t = e.coverage.as_of.slice(0, 10), n = d.repositories.length > 1 ? `${e.repository.full_name}: ` : "";
 				C.push(`${n}Partial month: ${e.month_start.slice(0, 10)} — ${t} (UTC).`);
 			}
@@ -13108,7 +13114,7 @@ function cf(e, t) {
 		loadUrl: C,
 		loadSource: (e) => S(async () => pr(e)),
 		cancel: x,
-		setMeasures: y,
+		setMetrics: y,
 		disconnect() {
 			x(), _?.destroy(), _ = void 0;
 		}
@@ -13117,7 +13123,7 @@ function cf(e, t) {
 //#endregion
 //#region src/component.ts
 var lf = globalThis.HTMLElement ?? class {}, uf = class extends lf {
-	static observedAttributes = ["manifest", "measures"];
+	static observedAttributes = ["summary", "metrics"];
 	viewer;
 	connectedCallback() {
 		if (!this.viewer) {
@@ -13130,21 +13136,21 @@ var lf = globalThis.HTMLElement ?? class {}, uf = class extends lf {
 				}));
 			});
 		}
-		this.viewer.setMeasures(this.getAttribute("measures"));
-		let e = this.getAttribute("manifest");
+		this.viewer.setMetrics(this.getAttribute("metrics"));
+		let e = this.getAttribute("summary");
 		e?.trim() && this.viewer.loadUrl(e).catch(() => {});
 	}
 	disconnectedCallback() {
 		this.viewer?.disconnect();
 	}
 	attributeChangedCallback(e, t, n) {
-		t !== n && this.isConnected && this.viewer && (e === "measures" ? this.viewer.setMeasures(n) : n?.trim() ? this.viewer.loadUrl(n).catch(() => {}) : this.viewer.cancel());
+		t !== n && this.isConnected && this.viewer && (e === "metrics" ? this.viewer.setMetrics(n) : n?.trim() ? this.viewer.loadUrl(n).catch(() => {}) : this.viewer.cancel());
 	}
-	loadManifest(e) {
-		return !this.isConnected || !this.viewer ? Promise.reject(/* @__PURE__ */ Error("Connect the viewer before loading a manifest.")) : this.viewer.loadUrl(e);
+	loadSummary(e) {
+		return !this.isConnected || !this.viewer ? Promise.reject(/* @__PURE__ */ Error("Connect the viewer before loading a summary.")) : this.viewer.loadUrl(e);
 	}
-	loadManifestSource(e) {
-		return !this.isConnected || !this.viewer ? Promise.reject(/* @__PURE__ */ Error("Connect the viewer before loading a manifest.")) : this.viewer.loadSource(e);
+	loadSummarySource(e) {
+		return !this.isConnected || !this.viewer ? Promise.reject(/* @__PURE__ */ Error("Connect the viewer before loading a summary.")) : this.viewer.loadSource(e);
 	}
 };
 function df() {

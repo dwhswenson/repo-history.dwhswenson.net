@@ -72,7 +72,7 @@ pixi run add-repo owner/repo
 pixi run -e collection add-repo owner/repo
 ```
 
-The task runs `repo-history backfill` for the full available history, runs
+The task runs `repo-history collect` for the full available history, runs
 `repo-history summarize`, and creates a simple visualization page and social
 preview image. All outputs live together directly in `site/<owner>/<repo>/`:
 
@@ -80,7 +80,7 @@ preview image. All outputs live together directly in `site/<owner>/<repo>/`:
 site/owner/repo/
   YYYY-MM.json
   ...
-  manifest.json
+  summary.json
   index.html
   social-card.png
 ```
@@ -90,26 +90,27 @@ repository links. Preview it with `pixi run demo` and commit the resulting
 directory together with the updated `site/index.html` to publish them through
 the existing workflows.
 The monthly JSON files are stored and hosted here for convenience. Of the
-JSON files in each repository directory, only `manifest.json` is needed for
+JSON files in each repository directory, only `summary.json` is needed for
 the HTML page to render its visualization; the page does not load the
 individual monthly reports.
 
-Rerunning the task backfills again, rebuilds the manifest, and replaces the
-generated page. Collection or summarization errors stop the task before it
-writes the page; monthly files already written by the collector are retained.
+Rerunning the task collects the full history again, rebuilds the summary, and
+replaces the generated page. Collection or summarization errors stop the task
+before it writes the page; monthly files already written by the collector are
+retained.
 
-Each page loads the same shared module and its own summary manifest:
+Each page loads the same shared module and its own history summary:
 
 ```html
 <script type="module" src="/assets/repo-history-viz.mjs"></script>
 <repo-history-viz
-  manifest="./manifest.json"
-  measures="github-activities commits contributors total-contributors balance"
+  summary="./summary.json"
+  metrics="github-activities commits contributors-by-type total-contributors balance"
   hide-loader
 ></repo-history-viz>
 ```
 
-To rebuild just the manifest after updating monthly reports:
+To rebuild just the summary after updating monthly reports:
 
 ```sh
 pixi run repo-history summarize \
@@ -131,7 +132,7 @@ pixi run -e collection compare-update owner/repo
 
 The script validates the saved dataset, copies its monthly reports and
 `collection-state.json` into temporary storage, runs a fresh `repo-history
-backfill` in a separate directory, and runs `repo-history update` on the copy.
+collect` in a separate directory, and runs `repo-history update` on the copy.
 Both outputs must pass the collector's state verifier, including schema,
 report consistency, and exact-byte inventory checks. An existing nonempty
 dataset with a valid state file is required; a missing state file is an error.
@@ -139,7 +140,7 @@ dataset with a valid state file is required; a missing state file is an error.
 Comparison covers the full month inventory, repository node IDs, calendar
 boundaries, every monthly summary field (including per-contributor counts and
 unattributed activities), and credited contributor keys and classifications.
-Bots and unresolved Git identities are included. This catches differences in
+Bots and unlinked Git identities are included. This catches differences in
 older months, such as commits belonging to a pull request merged months later,
 even when the update only refreshes recent months. Uncredited actors, display
 names, titles, URLs, coverage information, branch observations, and collection
@@ -151,11 +152,11 @@ they cannot be compared directly because report bytes include run metadata.
 | `OWNER/REPO` / `--all` | Choose one repository or discover all directories with monthly reports under the site root; exactly one selection is required. |
 | `--site-dir PATH` | Read datasets from another root; defaults to this checkout's `site/` regardless of the working directory. |
 | `--in-place` | Apply the update directly to the source dataset instead of a temporary copy. |
-| `--update-start YYYY-MM` | Override the updater's start month; defaults to its normal latest-report-month inference. The backfill always starts at the beginning of history. |
+| `--update-start YYYY-MM` | Override the updater's start month; defaults to its normal latest-report-month inference. The full collection always starts at the beginning of history. |
 | `--end YYYY-MM` | Inclusive end month for both commands; defaults to the UTC month resolved once when the script starts. Cannot precede existing reports or lie in the future. |
 | `--work-dir PATH` | Store and retain all results in a new or empty directory. |
 | `--report PATH` | Also save the complete JSON comparison report at this path. |
-| `--no-progress` | Forward `--no-progress` to backfill, suppressing its progress display while keeping ordinary logs. The current update CLI has no progress flag. |
+| `--no-progress` | Forward `--no-progress` to collect, suppressing its progress display while keeping ordinary logs. The current update CLI has no progress flag. |
 
 Collector output is shown live and saved to the command logs. Interactive
 terminals show the collector's normal progress display; redirected output
@@ -172,7 +173,7 @@ python scripts/compare_update.py --all --in-place --report /tmp/comparison.json
 
 In-place mode modifies monthly reports and collection state, including on a
 mismatch, and does not roll back partial collector writes after an error.
-It does not refresh manifests, HTML pages, social cards, or homepage links.
+It does not refresh summaries, HTML pages, social cards, or homepage links.
 Use it in a disposable CI checkout when the extra copy is unnecessary.
 Workspace and report paths must be outside the site root. This script adds no
 CI schedule; the current Pixi platform and editable dependency still target
@@ -188,9 +189,9 @@ mismatches; the script reports these without suppressing them automatically.
 
 The console lists month outcomes and at most 20 individual differences per
 repository. `comparison.json` contains every difference as a JSON Pointer
-field path with backfill/update values and explicit presence flags, plus
+field path with collect/update values and explicit presence flags, plus
 parameters, timings, command arguments, artifact paths, and errors. Each
-repository has separate `backfill/` and `update/` directories, command logs,
+repository has separate `collect/` and `update/` directories, command logs,
 and an `initial-collection-state.json` snapshot; in-place runs record the
 original update directory instead. Logs inherit collector authentication
 through the environment; token values are never added to command arguments.
@@ -214,14 +215,14 @@ pixi run python -m unittest discover -s tests -v
 pixi run refresh-index
 ```
 
-This scans `site/<owner>/<repo>/manifest.json` files that have a neighboring
+This scans `site/<owner>/<repo>/summary.json` files that have a neighboring
 `index.html`, sorts their repository names alphabetically, and regenerates
 the links between the `BEGIN REPOSITORY LINKS` and `END REPOSITORY LINKS`
-comments in `site/index.html`. Display names come from each manifest; links
+comments in `site/index.html`. Display names come from each summary; links
 use the actual directory paths. Text outside the marked section is preserved.
 
 `add-repo` runs this automatically after creating the repository page. Run
-it manually after deleting a repository directory or changing a manifest's
+it manually after deleting a repository directory or changing a summary's
 display name. The generated links are ordinary HTML and require no browser
 JavaScript or separate repository registry. Combined reports are excluded from
 this repository list and linked in their own section, using `combos.yaml` as
@@ -250,13 +251,13 @@ OpenFreeEnergy:
 ```
 
 `repos` requires at least two distinct `owner/repo` paths, each with an existing
-`site/<owner>/<repo>/manifest.json` and neighboring `index.html`. Use the actual
+`site/<owner>/<repo>/summary.json` and neighboring `index.html`. Use the actual
 deployed directory spelling. Inputs can belong to different organizations, and
 a repository can participate in multiple combinations. All configured inputs
 are checked before any combined reports are generated. Duplicate YAML keys,
 invalid paths, blank names or labels, and colliding output slugs are errors.
 
-The top-level name supplies the manifest display name, page title, and social-card
+The top-level name supplies the summary display name, page title, and social-card
 title. `index-display` supplies the homepage link text independently, with HTML
 escaping. Directory slugs lowercase the display name, replace runs of characters
 outside ASCII letters and digits with hyphens, and trim surrounding hyphens.
@@ -264,25 +265,25 @@ For example, `OpenFreeEnergy` produces:
 
 ```text
 site/combos/openfreeenergy/
-  manifest.json
+  summary.json
   index.html
   social-card.png
 ```
 
-The task runs `repo-history combine-manifests` offline on the saved manifests;
+The task runs `repo-history combine` offline on the saved summaries;
 no GitHub credentials or collection runs are needed. It uses the command's
 default of excluding any month marked partial by an input. Incompatible coverage,
 overlapping repository identities, or conflicting contributor classifications
 remain errors from the combiner. A failed combine leaves that report's existing
-manifest and page intact; combinations completed earlier in the run are retained.
+summary and page intact; combinations completed earlier in the run are retained.
 
 After each successful combine, the task generates its visualization page and
 social card. After all combinations succeed, it refreshes the homepage's
 **Combined repositories** section immediately below **Repositories**. This section
-lists configured combinations with published manifests and pages, sorted by
+lists configured combinations with published summaries and pages, sorted by
 `index-display`, between `BEGIN COMBINATION LINKS` and `END COMBINATION LINKS`.
 
-Rerun `refresh-combos` after changing the configuration or source manifests.
+Rerun `refresh-combos` after changing the configuration or source summaries.
 `add-repo` does not rebuild combinations automatically, and `refresh-index`
 only updates links. Removing or renaming an entry removes its old homepage link
 on the next index refresh but leaves its old output directory on disk; remove
@@ -294,17 +295,17 @@ the homepage to publish through the existing deployment workflows.
 Repository pages include static [Open Graph](https://ogp.me/) and Twitter/X
 large-image card metadata, including the repository title, description,
 canonical URL, and an absolute image URL on `repo-history.dwhswenson.net`.
-Each `social-card.png` is a 1200 × 630 PNG generated from its manifest, showing
-the repository name, total commits, collected month count, GitHub activities,
-total contributors, and monthly commit history. GitHub activities exclude
+Each `social-card.png` is a 1200 × 630 PNG generated from its summary, showing
+the repository name, total commits, collected month count, GitHub activity,
+total contributors, and monthly commit history. GitHub activity excludes
 commits; activity and contributor totals use the visualizer's default human
-and unresolved-identity filters, excluding known bots. Contributors are
-deduplicated across all months and contribution types. Unattributed non-commit
+and unlinked-identity filters, excluding known bots. Contributors are
+deduplicated across all months and activity types. Unattributed non-commit
 events count toward activities but do not add a contributor identity. The
 current month is marked as partial when applicable.
 
 `add-repo` generates the image and metadata automatically. After updating
-manifests, refresh all existing repository and combination previews without
+summaries, refresh all existing repository and combination previews without
 collecting again:
 
 ```sh
@@ -312,7 +313,7 @@ pixi run refresh-social-cards
 ```
 
 This refreshes metadata in the page head and leaves each page body intact.
-Combination previews use the manifest's display name and their `/combos/<slug>/`
+Combination previews use the summary's display name and their `/combos/<slug>/`
 URL; they do not use the homepage's `index-display` label.
 Pillow, included in the collection feature, renders the images locally;
 social crawlers do not need to run the visualization's JavaScript. Commit
